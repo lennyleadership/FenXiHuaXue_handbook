@@ -8,7 +8,7 @@ draft: false
 lastmod: "2022-07-30"
 series: null
 tags: null
-title: LC-MS Theory and Application
+title: LC-MS
 toc: true
 bookCollapseSection: true
 ---
