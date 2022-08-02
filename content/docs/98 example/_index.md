@@ -1,6 +1,6 @@
 ---
-weight: 1
-bookFlatSection: true
+weight: 98
+bookCollapseSection: true
 title: "Example Site"
 ---
 
