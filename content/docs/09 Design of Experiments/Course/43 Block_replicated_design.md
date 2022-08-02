@@ -17,9 +17,9 @@ toc: true
 
 <!--more-->
 
-In any experiment, the variability arising from `a nuisance factor` can affect the results. Nuisance factors are factors that probably affect the results,but we are not interested in their effect. Sometimes a nuisance factor is unknown and uncontrolled. We don't know that the factor exists, and it may even be changing levels while we are conducting the experiment. They are responsible for `the experimental error`. And `randomization` is the design technique that we can use to guard against these nuisance factors. That's why we have been working with completely randomized designs.   
+In any experiment, the variability arising from `a nuisance factor` can affect the results. Nuisance factors are factors that probably affect the results, but we are not interested in their effect. Sometimes a nuisance factor is unknown and uncontrolled. We don't know that the factor exists, and it may even be changing levels while we are conducting the experiment. They are responsible for `the experimental error`. And **`randomization` is the design technique that we can use to guard against these nuisance factors**. That's why we have been working with `completely randomized designs`.   
 
-However, sometimes `a nuisance factor` is known and can be controlled, like batches of a raw material. We know that they can affect the results, but we cannot choose one batch and use it forever. It's just going to finish eventually. And blocking is the design technique we can use to eliminate the effect of a nuisance factor. To illustrate the general idea, let's take the example of 2ˆ2 design where we evaluated the effect of the concentration of the substrate and the concentration of the enzyme on the yield of an enzymatic reaction. 
+However, sometimes `a nuisance factor` is known and can be controlled, like batches of a raw material. We know that they can affect the results, but we cannot choose one batch and use it forever. It's just going to finish eventually. And **`blocking` is the design technique we can use to eliminate the effect of a nuisance factor**. To illustrate the general idea, let's take the example of 2ˆ2 design where we evaluated the effect of the concentration of the substrate and the concentration of the enzyme on the yield of an enzymatic reaction. 
 <div class="row">
   <div class="column">
   <figure>
