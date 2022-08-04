@@ -1,6 +1,6 @@
 ---
 weight: 44
-title: Analyzing a 2^k Design with Blocks as Replicates
+title: 44 Analyzing a 2^k Design with Blocks as Replicates
 authors: edited by Lenny Lin
 categories: 
 tags: []
