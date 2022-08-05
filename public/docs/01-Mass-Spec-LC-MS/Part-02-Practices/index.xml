@@ -1,0 +1,165 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Part II Practices on FenXiHuaXue Handbook</title>
+    <link>https://example.com/docs/01-Mass-Spec-LC-MS/Part-02-Practices/</link>
+    <description>Recent content in Part II Practices on FenXiHuaXue Handbook</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Thu, 17 Mar 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://example.com/docs/01-Mass-Spec-LC-MS/Part-02-Practices/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Acceptable Limits for Accuracy using LCMSMS?</title>
+      <link>https://example.com/docs/01-Mass-Spec-LC-MS/Part-02-Practices/Accuracy_for_LCMSMS/</link>
+      <pubDate>Thu, 07 Jul 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/docs/01-Mass-Spec-LC-MS/Part-02-Practices/Accuracy_for_LCMSMS/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;solution&lt;/strong&gt;:&lt;br&gt;
+) Separate analyte from the matrix.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Lessons Learnt&lt;/strong&gt;:&lt;br&gt;
+) Highering &lt;code&gt;dissolvation temperature&lt;/code&gt; and gas flow will help to get a better dissolvation&lt;br&gt;
+) Decreasing &lt;code&gt;flow rate&lt;/code&gt; (especially on TQD) around 0.4 ml/min will help to get better RSD&amp;rsquo;s (also linked to dissolvation)&lt;br&gt;
+) Lowing &lt;code&gt;capillary voltage&lt;/code&gt; may give higher sensitivity but may increase Rsd (consider a test at 3kv and then compare with 1.5 and 1 kv, never go to 0.5kv).&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Forums</title>
+      <link>https://example.com/docs/01-Mass-Spec-LC-MS/Part-02-Practices/Forums/</link>
+      <pubDate>Thu, 07 Jul 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/docs/01-Mass-Spec-LC-MS/Part-02-Practices/Forums/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>LC-MS/MS No Signal</title>
+      <link>https://example.com/docs/01-Mass-Spec-LC-MS/Part-02-Practices/LCMSMS_no-signal/</link>
+      <pubDate>Thu, 07 Jul 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/docs/01-Mass-Spec-LC-MS/Part-02-Practices/LCMSMS_no-signal/</guid>
+      <description>&lt;figcaption&gt;&lt;b&gt;Figure &lt;/b&gt;: &lt;/figcaption&gt;
+&lt;img src = &#34;/docs/images/&#34;/&gt;</description>
+    </item>
+    
+    <item>
+      <title>LC-MS/MS unstable Signals</title>
+      <link>https://example.com/docs/01-Mass-Spec-LC-MS/Part-02-Practices/LCMSMS-unstable_signal/</link>
+      <pubDate>Thu, 07 Jul 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/docs/01-Mass-Spec-LC-MS/Part-02-Practices/LCMSMS-unstable_signal/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Noisy Baseline</title>
+      <link>https://example.com/docs/01-Mass-Spec-LC-MS/Part-02-Practices/Noisy_baseline/</link>
+      <pubDate>Thu, 07 Jul 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/docs/01-Mass-Spec-LC-MS/Part-02-Practices/Noisy_baseline/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Problem with one Analyte Response</title>
+      <link>https://example.com/docs/01-Mass-Spec-LC-MS/Part-02-Practices/Problem_with_one_analyte/</link>
+      <pubDate>Thu, 07 Jul 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/docs/01-Mass-Spec-LC-MS/Part-02-Practices/Problem_with_one_analyte/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Solutions could be&lt;/strong&gt;:&lt;br&gt;
+Do an infusion test.&lt;br&gt;
+Modify the gases.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Lesson learnt&lt;/strong&gt;:&lt;br&gt;
+IS should mimic the analyte and therefore compensates for the variability you observe.&lt;br&gt;
+matrix effects are tested on a limited number of injections, and accumulating effects may not be visible during the validation.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Dwell Time Effect in SIM</title>
+      <link>https://example.com/docs/01-Mass-Spec-LC-MS/Part-02-Practices/Dwell_time/</link>
+      <pubDate>Tue, 28 Jun 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/docs/01-Mass-Spec-LC-MS/Part-02-Practices/Dwell_time/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://example.com/docs/01-Mass-Spec-LC-MS/Part-02-Practices/blank/</link>
+      <pubDate>Thu, 17 Mar 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/docs/01-Mass-Spec-LC-MS/Part-02-Practices/blank/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A Practical Guide to Sample Preparation for LCMSMS</title>
+      <link>https://example.com/docs/01-Mass-Spec-LC-MS/Part-02-Practices/Guide_sample_prep/</link>
+      <pubDate>Thu, 17 Mar 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/docs/01-Mass-Spec-LC-MS/Part-02-Practices/Guide_sample_prep/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Agilent LC-MS/MS</title>
+      <link>https://example.com/docs/01-Mass-Spec-LC-MS/Part-02-Practices/Agilent_LCQQQ/</link>
+      <pubDate>Thu, 17 Mar 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/docs/01-Mass-Spec-LC-MS/Part-02-Practices/Agilent_LCQQQ/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Avoid Ion Pair Reagents in LC-MS</title>
+      <link>https://example.com/docs/01-Mass-Spec-LC-MS/Part-02-Practices/Avoid_ion_pair_reagents/</link>
+      <pubDate>Thu, 17 Mar 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/docs/01-Mass-Spec-LC-MS/Part-02-Practices/Avoid_ion_pair_reagents/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>How to improve the sensitivity</title>
+      <link>https://example.com/docs/01-Mass-Spec-LC-MS/Part-02-Practices/Causes_sensitivity/</link>
+      <pubDate>Thu, 17 Mar 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/docs/01-Mass-Spec-LC-MS/Part-02-Practices/Causes_sensitivity/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>LCGC Strategies for Detecting and Eliminating Matrix Effects</title>
+      <link>https://example.com/docs/01-Mass-Spec-LC-MS/Part-02-Practices/Strategy_detection_elimination_matrix_effects/</link>
+      <pubDate>Thu, 17 Mar 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/docs/01-Mass-Spec-LC-MS/Part-02-Practices/Strategy_detection_elimination_matrix_effects/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Practical Strategies to Boost Your Signal and Lower Your Noise</title>
+      <link>https://example.com/docs/01-Mass-Spec-LC-MS/Part-02-Practices/Boost_LSMSMS_Sensitivity/</link>
+      <pubDate>Thu, 17 Mar 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/docs/01-Mass-Spec-LC-MS/Part-02-Practices/Boost_LSMSMS_Sensitivity/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Successful Sample Preparation Strategies for LCMSMS Analysis</title>
+      <link>https://example.com/docs/01-Mass-Spec-LC-MS/Part-02-Practices/Sample_prep_strategy/</link>
+      <pubDate>Thu, 17 Mar 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/docs/01-Mass-Spec-LC-MS/Part-02-Practices/Sample_prep_strategy/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Restek Using Guard Columns and Retention Gaps in GC</title>
+      <link>https://example.com/docs/01-Mass-Spec-LC-MS/Part-02-Practices/Restek_Guard_column/</link>
+      <pubDate>Thu, 10 Mar 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/docs/01-Mass-Spec-LC-MS/Part-02-Practices/Restek_Guard_column/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

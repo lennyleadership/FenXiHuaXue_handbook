@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Peak Shapes on FenXiHuaXue Handbook</title>
+    <link>https://example.com/tags/Peak-Shapes/</link>
+    <description>Recent content in Peak Shapes on FenXiHuaXue Handbook</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Thu, 17 Mar 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://example.com/tags/Peak-Shapes/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Troubleshooting Peak Shapes</title>
+      <link>https://example.com/docs/01-Mass-Spec-LC-MS/Part-05-Troubleshooting/LCMSMS_peak_shape/</link>
+      <pubDate>Thu, 17 Mar 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/docs/01-Mass-Spec-LC-MS/Part-05-Troubleshooting/LCMSMS_peak_shape/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

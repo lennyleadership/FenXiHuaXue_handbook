@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>mobile phase on FenXiHuaXue Handbook</title>
+    <link>https://example.com/tags/mobile-phase/</link>
+    <description>Recent content in mobile phase on FenXiHuaXue Handbook</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Mon, 27 Jun 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://example.com/tags/mobile-phase/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Tag Index</title>
+      <link>https://example.com/docs/Tag_Collection/</link>
+      <pubDate>Mon, 27 Jun 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/docs/Tag_Collection/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Chapter 04 Peak Shape Measurement</title>
+      <link>https://example.com/docs/02-Chrom-HPLC/Part-01-Theory/04_Peak_shape_measurement/</link>
+      <pubDate>Mon, 03 Jan 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/docs/02-Chrom-HPLC/Part-01-Theory/04_Peak_shape_measurement/</guid>
+      <description>&lt;p&gt;Chromatogram Peak.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Column Parameters Guide</title>
+      <link>https://example.com/docs/02-Chrom-HPLC/Part-03-HPLC-Columns/Column_parameters_guide/</link>
+      <pubDate>Mon, 03 Jan 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/docs/02-Chrom-HPLC/Part-03-HPLC-Columns/Column_parameters_guide/</guid>
+      <description>&lt;p&gt;To Compare different core-shell columns.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Critical Evaluation of Chromatography Methods</title>
+      <link>https://example.com/docs/02-Chrom-HPLC/Part-01-Theory/Evaluation_Chrom_Methods/</link>
+      <pubDate>Mon, 03 Jan 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/docs/02-Chrom-HPLC/Part-01-Theory/Evaluation_Chrom_Methods/</guid>
+      <description>&lt;p&gt;Tony Taylor concentrates on the mobile phase and HPLC column combination when investigating mobile-phase conditions in a HPLC method.&lt;/p&gt;
+&lt;figcaption&gt;&lt;b&gt;Figure &lt;/b&gt;: &lt;/figcaption&gt;
+&lt;img width=&#34;320&#34; height=&#34;200&#34; src = &#34;/docs/images/&#34;/&gt;</description>
+    </item>
+    
+    <item>
+      <title>Mobile Phase Conditions</title>
+      <link>https://example.com/docs/02-Chrom-HPLC/Part-07-Application/Mobile_phase_conditions/</link>
+      <pubDate>Mon, 03 Jan 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/docs/02-Chrom-HPLC/Part-07-Application/Mobile_phase_conditions/</guid>
+      <description>&lt;p&gt;To talk about mobile phase.&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

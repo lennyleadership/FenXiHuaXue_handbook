@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Part 01 Theory on FenXiHuaXue Handbook</title>
+    <link>https://example.com/docs/20-Separation-Science/Part-1-Theory/</link>
+    <description>Recent content in Part 01 Theory on FenXiHuaXue Handbook</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Mon, 27 Dec 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://example.com/docs/20-Separation-Science/Part-1-Theory/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Chapter 01 Chromatography</title>
+      <link>https://example.com/docs/20-Separation-Science/Part-1-Theory/01_Chromatography/</link>
+      <pubDate>Mon, 03 Jan 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/docs/20-Separation-Science/Part-1-Theory/01_Chromatography/</guid>
+      <description>&lt;figcaption&gt;&lt;b&gt;Figure &lt;/b&gt;: &lt;/figcaption&gt;
+&lt;img src = &#34;/docs/images/&#34;/&gt;</description>
+    </item>
+    
+    <item>
+      <title>Chapter 02 Van Deemter Equation - Small Particle Size Column</title>
+      <link>https://example.com/docs/20-Separation-Science/Part-1-Theory/02_Van_Deemter_Equation_small_-particle_size_columns/</link>
+      <pubDate>Mon, 03 Jan 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/docs/20-Separation-Science/Part-1-Theory/02_Van_Deemter_Equation_small_-particle_size_columns/</guid>
+      <description>&lt;p&gt;How do small particle size columns increase sample throughput?&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Chapter 03 Chromatographic Performance Evaluation</title>
+      <link>https://example.com/docs/20-Separation-Science/Part-1-Theory/03_Chromatographic_performance_evaluation/</link>
+      <pubDate>Mon, 03 Jan 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/docs/20-Separation-Science/Part-1-Theory/03_Chromatographic_performance_evaluation/</guid>
+      <description>&lt;figcaption&gt;&lt;b&gt;Figure &lt;/b&gt;: &lt;/figcaption&gt;
+&lt;img src = &#34;/docs/images/&#34;/&gt;</description>
+    </item>
+    
+    <item>
+      <title>Chapter 20 Quantification</title>
+      <link>https://example.com/docs/20-Separation-Science/Part-1-Theory/20_Quantification/</link>
+      <pubDate>Mon, 03 Jan 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/docs/20-Separation-Science/Part-1-Theory/20_Quantification/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Chapter 21 Co-eluent effect in partition chromatography</title>
+      <link>https://example.com/docs/20-Separation-Science/Part-1-Theory/21_Co-eluent_effect_in_partition_chromatography/</link>
+      <pubDate>Mon, 03 Jan 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/docs/20-Separation-Science/Part-1-Theory/21_Co-eluent_effect_in_partition_chromatography/</guid>
+      <description>&lt;figcaption&gt;&lt;b&gt;Figure &lt;/b&gt;: &lt;/figcaption&gt;
+&lt;img src = &#34;/docs/images/&#34;/&gt;</description>
+    </item>
+    
+    <item>
+      <title>Chapter 22 Shape Selectivity</title>
+      <link>https://example.com/docs/20-Separation-Science/Part-1-Theory/22_Shape_Selectivity/</link>
+      <pubDate>Mon, 03 Jan 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/docs/20-Separation-Science/Part-1-Theory/22_Shape_Selectivity/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Hydrophilic-Lipophilic Balance</title>
+      <link>https://example.com/docs/20-Separation-Science/Part-1-Theory/Hydrophilic-Lipophilic_Balance/</link>
+      <pubDate>Mon, 03 Jan 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/docs/20-Separation-Science/Part-1-Theory/Hydrophilic-Lipophilic_Balance/</guid>
+      <description>&lt;figcaption&gt;&lt;b&gt;Figure &lt;/b&gt;: &lt;/figcaption&gt;
+&lt;img src = &#34;/docs/images/&#34;/&gt;
+&lt;p&gt;The hydrophilic-lipophilic balance is a measure of the degree to which it is hydrophilic or lipophilic (or hydrophobic), determined by calculating values for the different regions of the molecule, as described by Griffin in 1949 and 1954. Other methods have been suggested, notably in 1957 by Davies. 
+  &lt;a href=&#34;https://en.wikipedia.org/wiki/Hydrophilic-lipophilic_balance&#34;&gt;source: wiki&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Template-02</title>
+      <link>https://example.com/docs/20-Separation-Science/Part-1-Theory/T_02/</link>
+      <pubDate>Mon, 03 Jan 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/docs/20-Separation-Science/Part-1-Theory/T_02/</guid>
+      <description>&lt;figcaption&gt;&lt;b&gt;Figure &lt;/b&gt;: &lt;/figcaption&gt;
+&lt;img src = &#34;/docs/images/&#34;/&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

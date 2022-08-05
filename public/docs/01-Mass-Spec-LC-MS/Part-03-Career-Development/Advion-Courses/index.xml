@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Advion Courses on LC-MS on FenXiHuaXue Handbook</title>
+    <link>https://example.com/docs/01-Mass-Spec-LC-MS/Part-03-Career-Development/Advion-Courses/</link>
+    <description>Recent content in Advion Courses on LC-MS on FenXiHuaXue Handbook</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Thu, 17 Mar 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://example.com/docs/01-Mass-Spec-LC-MS/Part-03-Career-Development/Advion-Courses/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Introduction</title>
+      <link>https://example.com/docs/01-Mass-Spec-LC-MS/Part-03-Career-Development/Advion-Courses/post_lecture/</link>
+      <pubDate>Thu, 17 Mar 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/docs/01-Mass-Spec-LC-MS/Part-03-Career-Development/Advion-Courses/post_lecture/</guid>
+      <description>&lt;p&gt;Jack Henion is an emeritus professor at Cornell University.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Lecture 1 - Understanding API Quadrupole Mass Spectrometry The Basics</title>
+      <link>https://example.com/docs/01-Mass-Spec-LC-MS/Part-03-Career-Development/Advion-Courses/Lecture-01/</link>
+      <pubDate>Thu, 17 Mar 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/docs/01-Mass-Spec-LC-MS/Part-03-Career-Development/Advion-Courses/Lecture-01/</guid>
+      <description>&lt;h1 id=&#34;brief&#34;&gt;
+  Brief
+  &lt;a class=&#34;anchor&#34; href=&#34;#brief&#34;&gt;#&lt;/a&gt;
+&lt;/h1&gt;
+&lt;p&gt;50 nanograms of almost anything injected is plenty for mass spectrometer systems.&lt;/p&gt;
+&lt;p&gt;we get a &lt;code&gt;protonated molecule&lt;/code&gt;, M+H or a &lt;code&gt;deprotonated molecule&lt;/code&gt;.  They are not &lt;code&gt;molecular ions&lt;/code&gt; that&amp;rsquo;s what you get in an EI spectrum.  They&amp;rsquo;re not &lt;code&gt;protonated molecule ions&lt;/code&gt; that&amp;rsquo;s redundant. A &lt;code&gt;protonated molecule&lt;/code&gt; is an ion basically.&lt;/p&gt;
+&lt;p&gt;Jack doesn&amp;rsquo;t like to call it a chromatogram.&lt;/p&gt;
+&lt;p&gt;The alternative technique of atmospheric pressure Chemical Ionization is also a useful technique for certain molecules. This one is most useful for very polar molecules, and macromolecules, peptides and proteins and unlike those have nitrogens. They are can be protonated. They&amp;rsquo;re easily to form them in an aqueous solution. This technique is not amenable. APCI is not good for proteins or inorganic or large molecules. It is much better for nonpolar molecules, steroids, for example, and other kinds of nonpolar molecules.[23:45]&lt;/p&gt;
+&lt;p&gt;We do not see ion current unless it&amp;rsquo;s above this Scan Line.  And as you move it up, you can see that you&amp;rsquo;re going to have less than less of this peak, and that&amp;rsquo;s increasing the resolution.  The Scan Line determines the resolution.&lt;/p&gt;
+&lt;p&gt;Good practice: I trust it, but I take a look at it first thing in the morning, I run something I know the result. You want accurate mass with measurement to the nearest 10th.  so checking on our daily or certainly weekly basis. And certainly minimally every month, you should do a mass axis calibration and an auto tune to make sure that it&amp;rsquo;s it&amp;rsquo;s correctly running.&lt;/p&gt;
+&lt;p&gt;At higher and higher mass, the baseline resolution becomes more challenging.&lt;/p&gt;
+&lt;p&gt;When ions hit the quadrupole, they are lost, therefore the sensitivity is poor.&lt;/p&gt;
+&lt;p&gt;I would go back at the beginning and clean to clean the source, or re tune it to make sure we&amp;rsquo;re getting good ion current performance, rather than kill my multiplier.&lt;/p&gt;
+&lt;p&gt;calibrate and tune mass spectrometer can optimize peak shape.&lt;/p&gt;
+&lt;p&gt;There&amp;rsquo;s another way of defining molecular weight that I&amp;rsquo;d like you to forget about because this is not the answer that the mass spectrometer is it&amp;rsquo;s called the relative atomic mass.&lt;/p&gt;
+&lt;p&gt;The low mass region below mass to charge 150 has a lot of chemical noise.&lt;/p&gt;
+&lt;p&gt;If you show me a mass spectrum, I can tell instantly whether you know what you&amp;rsquo;re doing and are doing a good job of mass spectrometry or haven&amp;rsquo;t tuned your system in a long time, I look for isotopes in the correct ratio.&lt;/p&gt;
+&lt;p&gt;Ions go in &lt;code&gt;this serpentine path&lt;/code&gt; in quadrupole analyzer.&lt;/p&gt;
+&lt;p&gt;APCI technique: liquid was introduced through the capillary to the chamber. Liquid turns to plume.  &lt;code&gt;A discharge needle&lt;/code&gt; is placed in the plume.  We put 4000 volts on it.  &lt;code&gt;Gas phase molecules&lt;/code&gt; are ionized by &lt;code&gt;gas phase chemistry&lt;/code&gt;.&lt;/p&gt;
+&lt;p&gt;What does autotune do?&lt;br&gt;
+) mass accuracy, resolution (FWHM - full width half max), peak symmetry, intensity.&lt;br&gt;
+) Tuning raises/adjusts the scan line of the quadrupole mass analyzer.  Its goal is to get/maintain resolution according to the stability diagram.&lt;/p&gt;
+&lt;p&gt;Disadvantage of LC/MS comparing to GC/MS:  The mobile phase, water, acetonitrile, methanol, maybe some additives like formic acid has a lot of chemical noise in the low mass region below mass to charge 150. Methanol adducts with itself.&lt;/p&gt;
+&lt;p&gt;Advantage of LC/MS comparing to GC/MS: you can see real molecule.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Lecture 2 - FIA, ESI &amp; APCI</title>
+      <link>https://example.com/docs/01-Mass-Spec-LC-MS/Part-03-Career-Development/Advion-Courses/Lecture-02/</link>
+      <pubDate>Thu, 17 Mar 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/docs/01-Mass-Spec-LC-MS/Part-03-Career-Development/Advion-Courses/Lecture-02/</guid>
+      <description>&lt;p&gt;so an HPLC, we typically had a few 1000 plates, which is not much, UHPLC has dramatically improved that, it&amp;rsquo;s still not as good as capillary GC.&lt;/p&gt;
+&lt;p&gt;Flow injection analysis: particle-free is important to prevent form plug up at the ESI.&lt;/p&gt;
+&lt;p&gt;you have a particle stuck in your tube, and the sprayer has high voltage on it, the liquids coming through at 200 microliters per minute, and it&amp;rsquo;s possible to get a particle stuck in there.&lt;/p&gt;
+&lt;p&gt;We don&amp;rsquo;t have good sensitivity if we have large droplets.&lt;/p&gt;
+&lt;p&gt;And so the other thing you may not appreciate is the negative ion mode, the chemical background that gets in our way of the positive ion, there are many fewer molecules in the background of our systems that respond to negative ions. So the chemical noise goes down, because it does not get deprotonated. So I will lean towards negative ion detection, if I&amp;rsquo;m after sensitivity.&lt;/p&gt;
+&lt;p&gt;If you want to optimize your chances of getting rid of any carryover, certain solvent Like isopropanol, as opposed to methanol, some of the heavier alcohols are better solvents and a solid blank to displace them more than you want to know.&lt;/p&gt;
+&lt;p&gt;you need to be aware of the relative ratios of the heat and the nebulizing gas and nitrogen nebulizing gas.&lt;/p&gt;
+&lt;p&gt;electrospray is a concentration sensitive detector&lt;/p&gt;
+&lt;p&gt;So the lower the flow, the smaller the peak volume in the LC peak, the more sensitivity we&amp;rsquo;ll have.&lt;/p&gt;
+&lt;p&gt;if you lower the voltage, what do we call global electrospray this may produce improved sensitivity&lt;/p&gt;
+&lt;p&gt;slower is better within the region of 200 microliters per minute higher can be accommodated but ion current stability can be deteriorated as well as sensitivity. So 200 microliters per minute or point two mils per minute is a real good sweet spot for good performance.&lt;/p&gt;
+&lt;p&gt;But each of these does in fact, represent a variable that the operator can choose to change the mechanisms for electrospray.&lt;/p&gt;
+&lt;p&gt;And that&amp;rsquo;s buffer control and LCMS. A lot of people don&amp;rsquo;t remember it, don&amp;rsquo;t use it. But it can be very helpful in optimizing results. If you maintain the pH and the preferred region based on what your compound needs.&lt;/p&gt;
+&lt;p&gt;If we&amp;rsquo;re trying to evaporate droplets that make sense, we want as low boiling mixture as possible.  So we ideal spray has low boiling point, a low dielectric constant and a low surface tension.&lt;/p&gt;
+&lt;p&gt;doing nano electrospray or micro LC gives you sensitivity.&lt;/p&gt;
+&lt;p&gt;ions do like do not like being in hexane, alcohols or trace aqueous may be produced.&lt;/p&gt;
+&lt;p&gt;Ideal electrospray solvent has low boiling point, a low dielectric constant and a low surface tension.&lt;/p&gt;
+&lt;p&gt;A combination of heat and nebulizing gas and time to get droplets from the sprayer where they&amp;rsquo;re fairly large down to the point where we have ion evaporation taking place.&lt;/p&gt;
+&lt;p&gt;you need to be aware of the relative ratios of the heat and the nebulizing gas and nitrogen nebulizing gas in order to optimize the electrospray.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Lecture 3 - Sample Preparation, Ion Source Optimization &amp; ASAP Probe</title>
+      <link>https://example.com/docs/01-Mass-Spec-LC-MS/Part-03-Career-Development/Advion-Courses/Lecture-03/</link>
+      <pubDate>Thu, 17 Mar 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/docs/01-Mass-Spec-LC-MS/Part-03-Career-Development/Advion-Courses/Lecture-03/</guid>
+      <description>&lt;p&gt;Ion source parameters that can be optimized are:&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;Capillary temperature&lt;/li&gt;
+&lt;li&gt;Capillary voltage&lt;/li&gt;
+&lt;li&gt;Source voltage offset&lt;/li&gt;
+&lt;/ol&gt;</description>
+    </item>
+    
+    <item>
+      <title>Lecture 4 - Novel Sampling Techniques - Plate Express, Touch Express</title>
+      <link>https://example.com/docs/01-Mass-Spec-LC-MS/Part-03-Career-Development/Advion-Courses/Lecture-04/</link>
+      <pubDate>Thu, 17 Mar 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/docs/01-Mass-Spec-LC-MS/Part-03-Career-Development/Advion-Courses/Lecture-04/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Lecture 5 - Principles for Successful LC/MS</title>
+      <link>https://example.com/docs/01-Mass-Spec-LC-MS/Part-03-Career-Development/Advion-Courses/Lecture-05/</link>
+      <pubDate>Thu, 17 Mar 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/docs/01-Mass-Spec-LC-MS/Part-03-Career-Development/Advion-Courses/Lecture-05/</guid>
+      <description>&lt;p&gt;What does the successful LC-MS look Like? or What is the principles that produce good successful data? or What do you address when developing a new method?&lt;/p&gt;
+&lt;p&gt;I want the isotopes to be as they should be.&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;whether a molecule is basic, or acidic&lt;/li&gt;
+&lt;/ol&gt;</description>
+    </item>
+    
+    <item>
+      <title>Lecture 6 - Negative Ions MS - Electrospray &amp; APCI</title>
+      <link>https://example.com/docs/01-Mass-Spec-LC-MS/Part-03-Career-Development/Advion-Courses/Lecture-06/</link>
+      <pubDate>Thu, 17 Mar 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/docs/01-Mass-Spec-LC-MS/Part-03-Career-Development/Advion-Courses/Lecture-06/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Lecture 7 - Normal Phase (Flash) Chromatography Couple to Mass Spectrometry</title>
+      <link>https://example.com/docs/01-Mass-Spec-LC-MS/Part-03-Career-Development/Advion-Courses/Lecture-07/</link>
+      <pubDate>Thu, 17 Mar 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/docs/01-Mass-Spec-LC-MS/Part-03-Career-Development/Advion-Courses/Lecture-07/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,1044 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Category on FenXiHuaXue Handbook</title>
+    <link>https://example.com/categories/Category/</link>
+    <description>Recent content in Category on FenXiHuaXue Handbook</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Tue, 17 May 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://example.com/categories/Category/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Literature Reading</title>
+      <link>https://example.com/docs/95-Literature-Reading/</link>
+      <pubDate>Sun, 26 Dec 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/docs/95-Literature-Reading/</guid>
+      <description>&lt;p&gt;.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>IPO Optimization Procedure</title>
+      <link>https://example.com/docs/50-MS-Based-Metabolomics/Notes/IPO_procedure/</link>
+      <pubDate>Tue, 17 May 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/docs/50-MS-Based-Metabolomics/Notes/IPO_procedure/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Notes</title>
+      <link>https://example.com/docs/50-MS-Based-Metabolomics/Notes/Notes/</link>
+      <pubDate>Tue, 17 May 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/docs/50-MS-Based-Metabolomics/Notes/Notes/</guid>
+      <description>&lt;figcaption&gt;&lt;b&gt;Figure &lt;/b&gt;: &lt;/figcaption&gt;
+&lt;img src = &#34;/docs/images/&#34;/&gt;</description>
+    </item>
+    
+    <item>
+      <title>xcms Methods and Parameters</title>
+      <link>https://example.com/docs/50-MS-Based-Metabolomics/Notes/xcms_methods/</link>
+      <pubDate>Tue, 17 May 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/docs/50-MS-Based-Metabolomics/Notes/xcms_methods/</guid>
+      <description>&lt;figcaption&gt;&lt;b&gt;Figure &lt;/b&gt;: &lt;/figcaption&gt;
+&lt;img src = &#34;/docs/images/&#34;/&gt;</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://example.com/docs/06-Method-Development-and-Validation/Part-2-DoE-Application/Template_01/</link>
+      <pubDate>Tue, 05 Apr 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/docs/06-Method-Development-and-Validation/Part-2-DoE-Application/Template_01/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Case Studies</title>
+      <link>https://example.com/docs/06-Method-Development-and-Validation/Case-Studies/</link>
+      <pubDate>Tue, 05 Apr 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/docs/06-Method-Development-and-Validation/Case-Studies/</guid>
+      <description>&lt;p&gt;I collected some cases of method development and validation here.  The purpose is to find the pattern (such as elements of method development, workflow), and apply the generic pattern to new development.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Part I Method Validation</title>
+      <link>https://example.com/docs/06-Method-Development-and-Validation/Part-1-Workflow/</link>
+      <pubDate>Tue, 05 Apr 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/docs/06-Method-Development-and-Validation/Part-1-Workflow/</guid>
+      <description>&lt;p&gt;It is about template.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Template</title>
+      <link>https://example.com/docs/06-Method-Development-and-Validation/Template/</link>
+      <pubDate>Tue, 05 Apr 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/docs/06-Method-Development-and-Validation/Template/</guid>
+      <description>&lt;p&gt;It is about template.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>template-01</title>
+      <link>https://example.com/docs/06-Method-Development-and-Validation/Template/Template_01/</link>
+      <pubDate>Tue, 05 Apr 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/docs/06-Method-Development-and-Validation/Template/Template_01/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://example.com/docs/02-Chrom-HPLC/Part-06-Instrumentation-Troubleshooting/Blank/</link>
+      <pubDate>Wed, 12 Jan 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/docs/02-Chrom-HPLC/Part-06-Instrumentation-Troubleshooting/Blank/</guid>
+      <description>&lt;figcaption&gt;&lt;b&gt;Figure &lt;/b&gt;: &lt;/figcaption&gt;
+&lt;img src = &#34;/docs/images/&#34;/&gt;</description>
+    </item>
+    
+    <item>
+      <title>Chapter  Leakage</title>
+      <link>https://example.com/docs/02-Chrom-HPLC/Part-06-Instrumentation-Troubleshooting/13_Leakage/</link>
+      <pubDate>Wed, 12 Jan 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/docs/02-Chrom-HPLC/Part-06-Instrumentation-Troubleshooting/13_Leakage/</guid>
+      <description>&lt;figcaption&gt;&lt;b&gt;Figure &lt;/b&gt;: &lt;/figcaption&gt;
+&lt;img src = &#34;/docs/images/&#34;/&gt;</description>
+    </item>
+    
+    <item>
+      <title>Chapter  Loss of Accuracy</title>
+      <link>https://example.com/docs/02-Chrom-HPLC/Part-06-Instrumentation-Troubleshooting/12_Loss_of_Accuracy/</link>
+      <pubDate>Wed, 12 Jan 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/docs/02-Chrom-HPLC/Part-06-Instrumentation-Troubleshooting/12_Loss_of_Accuracy/</guid>
+      <description>&lt;figcaption&gt;&lt;b&gt;Figure &lt;/b&gt;: &lt;/figcaption&gt;
+&lt;img src = &#34;/docs/images/&#34;/&gt;</description>
+    </item>
+    
+    <item>
+      <title>Chapter  Loss of Precision</title>
+      <link>https://example.com/docs/02-Chrom-HPLC/Part-06-Instrumentation-Troubleshooting/11_Loss_of_Precision/</link>
+      <pubDate>Wed, 12 Jan 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/docs/02-Chrom-HPLC/Part-06-Instrumentation-Troubleshooting/11_Loss_of_Precision/</guid>
+      <description>&lt;figcaption&gt;&lt;b&gt;Figure &lt;/b&gt;: &lt;/figcaption&gt;
+&lt;img src = &#34;/docs/images/&#34;/&gt;</description>
+    </item>
+    
+    <item>
+      <title>Chapter  No Flow</title>
+      <link>https://example.com/docs/02-Chrom-HPLC/Part-06-Instrumentation-Troubleshooting/09_No_flow/</link>
+      <pubDate>Wed, 12 Jan 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/docs/02-Chrom-HPLC/Part-06-Instrumentation-Troubleshooting/09_No_flow/</guid>
+      <description>&lt;figcaption&gt;&lt;b&gt;Figure &lt;/b&gt;: &lt;/figcaption&gt;
+&lt;img width=&#34;320&#34; height=&#34;200&#34; src = &#34;/docs/images/&#34;/&gt;</description>
+    </item>
+    
+    <item>
+      <title>Chapter  Peaks Misidentified</title>
+      <link>https://example.com/docs/02-Chrom-HPLC/Part-06-Instrumentation-Troubleshooting/10_Peaks_Misidentified/</link>
+      <pubDate>Wed, 12 Jan 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/docs/02-Chrom-HPLC/Part-06-Instrumentation-Troubleshooting/10_Peaks_Misidentified/</guid>
+      <description>&lt;figcaption&gt;&lt;b&gt;Figure &lt;/b&gt;: &lt;/figcaption&gt;
+&lt;img src = &#34;/docs/images/&#34;/&gt;</description>
+    </item>
+    
+    <item>
+      <title>Chapter 01 Troubleshooting Strategy and Processes</title>
+      <link>https://example.com/docs/02-Chrom-HPLC/Part-06-Instrumentation-Troubleshooting/01_Strategy_and_Processes/</link>
+      <pubDate>Wed, 12 Jan 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/docs/02-Chrom-HPLC/Part-06-Instrumentation-Troubleshooting/01_Strategy_and_Processes/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Chapter 02 LC Pressure Issue</title>
+      <link>https://example.com/docs/02-Chrom-HPLC/Part-06-Instrumentation-Troubleshooting/02_Pressure_HPLC/</link>
+      <pubDate>Wed, 12 Jan 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/docs/02-Chrom-HPLC/Part-06-Instrumentation-Troubleshooting/02_Pressure_HPLC/</guid>
+      <description>&lt;figcaption&gt;&lt;b&gt;Figure &lt;/b&gt;: &lt;/figcaption&gt;
+&lt;img src = &#34;/docs/images/&#34;/&gt;
+&lt;p&gt;System pressure is affected by a number of variables including:&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;the viscosity of the solvent used,&lt;/li&gt;
+&lt;li&gt;column variables,&lt;/li&gt;
+&lt;li&gt;flow rate and temperature.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;It is important to have &lt;font style = &#34;color:blue&#34;&gt;a reference point&lt;/font&gt; when comparing high or low pressures to the norm. This reference point should be the pressure generated in the system when everything is functioning correctly. It is a good idea to note the system pressure under normal operating conditions each day or each time your HPLC is used. This will allow you to spot any pressure trends that otherwise might go unnoticed.&lt;/p&gt;
+&lt;p&gt;Pressure problems fall into one of three categories: high, low or fluctuating pressure. They can occur suddenly or be a gradual process. Sudden pressure rises tend to be due to particles from the sample, blocked or damaged tubing or column packed bed collapse. Gradual pressure rises can also be due to particles in the sample, but they can also arise from particles generated in the instrument, for example, debris from vial septa or degrading seals.&lt;/p&gt;
+&lt;p&gt;Before releasing any high pressure build-up in a system, be aware that the solvent may form an aerosol or spray when loosening connections. Eye protection should be worn and ideally the connection to be loosened should be positioned above an adsorbent material to soak up all released solvents.&lt;/p&gt;
+&lt;p&gt;The simplest way to troubleshoot pressure problems is using a systematic approach, as highlighted in the following tables for high, low and fluctuating pressure.&lt;/p&gt;
+&lt;p&gt;
+  &lt;a href=&#34;https://assets.thermofisher.com/TFS-Assets/CMD/Product-Guides/TG-20421-HPLC-Troubleshooting-Guide-TG20421-EN.pdf&#34;&gt;source&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Chapter 04 HPLC Retention Time Changes</title>
+      <link>https://example.com/docs/02-Chrom-HPLC/Part-06-Instrumentation-Troubleshooting/04_Retention_Time_Changes_HPLC/</link>
+      <pubDate>Wed, 12 Jan 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/docs/02-Chrom-HPLC/Part-06-Instrumentation-Troubleshooting/04_Retention_Time_Changes_HPLC/</guid>
+      <description>&lt;figcaption&gt;&lt;b&gt;Figure &lt;/b&gt;: &lt;/figcaption&gt;
+&lt;img src = &#34;/docs/images/&#34;/&gt;</description>
+    </item>
+    
+    <item>
+      <title>Chapter 05 LC Abnormal Peak Shape</title>
+      <link>https://example.com/docs/02-Chrom-HPLC/Part-06-Instrumentation-Troubleshooting/05_Abnormal_Peak_Shape_HPLC/</link>
+      <pubDate>Wed, 12 Jan 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/docs/02-Chrom-HPLC/Part-06-Instrumentation-Troubleshooting/05_Abnormal_Peak_Shape_HPLC/</guid>
+      <description>&lt;figcaption&gt;&lt;b&gt;Figure &lt;/b&gt;: &lt;/figcaption&gt;
+&lt;img src = &#34;/docs/images/&#34;/&gt;</description>
+    </item>
+    
+    <item>
+      <title>Part II Sciex LC-MS/MS Troubleshooting Guide</title>
+      <link>https://example.com/docs/07-Troubleshooting/Part-02-Sciex-LC-MSMS/</link>
+      <pubDate>Wed, 12 Jan 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/docs/07-Troubleshooting/Part-02-Sciex-LC-MSMS/</guid>
+      <description>&lt;p&gt;It is about Sciex LC-MS/MS Troubleshooting Guide.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Preventing LC Column Clogs</title>
+      <link>https://example.com/docs/02-Chrom-HPLC/Part-06-Instrumentation-Troubleshooting/Column_clog/</link>
+      <pubDate>Wed, 12 Jan 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/docs/02-Chrom-HPLC/Part-06-Instrumentation-Troubleshooting/Column_clog/</guid>
+      <description>&lt;figcaption&gt;&lt;b&gt;Figure &lt;/b&gt;: &lt;/figcaption&gt;
+&lt;img src = &#34;/docs/images/&#34;/&gt;</description>
+    </item>
+    
+    <item>
+      <title>Sciex System Issues</title>
+      <link>https://example.com/docs/07-Troubleshooting/Part-02-Sciex-LC-MSMS/Sciex_01/</link>
+      <pubDate>Wed, 12 Jan 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/docs/07-Troubleshooting/Part-02-Sciex-LC-MSMS/Sciex_01/</guid>
+      <description>&lt;figcaption&gt;&lt;b&gt;Figure &lt;/b&gt;: &lt;/figcaption&gt;
+&lt;img src = &#34;/docs/images/&#34;/&gt;</description>
+    </item>
+    
+    <item>
+      <title>Amine Analysis</title>
+      <link>https://example.com/docs/02-Chrom-HPLC/Part-07-Application/Amine_analysis/</link>
+      <pubDate>Mon, 03 Jan 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/docs/02-Chrom-HPLC/Part-07-Application/Amine_analysis/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Analysis troubleshooting</title>
+      <link>https://example.com/docs/07-Troubleshooting/Part-01-Analysis-Troubleshooting/</link>
+      <pubDate>Mon, 03 Jan 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/docs/07-Troubleshooting/Part-01-Analysis-Troubleshooting/</guid>
+      <description>&lt;p&gt;It is about problem-solving in analysis.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Analysis troubleshooting</title>
+      <link>https://example.com/docs/07-Troubleshooting/Part-01-Analysis-Troubleshooting/Analysis_troubleshooting/</link>
+      <pubDate>Mon, 03 Jan 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/docs/07-Troubleshooting/Part-01-Analysis-Troubleshooting/Analysis_troubleshooting/</guid>
+      <description>&lt;figcaption&gt;&lt;b&gt;Figure &lt;/b&gt;: &lt;/figcaption&gt;
+&lt;img width =&#34;360&#34; height= &#34;200&#34; src = &#34;/docs/images/&#34;/&gt;</description>
+    </item>
+    
+    <item>
+      <title>Change in Selectivity</title>
+      <link>https://example.com/docs/02-Chrom-HPLC/Part-06-Instrumentation-Troubleshooting/15_Change_in_selectivity/</link>
+      <pubDate>Mon, 03 Jan 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/docs/02-Chrom-HPLC/Part-06-Instrumentation-Troubleshooting/15_Change_in_selectivity/</guid>
+      <description>&lt;figcaption&gt;&lt;b&gt;Figure &lt;/b&gt;: &lt;/figcaption&gt;
+&lt;img src = &#34;/docs/images/&#34;/&gt;</description>
+    </item>
+    
+    <item>
+      <title>Chapter 01 Chromatography</title>
+      <link>https://example.com/docs/20-Separation-Science/Part-1-Theory/01_Chromatography/</link>
+      <pubDate>Mon, 03 Jan 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/docs/20-Separation-Science/Part-1-Theory/01_Chromatography/</guid>
+      <description>&lt;figcaption&gt;&lt;b&gt;Figure &lt;/b&gt;: &lt;/figcaption&gt;
+&lt;img src = &#34;/docs/images/&#34;/&gt;</description>
+    </item>
+    
+    <item>
+      <title>Chapter 01 Solvent</title>
+      <link>https://example.com/docs/02-Chrom-HPLC/Part-04-GLP-for-HPLC/01_Solvent_prep/</link>
+      <pubDate>Mon, 03 Jan 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/docs/02-Chrom-HPLC/Part-04-GLP-for-HPLC/01_Solvent_prep/</guid>
+      <description>&lt;p&gt;Good practice on solvent property.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Chapter 01 Solvent Properties</title>
+      <link>https://example.com/docs/94-Database/Part-02-Solvent/01_Solvent_properties/</link>
+      <pubDate>Mon, 03 Jan 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/docs/94-Database/Part-02-Solvent/01_Solvent_properties/</guid>
+      <description>&lt;figcaption&gt;&lt;b&gt;Figure &lt;/b&gt;: &lt;/figcaption&gt;
+&lt;img src = &#34;/docs/images/&#34;/&gt;</description>
+    </item>
+    
+    <item>
+      <title>Chapter 01 Theory of Separation on LC Column</title>
+      <link>https://example.com/docs/02-Chrom-HPLC/Part-01-Theory/01_Theory_of_Separation_on_LC_column/</link>
+      <pubDate>Mon, 03 Jan 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/docs/02-Chrom-HPLC/Part-01-Theory/01_Theory_of_Separation_on_LC_column/</guid>
+      <description>&lt;p&gt;This section is copied from shodex.com.&lt;/p&gt;
+&lt;p&gt;Section 1: Theory and Types of HPLC Column&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;Theory of LC Column Separation&lt;/li&gt;
+&lt;li&gt;HPLC Separation&lt;/li&gt;
+&lt;li&gt;Types of Packed Gels&lt;/li&gt;
+&lt;li&gt;Types of Separation Mode&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;Section 2: Partition/Adsorption Chromatography Columns&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;Reversed-Phase Column&lt;/li&gt;
+&lt;li&gt;Normal-Phase Column&lt;/li&gt;
+&lt;li&gt;Hydrophilic Interaction Chromatography Column&lt;/li&gt;
+&lt;li&gt;Summary of Shodex Partition/Adsorption Columns&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;Section 3: Other Separation Modes, Preparative and Guard Columns&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;Ion Exchange Column  (not covered)&lt;/li&gt;
+&lt;li&gt;Ion Chromatography Column  (not covered)&lt;/li&gt;
+&lt;li&gt;Ion Exclusion Column  (not covered)&lt;/li&gt;
+&lt;li&gt;Ligand Exchange Column  (not covered)&lt;/li&gt;
+&lt;li&gt;Affinity Column  (not covered)&lt;/li&gt;
+&lt;li&gt;Chiral Column  (not covered)&lt;/li&gt;
+&lt;li&gt;Preparative Size Column  (not covered)&lt;/li&gt;
+&lt;li&gt;Guard Column&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;The following section is not covered at this moment, the details can be found in the source provided below.&lt;/p&gt;
+&lt;p&gt;Section 4: SEC Columns&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;Size Exclusion Chromatography column&lt;/li&gt;
+&lt;li&gt;Gel Filtration Chromatography&lt;/li&gt;
+&lt;li&gt;Gel Permeation Chromatography&lt;/li&gt;
+&lt;li&gt;Linear Column&lt;/li&gt;
+&lt;li&gt;Downsized Column&lt;/li&gt;
+&lt;li&gt;Analysis of Polymers that require Special Conditions&lt;/li&gt;
+&lt;li&gt;Multi-Mode Column&lt;/li&gt;
+&lt;li&gt;Multi-Solvent Column&lt;/li&gt;
+&lt;/ol&gt;</description>
+    </item>
+    
+    <item>
+      <title>Chapter 02 Buffer</title>
+      <link>https://example.com/docs/02-Chrom-HPLC/Part-04-GLP-for-HPLC/02_Buffer_prep/</link>
+      <pubDate>Mon, 03 Jan 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/docs/02-Chrom-HPLC/Part-04-GLP-for-HPLC/02_Buffer_prep/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Chapter 02 Buffer Properties</title>
+      <link>https://example.com/docs/94-Database/Part-03-Mobile-Phase/Buffer_properties/</link>
+      <pubDate>Mon, 03 Jan 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/docs/94-Database/Part-03-Mobile-Phase/Buffer_properties/</guid>
+      <description>&lt;figcaption&gt;&lt;b&gt;Figure &lt;/b&gt;: &lt;/figcaption&gt;
+&lt;img src = &#34;/docs/images/&#34;/&gt;</description>
+    </item>
+    
+    <item>
+      <title>Chapter 02 Column Chemistry</title>
+      <link>https://example.com/docs/02-Chrom-HPLC/Part-01-Theory/02_Column_chemistry/</link>
+      <pubDate>Mon, 03 Jan 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/docs/02-Chrom-HPLC/Part-01-Theory/02_Column_chemistry/</guid>
+      <description>&lt;ul&gt;
+&lt;li&gt;Silica Surface Chemistry &amp;amp; Physical Characteristics&lt;/li&gt;
+&lt;li&gt;Silica Bonding Procedures
+&lt;ul&gt;
+&lt;li&gt;Special Column Chemistries&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;Column Choices&lt;/li&gt;
+&lt;/ul&gt;
+&lt;figcaption&gt;&lt;b&gt;Figure &lt;/b&gt;: &lt;/figcaption&gt;
+&lt;img src = &#34;/docs/images/&#34;/&gt;</description>
+    </item>
+    
+    <item>
+      <title>Chapter 03 Chromatographic Performance Evaluation</title>
+      <link>https://example.com/docs/20-Separation-Science/Part-1-Theory/03_Chromatographic_performance_evaluation/</link>
+      <pubDate>Mon, 03 Jan 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/docs/20-Separation-Science/Part-1-Theory/03_Chromatographic_performance_evaluation/</guid>
+      <description>&lt;figcaption&gt;&lt;b&gt;Figure &lt;/b&gt;: &lt;/figcaption&gt;
+&lt;img src = &#34;/docs/images/&#34;/&gt;</description>
+    </item>
+    
+    <item>
+      <title>Chapter 03 Reversed-phase Chromatography</title>
+      <link>https://example.com/docs/02-Chrom-HPLC/Part-01-Theory/03_Reverse-Phase_Chromatogrphy/</link>
+      <pubDate>Mon, 03 Jan 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/docs/02-Chrom-HPLC/Part-01-Theory/03_Reverse-Phase_Chromatogrphy/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Chapter 04 Peak Shape Measurement</title>
+      <link>https://example.com/docs/02-Chrom-HPLC/Part-01-Theory/04_Peak_shape_measurement/</link>
+      <pubDate>Mon, 03 Jan 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/docs/02-Chrom-HPLC/Part-01-Theory/04_Peak_shape_measurement/</guid>
+      <description>&lt;p&gt;Chromatogram Peak.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Chapter 04 System Plumbing and Fittings</title>
+      <link>https://example.com/docs/02-Chrom-HPLC/Part-04-GLP-for-HPLC/04_System_plumbing-fittings/</link>
+      <pubDate>Mon, 03 Jan 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/docs/02-Chrom-HPLC/Part-04-GLP-for-HPLC/04_System_plumbing-fittings/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Chapter 05 Scaling Up or Scaling Down</title>
+      <link>https://example.com/docs/02-Chrom-HPLC/Part-01-Theory/05_Scaling_up_or_down/</link>
+      <pubDate>Mon, 03 Jan 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/docs/02-Chrom-HPLC/Part-01-Theory/05_Scaling_up_or_down/</guid>
+      <description>&lt;figcaption&gt;&lt;b&gt;Figure &lt;/b&gt;: &lt;/figcaption&gt;
+&lt;img src = &#34;/docs/images/&#34;/&gt;</description>
+    </item>
+    
+    <item>
+      <title>Chapter 06 Column Backpressure</title>
+      <link>https://example.com/docs/02-Chrom-HPLC/Part-01-Theory/06_Column_backpressure/</link>
+      <pubDate>Mon, 03 Jan 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/docs/02-Chrom-HPLC/Part-01-Theory/06_Column_backpressure/</guid>
+      <description>&lt;figcaption&gt;&lt;b&gt;Figure &lt;/b&gt;: &lt;/figcaption&gt;
+&lt;img src = &#34;/docs/images/&#34;/&gt;</description>
+    </item>
+    
+    <item>
+      <title>Chapter 08 Degassing</title>
+      <link>https://example.com/docs/02-Chrom-HPLC/Part-04-GLP-for-HPLC/08_Degassing/</link>
+      <pubDate>Mon, 03 Jan 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/docs/02-Chrom-HPLC/Part-04-GLP-for-HPLC/08_Degassing/</guid>
+      <description>&lt;figcaption&gt;&lt;b&gt;Figure &lt;/b&gt;: &lt;/figcaption&gt;
+&lt;img src = &#34;/docs/images/&#34;/&gt;</description>
+    </item>
+    
+    <item>
+      <title>Chapter 09 Filtration</title>
+      <link>https://example.com/docs/02-Chrom-HPLC/Part-04-GLP-for-HPLC/09_Filtration/</link>
+      <pubDate>Mon, 03 Jan 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/docs/02-Chrom-HPLC/Part-04-GLP-for-HPLC/09_Filtration/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Chapter 20 Quantification</title>
+      <link>https://example.com/docs/20-Separation-Science/Part-1-Theory/20_Quantification/</link>
+      <pubDate>Mon, 03 Jan 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/docs/20-Separation-Science/Part-1-Theory/20_Quantification/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Chapter 21 Co-eluent effect in partition chromatography</title>
+      <link>https://example.com/docs/20-Separation-Science/Part-1-Theory/21_Co-eluent_effect_in_partition_chromatography/</link>
+      <pubDate>Mon, 03 Jan 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/docs/20-Separation-Science/Part-1-Theory/21_Co-eluent_effect_in_partition_chromatography/</guid>
+      <description>&lt;figcaption&gt;&lt;b&gt;Figure &lt;/b&gt;: &lt;/figcaption&gt;
+&lt;img src = &#34;/docs/images/&#34;/&gt;</description>
+    </item>
+    
+    <item>
+      <title>Chapter 22 Shape Selectivity</title>
+      <link>https://example.com/docs/20-Separation-Science/Part-1-Theory/22_Shape_Selectivity/</link>
+      <pubDate>Mon, 03 Jan 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/docs/20-Separation-Science/Part-1-Theory/22_Shape_Selectivity/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Chapter Loss of Resolution</title>
+      <link>https://example.com/docs/02-Chrom-HPLC/Part-06-Instrumentation-Troubleshooting/14_Loss_of_resolution/</link>
+      <pubDate>Mon, 03 Jan 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/docs/02-Chrom-HPLC/Part-06-Instrumentation-Troubleshooting/14_Loss_of_resolution/</guid>
+      <description>&lt;figcaption&gt;&lt;b&gt;Figure &lt;/b&gt;: &lt;/figcaption&gt;
+&lt;img src = &#34;/docs/images/&#34;/&gt;</description>
+    </item>
+    
+    <item>
+      <title>Chart of Polarity</title>
+      <link>https://example.com/docs/02-Chrom-HPLC/Part-07-Application/Chart_Polarity/</link>
+      <pubDate>Mon, 03 Jan 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/docs/02-Chrom-HPLC/Part-07-Application/Chart_Polarity/</guid>
+      <description>&lt;p&gt;To Compare different core-shell columns.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Chromatography resins</title>
+      <link>https://example.com/docs/02-Chrom-HPLC/Part-07-Application/Chromatography_resin/</link>
+      <pubDate>Mon, 03 Jan 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/docs/02-Chrom-HPLC/Part-07-Application/Chromatography_resin/</guid>
+      <description>&lt;figcaption&gt;&lt;b&gt;Figure &lt;/b&gt;: &lt;/figcaption&gt;
+&lt;img src = &#34;/docs/images/&#34;/&gt;</description>
+    </item>
+    
+    <item>
+      <title>Column Capacity</title>
+      <link>https://example.com/docs/94-Database/Part-01-Columns/Column_Capacity/</link>
+      <pubDate>Mon, 03 Jan 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/docs/94-Database/Part-01-Columns/Column_Capacity/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Column Caring and Protection</title>
+      <link>https://example.com/docs/02-Chrom-HPLC/Part-03-HPLC-Columns/Column_Caring/</link>
+      <pubDate>Mon, 03 Jan 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/docs/02-Chrom-HPLC/Part-03-HPLC-Columns/Column_Caring/</guid>
+      <description>&lt;p&gt;It talks about column caring, protection, cleaning, and regeneration.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Column Classification System</title>
+      <link>https://example.com/docs/02-Chrom-HPLC/Part-03-HPLC-Columns/Column_Classification/</link>
+      <pubDate>Mon, 03 Jan 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/docs/02-Chrom-HPLC/Part-03-HPLC-Columns/Column_Classification/</guid>
+      <description>&lt;figcaption&gt;&lt;b&gt;Figure &lt;/b&gt;: &lt;/figcaption&gt;
+&lt;img src = &#34;/docs/images/&#34;/&gt;
+&lt;p&gt;Columns are characterized by 4 column parameters, which are determined with 3 simple, fast, repeatable and reproducible chromatographic methods. More information can be obtained in the test procedure manual (below), ranking procedure based on F-value (below) and freeware.&lt;/p&gt;
+&lt;p&gt;The 4 column parameters are:&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;the retention factor of amylbenzene, &lt;font color = &#34;blue&#34;&gt;&lt;em&gt;k&#39; amylbenzene&lt;/em&gt;&lt;/font&gt;,&lt;/li&gt;
+&lt;li&gt;the relative retention factor of triphenylene/o-terphenyl, &lt;font color = &#34;blue&#34;&gt;&lt;em&gt;rk&#39; triphenylene/o-terphenyl&lt;/em&gt;&lt;/font&gt;,&lt;/li&gt;
+&lt;li&gt;the relative retention factor of benzylamine/phenol at pH 2.7, &lt;font color = &#34;blue&#34;&gt;&lt;em&gt;rk&#39; benzylamine/phenol pH 2.7&lt;/em&gt;&lt;/font&gt; and&lt;/li&gt;
+&lt;li&gt;the retention factor of 2,2&#39;-dipyridyl, &lt;font color = &#34;blue&#34;&gt;&lt;em&gt;k&#39; 2,2-dipyridyl&lt;/em&gt;&lt;/font&gt;.&lt;/li&gt;
+&lt;/ol&gt;</description>
+    </item>
+    
+    <item>
+      <title>Column Comparison Table</title>
+      <link>https://example.com/docs/02-Chrom-HPLC/Part-03-HPLC-Columns/Column_comparison_table/</link>
+      <pubDate>Mon, 03 Jan 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/docs/02-Chrom-HPLC/Part-03-HPLC-Columns/Column_comparison_table/</guid>
+      <description>&lt;figcaption&gt;&lt;b&gt;Figure &lt;/b&gt;: &lt;/figcaption&gt;
+&lt;img src = &#34;/docs/images/&#34;/&gt;</description>
+    </item>
+    
+    <item>
+      <title>Column Parameters Guide</title>
+      <link>https://example.com/docs/02-Chrom-HPLC/Part-03-HPLC-Columns/Column_parameters_guide/</link>
+      <pubDate>Mon, 03 Jan 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/docs/02-Chrom-HPLC/Part-03-HPLC-Columns/Column_parameters_guide/</guid>
+      <description>&lt;p&gt;To Compare different core-shell columns.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Column Performance Test</title>
+      <link>https://example.com/docs/02-Chrom-HPLC/Part-03-HPLC-Columns/Column_performance_test/</link>
+      <pubDate>Mon, 03 Jan 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/docs/02-Chrom-HPLC/Part-03-HPLC-Columns/Column_performance_test/</guid>
+      <description>&lt;figcaption&gt;&lt;b&gt;Figure &lt;/b&gt;: &lt;/figcaption&gt;
+&lt;img src = &#34;/docs/images/&#34;/&gt;</description>
+    </item>
+    
+    <item>
+      <title>Combinations of possible solute-stationary phase interactions</title>
+      <link>https://example.com/docs/02-Chrom-HPLC/Part-01-Theory/Solute_stationary_phase_interactions/</link>
+      <pubDate>Mon, 03 Jan 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/docs/02-Chrom-HPLC/Part-01-Theory/Solute_stationary_phase_interactions/</guid>
+      <description>&lt;figcaption&gt;&lt;b&gt;Figure &lt;/b&gt;: &lt;/figcaption&gt;
+&lt;img src = &#34;/docs/images/&#34;/&gt;</description>
+    </item>
+    
+    <item>
+      <title>Core-shell Column Comparison</title>
+      <link>https://example.com/docs/02-Chrom-HPLC/Part-03-HPLC-Columns/Column_comparison/</link>
+      <pubDate>Mon, 03 Jan 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/docs/02-Chrom-HPLC/Part-03-HPLC-Columns/Column_comparison/</guid>
+      <description>&lt;p&gt;Jufang Wu Ludvigsson published a paper of Comparing different core-shell columns.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Core-shell Particles</title>
+      <link>https://example.com/docs/02-Chrom-HPLC/Part-07-Application/Core-shell_particles/</link>
+      <pubDate>Mon, 03 Jan 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/docs/02-Chrom-HPLC/Part-07-Application/Core-shell_particles/</guid>
+      <description>&lt;figcaption&gt;&lt;b&gt;Figure &lt;/b&gt;: &lt;/figcaption&gt;
+&lt;img width =&#34;360&#34; height= &#34;200&#34; src = &#34;/docs/images/&#34;/&gt;</description>
+    </item>
+    
+    <item>
+      <title>Critical Evaluation of Chromatography Methods</title>
+      <link>https://example.com/docs/02-Chrom-HPLC/Part-01-Theory/Evaluation_Chrom_Methods/</link>
+      <pubDate>Mon, 03 Jan 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/docs/02-Chrom-HPLC/Part-01-Theory/Evaluation_Chrom_Methods/</guid>
+      <description>&lt;p&gt;Tony Taylor concentrates on the mobile phase and HPLC column combination when investigating mobile-phase conditions in a HPLC method.&lt;/p&gt;
+&lt;figcaption&gt;&lt;b&gt;Figure &lt;/b&gt;: &lt;/figcaption&gt;
+&lt;img width=&#34;320&#34; height=&#34;200&#34; src = &#34;/docs/images/&#34;/&gt;</description>
+    </item>
+    
+    <item>
+      <title>Flow Direction</title>
+      <link>https://example.com/docs/02-Chrom-HPLC/Part-04-GLP-for-HPLC/10_flow_direction/</link>
+      <pubDate>Mon, 03 Jan 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/docs/02-Chrom-HPLC/Part-04-GLP-for-HPLC/10_flow_direction/</guid>
+      <description>&lt;figcaption&gt;&lt;b&gt;Figure &lt;/b&gt;: &lt;/figcaption&gt;
+&lt;img src = &#34;/docs/images/&#34;/&gt;</description>
+    </item>
+    
+    <item>
+      <title>Frit</title>
+      <link>https://example.com/docs/02-Chrom-HPLC/Part-07-Application/Frit/</link>
+      <pubDate>Mon, 03 Jan 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/docs/02-Chrom-HPLC/Part-07-Application/Frit/</guid>
+      <description>&lt;figcaption&gt;&lt;b&gt;Figure &lt;/b&gt;: &lt;/figcaption&gt;
+&lt;img width =&#34;360&#34; height= &#34;200&#34; src = &#34;/docs/images/&#34;/&gt;</description>
+    </item>
+    
+    <item>
+      <title>General Principles of Liquid Chromatography</title>
+      <link>https://example.com/docs/02-Chrom-HPLC/Part-01-Theory/General_principles_LC/</link>
+      <pubDate>Mon, 03 Jan 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/docs/02-Chrom-HPLC/Part-01-Theory/General_principles_LC/</guid>
+      <description>&lt;figcaption&gt;&lt;b&gt;Figure &lt;/b&gt;: &lt;/figcaption&gt;
+&lt;img src = &#34;/docs/images/&#34;/&gt;</description>
+    </item>
+    
+    <item>
+      <title>HPLC Column Database</title>
+      <link>https://example.com/docs/02-Chrom-HPLC/Part-03-HPLC-Columns/Column_selection_dB/</link>
+      <pubDate>Mon, 03 Jan 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/docs/02-Chrom-HPLC/Part-03-HPLC-Columns/Column_selection_dB/</guid>
+      <description>&lt;figcaption&gt;&lt;b&gt;Figure &lt;/b&gt;: &lt;/figcaption&gt;
+&lt;img src = &#34;/docs/images/&#34;/&gt;</description>
+    </item>
+    
+    <item>
+      <title>Hydrophilic-Lipophilic Balance</title>
+      <link>https://example.com/docs/20-Separation-Science/Part-1-Theory/Hydrophilic-Lipophilic_Balance/</link>
+      <pubDate>Mon, 03 Jan 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/docs/20-Separation-Science/Part-1-Theory/Hydrophilic-Lipophilic_Balance/</guid>
+      <description>&lt;figcaption&gt;&lt;b&gt;Figure &lt;/b&gt;: &lt;/figcaption&gt;
+&lt;img src = &#34;/docs/images/&#34;/&gt;
+&lt;p&gt;The hydrophilic-lipophilic balance is a measure of the degree to which it is hydrophilic or lipophilic (or hydrophobic), determined by calculating values for the different regions of the molecule, as described by Griffin in 1949 and 1954. Other methods have been suggested, notably in 1957 by Davies. 
+  &lt;a href=&#34;https://en.wikipedia.org/wiki/Hydrophilic-lipophilic_balance&#34;&gt;source: wiki&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Hydrophobic ion Paring</title>
+      <link>https://example.com/docs/02-Chrom-HPLC/Part-01-Theory/Hydrophobic_ion_paring/</link>
+      <pubDate>Mon, 03 Jan 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/docs/02-Chrom-HPLC/Part-01-Theory/Hydrophobic_ion_paring/</guid>
+      <description>&lt;figcaption&gt;&lt;b&gt;Figure &lt;/b&gt;: &lt;/figcaption&gt;
+&lt;img src = &#34;/docs/images/&#34;/&gt;</description>
+    </item>
+    
+    <item>
+      <title>Injector and Injection Solvents</title>
+      <link>https://example.com/docs/02-Chrom-HPLC/Part-04-GLP-for-HPLC/Injection_solvents/</link>
+      <pubDate>Mon, 03 Jan 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/docs/02-Chrom-HPLC/Part-04-GLP-for-HPLC/Injection_solvents/</guid>
+      <description>&lt;figcaption&gt;&lt;b&gt;Figure &lt;/b&gt;: &lt;/figcaption&gt;
+&lt;img src = &#34;/docs/images/&#34;/&gt;</description>
+    </item>
+    
+    <item>
+      <title>Introduction to Hydrophobic Interaction Chromatography</title>
+      <link>https://example.com/docs/02-Chrom-HPLC/Part-01-Theory/Hydrophobic_interaction_chromatography/</link>
+      <pubDate>Mon, 03 Jan 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/docs/02-Chrom-HPLC/Part-01-Theory/Hydrophobic_interaction_chromatography/</guid>
+      <description>&lt;figcaption&gt;&lt;b&gt;Figure &lt;/b&gt;: &lt;/figcaption&gt;
+&lt;img src = &#34;/docs/images/&#34;/&gt;</description>
+    </item>
+    
+    <item>
+      <title>LC column Selection Guide</title>
+      <link>https://example.com/docs/02-Chrom-HPLC/Part-03-HPLC-Columns/Column_selectioin_guide/</link>
+      <pubDate>Mon, 03 Jan 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/docs/02-Chrom-HPLC/Part-03-HPLC-Columns/Column_selectioin_guide/</guid>
+      <description>&lt;figcaption&gt;&lt;b&gt;Figure &lt;/b&gt;: &lt;/figcaption&gt;
+&lt;img src = &#34;/docs/images/&#34;/&gt;
+&lt;p&gt;Here is some basic principle for HPLC column choice.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Matrices / Substrate&lt;/li&gt;
+&lt;li&gt;Stationary phase / Ligand&lt;/li&gt;
+&lt;li&gt;Particle diameter&lt;/li&gt;
+&lt;li&gt;Pore size&lt;/li&gt;
+&lt;li&gt;column size&lt;/li&gt;
+&lt;li&gt;Guard columns&lt;/li&gt;
+&lt;/ul&gt;</description>
+    </item>
+    
+    <item>
+      <title>Mobile Phase Conditions</title>
+      <link>https://example.com/docs/02-Chrom-HPLC/Part-07-Application/Mobile_phase_conditions/</link>
+      <pubDate>Mon, 03 Jan 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/docs/02-Chrom-HPLC/Part-07-Application/Mobile_phase_conditions/</guid>
+      <description>&lt;p&gt;To talk about mobile phase.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Mobile Phase pH</title>
+      <link>https://example.com/docs/94-Database/Part-03-Mobile-Phase/Mobile_phase-pH/</link>
+      <pubDate>Mon, 03 Jan 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/docs/94-Database/Part-03-Mobile-Phase/Mobile_phase-pH/</guid>
+      <description>&lt;figcaption&gt;&lt;b&gt;Figure &lt;/b&gt;: &lt;/figcaption&gt;
+&lt;img src = &#34;/docs/images/&#34;/&gt;</description>
+    </item>
+    
+    <item>
+      <title>MRM Transitions -01</title>
+      <link>https://example.com/docs/94-Database/Part-04-MRM-Transition/MRM_transitions_01/</link>
+      <pubDate>Mon, 03 Jan 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/docs/94-Database/Part-04-MRM-Transition/MRM_transitions_01/</guid>
+      <description>&lt;figcaption&gt;&lt;b&gt;Figure &lt;/b&gt;: &lt;/figcaption&gt;
+&lt;img width =&#34;360&#34; height= &#34;200&#34; src = &#34;/docs/images/&#34;/&gt;</description>
+    </item>
+    
+    <item>
+      <title>Normal-Phase HPLC vs. Reversed-Phase HPLC</title>
+      <link>https://example.com/docs/02-Chrom-HPLC/Part-07-Application/NP-HPLC_vs_RP-HPLC/</link>
+      <pubDate>Mon, 03 Jan 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/docs/02-Chrom-HPLC/Part-07-Application/NP-HPLC_vs_RP-HPLC/</guid>
+      <description>&lt;p&gt;To Compare different core-shell columns.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Operating Parameters Guide</title>
+      <link>https://example.com/docs/02-Chrom-HPLC/Part-07-Application/Operating_Parameters_Guide/</link>
+      <pubDate>Mon, 03 Jan 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/docs/02-Chrom-HPLC/Part-07-Application/Operating_Parameters_Guide/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Part 02 Solvent Property</title>
+      <link>https://example.com/docs/94-Database/Part-02-Solvent/</link>
+      <pubDate>Mon, 03 Jan 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/docs/94-Database/Part-02-Solvent/</guid>
+      <description>&lt;p&gt;It is about solvent properties.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Part 03 HPLC Columns</title>
+      <link>https://example.com/docs/02-Chrom-HPLC/Part-03-HPLC-Columns/</link>
+      <pubDate>Mon, 03 Jan 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/docs/02-Chrom-HPLC/Part-03-HPLC-Columns/</guid>
+      <description>&lt;p&gt;It talks about HPLC Columns.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Part 03 Mobile Phase</title>
+      <link>https://example.com/docs/94-Database/Part-03-Mobile-Phase/</link>
+      <pubDate>Mon, 03 Jan 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/docs/94-Database/Part-03-Mobile-Phase/</guid>
+      <description>&lt;p&gt;It is about template.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Part 04 Good Lab Practice for HPLC</title>
+      <link>https://example.com/docs/02-Chrom-HPLC/Part-04-GLP-for-HPLC/</link>
+      <pubDate>Mon, 03 Jan 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/docs/02-Chrom-HPLC/Part-04-GLP-for-HPLC/</guid>
+      <description>&lt;p&gt;It is about template.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Part 04 MRM Transitions</title>
+      <link>https://example.com/docs/94-Database/Part-04-MRM-Transition/</link>
+      <pubDate>Mon, 03 Jan 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/docs/94-Database/Part-04-MRM-Transition/</guid>
+      <description>&lt;p&gt;It is about LC-MS/MS Transitions data.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Part 06 Instrumentation Troubleshooting Guide in General</title>
+      <link>https://example.com/docs/02-Chrom-HPLC/Part-06-Instrumentation-Troubleshooting/</link>
+      <pubDate>Mon, 03 Jan 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/docs/02-Chrom-HPLC/Part-06-Instrumentation-Troubleshooting/</guid>
+      <description>&lt;p&gt;The framework of this part is built on a Thermo Fisher Scientific guide on how to do troubleshooting.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Part 07 Application</title>
+      <link>https://example.com/docs/02-Chrom-HPLC/Part-07-Application/</link>
+      <pubDate>Mon, 03 Jan 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/docs/02-Chrom-HPLC/Part-07-Application/</guid>
+      <description>&lt;p&gt;It talks about theory.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Part 08 Problems</title>
+      <link>https://example.com/docs/02-Chrom-HPLC/Part-08-Problems/</link>
+      <pubDate>Mon, 03 Jan 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/docs/02-Chrom-HPLC/Part-08-Problems/</guid>
+      <description>&lt;p&gt;It is about problems.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Preventing and solving common hardware problems</title>
+      <link>https://example.com/docs/02-Chrom-HPLC/Part-04-GLP-for-HPLC/Preventing_solving_hardware_problems/</link>
+      <pubDate>Mon, 03 Jan 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/docs/02-Chrom-HPLC/Part-04-GLP-for-HPLC/Preventing_solving_hardware_problems/</guid>
+      <description>&lt;figcaption&gt;&lt;b&gt;Figure &lt;/b&gt;: &lt;/figcaption&gt;
+&lt;img src = &#34;/docs/images/&#34;/&gt;</description>
+    </item>
+    
+    <item>
+      <title>Problems</title>
+      <link>https://example.com/docs/02-Chrom-HPLC/Part-08-Problems/Problems/</link>
+      <pubDate>Mon, 03 Jan 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/docs/02-Chrom-HPLC/Part-08-Problems/Problems/</guid>
+      <description>&lt;figcaption&gt;&lt;b&gt;Figure &lt;/b&gt;: &lt;/figcaption&gt;
+&lt;img src = &#34;/docs/images/&#34;/&gt;</description>
+    </item>
+    
+    <item>
+      <title>Pump Maintenance</title>
+      <link>https://example.com/docs/02-Chrom-HPLC/Part-04-GLP-for-HPLC/Pump/</link>
+      <pubDate>Mon, 03 Jan 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/docs/02-Chrom-HPLC/Part-04-GLP-for-HPLC/Pump/</guid>
+      <description>&lt;figcaption&gt;&lt;b&gt;Figure &lt;/b&gt;: &lt;/figcaption&gt;
+&lt;img src = &#34;/docs/images/&#34;/&gt;</description>
+    </item>
+    
+    <item>
+      <title>TEA Tri-ethyl-amine</title>
+      <link>https://example.com/docs/02-Chrom-HPLC/Part-07-Application/TEA-Tri-ethyl-amine/</link>
+      <pubDate>Mon, 03 Jan 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/docs/02-Chrom-HPLC/Part-07-Application/TEA-Tri-ethyl-amine/</guid>
+      <description>&lt;p&gt;
+  &lt;a href=&#34;https://www.researchgate.net/post/How_Triethilamine_works_on_a_compound_separation_in_a_reversed_phase_column_C182&#34;&gt;How Triethilamine works on a compound separation in a reversed phase column (C18)?&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Template</title>
+      <link>https://example.com/docs/02-Chrom-HPLC/Part-03-HPLC-Columns/T_02/</link>
+      <pubDate>Mon, 03 Jan 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/docs/02-Chrom-HPLC/Part-03-HPLC-Columns/T_02/</guid>
+      <description>&lt;figcaption&gt;&lt;b&gt;Figure &lt;/b&gt;: &lt;/figcaption&gt;
+&lt;img src = &#34;/docs/images/&#34;/&gt;</description>
+    </item>
+    
+    <item>
+      <title>Template</title>
+      <link>https://example.com/docs/02-Chrom-HPLC/Part-07-Application/T_02/</link>
+      <pubDate>Mon, 03 Jan 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/docs/02-Chrom-HPLC/Part-07-Application/T_02/</guid>
+      <description>&lt;figcaption&gt;&lt;b&gt;Figure &lt;/b&gt;: &lt;/figcaption&gt;
+&lt;img src = &#34;/docs/images/&#34;/&gt;</description>
+    </item>
+    
+    <item>
+      <title>Template</title>
+      <link>https://example.com/docs/02-Chrom-HPLC/Template/</link>
+      <pubDate>Mon, 03 Jan 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/docs/02-Chrom-HPLC/Template/</guid>
+      <description>&lt;p&gt;It is about template.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Template</title>
+      <link>https://example.com/docs/94-Database/Part-01-Columns/T_02/</link>
+      <pubDate>Mon, 03 Jan 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/docs/94-Database/Part-01-Columns/T_02/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Template</title>
+      <link>https://example.com/docs/94-Database/Part-02-Solvent/T_02/</link>
+      <pubDate>Mon, 03 Jan 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/docs/94-Database/Part-02-Solvent/T_02/</guid>
+      <description>&lt;figcaption&gt;&lt;b&gt;Figure &lt;/b&gt;: &lt;/figcaption&gt;
+&lt;img src = &#34;/docs/images/&#34;/&gt;</description>
+    </item>
+    
+    <item>
+      <title>Template</title>
+      <link>https://example.com/docs/94-Database/Part-03-Mobile-Phase/T_02/</link>
+      <pubDate>Mon, 03 Jan 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/docs/94-Database/Part-03-Mobile-Phase/T_02/</guid>
+      <description>&lt;figcaption&gt;&lt;b&gt;Figure &lt;/b&gt;: &lt;/figcaption&gt;
+&lt;img src = &#34;/docs/images/&#34;/&gt;</description>
+    </item>
+    
+    <item>
+      <title>Template-02</title>
+      <link>https://example.com/docs/02-Chrom-HPLC/Part-04-GLP-for-HPLC/T_02/</link>
+      <pubDate>Mon, 03 Jan 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/docs/02-Chrom-HPLC/Part-04-GLP-for-HPLC/T_02/</guid>
+      <description>&lt;figcaption&gt;&lt;b&gt;Figure &lt;/b&gt;: &lt;/figcaption&gt;
+&lt;img src = &#34;/docs/images/&#34;/&gt;</description>
+    </item>
+    
+    <item>
+      <title>Template-02</title>
+      <link>https://example.com/docs/02-Chrom-HPLC/Template/T_02/</link>
+      <pubDate>Mon, 03 Jan 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/docs/02-Chrom-HPLC/Template/T_02/</guid>
+      <description>&lt;figcaption&gt;&lt;b&gt;Figure &lt;/b&gt;: &lt;/figcaption&gt;
+&lt;img src = &#34;/docs/images/&#34;/&gt;</description>
+    </item>
+    
+    <item>
+      <title>Template-02</title>
+      <link>https://example.com/docs/20-Separation-Science/Part-1-Theory/T_02/</link>
+      <pubDate>Mon, 03 Jan 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/docs/20-Separation-Science/Part-1-Theory/T_02/</guid>
+      <description>&lt;figcaption&gt;&lt;b&gt;Figure &lt;/b&gt;: &lt;/figcaption&gt;
+&lt;img src = &#34;/docs/images/&#34;/&gt;</description>
+    </item>
+    
+    <item>
+      <title>USP Specification (USP 35)</title>
+      <link>https://example.com/docs/02-Chrom-HPLC/Part-03-HPLC-Columns/Column_selection_USP_category/</link>
+      <pubDate>Mon, 03 Jan 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/docs/02-Chrom-HPLC/Part-03-HPLC-Columns/Column_selection_USP_category/</guid>
+      <description>&lt;figcaption&gt;&lt;b&gt;Figure &lt;/b&gt;: &lt;/figcaption&gt;
+&lt;img src = &#34;/docs/images/&#34;/&gt;</description>
+    </item>
+    
+    <item>
+      <title>What is the difference between HILIC columns and common HPLC columns?</title>
+      <link>https://example.com/docs/02-Chrom-HPLC/Part-03-HPLC-Columns/HILIC_coulmns_vs_common_columns/</link>
+      <pubDate>Mon, 03 Jan 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/docs/02-Chrom-HPLC/Part-03-HPLC-Columns/HILIC_coulmns_vs_common_columns/</guid>
+      <description>&lt;figcaption&gt;&lt;b&gt;Figure &lt;/b&gt;: &lt;/figcaption&gt;
+&lt;img src = &#34;/docs/images/&#34;/&gt;</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://example.com/docs/95-Literature-Reading/blank/</link>
+      <pubDate>Thu, 30 Dec 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/docs/95-Literature-Reading/blank/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>BEH Column Application in Steroid Conjugates</title>
+      <link>https://example.com/docs/95-Literature-Reading/BEH_application_steroids/</link>
+      <pubDate>Thu, 30 Dec 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/docs/95-Literature-Reading/BEH_application_steroids/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Core-shell Column Comparison</title>
+      <link>https://example.com/docs/95-Literature-Reading/Column-comparison/</link>
+      <pubDate>Thu, 30 Dec 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/docs/95-Literature-Reading/Column-comparison/</guid>
+      <description>&lt;p&gt;To Compare different core-shell columns.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Novel UiO2@SiO2 stationary phase</title>
+      <link>https://example.com/docs/95-Literature-Reading/Novel_UiO2SiO2_stationary_phase/</link>
+      <pubDate>Thu, 30 Dec 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/docs/95-Literature-Reading/Novel_UiO2SiO2_stationary_phase/</guid>
+      <description>&lt;p&gt;Novel UiO2@SiO2 stationary phase (2015)&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Factors Affecting Resolution</title>
+      <link>https://example.com/docs/20-Separation-Science/Part-2-Application/Factors_Affecting_Resolution/</link>
+      <pubDate>Mon, 27 Dec 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/docs/20-Separation-Science/Part-2-Application/Factors_Affecting_Resolution/</guid>
+      <description>&lt;p&gt;Van Deemter Plot explains resolution.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>LC-MS/MS Separation Science by Rick Lake</title>
+      <link>https://example.com/docs/20-Separation-Science/Part-2-Application/Rick_Lake_LCMSMS_Separation_Science/</link>
+      <pubDate>Mon, 27 Dec 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/docs/20-Separation-Science/Part-2-Application/Rick_Lake_LCMSMS_Separation_Science/</guid>
+      <description>&lt;p&gt;This is the script of a presentation &amp;ldquo;Getting The Most Out Of Your LCMSMS Separations and Method Development&amp;rdquo; delivered by Rick Lake.&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

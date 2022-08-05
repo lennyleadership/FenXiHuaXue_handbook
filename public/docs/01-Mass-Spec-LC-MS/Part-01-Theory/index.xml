@@ -1,0 +1,191 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Part I Theory on FenXiHuaXue Handbook</title>
+    <link>https://example.com/docs/01-Mass-Spec-LC-MS/Part-01-Theory/</link>
+    <description>Recent content in Part I Theory on FenXiHuaXue Handbook</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Thu, 17 Mar 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://example.com/docs/01-Mass-Spec-LC-MS/Part-01-Theory/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Analyte Tuning</title>
+      <link>https://example.com/docs/01-Mass-Spec-LC-MS/Part-01-Theory/LCMSMS_Analyte_Tuning_Waters/</link>
+      <pubDate>Mon, 20 Jun 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/docs/01-Mass-Spec-LC-MS/Part-01-Theory/LCMSMS_Analyte_Tuning_Waters/</guid>
+      <description>&lt;p&gt;LC-MS/MS Education Series 3/3 by Waters&lt;/p&gt;
+&lt;iframe width=&#34;360&#34; height=&#34;200&#34; src=&#34;https://www.youtube.com/embed/GJGceTWBgOo?list=PLXXQRFm2zppkvs_PQ6277agqsr5Pbz2sX&#34; title=&#34;LC-MS/MS Education Series: Analyte Tuning&#34; frameborder=&#34;0&#34; allow=&#34;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture&#34; allowfullscreen&gt;&lt;/iframe&gt;</description>
+    </item>
+    
+    <item>
+      <title>Calculation of Optimum MRM Dwell Times</title>
+      <link>https://example.com/docs/01-Mass-Spec-LC-MS/Part-01-Theory/Calculation_Optimun_MRM_Dwell_Time/</link>
+      <pubDate>Mon, 20 Jun 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/docs/01-Mass-Spec-LC-MS/Part-01-Theory/Calculation_Optimun_MRM_Dwell_Time/</guid>
+      <description>&lt;iframe width=&#34;360&#34; height=&#34;200&#34; src=&#34;https://www.youtube.com/embed/IdORVk9TRzs&#34; title=&#34;Calculation of Optimum MRM Dwell Times&#34; frameborder=&#34;0&#34; allow=&#34;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture&#34; allowfullscreen&gt;&lt;/iframe&gt;</description>
+    </item>
+    
+    <item>
+      <title>Quadupole Resolution &amp; Mass Calibration</title>
+      <link>https://example.com/docs/01-Mass-Spec-LC-MS/Part-01-Theory/LCMSMS_resolution_N_masscalibration_Waters/</link>
+      <pubDate>Mon, 20 Jun 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/docs/01-Mass-Spec-LC-MS/Part-01-Theory/LCMSMS_resolution_N_masscalibration_Waters/</guid>
+      <description>&lt;p&gt;LC-MS/MS Education Series 2/3 by Waters&lt;/p&gt;
+&lt;iframe width=&#34;360&#34; height=&#34;200&#34; src=&#34;https://www.youtube.com/embed/vkT0nrbeoDY&#34; title=&#34;LC-MS/MS Education Series: Quadrupole Resolution and Mass Calibration&#34; frameborder=&#34;0&#34; allow=&#34;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture&#34; allowfullscreen&gt;&lt;/iframe&gt;</description>
+    </item>
+    
+    <item>
+      <title>Quadrupole Theory and Use</title>
+      <link>https://example.com/docs/01-Mass-Spec-LC-MS/Part-01-Theory/LCMSMS_theory_N_use_Waters/</link>
+      <pubDate>Sun, 19 Jun 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/docs/01-Mass-Spec-LC-MS/Part-01-Theory/LCMSMS_theory_N_use_Waters/</guid>
+      <description>&lt;p&gt;LC-MS/MS Education Series 1/3 by Waters&lt;/p&gt;
+&lt;p&gt;Operation modes: static mode, and scanning mode.&lt;/p&gt;
+&lt;p&gt;Acquisition modes: full scan, MRM, precursor ion scan, product ion scan, and neutral loss scan.&lt;/p&gt;
+&lt;iframe width=&#34;360&#34; height=&#34;200&#34; src=&#34;https://www.youtube.com/embed/iZH-oxP-OJ0&#34; title=&#34;LC-MS/MS Education Series: Quadrupole Theory and Use&#34; frameborder=&#34;0&#34; allow=&#34;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture&#34; allowfullscreen&gt;&lt;/iframe&gt;</description>
+    </item>
+    
+    <item>
+      <title>The M&#43; peak and the base peak</title>
+      <link>https://example.com/docs/01-Mass-Spec-LC-MS/Part-01-Theory/TIC_N_BPC/</link>
+      <pubDate>Thu, 09 Jun 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/docs/01-Mass-Spec-LC-MS/Part-01-Theory/TIC_N_BPC/</guid>
+      <description>&lt;style type = &#34;text/css&#34;&gt;
+/* image and text side-by-side */
+* {
+  box-sizing: border-box;
+}
+
+.row {
+  margin-left:-5px;
+  margin-right:-5px;
+}
+  
+.column {
+  float: left;
+  padding: 5px; /* space between two tables*/
+}
+
+/* Clearfix (clear floats) */
+.row::after {
+  content: &#34;&#34;;
+  clear: both;
+  display: table;
+}
+
+/* end of the setting for two tables side-by-side */
+&lt;/style&gt;
+&lt;p&gt;The M+ peak (signal) is the parent peak.  It represents the cation molecule. Its m/z is associated with the molar mass of compound.&lt;br&gt;
+The base peak represents the most stable cation fragment.  It is a stable intermediate, not a stable structure.  Its intensity is set as 100, everything else is in comparison to it.  It could represent the M+.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>The M&#43;, M&#43;1 and M&#43;2 Peaks</title>
+      <link>https://example.com/docs/01-Mass-Spec-LC-MS/Part-01-Theory/M&#43;_M&#43;1_M&#43;2/</link>
+      <pubDate>Thu, 09 Jun 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/docs/01-Mass-Spec-LC-MS/Part-01-Theory/M&#43;_M&#43;1_M&#43;2/</guid>
+      <description>&lt;p&gt;M+ peak represents the compound.  It is often referred to as the parent peak.&lt;br&gt;
+M+1 peak represents the compound with isotope.  The chance of finding a C-13 is one in 100.  C-13 and N-15 can be responsible for M+1 peak.
+M+2 peak represents the compound having either chloride or bromide isotope.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Centroid or Profile</title>
+      <link>https://example.com/docs/01-Mass-Spec-LC-MS/Part-01-Theory/Profile_N_Centroid/</link>
+      <pubDate>Sat, 14 May 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/docs/01-Mass-Spec-LC-MS/Part-01-Theory/Profile_N_Centroid/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://example.com/docs/01-Mass-Spec-LC-MS/Part-01-Theory/Blank/</link>
+      <pubDate>Thu, 17 Mar 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/docs/01-Mass-Spec-LC-MS/Part-01-Theory/Blank/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://example.com/docs/01-Mass-Spec-LC-MS/Part-01-Theory/Why_acetonitril/</link>
+      <pubDate>Thu, 17 Mar 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/docs/01-Mass-Spec-LC-MS/Part-01-Theory/Why_acetonitril/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>APCI General Review</title>
+      <link>https://example.com/docs/01-Mass-Spec-LC-MS/Part-01-Theory/APCI_general_review/</link>
+      <pubDate>Thu, 17 Mar 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/docs/01-Mass-Spec-LC-MS/Part-01-Theory/APCI_general_review/</guid>
+      <description>&lt;p&gt;The LC elute passing through a nebulizing needle, creates a fine spray.  The spray passes through a heated ceramic tube, where the droplets are fully vaporized.  The resulting gas/vapor mixture is then passed over a corona discharge needle, where the solvent vapor is ionized to create reagent gas ions.&lt;/p&gt;
+&lt;p&gt;For successful APCI, the analyte must be volatile and thermally stable and the mobile phase must be suitable for gas-phase acid–base reactions.&lt;/p&gt;
+&lt;p&gt;To vaporize the solvent and analyte, the APCI source is typically operated at vaporizer temperatures of 400 to 500 &lt;sup&gt;0&lt;/sup&gt;C.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Characteristics of ESI and APCI</title>
+      <link>https://example.com/docs/01-Mass-Spec-LC-MS/Part-01-Theory/Characteristics_API/</link>
+      <pubDate>Thu, 17 Mar 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/docs/01-Mass-Spec-LC-MS/Part-01-Theory/Characteristics_API/</guid>
+      <description>&lt;p&gt;Atmospheric Pressure Ionization includes ESI and APCI.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Cross Talk</title>
+      <link>https://example.com/docs/01-Mass-Spec-LC-MS/Part-01-Theory/Cross_Talk/</link>
+      <pubDate>Thu, 17 Mar 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/docs/01-Mass-Spec-LC-MS/Part-01-Theory/Cross_Talk/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>ESI General Review</title>
+      <link>https://example.com/docs/01-Mass-Spec-LC-MS/Part-01-Theory/ESI_general_review/</link>
+      <pubDate>Thu, 17 Mar 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/docs/01-Mass-Spec-LC-MS/Part-01-Theory/ESI_general_review/</guid>
+      <description>&lt;p&gt;The LC eluate is sprayed into a spray chamber at atmospheric pressure in the presence of a strong electrostatic field and heated drying gas.&lt;/p&gt;
+&lt;p&gt;The electrostatic field occurs between the nebulizer, which is the ES probe, and the capillary. Aerosol of charged droplet formation at right angles to the capillary.&lt;/p&gt;
+&lt;p&gt;Ionization takes place as a result of imparting the strong electrical field and the superheated nitrogrn sheath gas, with Agilent AJS (Jet Stream) technology.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Increase of the LC-MS/MS sensitivity and detection limits using on-line sample preparation with large volume plasma injection</title>
+      <link>https://example.com/docs/01-Mass-Spec-LC-MS/Part-01-Theory/Increase_sensitivity_detection_limit/</link>
+      <pubDate>Thu, 17 Mar 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/docs/01-Mass-Spec-LC-MS/Part-01-Theory/Increase_sensitivity_detection_limit/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Ionization General Review</title>
+      <link>https://example.com/docs/01-Mass-Spec-LC-MS/Part-01-Theory/Ionization_general_review/</link>
+      <pubDate>Thu, 17 Mar 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/docs/01-Mass-Spec-LC-MS/Part-01-Theory/Ionization_general_review/</guid>
+      <description>&lt;p&gt;series: [Analysis of Pesticides in Food and Environmental Samples, edited by Jose L. Tadeo]&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>The influence of electrospray ion source design on matrix effects</title>
+      <link>https://example.com/docs/01-Mass-Spec-LC-MS/Part-01-Theory/ESI_design_on_matrix_effects/</link>
+      <pubDate>Thu, 17 Mar 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/docs/01-Mass-Spec-LC-MS/Part-01-Theory/ESI_design_on_matrix_effects/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

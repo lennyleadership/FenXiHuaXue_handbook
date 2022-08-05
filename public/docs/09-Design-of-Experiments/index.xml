@@ -1,0 +1,192 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Design of Experiments on FenXiHuaXue Handbook</title>
+    <link>https://example.com/docs/09-Design-of-Experiments/</link>
+    <description>Recent content in Design of Experiments on FenXiHuaXue Handbook</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Sat, 01 Jan 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://example.com/docs/09-Design-of-Experiments/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>02 Introduction</title>
+      <link>https://example.com/docs/09-Design-of-Experiments/Course/02_principles_of_DoE/</link>
+      <pubDate>Mon, 03 Jan 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/docs/09-Design-of-Experiments/Course/02_principles_of_DoE/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>03 Statistical Concepts</title>
+      <link>https://example.com/docs/09-Design-of-Experiments/Course/03_statistical_concepts/</link>
+      <pubDate>Mon, 03 Jan 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/docs/09-Design-of-Experiments/Course/03_statistical_concepts/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>04 Sampling and Sample Properties</title>
+      <link>https://example.com/docs/09-Design-of-Experiments/Course/04_sampling_sample_properties/</link>
+      <pubDate>Mon, 03 Jan 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/docs/09-Design-of-Experiments/Course/04_sampling_sample_properties/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>05 Hypothesis Testing (t-Test &amp; F-Test)</title>
+      <link>https://example.com/docs/09-Design-of-Experiments/Course/05_hypothesis_testing/</link>
+      <pubDate>Mon, 03 Jan 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/docs/09-Design-of-Experiments/Course/05_hypothesis_testing/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>08 Comparing Treatment Means</title>
+      <link>https://example.com/docs/09-Design-of-Experiments/Course/06_compare_means/</link>
+      <pubDate>Mon, 03 Jan 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/docs/09-Design-of-Experiments/Course/06_compare_means/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>07 Introduction to Single-Factor Experiments</title>
+      <link>https://example.com/docs/09-Design-of-Experiments/Course/07_intro_single_factor_experiments/</link>
+      <pubDate>Mon, 03 Jan 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/docs/09-Design-of-Experiments/Course/07_intro_single_factor_experiments/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>One-Way ANOVA</title>
+      <link>https://example.com/docs/09-Design-of-Experiments/Course/08_One_way_ANOVA/</link>
+      <pubDate>Mon, 03 Jan 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/docs/09-Design-of-Experiments/Course/08_One_way_ANOVA/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>12 Interpretation of the ANOVA Results</title>
+      <link>https://example.com/docs/09-Design-of-Experiments/Course/12_Interpretation_ANOVA/</link>
+      <pubDate>Mon, 03 Jan 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/docs/09-Design-of-Experiments/Course/12_Interpretation_ANOVA/</guid>
+      <description>&lt;p&gt;The ANOVA tells us whether one factor is a significant factor that makes experiment different.&lt;/p&gt;
+&lt;p&gt;We need to compare pairs of means to see which level is outstanding level among many levels (greater than three)&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>17 Introduction to Factorial Design</title>
+      <link>https://example.com/docs/09-Design-of-Experiments/Course/17_Intro_Factorial_designs/</link>
+      <pubDate>Mon, 03 Jan 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/docs/09-Design-of-Experiments/Course/17_Intro_Factorial_designs/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>18 Main Effects and Interactions Between Factors</title>
+      <link>https://example.com/docs/09-Design-of-Experiments/Course/18_Main_effects_interactions/</link>
+      <pubDate>Mon, 03 Jan 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/docs/09-Design-of-Experiments/Course/18_Main_effects_interactions/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>19 Why Using Factorial Design?</title>
+      <link>https://example.com/docs/09-Design-of-Experiments/Course/19_why_use_factorial_design/</link>
+      <pubDate>Mon, 03 Jan 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/docs/09-Design-of-Experiments/Course/19_why_use_factorial_design/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>20 Two-Factor Factorial Designs</title>
+      <link>https://example.com/docs/09-Design-of-Experiments/Course/20_Two_factor_factorial_designs/</link>
+      <pubDate>Mon, 03 Jan 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/docs/09-Design-of-Experiments/Course/20_Two_factor_factorial_designs/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://example.com/docs/09-Design-of-Experiments/Course/22_Interpretation_of_the_results/</link>
+      <pubDate>Mon, 03 Jan 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/docs/09-Design-of-Experiments/Course/22_Interpretation_of_the_results/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>23 Means Comparison by Tukey&#39;s Test and Final Conclusion</title>
+      <link>https://example.com/docs/09-Design-of-Experiments/Course/23_Means_comparison_Tukey_test/</link>
+      <pubDate>Mon, 03 Jan 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/docs/09-Design-of-Experiments/Course/23_Means_comparison_Tukey_test/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>24 Introduction to 2^k Designs</title>
+      <link>https://example.com/docs/09-Design-of-Experiments/Course/24_Intro_2k_designs/</link>
+      <pubDate>Mon, 03 Jan 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/docs/09-Design-of-Experiments/Course/24_Intro_2k_designs/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>25 The 2^2 Design</title>
+      <link>https://example.com/docs/09-Design-of-Experiments/Course/25_22_design/</link>
+      <pubDate>Mon, 03 Jan 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/docs/09-Design-of-Experiments/Course/25_22_design/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://example.com/docs/09-Design-of-Experiments/Course/43_Block_replicated_design/</link>
+      <pubDate>Mon, 03 Jan 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/docs/09-Design-of-Experiments/Course/43_Block_replicated_design/</guid>
+      <description>&lt;p&gt;&lt;code&gt;randomization&lt;/code&gt; is the design technique that we can use to guard against unknown or uncontrolled nuisance factors.&lt;br&gt;
+&lt;code&gt;blocking&lt;/code&gt; is the design technique we can use to eliminate the effect of a knowed and controlled nuisance factor.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>44 Analyzing a 2^k Design with Blocks as Replicates</title>
+      <link>https://example.com/docs/09-Design-of-Experiments/Course/44_ANOVA_2k_blocked_design/</link>
+      <pubDate>Mon, 03 Jan 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/docs/09-Design-of-Experiments/Course/44_ANOVA_2k_blocked_design/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>45 Confounding a 2^k Design in Blocks</title>
+      <link>https://example.com/docs/09-Design-of-Experiments/Course/45_confounding_design_blocks/</link>
+      <pubDate>Mon, 03 Jan 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/docs/09-Design-of-Experiments/Course/45_confounding_design_blocks/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://example.com/docs/09-Design-of-Experiments/Course/zzzz/</link>
+      <pubDate>Mon, 03 Jan 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/docs/09-Design-of-Experiments/Course/zzzz/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Part 05 Method Development on FenXiHuaXue Handbook</title>
+    <link>https://example.com/docs/02-Chrom-HPLC/Part-05-Method-Development/</link>
+    <description>Recent content in Part 05 Method Development on FenXiHuaXue Handbook</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Mon, 03 Jan 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://example.com/docs/02-Chrom-HPLC/Part-05-Method-Development/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Chapter 2</title>
+      <link>https://example.com/docs/02-Chrom-HPLC/Part-05-Method-Development/blank/</link>
+      <pubDate>Fri, 16 Oct 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/docs/02-Chrom-HPLC/Part-05-Method-Development/blank/</guid>
+      <description>&lt;p&gt;This is chapter 2 of nested chapter.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Increase HPLC/UHPLC Method Sensitivity</title>
+      <link>https://example.com/docs/02-Chrom-HPLC/Part-05-Method-Development/Increase_HPLC_method_sensitivity/</link>
+      <pubDate>Fri, 16 Oct 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/docs/02-Chrom-HPLC/Part-05-Method-Development/Increase_HPLC_method_sensitivity/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>resolution on FenXiHuaXue Handbook</title>
+    <link>https://example.com/tags/resolution/</link>
+    <description>Recent content in resolution on FenXiHuaXue Handbook</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Mon, 03 Jan 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://example.com/tags/resolution/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Chapter 02 Van Deemter Equation - Small Particle Size Column</title>
+      <link>https://example.com/docs/20-Separation-Science/Part-1-Theory/02_Van_Deemter_Equation_small_-particle_size_columns/</link>
+      <pubDate>Mon, 03 Jan 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/docs/20-Separation-Science/Part-1-Theory/02_Van_Deemter_Equation_small_-particle_size_columns/</guid>
+      <description>&lt;p&gt;How do small particle size columns increase sample throughput?&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Core-shell Column Comparison</title>
+      <link>https://example.com/docs/02-Chrom-HPLC/Part-03-HPLC-Columns/Column_comparison/</link>
+      <pubDate>Mon, 03 Jan 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/docs/02-Chrom-HPLC/Part-03-HPLC-Columns/Column_comparison/</guid>
+      <description>&lt;p&gt;Jufang Wu Ludvigsson published a paper of Comparing different core-shell columns.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Core-shell Column Comparison</title>
+      <link>https://example.com/docs/95-Literature-Reading/Column-comparison/</link>
+      <pubDate>Thu, 30 Dec 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/docs/95-Literature-Reading/Column-comparison/</guid>
+      <description>&lt;p&gt;To Compare different core-shell columns.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Factors Affecting Resolution</title>
+      <link>https://example.com/docs/20-Separation-Science/Part-2-Application/Factors_Affecting_Resolution/</link>
+      <pubDate>Mon, 27 Dec 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/docs/20-Separation-Science/Part-2-Application/Factors_Affecting_Resolution/</guid>
+      <description>&lt;p&gt;Van Deemter Plot explains resolution.&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

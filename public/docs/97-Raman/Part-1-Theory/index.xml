@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Part I Raman Spectroscopy Principle on FenXiHuaXue Handbook</title>
+    <link>https://example.com/docs/97-Raman/Part-1-Theory/</link>
+    <description>Recent content in Part I Raman Spectroscopy Principle on FenXiHuaXue Handbook</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Wed, 25 May 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://example.com/docs/97-Raman/Part-1-Theory/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Raman Spectroscopy Principle by Thermo</title>
+      <link>https://example.com/docs/97-Raman/Part-1-Theory/Thermo_Principle/</link>
+      <pubDate>Wed, 25 May 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/docs/97-Raman/Part-1-Theory/Thermo_Principle/</guid>
+      <description>&lt;p&gt;This is a transcript of the following video.&lt;/p&gt;
+&lt;iframe width=&#34;360&#34; height=&#34;200&#34; src=&#34;https://www.youtube.com/embed/Gok7jRuer1k&#34; title=&#34;YouTube video player&#34; frameborder=&#34;0&#34; allow=&#34;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture&#34; allowfullscreen&gt;&lt;/iframe&gt;
+&lt;div class=&#34;row&#34;&gt;
+  &lt;div class=&#34;column&#34;&gt;
+&lt;img width =&#34;280&#34; height= &#34;156&#34; src = &#34;/docs/images/Schematic-representation-of-the-theory-of-Raman-Spectroscopy.png&#34;/&gt;
+  &lt;/div&gt;
+  &lt;div class=&#34;column&#34;&gt;
+&lt;img width =&#34;280&#34; height= &#34;156&#34; src = &#34;/docs/images/Jablonski-Diagram-1-1024x957.png&#34;/&gt;
+  &lt;/div&gt;
+&lt;/div&gt; 
+&lt;div class=&#34;row&#34;&gt;
+  &lt;div class=&#34;column&#34;&gt;
+&lt;img width =&#34;280&#34; height= &#34;156&#34; src = &#34;/docs/images/principle-of-raman-spectroscopy-n.jpg&#34;/&gt;
+  &lt;/div&gt;
+  &lt;div class=&#34;column&#34;&gt;
+&lt;img width =&#34;280&#34; height= &#34;156&#34; src = &#34;/docs/images/Raman1-5.png&#34;/&gt;
+  &lt;/div&gt;
+&lt;/div&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

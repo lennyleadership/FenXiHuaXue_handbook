@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Categories on FenXiHuaXue Handbook</title>
+    <link>https://example.com/categories/</link>
+    <description>Recent content in Categories on FenXiHuaXue Handbook</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Tue, 17 May 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://example.com/categories/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Category</title>
+      <link>https://example.com/categories/Category/</link>
+      <pubDate>Tue, 17 May 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/categories/Category/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Analysis of Pesticides in Food and Environmental Samples edited by Jos&amp;eacute; L. Tadeo 2008</title>
+      <link>https://example.com/categories/Analysis-of-Pesticides-in-Food-and-Environmental-Samples-edited-by-Joseacute-L.-Tadeo-2008/</link>
+      <pubDate>Thu, 17 Mar 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/categories/Analysis-of-Pesticides-in-Food-and-Environmental-Samples-edited-by-Joseacute-L.-Tadeo-2008/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Analysis of Pesticides in Food and Environmental Samples edited by Jose L. Tadeo</title>
+      <link>https://example.com/categories/Analysis-of-Pesticides-in-Food-and-Environmental-Samples-edited-by-Jose-L.-Tadeo/</link>
+      <pubDate>Thu, 17 Mar 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/categories/Analysis-of-Pesticides-in-Food-and-Environmental-Samples-edited-by-Jose-L.-Tadeo/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>MSACL Video Library</title>
+      <link>https://example.com/categories/MSACL-Video-Library/</link>
+      <pubDate>Thu, 17 Mar 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/categories/MSACL-Video-Library/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>category-01</title>
+      <link>https://example.com/categories/category-01/</link>
+      <pubDate>Mon, 03 Jan 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/categories/category-01/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Separation</title>
+      <link>https://example.com/categories/Separation/</link>
+      <pubDate>Wed, 29 Dec 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/categories/Separation/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Chromatography</title>
+      <link>https://example.com/categories/Chromatography/</link>
+      <pubDate>Mon, 27 Dec 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/categories/Chromatography/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>DataBase</title>
+      <link>https://example.com/categories/DataBase/</link>
+      <pubDate>Sat, 25 Dec 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/categories/DataBase/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>R</title>
+      <link>https://example.com/categories/R/</link>
+      <pubDate>Tue, 01 Dec 2020 21:13:14 -0500</pubDate>
+      
+      <guid>https://example.com/categories/R/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Development</title>
+      <link>https://example.com/categories/Development/</link>
+      <pubDate>Wed, 02 Apr 2014 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/categories/Development/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>golang</title>
+      <link>https://example.com/categories/golang/</link>
+      <pubDate>Wed, 02 Apr 2014 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/categories/golang/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>GC MS/MS</title>
+      <link>https://example.com/categories/GC-MS/MS/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/categories/GC-MS/MS/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>RPC on FenXiHuaXue Handbook</title>
+    <link>https://example.com/tags/RPC/</link>
+    <description>Recent content in RPC on FenXiHuaXue Handbook</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Mon, 03 Jan 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://example.com/tags/RPC/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Chapter 03 Reversed-phase Chromatography</title>
+      <link>https://example.com/docs/02-Chrom-HPLC/Part-01-Theory/03_Reverse-Phase_Chromatogrphy/</link>
+      <pubDate>Mon, 03 Jan 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/docs/02-Chrom-HPLC/Part-01-Theory/03_Reverse-Phase_Chromatogrphy/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Operating Parameters Guide</title>
+      <link>https://example.com/docs/02-Chrom-HPLC/Part-07-Application/Operating_Parameters_Guide/</link>
+      <pubDate>Mon, 03 Jan 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/docs/02-Chrom-HPLC/Part-07-Application/Operating_Parameters_Guide/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

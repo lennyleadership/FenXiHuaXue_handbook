@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>the charge residue mechanism on FenXiHuaXue Handbook</title>
+    <link>https://example.com/tags/the-charge-residue-mechanism/</link>
+    <description>Recent content in the charge residue mechanism on FenXiHuaXue Handbook</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Mon, 27 Jun 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://example.com/tags/the-charge-residue-mechanism/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Tag Index</title>
+      <link>https://example.com/docs/Tag_Collection/</link>
+      <pubDate>Mon, 27 Jun 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/docs/Tag_Collection/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>ESI General Review</title>
+      <link>https://example.com/docs/01-Mass-Spec-LC-MS/Part-01-Theory/ESI_general_review/</link>
+      <pubDate>Thu, 17 Mar 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/docs/01-Mass-Spec-LC-MS/Part-01-Theory/ESI_general_review/</guid>
+      <description>&lt;p&gt;The LC eluate is sprayed into a spray chamber at atmospheric pressure in the presence of a strong electrostatic field and heated drying gas.&lt;/p&gt;
+&lt;p&gt;The electrostatic field occurs between the nebulizer, which is the ES probe, and the capillary. Aerosol of charged droplet formation at right angles to the capillary.&lt;/p&gt;
+&lt;p&gt;Ionization takes place as a result of imparting the strong electrical field and the superheated nitrogrn sheath gas, with Agilent AJS (Jet Stream) technology.&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

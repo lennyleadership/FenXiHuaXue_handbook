@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Part I Method Validation on FenXiHuaXue Handbook</title>
+    <link>https://example.com/docs/06-Method-Development-and-Validation/Part-1-Workflow/</link>
+    <description>Recent content in Part I Method Validation on FenXiHuaXue Handbook</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Tue, 05 Apr 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://example.com/docs/06-Method-Development-and-Validation/Part-1-Workflow/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Clinical LC-MS/MS Method Validation</title>
+      <link>https://example.com/docs/06-Method-Development-and-Validation/Part-1-Workflow/Clinical_LC_MSMS_method_validation_01/</link>
+      <pubDate>Tue, 05 Apr 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/docs/06-Method-Development-and-Validation/Part-1-Workflow/Clinical_LC_MSMS_method_validation_01/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Method Validation Experience</title>
+      <link>https://example.com/docs/06-Method-Development-and-Validation/Part-1-Workflow/Method_development_experience/</link>
+      <pubDate>Tue, 05 Apr 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/docs/06-Method-Development-and-Validation/Part-1-Workflow/Method_development_experience/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

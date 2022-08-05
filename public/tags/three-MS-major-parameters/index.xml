@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>three MS major parameters on FenXiHuaXue Handbook</title>
+    <link>https://example.com/tags/three-MS-major-parameters/</link>
+    <description>Recent content in three MS major parameters on FenXiHuaXue Handbook</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Wed, 13 Jul 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://example.com/tags/three-MS-major-parameters/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Tag Index</title>
+      <link>https://example.com/docs/Tag_Collection/</link>
+      <pubDate>Mon, 27 Jun 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/docs/Tag_Collection/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>02 Method Development</title>
+      <link>https://example.com/docs/01-Mass-Spec-LC-MS/Part-03-Career-Development/Sciex-Courses/02_Method_development/</link>
+      <pubDate>Wed, 13 Jul 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/docs/01-Mass-Spec-LC-MS/Part-03-Career-Development/Sciex-Courses/02_Method_development/</guid>
+      <description>&lt;p&gt;
+  &lt;a href=&#34;https://sciex.com/content/dam/SCIEX/videos/lc-ms-ms-101-2022-method-development.mp4?elqTrackId=1a5aafe5c1b8436da9628d520e6ae9bd&amp;amp;elqaid=3597&amp;amp;elqat=2&amp;amp;_ga=2.156267963.1091058397.1657893899-823906695.1657893899&#34;&gt;Video: 02 Method Development&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Step 1: Compound optimization&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;Q1 scan (identify the parent)&lt;/li&gt;
+&lt;li&gt;Product ion scan (identify the fragments)&lt;/li&gt;
+&lt;li&gt;MRM scans (optimize your parameters)&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;Step 2: Chromatography&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;Choosing a column&lt;/li&gt;
+&lt;li&gt;Selecting a mobile phase&lt;/li&gt;
+&lt;li&gt;Using chromatography&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;Step 3: sMRM method&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;Run a mid or high level standard&lt;/li&gt;
+&lt;li&gt;Create a method in analytics and process a sample&lt;/li&gt;
+&lt;li&gt;Copy and paste RT into your method&lt;/li&gt;
+&lt;/ol&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

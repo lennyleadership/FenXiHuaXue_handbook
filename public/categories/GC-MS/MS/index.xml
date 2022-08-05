@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>GC MS/MS on FenXiHuaXue Handbook</title>
+    <link>https://example.com/categories/GC-MS/MS/</link>
+    <description>Recent content in GC MS/MS on FenXiHuaXue Handbook</description>
+    <generator>Hugo -- gohugo.io</generator><atom:link href="https://example.com/categories/GC-MS/MS/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Part II Application</title>
+      <link>https://example.com/docs/04-Chrom-GC/Part-02-Application/</link>
+      <pubDate>Thu, 10 Mar 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/docs/04-Chrom-GC/Part-02-Application/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Part I Theory</title>
+      <link>https://example.com/docs/03-Mass-Spec-GC-MS/Part-1-Theory/</link>
+      <pubDate>Mon, 27 Dec 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/docs/03-Mass-Spec-GC-MS/Part-1-Theory/</guid>
+      <description>&lt;p&gt;GC-MS, GC-MS/MS Theory&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Part II</title>
+      <link>https://example.com/docs/03-Mass-Spec-GC-MS/Part-2-Application/</link>
+      <pubDate>Mon, 27 Dec 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/docs/03-Mass-Spec-GC-MS/Part-2-Application/</guid>
+      <description>&lt;p&gt;This is the root of nested chapter.&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

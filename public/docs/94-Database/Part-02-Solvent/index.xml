@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Part 02 Solvent Property on FenXiHuaXue Handbook</title>
+    <link>https://example.com/docs/94-Database/Part-02-Solvent/</link>
+    <description>Recent content in Part 02 Solvent Property on FenXiHuaXue Handbook</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Mon, 03 Jan 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://example.com/docs/94-Database/Part-02-Solvent/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Chapter 01 Solvent Properties</title>
+      <link>https://example.com/docs/94-Database/Part-02-Solvent/01_Solvent_properties/</link>
+      <pubDate>Mon, 03 Jan 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/docs/94-Database/Part-02-Solvent/01_Solvent_properties/</guid>
+      <description>&lt;figcaption&gt;&lt;b&gt;Figure &lt;/b&gt;: &lt;/figcaption&gt;
+&lt;img src = &#34;/docs/images/&#34;/&gt;</description>
+    </item>
+    
+    <item>
+      <title>Template</title>
+      <link>https://example.com/docs/94-Database/Part-02-Solvent/T_02/</link>
+      <pubDate>Mon, 03 Jan 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/docs/94-Database/Part-02-Solvent/T_02/</guid>
+      <description>&lt;figcaption&gt;&lt;b&gt;Figure &lt;/b&gt;: &lt;/figcaption&gt;
+&lt;img src = &#34;/docs/images/&#34;/&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

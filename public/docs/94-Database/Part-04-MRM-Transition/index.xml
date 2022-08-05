@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Part 04 MRM Transitions on FenXiHuaXue Handbook</title>
+    <link>https://example.com/docs/94-Database/Part-04-MRM-Transition/</link>
+    <description>Recent content in Part 04 MRM Transitions on FenXiHuaXue Handbook</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Mon, 03 Jan 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://example.com/docs/94-Database/Part-04-MRM-Transition/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>MRM Transitions -01</title>
+      <link>https://example.com/docs/94-Database/Part-04-MRM-Transition/MRM_transitions_01/</link>
+      <pubDate>Mon, 03 Jan 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/docs/94-Database/Part-04-MRM-Transition/MRM_transitions_01/</guid>
+      <description>&lt;figcaption&gt;&lt;b&gt;Figure &lt;/b&gt;: &lt;/figcaption&gt;
+&lt;img width =&#34;360&#34; height= &#34;200&#34; src = &#34;/docs/images/&#34;/&gt;</description>
+    </item>
+    
+    <item>
+      <title>Template</title>
+      <link>https://example.com/docs/94-Database/Part-04-MRM-Transition/T_02/</link>
+      <pubDate>Mon, 03 Jan 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/docs/94-Database/Part-04-MRM-Transition/T_02/</guid>
+      <description>&lt;figcaption&gt;&lt;b&gt;Figure &lt;/b&gt;: &lt;/figcaption&gt;
+&lt;img width =&#34;360&#34; height= &#34;200&#34; src = &#34;/docs/images/&#34;/&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

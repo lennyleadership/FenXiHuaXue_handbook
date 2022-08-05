@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Matrix Effects on FenXiHuaXue Handbook</title>
+    <link>https://example.com/docs/08-Sample-Extraction-and-Cleanup/Matrix-Effects/</link>
+    <description>Recent content in Matrix Effects on FenXiHuaXue Handbook</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Fri, 16 Oct 2020 00:00:00 +0000</lastBuildDate><atom:link href="https://example.com/docs/08-Sample-Extraction-and-Cleanup/Matrix-Effects/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Matrix Effect Determination</title>
+      <link>https://example.com/docs/08-Sample-Extraction-and-Cleanup/Matrix-Effects/Matrix_effect_determination/</link>
+      <pubDate>Fri, 24 Jun 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/docs/08-Sample-Extraction-and-Cleanup/Matrix-Effects/Matrix_effect_determination/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Application of Matrix Effect Factor</title>
+      <link>https://example.com/docs/08-Sample-Extraction-and-Cleanup/Matrix-Effects/Comprehensive_matrix_effect/</link>
+      <pubDate>Thu, 17 Mar 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/docs/08-Sample-Extraction-and-Cleanup/Matrix-Effects/Comprehensive_matrix_effect/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>ICH M10 Guideline on Matrix Effects Evaluation</title>
+      <link>https://example.com/docs/08-Sample-Extraction-and-Cleanup/Matrix-Effects/Matrix_effects_03/</link>
+      <pubDate>Thu, 17 Mar 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/docs/08-Sample-Extraction-and-Cleanup/Matrix-Effects/Matrix_effects_03/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Matrix Effects</title>
+      <link>https://example.com/docs/08-Sample-Extraction-and-Cleanup/Matrix-Effects/Matrix_effects/</link>
+      <pubDate>Thu, 17 Mar 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/docs/08-Sample-Extraction-and-Cleanup/Matrix-Effects/Matrix_effects/</guid>
+      <description>&lt;p&gt;Ways of eliminating, reducing or compensating matrix effects:&lt;br&gt;
+Reduce the injection volume.&lt;br&gt;
+Dilute sample or extract.&lt;br&gt;
+&lt;br&gt;
+More extensive sample clean-up and better extraction&lt;br&gt;
+Use mixed-mode SPE.&lt;br&gt;
+Extra wash steps in SPE.&lt;br&gt;
+&lt;br&gt;
+Optimize mobile phase (including organic modifier, additives, buffers, pH)&lt;br&gt;
+Eluotropic strength or elution profile [not understand].&lt;br&gt;
+&lt;br&gt;
+Change the column chemistry,&lt;br&gt;
+use longer column,&lt;br&gt;
+use Ultra Fast LC (UFLC) or smaller particles to improve resolution.&lt;br&gt;
+&lt;br&gt;
+Switch from ESI to APCI.&lt;br&gt;
+Switch from positive ionization mode to negative ionization mode.&lt;br&gt;
+&lt;br&gt;
+External matrix-matched calibrators (i.e. standards with the same or similar matrix composition as the analysed sample) can be used to compensate for matrix effects. &lt;br&gt;
+&lt;br&gt;
+Internal standards (IS) can be used to compensate for variations in injection, sample preparation, instrumental parameters and also matrix effects.&lt;/p&gt;
+&lt;p&gt;Other less often used calibration techniques are echo peak technique, standard addition, extrapolative dilution and (segmented) post-column standard addition.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Matrix Effects</title>
+      <link>https://example.com/docs/08-Sample-Extraction-and-Cleanup/Matrix-Effects/Matrix_effects_02/</link>
+      <pubDate>Thu, 17 Mar 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/docs/08-Sample-Extraction-and-Cleanup/Matrix-Effects/Matrix_effects_02/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Matrix Effects Evaluation</title>
+      <link>https://example.com/docs/08-Sample-Extraction-and-Cleanup/Matrix-Effects/Matrix_effects_evaluation/</link>
+      <pubDate>Thu, 17 Mar 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/docs/08-Sample-Extraction-and-Cleanup/Matrix-Effects/Matrix_effects_evaluation/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Minimization of Matrix Effect</title>
+      <link>https://example.com/docs/08-Sample-Extraction-and-Cleanup/Matrix-Effects/Minimization_of_matrix_effects/</link>
+      <pubDate>Thu, 17 Mar 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/docs/08-Sample-Extraction-and-Cleanup/Matrix-Effects/Minimization_of_matrix_effects/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

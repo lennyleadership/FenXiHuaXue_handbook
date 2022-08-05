@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Column on FenXiHuaXue Handbook</title>
+    <link>https://example.com/tags/Column/</link>
+    <description>Recent content in Column on FenXiHuaXue Handbook</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Mon, 03 Jan 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://example.com/tags/Column/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Column Caring and Protection</title>
+      <link>https://example.com/docs/02-Chrom-HPLC/Part-03-HPLC-Columns/Column_Caring/</link>
+      <pubDate>Mon, 03 Jan 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/docs/02-Chrom-HPLC/Part-03-HPLC-Columns/Column_Caring/</guid>
+      <description>&lt;p&gt;It talks about column caring, protection, cleaning, and regeneration.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Flow Direction</title>
+      <link>https://example.com/docs/02-Chrom-HPLC/Part-04-GLP-for-HPLC/10_flow_direction/</link>
+      <pubDate>Mon, 03 Jan 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/docs/02-Chrom-HPLC/Part-04-GLP-for-HPLC/10_flow_direction/</guid>
+      <description>&lt;figcaption&gt;&lt;b&gt;Figure &lt;/b&gt;: &lt;/figcaption&gt;
+&lt;img src = &#34;/docs/images/&#34;/&gt;</description>
+    </item>
+    
+    <item>
+      <title>BEH Column Application in Steroid Conjugates</title>
+      <link>https://example.com/docs/95-Literature-Reading/BEH_application_steroids/</link>
+      <pubDate>Thu, 30 Dec 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/docs/95-Literature-Reading/BEH_application_steroids/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

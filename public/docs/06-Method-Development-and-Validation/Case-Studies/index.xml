@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Case Studies on FenXiHuaXue Handbook</title>
+    <link>https://example.com/docs/06-Method-Development-and-Validation/Case-Studies/</link>
+    <description>Recent content in Case Studies on FenXiHuaXue Handbook</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Tue, 05 Apr 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://example.com/docs/06-Method-Development-and-Validation/Case-Studies/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>phenomenex - Method Development for Underivatized MMA from Serum</title>
+      <link>https://example.com/docs/06-Method-Development-and-Validation/Case-Studies/Case_01_phenomenex_MMA_Serum/</link>
+      <pubDate>Tue, 05 Apr 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/docs/06-Method-Development-and-Validation/Case-Studies/Case_01_phenomenex_MMA_Serum/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>phenomenex - Overcoming the Challenges of Sample Preparation and LC/MS/MS Method Development for Clinical Applications</title>
+      <link>https://example.com/docs/06-Method-Development-and-Validation/Case-Studies/Case_02_phenomenex_overcome_sample_prep_challenge_clinical_app/</link>
+      <pubDate>Tue, 05 Apr 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/docs/06-Method-Development-and-Validation/Case-Studies/Case_02_phenomenex_overcome_sample_prep_challenge_clinical_app/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>stationary phase on FenXiHuaXue Handbook</title>
+    <link>https://example.com/tags/stationary-phase/</link>
+    <description>Recent content in stationary phase on FenXiHuaXue Handbook</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Mon, 27 Dec 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://example.com/tags/stationary-phase/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Factors Affecting Resolution</title>
+      <link>https://example.com/docs/20-Separation-Science/Part-2-Application/Factors_Affecting_Resolution/</link>
+      <pubDate>Mon, 27 Dec 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/docs/20-Separation-Science/Part-2-Application/Factors_Affecting_Resolution/</guid>
+      <description>&lt;p&gt;Van Deemter Plot explains resolution.&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

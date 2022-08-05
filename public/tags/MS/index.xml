@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>MS on FenXiHuaXue Handbook</title>
+    <link>https://example.com/tags/MS/</link>
+    <description>Recent content in MS on FenXiHuaXue Handbook</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Thu, 09 Jun 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://example.com/tags/MS/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>The M&#43; peak and the base peak</title>
+      <link>https://example.com/docs/01-Mass-Spec-LC-MS/Part-01-Theory/TIC_N_BPC/</link>
+      <pubDate>Thu, 09 Jun 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/docs/01-Mass-Spec-LC-MS/Part-01-Theory/TIC_N_BPC/</guid>
+      <description>&lt;style type = &#34;text/css&#34;&gt;
+/* image and text side-by-side */
+* {
+  box-sizing: border-box;
+}
+
+.row {
+  margin-left:-5px;
+  margin-right:-5px;
+}
+  
+.column {
+  float: left;
+  padding: 5px; /* space between two tables*/
+}
+
+/* Clearfix (clear floats) */
+.row::after {
+  content: &#34;&#34;;
+  clear: both;
+  display: table;
+}
+
+/* end of the setting for two tables side-by-side */
+&lt;/style&gt;
+&lt;p&gt;The M+ peak (signal) is the parent peak.  It represents the cation molecule. Its m/z is associated with the molar mass of compound.&lt;br&gt;
+The base peak represents the most stable cation fragment.  It is a stable intermediate, not a stable structure.  Its intensity is set as 100, everything else is in comparison to it.  It could represent the M+.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>The M&#43;, M&#43;1 and M&#43;2 Peaks</title>
+      <link>https://example.com/docs/01-Mass-Spec-LC-MS/Part-01-Theory/M&#43;_M&#43;1_M&#43;2/</link>
+      <pubDate>Thu, 09 Jun 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/docs/01-Mass-Spec-LC-MS/Part-01-Theory/M&#43;_M&#43;1_M&#43;2/</guid>
+      <description>&lt;p&gt;M+ peak represents the compound.  It is often referred to as the parent peak.&lt;br&gt;
+M+1 peak represents the compound with isotope.  The chance of finding a C-13 is one in 100.  C-13 and N-15 can be responsible for M+1 peak.
+M+2 peak represents the compound having either chloride or bromide isotope.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Centroid or Profile</title>
+      <link>https://example.com/docs/01-Mass-Spec-LC-MS/Part-01-Theory/Profile_N_Centroid/</link>
+      <pubDate>Sat, 14 May 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/docs/01-Mass-Spec-LC-MS/Part-01-Theory/Profile_N_Centroid/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

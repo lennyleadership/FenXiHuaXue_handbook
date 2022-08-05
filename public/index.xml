@@ -1,0 +1,3066 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Introduction on FenXiHuaXue Handbook</title>
+    <link>https://example.com/</link>
+    <description>Recent content in Introduction on FenXiHuaXue Handbook</description>
+    <generator>Hugo -- gohugo.io</generator><atom:link href="https://example.com/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Tag Index</title>
+      <link>https://example.com/docs/Tag_Collection/</link>
+      <pubDate>Mon, 27 Jun 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/docs/Tag_Collection/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>With ToC</title>
+      <link>https://example.com/docs/98-example/table-of-contents/with-toc/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/docs/98-example/table-of-contents/with-toc/</guid>
+      <description>Caput vino delphine in tamen vias #  Cognita laeva illo fracta #  Lorem markdownum pavent auras, surgit nunc cingentibus libet Laomedonque que est. Pastor An arbor filia foedat, ne fugit aliter, per. Helicona illas et callida neptem est Oresitrophos caput, dentibus est venit. Tenet reddite famuli praesentem fortibus, quaeque vis foret si frondes gelidos gravidae circumtulit inpulit armenta nativum.
+ Te at cruciabere vides rubentis manebo Maturuit in praetemptat ruborem ignara postquam habitasse Subitarum supplevit quoque fontesque venabula spretis modo Montis tot est mali quasque gravis Quinquennem domus arsit ipse Pellem turis pugnabant locavit  Natus quaerere #  Pectora et sine mulcere, coniuge dum tincta incurvae.</description>
+    </item>
+    
+    <item>
+      <title>02 Introduction</title>
+      <link>https://example.com/docs/09-Design-of-Experiments/Course/02_principles_of_DoE/</link>
+      <pubDate>Mon, 03 Jan 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/docs/09-Design-of-Experiments/Course/02_principles_of_DoE/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Without ToC</title>
+      <link>https://example.com/docs/98-example/table-of-contents/without-toc/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/docs/98-example/table-of-contents/without-toc/</guid>
+      <description>At me ipso nepotibus nunc celebratior genus #  Tanto oblite #  Lorem markdownum pectora novis patenti igne sua opus aurae feras materiaque illic demersit imago et aristas questaque posset. Vomit quoque suo inhaesuro clara. Esse cumque, per referri triste. Ut exponit solisque communis in tendens vincetis agisque iamque huic bene ante vetat omina Thebae rates. Aeacus servat admonitu concidit, ad resimas vultus et rugas vultu dignamque Siphnon.
+Quam iugulum regia simulacra, plus meruit humo pecorumque haesit, ab discedunt dixit: ritu pharetramque.</description>
+    </item>
+    
+    <item>
+      <title>03 Statistical Concepts</title>
+      <link>https://example.com/docs/09-Design-of-Experiments/Course/03_statistical_concepts/</link>
+      <pubDate>Mon, 03 Jan 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/docs/09-Design-of-Experiments/Course/03_statistical_concepts/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>04 Sampling and Sample Properties</title>
+      <link>https://example.com/docs/09-Design-of-Experiments/Course/04_sampling_sample_properties/</link>
+      <pubDate>Mon, 03 Jan 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/docs/09-Design-of-Experiments/Course/04_sampling_sample_properties/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>05 Hypothesis Testing (t-Test &amp; F-Test)</title>
+      <link>https://example.com/docs/09-Design-of-Experiments/Course/05_hypothesis_testing/</link>
+      <pubDate>Mon, 03 Jan 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/docs/09-Design-of-Experiments/Course/05_hypothesis_testing/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>08 Comparing Treatment Means</title>
+      <link>https://example.com/docs/09-Design-of-Experiments/Course/06_compare_means/</link>
+      <pubDate>Mon, 03 Jan 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/docs/09-Design-of-Experiments/Course/06_compare_means/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>07 Introduction to Single-Factor Experiments</title>
+      <link>https://example.com/docs/09-Design-of-Experiments/Course/07_intro_single_factor_experiments/</link>
+      <pubDate>Mon, 03 Jan 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/docs/09-Design-of-Experiments/Course/07_intro_single_factor_experiments/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>One-Way ANOVA</title>
+      <link>https://example.com/docs/09-Design-of-Experiments/Course/08_One_way_ANOVA/</link>
+      <pubDate>Mon, 03 Jan 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/docs/09-Design-of-Experiments/Course/08_One_way_ANOVA/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Creating a New Theme</title>
+      <link>https://example.com/posts/creating-a-new-theme/</link>
+      <pubDate>Sun, 28 Sep 2014 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/posts/creating-a-new-theme/</guid>
+      <description>Introduction #  This tutorial will show you how to create a simple theme in Hugo. I assume that you are familiar with HTML, the bash command line, and that you are comfortable using Markdown to format content. I&amp;rsquo;ll explain how Hugo uses templates and how you can organize your templates to create a theme. I won&amp;rsquo;t cover using CSS to style your theme.
+We&amp;rsquo;ll start with creating a new site with a very basic template.</description>
+    </item>
+    
+    <item>
+      <title>12 Interpretation of the ANOVA Results</title>
+      <link>https://example.com/docs/09-Design-of-Experiments/Course/12_Interpretation_ANOVA/</link>
+      <pubDate>Mon, 03 Jan 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/docs/09-Design-of-Experiments/Course/12_Interpretation_ANOVA/</guid>
+      <description>&lt;p&gt;The ANOVA tells us whether one factor is a significant factor that makes experiment different.&lt;/p&gt;
+&lt;p&gt;We need to compare pairs of means to see which level is outstanding level among many levels (greater than three)&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>17 Introduction to Factorial Design</title>
+      <link>https://example.com/docs/09-Design-of-Experiments/Course/17_Intro_Factorial_designs/</link>
+      <pubDate>Mon, 03 Jan 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/docs/09-Design-of-Experiments/Course/17_Intro_Factorial_designs/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>18 Main Effects and Interactions Between Factors</title>
+      <link>https://example.com/docs/09-Design-of-Experiments/Course/18_Main_effects_interactions/</link>
+      <pubDate>Mon, 03 Jan 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/docs/09-Design-of-Experiments/Course/18_Main_effects_interactions/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>19 Why Using Factorial Design?</title>
+      <link>https://example.com/docs/09-Design-of-Experiments/Course/19_why_use_factorial_design/</link>
+      <pubDate>Mon, 03 Jan 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/docs/09-Design-of-Experiments/Course/19_why_use_factorial_design/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>20 Two-Factor Factorial Designs</title>
+      <link>https://example.com/docs/09-Design-of-Experiments/Course/20_Two_factor_factorial_designs/</link>
+      <pubDate>Mon, 03 Jan 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/docs/09-Design-of-Experiments/Course/20_Two_factor_factorial_designs/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://example.com/docs/09-Design-of-Experiments/Course/22_Interpretation_of_the_results/</link>
+      <pubDate>Mon, 03 Jan 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/docs/09-Design-of-Experiments/Course/22_Interpretation_of_the_results/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>23 Means Comparison by Tukey&#39;s Test and Final Conclusion</title>
+      <link>https://example.com/docs/09-Design-of-Experiments/Course/23_Means_comparison_Tukey_test/</link>
+      <pubDate>Mon, 03 Jan 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/docs/09-Design-of-Experiments/Course/23_Means_comparison_Tukey_test/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>24 Introduction to 2^k Designs</title>
+      <link>https://example.com/docs/09-Design-of-Experiments/Course/24_Intro_2k_designs/</link>
+      <pubDate>Mon, 03 Jan 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/docs/09-Design-of-Experiments/Course/24_Intro_2k_designs/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>25 The 2^2 Design</title>
+      <link>https://example.com/docs/09-Design-of-Experiments/Course/25_22_design/</link>
+      <pubDate>Mon, 03 Jan 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/docs/09-Design-of-Experiments/Course/25_22_design/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://example.com/docs/09-Design-of-Experiments/Course/43_Block_replicated_design/</link>
+      <pubDate>Mon, 03 Jan 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/docs/09-Design-of-Experiments/Course/43_Block_replicated_design/</guid>
+      <description>&lt;p&gt;&lt;code&gt;randomization&lt;/code&gt; is the design technique that we can use to guard against unknown or uncontrolled nuisance factors.&lt;br&gt;
+&lt;code&gt;blocking&lt;/code&gt; is the design technique we can use to eliminate the effect of a knowed and controlled nuisance factor.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>44 Analyzing a 2^k Design with Blocks as Replicates</title>
+      <link>https://example.com/docs/09-Design-of-Experiments/Course/44_ANOVA_2k_blocked_design/</link>
+      <pubDate>Mon, 03 Jan 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/docs/09-Design-of-Experiments/Course/44_ANOVA_2k_blocked_design/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>45 Confounding a 2^k Design in Blocks</title>
+      <link>https://example.com/docs/09-Design-of-Experiments/Course/45_confounding_design_blocks/</link>
+      <pubDate>Mon, 03 Jan 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/docs/09-Design-of-Experiments/Course/45_confounding_design_blocks/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://example.com/docs/01-Mass-Spec-LC-MS/Part-03-Career-Development/blank/</link>
+      <pubDate>Wed, 13 Jul 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/docs/01-Mass-Spec-LC-MS/Part-03-Career-Development/blank/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://example.com/docs/01-Mass-Spec-LC-MS/Part-03-Career-Development/Others/blank/</link>
+      <pubDate>Wed, 13 Jul 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/docs/01-Mass-Spec-LC-MS/Part-03-Career-Development/Others/blank/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://example.com/docs/01-Mass-Spec-LC-MS/Part-03-Career-Development/Sciex-Courses/blank/</link>
+      <pubDate>Wed, 13 Jul 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/docs/01-Mass-Spec-LC-MS/Part-03-Career-Development/Sciex-Courses/blank/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://example.com/docs/01-Mass-Spec-LC-MS/Part-03-Career-Development/Temp/blank/</link>
+      <pubDate>Wed, 13 Jul 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/docs/01-Mass-Spec-LC-MS/Part-03-Career-Development/Temp/blank/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>01 Fundamentals</title>
+      <link>https://example.com/docs/01-Mass-Spec-LC-MS/Part-03-Career-Development/Sciex-Courses/01_Fundamentals/</link>
+      <pubDate>Wed, 13 Jul 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/docs/01-Mass-Spec-LC-MS/Part-03-Career-Development/Sciex-Courses/01_Fundamentals/</guid>
+      <description>&lt;p&gt;
+  &lt;a href=&#34;https://sciex.com/content/dam/SCIEX/videos/amer/lc-ms-ms-101-2022-fundamentals-and-theory.mp4?elqTrackId=95a73719c153407cb3412514137b0bd7&amp;amp;elqaid=3597&amp;amp;elqat=2&amp;amp;_ga=2.157865658.1091058397.1657893899-823906695.1657893899&#34;&gt;Video: 01 Fundamentals and Theory&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>02 Method Development</title>
+      <link>https://example.com/docs/01-Mass-Spec-LC-MS/Part-03-Career-Development/Sciex-Courses/02_Method_development/</link>
+      <pubDate>Wed, 13 Jul 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/docs/01-Mass-Spec-LC-MS/Part-03-Career-Development/Sciex-Courses/02_Method_development/</guid>
+      <description>&lt;p&gt;
+  &lt;a href=&#34;https://sciex.com/content/dam/SCIEX/videos/lc-ms-ms-101-2022-method-development.mp4?elqTrackId=1a5aafe5c1b8436da9628d520e6ae9bd&amp;amp;elqaid=3597&amp;amp;elqat=2&amp;amp;_ga=2.156267963.1091058397.1657893899-823906695.1657893899&#34;&gt;Video: 02 Method Development&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Step 1: Compound optimization&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;Q1 scan (identify the parent)&lt;/li&gt;
+&lt;li&gt;Product ion scan (identify the fragments)&lt;/li&gt;
+&lt;li&gt;MRM scans (optimize your parameters)&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;Step 2: Chromatography&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;Choosing a column&lt;/li&gt;
+&lt;li&gt;Selecting a mobile phase&lt;/li&gt;
+&lt;li&gt;Using chromatography&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;Step 3: sMRM method&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;Run a mid or high level standard&lt;/li&gt;
+&lt;li&gt;Create a method in analytics and process a sample&lt;/li&gt;
+&lt;li&gt;Copy and paste RT into your method&lt;/li&gt;
+&lt;/ol&gt;</description>
+    </item>
+    
+    <item>
+      <title>03 Effective Data Processing</title>
+      <link>https://example.com/docs/01-Mass-Spec-LC-MS/Part-03-Career-Development/Sciex-Courses/03_Effective_data_processing/</link>
+      <pubDate>Wed, 13 Jul 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/docs/01-Mass-Spec-LC-MS/Part-03-Career-Development/Sciex-Courses/03_Effective_data_processing/</guid>
+      <description>&lt;p&gt;
+  &lt;a href=&#34;https://sciex.com/content/dam/SCIEX/videos/biopharma/lc-ms-ms-101-2022-effective-data-processing.mp4?elqTrackId=e39ddbfbabfc4a3ca68684ad4535174b&amp;amp;elqaid=3597&amp;amp;elqat=2&amp;amp;_ga=2.156267963.1091058397.1657893899-823906695.1657893899&#34;&gt;Video: 03 Effective Data Processing&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>04 Maintenance and Troubleshooting</title>
+      <link>https://example.com/docs/01-Mass-Spec-LC-MS/Part-03-Career-Development/Sciex-Courses/04_Maintenance_N_troubleshooting/</link>
+      <pubDate>Wed, 13 Jul 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/docs/01-Mass-Spec-LC-MS/Part-03-Career-Development/Sciex-Courses/04_Maintenance_N_troubleshooting/</guid>
+      <description>&lt;p&gt;
+  &lt;a href=&#34;https://sciex.com/content/dam/SCIEX/videos/lc-ms-ms-101-2022-maintenance-and-troubleshooting.mp4?elqTrackId=e39ddbfbabfc4a3ca68684ad4535174b&amp;amp;elqaid=3597&amp;amp;elqat=2&amp;amp;_ga=2.232510111.1091058397.1657893899-823906695.1657893899&#34;&gt;Video: 04 Maintenance and Troubleshooting&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Pesticides in Spices and Tobacco</title>
+      <link>https://example.com/docs/01-Mass-Spec-LC-MS/Part-03-Career-Development/Others/Workflow_pesticides_spicesNtobacco/</link>
+      <pubDate>Wed, 13 Jul 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/docs/01-Mass-Spec-LC-MS/Part-03-Career-Development/Others/Workflow_pesticides_spicesNtobacco/</guid>
+      <description>&lt;p&gt;
+  &lt;a href=&#34;https://webinar.sepscience.com/high-throughput-pesticide-analysis-by-ms/ms-in-spices-and-tobacco?submissionGuid=712fb094-63f2-455c-afe5-96358d1666be&#34;&gt;Spice Up Your Life with MS: Workflows for High Throughput Pesticide Analysis by MS/MS in Challenging Matrices such as Spices and Tobacco&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>The Challenges and Workflow Dilemma of High-throughput Multi-residue Pesticide</title>
+      <link>https://example.com/docs/01-Mass-Spec-LC-MS/Part-03-Career-Development/Others/High_throughput_pesticides/</link>
+      <pubDate>Wed, 13 Jul 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/docs/01-Mass-Spec-LC-MS/Part-03-Career-Development/Others/High_throughput_pesticides/</guid>
+      <description>&lt;p&gt;
+  &lt;a href=&#34;https://webinar.sepscience.com/auditorium/solving-the-challenges-and-workflow-dilemma-of-high-throughput-multi-residue-pesticide-screening-1?hsCtaTracking=ade1442e-c9a9-44a9-b711-a517e7c8d17f%7Cb68cbf0c-2130-4f4d-b23c-533bccc635a0&#34;&gt;The Challenges and Workflow Dilemma of High-throughput
+Multi-residue Pesticide&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>The Challenges of Pesticide Analysis</title>
+      <link>https://example.com/docs/01-Mass-Spec-LC-MS/Part-03-Career-Development/Others/Pesticide_residues_challenge/</link>
+      <pubDate>Wed, 13 Jul 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/docs/01-Mass-Spec-LC-MS/Part-03-Career-Development/Others/Pesticide_residues_challenge/</guid>
+      <description>&lt;p&gt;
+  &lt;a href=&#34;https://webinar.sepscience.com/auditorium/the-challenges-of-pesticide-analysis-lc-or-gc-triple-quadrupole-1?hsCtaTracking=dc4d321e-680a-4214-b941-a85d1961bcf0%7C2b480551-0d35-4922-b742-ff0f547ab26b&#34;&gt;The Challenges of Pesticide Analysis - LC or GC Triple Quadrupole?&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://example.com/docs/07-Troubleshooting/Part-01-Analysis-Troubleshooting/zzzz/</link>
+      <pubDate>Thu, 07 Jul 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/docs/07-Troubleshooting/Part-01-Analysis-Troubleshooting/zzzz/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Acceptable Limits for Accuracy using LCMSMS?</title>
+      <link>https://example.com/docs/01-Mass-Spec-LC-MS/Part-02-Practices/Accuracy_for_LCMSMS/</link>
+      <pubDate>Thu, 07 Jul 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/docs/01-Mass-Spec-LC-MS/Part-02-Practices/Accuracy_for_LCMSMS/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;solution&lt;/strong&gt;:&lt;br&gt;
+) Separate analyte from the matrix.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Lessons Learnt&lt;/strong&gt;:&lt;br&gt;
+) Highering &lt;code&gt;dissolvation temperature&lt;/code&gt; and gas flow will help to get a better dissolvation&lt;br&gt;
+) Decreasing &lt;code&gt;flow rate&lt;/code&gt; (especially on TQD) around 0.4 ml/min will help to get better RSD&amp;rsquo;s (also linked to dissolvation)&lt;br&gt;
+) Lowing &lt;code&gt;capillary voltage&lt;/code&gt; may give higher sensitivity but may increase Rsd (consider a test at 3kv and then compare with 1.5 and 1 kv, never go to 0.5kv).&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Agilent HPLC &amp; LC-MS Troubleshooting Guide</title>
+      <link>https://example.com/docs/01-Mass-Spec-LC-MS/Part-05-Troubleshooting/Agilent_troubleshooting_guide/</link>
+      <pubDate>Thu, 07 Jul 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/docs/01-Mass-Spec-LC-MS/Part-05-Troubleshooting/Agilent_troubleshooting_guide/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Forums</title>
+      <link>https://example.com/docs/01-Mass-Spec-LC-MS/Part-02-Practices/Forums/</link>
+      <pubDate>Thu, 07 Jul 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/docs/01-Mass-Spec-LC-MS/Part-02-Practices/Forums/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Internal standard Variation</title>
+      <link>https://example.com/docs/07-Troubleshooting/Part-01-Analysis-Troubleshooting/Internal_standard_variation/</link>
+      <pubDate>Thu, 07 Jul 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/docs/07-Troubleshooting/Part-01-Analysis-Troubleshooting/Internal_standard_variation/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>LC-MS/MS No Signal</title>
+      <link>https://example.com/docs/01-Mass-Spec-LC-MS/Part-02-Practices/LCMSMS_no-signal/</link>
+      <pubDate>Thu, 07 Jul 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/docs/01-Mass-Spec-LC-MS/Part-02-Practices/LCMSMS_no-signal/</guid>
+      <description>&lt;figcaption&gt;&lt;b&gt;Figure &lt;/b&gt;: &lt;/figcaption&gt;
+&lt;img src = &#34;/docs/images/&#34;/&gt;</description>
+    </item>
+    
+    <item>
+      <title>LC-MS/MS Troubleshooting Series</title>
+      <link>https://example.com/docs/01-Mass-Spec-LC-MS/Part-05-Troubleshooting/Troubleshooting_series/</link>
+      <pubDate>Thu, 07 Jul 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/docs/01-Mass-Spec-LC-MS/Part-05-Troubleshooting/Troubleshooting_series/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>LC-MS/MS unstable Signals</title>
+      <link>https://example.com/docs/01-Mass-Spec-LC-MS/Part-02-Practices/LCMSMS-unstable_signal/</link>
+      <pubDate>Thu, 07 Jul 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/docs/01-Mass-Spec-LC-MS/Part-02-Practices/LCMSMS-unstable_signal/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Noisy Baseline</title>
+      <link>https://example.com/docs/01-Mass-Spec-LC-MS/Part-02-Practices/Noisy_baseline/</link>
+      <pubDate>Thu, 07 Jul 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/docs/01-Mass-Spec-LC-MS/Part-02-Practices/Noisy_baseline/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Problem with one Analyte Response</title>
+      <link>https://example.com/docs/01-Mass-Spec-LC-MS/Part-02-Practices/Problem_with_one_analyte/</link>
+      <pubDate>Thu, 07 Jul 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/docs/01-Mass-Spec-LC-MS/Part-02-Practices/Problem_with_one_analyte/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Solutions could be&lt;/strong&gt;:&lt;br&gt;
+Do an infusion test.&lt;br&gt;
+Modify the gases.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Lesson learnt&lt;/strong&gt;:&lt;br&gt;
+IS should mimic the analyte and therefore compensates for the variability you observe.&lt;br&gt;
+matrix effects are tested on a limited number of injections, and accumulating effects may not be visible during the validation.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Troubleshooting Liquid Chromatography Tandem Mass Spectrometry in the Clinical Laboratory</title>
+      <link>https://example.com/docs/01-Mass-Spec-LC-MS/Part-05-Troubleshooting/Troubleshooting_LCMSMS/</link>
+      <pubDate>Thu, 07 Jul 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/docs/01-Mass-Spec-LC-MS/Part-05-Troubleshooting/Troubleshooting_LCMSMS/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Troubleshooting strategy</title>
+      <link>https://example.com/docs/01-Mass-Spec-LC-MS/Part-05-Troubleshooting/Troubleshooting_strategy/</link>
+      <pubDate>Thu, 07 Jul 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/docs/01-Mass-Spec-LC-MS/Part-05-Troubleshooting/Troubleshooting_strategy/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>GC-Ms/MS</title>
+      <link>https://example.com/docs/03-Mass-Spec-GC-MS/Part-1-Theory/GC-MSMS/</link>
+      <pubDate>Fri, 01 Jul 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/docs/03-Mass-Spec-GC-MS/Part-1-Theory/GC-MSMS/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://example.com/docs/05-Mass-Spec/Part-1-Theory/zzz/</link>
+      <pubDate>Tue, 28 Jun 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/docs/05-Mass-Spec/Part-1-Theory/zzz/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Dwell Time Effect in SIM</title>
+      <link>https://example.com/docs/01-Mass-Spec-LC-MS/Part-02-Practices/Dwell_time/</link>
+      <pubDate>Tue, 28 Jun 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/docs/01-Mass-Spec-LC-MS/Part-02-Practices/Dwell_time/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>HRMS List</title>
+      <link>https://example.com/docs/05-Mass-Spec/Part-1-Theory/HRMS_table/</link>
+      <pubDate>Tue, 28 Jun 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/docs/05-Mass-Spec/Part-1-Theory/HRMS_table/</guid>
+      <description>&lt;p&gt;series: [Applications in High Resolution Mass Spectrometrey Food Safety and Pesticide Residue Analysis edited by Roberto Romero-Gonzalez]&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Ion Trap Quadrupole</title>
+      <link>https://example.com/docs/05-Mass-Spec/Part-1-Theory/Ion_trap/</link>
+      <pubDate>Tue, 28 Jun 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/docs/05-Mass-Spec/Part-1-Theory/Ion_trap/</guid>
+      <description>&lt;p&gt;series: [Analysis of Pesticides in Food and Environmental Samples, edited by Jose L. Tadeo]&lt;/p&gt;
+&lt;h2 id=&#34;summary&#34;&gt;
+  Summary
+  &lt;a class=&#34;anchor&#34; href=&#34;#summary&#34;&gt;#&lt;/a&gt;
+&lt;/h2&gt;
+&lt;p&gt;Ion trap works at unit mass resolution, selectivity is limited.&lt;/p&gt;
+&lt;p&gt;Advantage:&lt;br&gt;
+) selectively store ions of one &lt;code&gt;mass-to-charge&lt;/code&gt; value.  As a result, the sensitivity is increased.&lt;br&gt;
+) When coupling with CID and a quadrupole, ion trap can store one precursor ion.&lt;/p&gt;
+&lt;p&gt;Disadvantage:&lt;br&gt;
+)&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Mass Definition</title>
+      <link>https://example.com/docs/05-Mass-Spec/Part-1-Theory/Mass_definition/</link>
+      <pubDate>Tue, 28 Jun 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/docs/05-Mass-Spec/Part-1-Theory/Mass_definition/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Mass Error - Terminology</title>
+      <link>https://example.com/docs/05-Mass-Spec/Part-1-Theory/Mass_error/</link>
+      <pubDate>Tue, 28 Jun 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/docs/05-Mass-Spec/Part-1-Theory/Mass_error/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Mass Spec Resolution</title>
+      <link>https://example.com/docs/05-Mass-Spec/Part-1-Theory/MS_resolution/</link>
+      <pubDate>Tue, 28 Jun 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/docs/05-Mass-Spec/Part-1-Theory/MS_resolution/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Orbitrap</title>
+      <link>https://example.com/docs/05-Mass-Spec/Part-1-Theory/Orbitrap/</link>
+      <pubDate>Tue, 28 Jun 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/docs/05-Mass-Spec/Part-1-Theory/Orbitrap/</guid>
+      <description>&lt;p&gt;series: [Applications in High Resolution Mass Spectrometrey Food Safety and Pesticide Residue Analysis edited by Roberto Romero-Gonzalez]&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>QToF</title>
+      <link>https://example.com/docs/05-Mass-Spec/Part-1-Theory/QToF/</link>
+      <pubDate>Tue, 28 Jun 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/docs/05-Mass-Spec/Part-1-Theory/QToF/</guid>
+      <description>&lt;p&gt;series: [Applications in High Resolution Mass Spectrometrey Food Safety and Pesticide Residue Analysis edited by Roberto Romero-Gonzalez]&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Single Quadrupole Analyzer</title>
+      <link>https://example.com/docs/05-Mass-Spec/Part-1-Theory/Single_quad/</link>
+      <pubDate>Tue, 28 Jun 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/docs/05-Mass-Spec/Part-1-Theory/Single_quad/</guid>
+      <description>&lt;p&gt;series: [Analysis of Pesticides in Food and Environmental Samples, edited by Jose L. Tadeo]&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Tandem Mass Spectrometry Analyzers</title>
+      <link>https://example.com/docs/05-Mass-Spec/Part-1-Theory/QQQ/</link>
+      <pubDate>Tue, 28 Jun 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/docs/05-Mass-Spec/Part-1-Theory/QQQ/</guid>
+      <description>&lt;p&gt;series: [Analysis of Pesticides in Food and Environmental Samples, edited by Jose L. Tadeo]&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Time-of-Flight Analyzer</title>
+      <link>https://example.com/docs/05-Mass-Spec/Part-1-Theory/ToF/</link>
+      <pubDate>Tue, 28 Jun 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/docs/05-Mass-Spec/Part-1-Theory/ToF/</guid>
+      <description>&lt;p&gt;series: [Analysis of Pesticides in Food and Environmental Samples, edited by Jose L. Tadeo]&lt;/p&gt;
+&lt;h2 id=&#34;summary&#34;&gt;
+  Summary
+  &lt;a class=&#34;anchor&#34; href=&#34;#summary&#34;&gt;#&lt;/a&gt;
+&lt;/h2&gt;
+&lt;p&gt;) operates at unit mass resolution but with very fast scan rates.&lt;br&gt;
+) has limited linear dynamic range.&lt;br&gt;
+) Flight times are proportional to the square root of the &lt;code&gt;m/z value&lt;/code&gt; of an ion.&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;measures ions flight time based on the fact that ion velocity is mass-dependent.  The more energetic the ion, the deeper it penetrates the retarding field of the reflection before getting reflected. This allows an energetic ion, traveling a longer flight path, to arrive at the detector at the same time as the less energetic ions of the same mass.&lt;/li&gt;
+&lt;li&gt;detects at trace levels while retaining full spectral information.&lt;/li&gt;
+&lt;/ol&gt;</description>
+    </item>
+    
+    <item>
+      <title>Fast Liquid Chromatography</title>
+      <link>https://example.com/docs/02-Chrom-HPLC/Part-01-Theory/Fast_liquid_chromatography/</link>
+      <pubDate>Mon, 27 Jun 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/docs/02-Chrom-HPLC/Part-01-Theory/Fast_liquid_chromatography/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Ion Pair Reagents</title>
+      <link>https://example.com/docs/02-Chrom-HPLC/Part-01-Theory/Ion_pair_reagents/</link>
+      <pubDate>Mon, 27 Jun 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/docs/02-Chrom-HPLC/Part-01-Theory/Ion_pair_reagents/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://example.com/docs/30-Pesticides-Analysis/Part-1-101-Knowledge/zzz/</link>
+      <pubDate>Fri, 24 Jun 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/docs/30-Pesticides-Analysis/Part-1-101-Knowledge/zzz/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://example.com/docs/30-Pesticides-Analysis/Part-2-Practices/blank/</link>
+      <pubDate>Fri, 24 Jun 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/docs/30-Pesticides-Analysis/Part-2-Practices/blank/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Challenges</title>
+      <link>https://example.com/docs/30-Pesticides-Analysis/Part-2-Practices/Challenges/</link>
+      <pubDate>Fri, 24 Jun 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/docs/30-Pesticides-Analysis/Part-2-Practices/Challenges/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Clean-up for Lipid</title>
+      <link>https://example.com/docs/08-Sample-Extraction-and-Cleanup/Sample_cleanup/</link>
+      <pubDate>Fri, 24 Jun 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/docs/08-Sample-Extraction-and-Cleanup/Sample_cleanup/</guid>
+      <description>&lt;p&gt;series: [Analysis of Pesticides in Food and Environmental Samples, edited by Jose L. Tadeo]&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Common Detection Methods of Aflatoxins</title>
+      <link>https://example.com/docs/30-Pesticides-Analysis/Part-1-101-Knowledge/Common_detection_aflatoxins/</link>
+      <pubDate>Fri, 24 Jun 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/docs/30-Pesticides-Analysis/Part-1-101-Knowledge/Common_detection_aflatoxins/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>English-Chinese Terms</title>
+      <link>https://example.com/docs/30-Pesticides-Analysis/Part-1-101-Knowledge/English-Chinese_terms/</link>
+      <pubDate>Fri, 24 Jun 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/docs/30-Pesticides-Analysis/Part-1-101-Knowledge/English-Chinese_terms/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Instrumentation Details</title>
+      <link>https://example.com/docs/30-Pesticides-Analysis/Part-1-101-Knowledge/Instrumentation_details/</link>
+      <pubDate>Fri, 24 Jun 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/docs/30-Pesticides-Analysis/Part-1-101-Knowledge/Instrumentation_details/</guid>
+      <description>&lt;p&gt;series: [Analysis of Pesticides in Food and Environmental Samples, edited by Jose L. Tadeo]&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>LRMS vs HRMS</title>
+      <link>https://example.com/docs/30-Pesticides-Analysis/Part-2-Practices/LRMS_HRMS/</link>
+      <pubDate>Fri, 24 Jun 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/docs/30-Pesticides-Analysis/Part-2-Practices/LRMS_HRMS/</guid>
+      <description>&lt;p&gt;&lt;sub&gt;&lt;/sub&gt;&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Matrix Effect Determination</title>
+      <link>https://example.com/docs/08-Sample-Extraction-and-Cleanup/Matrix-Effects/Matrix_effect_determination/</link>
+      <pubDate>Fri, 24 Jun 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/docs/08-Sample-Extraction-and-Cleanup/Matrix-Effects/Matrix_effect_determination/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Pesticide Database</title>
+      <link>https://example.com/docs/30-Pesticides-Analysis/Part-2-Practices/database/</link>
+      <pubDate>Fri, 24 Jun 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/docs/30-Pesticides-Analysis/Part-2-Practices/database/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Pesticide Structures and pKa</title>
+      <link>https://example.com/docs/30-Pesticides-Analysis/Part-2-Practices/Pesticide_pKa/</link>
+      <pubDate>Fri, 24 Jun 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/docs/30-Pesticides-Analysis/Part-2-Practices/Pesticide_pKa/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Pesticides Analysis Methods</title>
+      <link>https://example.com/docs/30-Pesticides-Analysis/Part-1-101-Knowledge/Pesticide_analysis_method/</link>
+      <pubDate>Fri, 24 Jun 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/docs/30-Pesticides-Analysis/Part-1-101-Knowledge/Pesticide_analysis_method/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Pesticides and Mycotoxins</title>
+      <link>https://example.com/docs/30-Pesticides-Analysis/Part-1-101-Knowledge/Pesticides_N_Mycotoxins/</link>
+      <pubDate>Fri, 24 Jun 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/docs/30-Pesticides-Analysis/Part-1-101-Knowledge/Pesticides_N_Mycotoxins/</guid>
+      <description>&lt;p&gt;series: [Analysis of Pesticides in Food and Environmental Samples, edited by Jose L. Tadeo]&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Pesticides Physicochemical Properties</title>
+      <link>https://example.com/docs/30-Pesticides-Analysis/Part-1-101-Knowledge/Pesticides_physicochemical_properties/</link>
+      <pubDate>Fri, 24 Jun 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/docs/30-Pesticides-Analysis/Part-1-101-Knowledge/Pesticides_physicochemical_properties/</guid>
+      <description>&lt;p&gt;series: [Analysis of Pesticides in Food and Environmental Samples, edited by Jose L. Tadeo]&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Sample Extraction</title>
+      <link>https://example.com/docs/08-Sample-Extraction-and-Cleanup/Sample_extraction/</link>
+      <pubDate>Fri, 24 Jun 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/docs/08-Sample-Extraction-and-Cleanup/Sample_extraction/</guid>
+      <description>&lt;p&gt;series: [Analysis of Pesticides in Food and Environmental Samples, edited by Jose L. Tadeo]&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Sample Preparation</title>
+      <link>https://example.com/docs/08-Sample-Extraction-and-Cleanup/Sample_prep/</link>
+      <pubDate>Fri, 24 Jun 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/docs/08-Sample-Extraction-and-Cleanup/Sample_prep/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Solid Phase Extraction</title>
+      <link>https://example.com/docs/08-Sample-Extraction-and-Cleanup/Solid-Phase-Extraction/SPE/</link>
+      <pubDate>Fri, 24 Jun 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/docs/08-Sample-Extraction-and-Cleanup/Solid-Phase-Extraction/SPE/</guid>
+      <description>&lt;p&gt;series: [Analysis of Pesticides in Food and Environmental Samples, edited by Jose L. Tadeo]&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Which Instrument?</title>
+      <link>https://example.com/docs/30-Pesticides-Analysis/Part-1-101-Knowledge/Which_instrument/</link>
+      <pubDate>Fri, 24 Jun 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/docs/30-Pesticides-Analysis/Part-1-101-Knowledge/Which_instrument/</guid>
+      <description>&lt;p&gt;Which chromatography and mass spectrometry systems are best for pesticide analysis?&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>1/7 Electrospray Ionization</title>
+      <link>https://example.com/docs/01-Mass-Spec-LC-MS/Part-01-Theory/Theory-Series-by-Waters/Theory_01_ESI/</link>
+      <pubDate>Mon, 20 Jun 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/docs/01-Mass-Spec-LC-MS/Part-01-Theory/Theory-Series-by-Waters/Theory_01_ESI/</guid>
+      <description>&lt;p&gt;Fundamentals of Mass Spectrometry provided by Waters (1 of 7)&lt;/p&gt;
+&lt;p&gt;Electrospray ionization, commonly referred to as ESI, is an example of an atmospheric pressure ionization (API) technique.&lt;/p&gt;
+&lt;p&gt;In the ESI source, the electric field is sufficient enough so that small droplets (solvated ions) turned to desolvated ions.&lt;/p&gt;
+&lt;p&gt;In contrast to vacuum ionization techniques, such as electron ionization or EI, ESI is considered to be a soft ionization technique, this is because ESI typically produces intact ions related to the analyte molecule and fewer fragment ions than vacuum ionization techniques.&lt;/p&gt;
+&lt;p&gt;EI produces positive ions, while ESI produces positive and negative ions.&lt;/p&gt;
+&lt;iframe width=&#34;360&#34; height=&#34;200&#34; src=&#34;https://www.youtube.com/embed/9AWBAI-Owzk?list=PL6yA4jv5tA-k9_2NVxm5jlzpZV_aW59DT&#34; title=&#34;Fundamentals of Mass Spectrometry (MS) (1 of 7) - Electrospray Ionisation&#34; frameborder=&#34;0&#34; allow=&#34;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture&#34; allowfullscreen&gt;&lt;/iframe&gt;</description>
+    </item>
+    
+    <item>
+      <title>2/7 Adduct Ions</title>
+      <link>https://example.com/docs/01-Mass-Spec-LC-MS/Part-01-Theory/Theory-Series-by-Waters/Theory_02_adduct_ion/</link>
+      <pubDate>Mon, 20 Jun 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/docs/01-Mass-Spec-LC-MS/Part-01-Theory/Theory-Series-by-Waters/Theory_02_adduct_ion/</guid>
+      <description>&lt;p&gt;Fundamentals of Mass Spectrometry provided by Waters (2 of 7)&lt;/p&gt;
+&lt;p&gt;Adduct ions are formed by the interaction of a precursor ion with one or more atoms or molecules, such as hydrogen ions, sodium ions, potassium ions, ammonium ions, hydride ions, chloride ions, bromide ions, acetate ions to form an ion.&lt;/p&gt;
+&lt;p&gt;Adding particular cations or anions into solution can enhance the formation of adduct ions, such as formic acid, acetic acid.&lt;/p&gt;
+&lt;p&gt;Matrix suppression is the result of adduct ion formation with background ions.&lt;/p&gt;
+&lt;p&gt;Compounds that readily form particular cations or anions can be added to sample solutions in order to enhance the formation of adduct ions.&lt;/p&gt;
+&lt;p&gt;This is a transcript of the following video.&lt;/p&gt;
+&lt;iframe width=&#34;360&#34; height=&#34;200&#34; src=&#34;https://www.youtube.com/embed/WusWNAb0IRM?list=PL6yA4jv5tA-k9_2NVxm5jlzpZV_aW59DT&#34; title=&#34;Fundamentals of MS (2 of 7) - Adduct Ions&#34; frameborder=&#34;0&#34; allow=&#34;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture&#34; allowfullscreen&gt;&lt;/iframe&gt;</description>
+    </item>
+    
+    <item>
+      <title>3/7 Multiple Charging</title>
+      <link>https://example.com/docs/01-Mass-Spec-LC-MS/Part-01-Theory/Theory-Series-by-Waters/Theory_03_multiple_charging/</link>
+      <pubDate>Mon, 20 Jun 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/docs/01-Mass-Spec-LC-MS/Part-01-Theory/Theory-Series-by-Waters/Theory_03_multiple_charging/</guid>
+      <description>&lt;p&gt;Fundamentals of Mass Spectrometry provided by Waters (3 of 7)&lt;/p&gt;
+&lt;p&gt;In positive ion mode, cations will form bonds with lone pairs of electrons that are located on atoms in the analyte molecule.  These atoms are typically nitrogen, oxygen or sulfur.&lt;/p&gt;
+&lt;p&gt;when analyzing small molecules, only one cation bonds with a small molecule to make a single charged ion.&lt;/p&gt;
+&lt;p&gt;When analyzing large molecules, there will be more atoms with lone pairs of electron, therefore more charges can be added to the molecule.&lt;/p&gt;
+&lt;p&gt;On the mass spectrum, we know that the x-axis represents the mass of the ion divided by the charge the ion is carrying.  If the ion is single charged, the ion will be observed at M+1.  If the ion gets two protons, the ion will be observed at &lt;code&gt;M+2/2&lt;/code&gt;.  If the charge is 4, the ion will be observed at &lt;code&gt;M+4/4&lt;/code&gt;.&lt;/p&gt;
+&lt;p&gt;This is a transcript of the following video.&lt;/p&gt;
+&lt;iframe width=&#34;360&#34; height=&#34;200&#34; src=&#34;https://www.youtube.com/embed/CuJRTHvy64k?list=PL6yA4jv5tA-k9_2NVxm5jlzpZV_aW59DT&#34; title=&#34;Fundamentals of MS (3 of 7)  - Multiple Charging&#34; frameborder=&#34;0&#34; allow=&#34;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture&#34; allowfullscreen&gt;&lt;/iframe&gt;</description>
+    </item>
+    
+    <item>
+      <title>4/7 Quadrupoles</title>
+      <link>https://example.com/docs/01-Mass-Spec-LC-MS/Part-01-Theory/Theory-Series-by-Waters/Theory_04_Quadrupoles/</link>
+      <pubDate>Mon, 20 Jun 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/docs/01-Mass-Spec-LC-MS/Part-01-Theory/Theory-Series-by-Waters/Theory_04_Quadrupoles/</guid>
+      <description>&lt;p&gt;Fundamentals of Mass Spectrometry provided by Waters (4 of 7)&lt;/p&gt;
+&lt;p&gt;A quadruploe consists of four parallel rods arranged around the central axis.&lt;/p&gt;
+&lt;p&gt;Static potentials or DC voltages, and alternating potentials or RF voltages are applied to the quadrupole rods with one pair of rods having the opposite polarity to the other pair.  These voltages create a fluctuating electric field between the rods.&lt;/p&gt;
+&lt;p&gt;Different ions can pass through the quadrupole and won&amp;rsquo;t strike rods under different ratios of the RF and DC voltages.  As the the DC to RF ratio is increased linearly with time, the ions of that particular mass are transmitted through the quadrupole to the detector.&lt;/p&gt;
+&lt;p&gt;This is a transcript of the following video.&lt;/p&gt;
+&lt;iframe width=&#34;360&#34; height=&#34;200&#34; src=&#34;https://www.youtube.com/embed/6_mavZ_WKoU?list=PL6yA4jv5tA-k9_2NVxm5jlzpZV_aW59DT&#34; title=&#34;Fundamentals of MS (4 of 7) - Quadrupoles&#34; frameborder=&#34;0&#34; allow=&#34;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture&#34; allowfullscreen&gt;&lt;/iframe&gt;</description>
+    </item>
+    
+    <item>
+      <title>5/7 Resolution</title>
+      <link>https://example.com/docs/01-Mass-Spec-LC-MS/Part-01-Theory/Theory-Series-by-Waters/Theory_05_Resolution/</link>
+      <pubDate>Mon, 20 Jun 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/docs/01-Mass-Spec-LC-MS/Part-01-Theory/Theory-Series-by-Waters/Theory_05_Resolution/</guid>
+      <description>&lt;p&gt;Fundamentals of Mass Spectrometry provided by Waters (5 of 7)&lt;/p&gt;
+&lt;p&gt;The definition of resolution is different for mass spectrometry with low resolution and for mass spectrometry with high resolution.&lt;/p&gt;
+&lt;p&gt;This is a transcript of the following video.&lt;/p&gt;
+&lt;iframe width=&#34;360&#34; height=&#34;200&#34; src=&#34;https://www.youtube.com/embed/qUhi98o1qUU?list=PL6yA4jv5tA-k9_2NVxm5jlzpZV_aW59DT&#34; title=&#34;Fundamentals of MS (5 of 7) - Resolution&#34; frameborder=&#34;0&#34; allow=&#34;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture&#34; allowfullscreen&gt;&lt;/iframe&gt;</description>
+    </item>
+    
+    <item>
+      <title>6/7 Isotopes</title>
+      <link>https://example.com/docs/01-Mass-Spec-LC-MS/Part-01-Theory/Theory-Series-by-Waters/Theory_06_Isotopes/</link>
+      <pubDate>Mon, 20 Jun 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/docs/01-Mass-Spec-LC-MS/Part-01-Theory/Theory-Series-by-Waters/Theory_06_Isotopes/</guid>
+      <description>&lt;p&gt;Fundamentals of Mass Spectrometry provided by Waters (6 of 7)&lt;/p&gt;
+&lt;p&gt;This is a transcript of the following video.&lt;/p&gt;
+&lt;iframe width=&#34;360&#34; height=&#34;200&#34; src=&#34;https://www.youtube.com/embed/om0BfIHXD0s?list=PL6yA4jv5tA-k9_2NVxm5jlzpZV_aW59DT&#34; title=&#34;Fundamentals of MS (6 of 7) - Isotopes&#34; frameborder=&#34;0&#34; allow=&#34;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture&#34; allowfullscreen&gt;&lt;/iframe&gt;</description>
+    </item>
+    
+    <item>
+      <title>7/7 Fragmentation</title>
+      <link>https://example.com/docs/01-Mass-Spec-LC-MS/Part-01-Theory/Theory-Series-by-Waters/Theory_07_Fragmentation/</link>
+      <pubDate>Mon, 20 Jun 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/docs/01-Mass-Spec-LC-MS/Part-01-Theory/Theory-Series-by-Waters/Theory_07_Fragmentation/</guid>
+      <description>&lt;p&gt;Fundamentals of Mass Spectrometry provided by Waters (7 of 7)&lt;/p&gt;
+&lt;p&gt;Fragmentation occurs at CID. The CID yields fragments using relatively low energies. The drawback of the CID is its difficulty to predict the results for complex molecules.&lt;/p&gt;
+&lt;p&gt;This is a transcript of the following video.&lt;/p&gt;
+&lt;iframe width=&#34;360&#34; height=&#34;200&#34; src=&#34;https://www.youtube.com/embed/ESKpOcjF8QM?list=PL6yA4jv5tA-k9_2NVxm5jlzpZV_aW59DT&#34; title=&#34;Fundamentals of MS (7 of 7) - Fragmentation&#34; frameborder=&#34;0&#34; allow=&#34;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture&#34; allowfullscreen&gt;&lt;/iframe&gt;</description>
+    </item>
+    
+    <item>
+      <title>Analyte Tuning</title>
+      <link>https://example.com/docs/01-Mass-Spec-LC-MS/Part-01-Theory/LCMSMS_Analyte_Tuning_Waters/</link>
+      <pubDate>Mon, 20 Jun 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/docs/01-Mass-Spec-LC-MS/Part-01-Theory/LCMSMS_Analyte_Tuning_Waters/</guid>
+      <description>&lt;p&gt;LC-MS/MS Education Series 3/3 by Waters&lt;/p&gt;
+&lt;iframe width=&#34;360&#34; height=&#34;200&#34; src=&#34;https://www.youtube.com/embed/GJGceTWBgOo?list=PLXXQRFm2zppkvs_PQ6277agqsr5Pbz2sX&#34; title=&#34;LC-MS/MS Education Series: Analyte Tuning&#34; frameborder=&#34;0&#34; allow=&#34;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture&#34; allowfullscreen&gt;&lt;/iframe&gt;</description>
+    </item>
+    
+    <item>
+      <title>Calculation of Optimum MRM Dwell Times</title>
+      <link>https://example.com/docs/01-Mass-Spec-LC-MS/Part-01-Theory/Calculation_Optimun_MRM_Dwell_Time/</link>
+      <pubDate>Mon, 20 Jun 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/docs/01-Mass-Spec-LC-MS/Part-01-Theory/Calculation_Optimun_MRM_Dwell_Time/</guid>
+      <description>&lt;iframe width=&#34;360&#34; height=&#34;200&#34; src=&#34;https://www.youtube.com/embed/IdORVk9TRzs&#34; title=&#34;Calculation of Optimum MRM Dwell Times&#34; frameborder=&#34;0&#34; allow=&#34;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture&#34; allowfullscreen&gt;&lt;/iframe&gt;</description>
+    </item>
+    
+    <item>
+      <title>Quadupole Resolution &amp; Mass Calibration</title>
+      <link>https://example.com/docs/01-Mass-Spec-LC-MS/Part-01-Theory/LCMSMS_resolution_N_masscalibration_Waters/</link>
+      <pubDate>Mon, 20 Jun 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/docs/01-Mass-Spec-LC-MS/Part-01-Theory/LCMSMS_resolution_N_masscalibration_Waters/</guid>
+      <description>&lt;p&gt;LC-MS/MS Education Series 2/3 by Waters&lt;/p&gt;
+&lt;iframe width=&#34;360&#34; height=&#34;200&#34; src=&#34;https://www.youtube.com/embed/vkT0nrbeoDY&#34; title=&#34;LC-MS/MS Education Series: Quadrupole Resolution and Mass Calibration&#34; frameborder=&#34;0&#34; allow=&#34;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture&#34; allowfullscreen&gt;&lt;/iframe&gt;</description>
+    </item>
+    
+    <item>
+      <title>Quadrupole Theory and Use</title>
+      <link>https://example.com/docs/01-Mass-Spec-LC-MS/Part-01-Theory/LCMSMS_theory_N_use_Waters/</link>
+      <pubDate>Sun, 19 Jun 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/docs/01-Mass-Spec-LC-MS/Part-01-Theory/LCMSMS_theory_N_use_Waters/</guid>
+      <description>&lt;p&gt;LC-MS/MS Education Series 1/3 by Waters&lt;/p&gt;
+&lt;p&gt;Operation modes: static mode, and scanning mode.&lt;/p&gt;
+&lt;p&gt;Acquisition modes: full scan, MRM, precursor ion scan, product ion scan, and neutral loss scan.&lt;/p&gt;
+&lt;iframe width=&#34;360&#34; height=&#34;200&#34; src=&#34;https://www.youtube.com/embed/iZH-oxP-OJ0&#34; title=&#34;LC-MS/MS Education Series: Quadrupole Theory and Use&#34; frameborder=&#34;0&#34; allow=&#34;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture&#34; allowfullscreen&gt;&lt;/iframe&gt;</description>
+    </item>
+    
+    <item>
+      <title>The M&#43; peak and the base peak</title>
+      <link>https://example.com/docs/01-Mass-Spec-LC-MS/Part-01-Theory/TIC_N_BPC/</link>
+      <pubDate>Thu, 09 Jun 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/docs/01-Mass-Spec-LC-MS/Part-01-Theory/TIC_N_BPC/</guid>
+      <description>&lt;style type = &#34;text/css&#34;&gt;
+/* image and text side-by-side */
+* {
+  box-sizing: border-box;
+}
+
+.row {
+  margin-left:-5px;
+  margin-right:-5px;
+}
+  
+.column {
+  float: left;
+  padding: 5px; /* space between two tables*/
+}
+
+/* Clearfix (clear floats) */
+.row::after {
+  content: &#34;&#34;;
+  clear: both;
+  display: table;
+}
+
+/* end of the setting for two tables side-by-side */
+&lt;/style&gt;
+&lt;p&gt;The M+ peak (signal) is the parent peak.  It represents the cation molecule. Its m/z is associated with the molar mass of compound.&lt;br&gt;
+The base peak represents the most stable cation fragment.  It is a stable intermediate, not a stable structure.  Its intensity is set as 100, everything else is in comparison to it.  It could represent the M+.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>The M&#43;, M&#43;1 and M&#43;2 Peaks</title>
+      <link>https://example.com/docs/01-Mass-Spec-LC-MS/Part-01-Theory/M&#43;_M&#43;1_M&#43;2/</link>
+      <pubDate>Thu, 09 Jun 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/docs/01-Mass-Spec-LC-MS/Part-01-Theory/M&#43;_M&#43;1_M&#43;2/</guid>
+      <description>&lt;p&gt;M+ peak represents the compound.  It is often referred to as the parent peak.&lt;br&gt;
+M+1 peak represents the compound with isotope.  The chance of finding a C-13 is one in 100.  C-13 and N-15 can be responsible for M+1 peak.
+M+2 peak represents the compound having either chloride or bromide isotope.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Raman Spectroscopy Principle by Thermo</title>
+      <link>https://example.com/docs/97-Raman/Part-1-Theory/Thermo_Principle/</link>
+      <pubDate>Wed, 25 May 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/docs/97-Raman/Part-1-Theory/Thermo_Principle/</guid>
+      <description>&lt;p&gt;This is a transcript of the following video.&lt;/p&gt;
+&lt;iframe width=&#34;360&#34; height=&#34;200&#34; src=&#34;https://www.youtube.com/embed/Gok7jRuer1k&#34; title=&#34;YouTube video player&#34; frameborder=&#34;0&#34; allow=&#34;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture&#34; allowfullscreen&gt;&lt;/iframe&gt;
+&lt;div class=&#34;row&#34;&gt;
+  &lt;div class=&#34;column&#34;&gt;
+&lt;img width =&#34;280&#34; height= &#34;156&#34; src = &#34;/docs/images/Schematic-representation-of-the-theory-of-Raman-Spectroscopy.png&#34;/&gt;
+  &lt;/div&gt;
+  &lt;div class=&#34;column&#34;&gt;
+&lt;img width =&#34;280&#34; height= &#34;156&#34; src = &#34;/docs/images/Jablonski-Diagram-1-1024x957.png&#34;/&gt;
+  &lt;/div&gt;
+&lt;/div&gt; 
+&lt;div class=&#34;row&#34;&gt;
+  &lt;div class=&#34;column&#34;&gt;
+&lt;img width =&#34;280&#34; height= &#34;156&#34; src = &#34;/docs/images/principle-of-raman-spectroscopy-n.jpg&#34;/&gt;
+  &lt;/div&gt;
+  &lt;div class=&#34;column&#34;&gt;
+&lt;img width =&#34;280&#34; height= &#34;156&#34; src = &#34;/docs/images/Raman1-5.png&#34;/&gt;
+  &lt;/div&gt;
+&lt;/div&gt;</description>
+    </item>
+    
+    <item>
+      <title>Arguments available in xcmsSet()</title>
+      <link>https://example.com/docs/50-MS-Based-Metabolomics/Notes/xcms_arguments/</link>
+      <pubDate>Tue, 17 May 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/docs/50-MS-Based-Metabolomics/Notes/xcms_arguments/</guid>
+      <description>&lt;p&gt;I list a number of arguments available in xcmsSet().&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>IPO Optimization Procedure</title>
+      <link>https://example.com/docs/50-MS-Based-Metabolomics/Notes/IPO_procedure/</link>
+      <pubDate>Tue, 17 May 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/docs/50-MS-Based-Metabolomics/Notes/IPO_procedure/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Notes</title>
+      <link>https://example.com/docs/50-MS-Based-Metabolomics/Notes/Notes/</link>
+      <pubDate>Tue, 17 May 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/docs/50-MS-Based-Metabolomics/Notes/Notes/</guid>
+      <description>&lt;figcaption&gt;&lt;b&gt;Figure &lt;/b&gt;: &lt;/figcaption&gt;
+&lt;img src = &#34;/docs/images/&#34;/&gt;</description>
+    </item>
+    
+    <item>
+      <title>xcms Methods and Parameters</title>
+      <link>https://example.com/docs/50-MS-Based-Metabolomics/Notes/xcms_methods/</link>
+      <pubDate>Tue, 17 May 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/docs/50-MS-Based-Metabolomics/Notes/xcms_methods/</guid>
+      <description>&lt;figcaption&gt;&lt;b&gt;Figure &lt;/b&gt;: &lt;/figcaption&gt;
+&lt;img src = &#34;/docs/images/&#34;/&gt;</description>
+    </item>
+    
+    <item>
+      <title>Centroid or Profile</title>
+      <link>https://example.com/docs/01-Mass-Spec-LC-MS/Part-01-Theory/Profile_N_Centroid/</link>
+      <pubDate>Sat, 14 May 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/docs/01-Mass-Spec-LC-MS/Part-01-Theory/Profile_N_Centroid/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Evaluation of the Extraction and Cleanup Methods</title>
+      <link>https://example.com/docs/08-Sample-Extraction-and-Cleanup/Extraction-N-Cleanup-Evaluation/Evaluation_extraction_N_cleanup_method/</link>
+      <pubDate>Sat, 07 May 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/docs/08-Sample-Extraction-and-Cleanup/Extraction-N-Cleanup-Evaluation/Evaluation_extraction_N_cleanup_method/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>SPE General Procedures</title>
+      <link>https://example.com/docs/08-Sample-Extraction-and-Cleanup/Solid-Phase-Extraction/SPE_general_procedures/</link>
+      <pubDate>Sat, 07 May 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/docs/08-Sample-Extraction-and-Cleanup/Solid-Phase-Extraction/SPE_general_procedures/</guid>
+      <description>&lt;p&gt;series: [Analysis of Pesticides in Food and Environmental Samples, edited by Jose L. Tadeo]&lt;/p&gt;
+&lt;h2 id=&#34;summary-a-hrefref1a&#34;&gt;
+  Summary &lt;a href=&#34;#ref&#34;&gt;[1]&lt;/a&gt;
+  &lt;a class=&#34;anchor&#34; href=&#34;#summary-a-hrefref1a&#34;&gt;#&lt;/a&gt;
+&lt;/h2&gt;
+&lt;p&gt;samples or extracts are percolated through the cartridge and the compounds are sorbed on the solid phase materials, which have been previously conditioned and activated (Zhang et al., 2012). Then the interferences are removed by prewashing by organic solvents while the analytes are retained on the sorbents. More frequently, the interferences are retained in the cartridge and the analytes pass through and are collected for analysis.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>SPE Selection Tree</title>
+      <link>https://example.com/docs/08-Sample-Extraction-and-Cleanup/Solid-Phase-Extraction/SPE_selection_tree/</link>
+      <pubDate>Sat, 07 May 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/docs/08-Sample-Extraction-and-Cleanup/Solid-Phase-Extraction/SPE_selection_tree/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>When should I choose a mixed-mode SPE?</title>
+      <link>https://example.com/docs/08-Sample-Extraction-and-Cleanup/Solid-Phase-Extraction/Mixed-mode_SPE/</link>
+      <pubDate>Sat, 07 May 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/docs/08-Sample-Extraction-and-Cleanup/Solid-Phase-Extraction/Mixed-mode_SPE/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://example.com/docs/06-Method-Development-and-Validation/Part-2-DoE-Application/Template_01/</link>
+      <pubDate>Tue, 05 Apr 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/docs/06-Method-Development-and-Validation/Part-2-DoE-Application/Template_01/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Clinical LC-MS/MS Method Validation</title>
+      <link>https://example.com/docs/06-Method-Development-and-Validation/Part-1-Workflow/Clinical_LC_MSMS_method_validation_01/</link>
+      <pubDate>Tue, 05 Apr 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/docs/06-Method-Development-and-Validation/Part-1-Workflow/Clinical_LC_MSMS_method_validation_01/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Method Validation Experience</title>
+      <link>https://example.com/docs/06-Method-Development-and-Validation/Part-1-Workflow/Method_development_experience/</link>
+      <pubDate>Tue, 05 Apr 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/docs/06-Method-Development-and-Validation/Part-1-Workflow/Method_development_experience/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>phenomenex - Method Development for Underivatized MMA from Serum</title>
+      <link>https://example.com/docs/06-Method-Development-and-Validation/Case-Studies/Case_01_phenomenex_MMA_Serum/</link>
+      <pubDate>Tue, 05 Apr 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/docs/06-Method-Development-and-Validation/Case-Studies/Case_01_phenomenex_MMA_Serum/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>phenomenex - Overcoming the Challenges of Sample Preparation and LC/MS/MS Method Development for Clinical Applications</title>
+      <link>https://example.com/docs/06-Method-Development-and-Validation/Case-Studies/Case_02_phenomenex_overcome_sample_prep_challenge_clinical_app/</link>
+      <pubDate>Tue, 05 Apr 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/docs/06-Method-Development-and-Validation/Case-Studies/Case_02_phenomenex_overcome_sample_prep_challenge_clinical_app/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>template-01</title>
+      <link>https://example.com/docs/06-Method-Development-and-Validation/Template/Template_01/</link>
+      <pubDate>Tue, 05 Apr 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/docs/06-Method-Development-and-Validation/Template/Template_01/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://example.com/docs/01-Mass-Spec-LC-MS/Part-01-Theory/Blank/</link>
+      <pubDate>Thu, 17 Mar 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/docs/01-Mass-Spec-LC-MS/Part-01-Theory/Blank/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://example.com/docs/01-Mass-Spec-LC-MS/Part-01-Theory/Why_acetonitril/</link>
+      <pubDate>Thu, 17 Mar 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/docs/01-Mass-Spec-LC-MS/Part-01-Theory/Why_acetonitril/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://example.com/docs/01-Mass-Spec-LC-MS/Part-02-Practices/blank/</link>
+      <pubDate>Thu, 17 Mar 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/docs/01-Mass-Spec-LC-MS/Part-02-Practices/blank/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://example.com/docs/01-Mass-Spec-LC-MS/Part-04-Matrix-Effects/blank/</link>
+      <pubDate>Thu, 17 Mar 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/docs/01-Mass-Spec-LC-MS/Part-04-Matrix-Effects/blank/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://example.com/docs/01-Mass-Spec-LC-MS/Part-05-Troubleshooting/blank/</link>
+      <pubDate>Thu, 17 Mar 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/docs/01-Mass-Spec-LC-MS/Part-05-Troubleshooting/blank/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://example.com/docs/01-Mass-Spec-LC-MS/Temp/blank/</link>
+      <pubDate>Thu, 17 Mar 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/docs/01-Mass-Spec-LC-MS/Temp/blank/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A Practical Guide to Sample Preparation for LCMSMS</title>
+      <link>https://example.com/docs/01-Mass-Spec-LC-MS/Part-02-Practices/Guide_sample_prep/</link>
+      <pubDate>Thu, 17 Mar 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/docs/01-Mass-Spec-LC-MS/Part-02-Practices/Guide_sample_prep/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Agilent LC-MS/MS</title>
+      <link>https://example.com/docs/01-Mass-Spec-LC-MS/Part-02-Practices/Agilent_LCQQQ/</link>
+      <pubDate>Thu, 17 Mar 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/docs/01-Mass-Spec-LC-MS/Part-02-Practices/Agilent_LCQQQ/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>APCI General Review</title>
+      <link>https://example.com/docs/01-Mass-Spec-LC-MS/Part-01-Theory/APCI_general_review/</link>
+      <pubDate>Thu, 17 Mar 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/docs/01-Mass-Spec-LC-MS/Part-01-Theory/APCI_general_review/</guid>
+      <description>&lt;p&gt;The LC elute passing through a nebulizing needle, creates a fine spray.  The spray passes through a heated ceramic tube, where the droplets are fully vaporized.  The resulting gas/vapor mixture is then passed over a corona discharge needle, where the solvent vapor is ionized to create reagent gas ions.&lt;/p&gt;
+&lt;p&gt;For successful APCI, the analyte must be volatile and thermally stable and the mobile phase must be suitable for gas-phase acid–base reactions.&lt;/p&gt;
+&lt;p&gt;To vaporize the solvent and analyte, the APCI source is typically operated at vaporizer temperatures of 400 to 500 &lt;sup&gt;0&lt;/sup&gt;C.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Application of Matrix Effect Factor</title>
+      <link>https://example.com/docs/08-Sample-Extraction-and-Cleanup/Matrix-Effects/Comprehensive_matrix_effect/</link>
+      <pubDate>Thu, 17 Mar 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/docs/08-Sample-Extraction-and-Cleanup/Matrix-Effects/Comprehensive_matrix_effect/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Avoid Ion Pair Reagents in LC-MS</title>
+      <link>https://example.com/docs/01-Mass-Spec-LC-MS/Part-02-Practices/Avoid_ion_pair_reagents/</link>
+      <pubDate>Thu, 17 Mar 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/docs/01-Mass-Spec-LC-MS/Part-02-Practices/Avoid_ion_pair_reagents/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Characteristics of ESI and APCI</title>
+      <link>https://example.com/docs/01-Mass-Spec-LC-MS/Part-01-Theory/Characteristics_API/</link>
+      <pubDate>Thu, 17 Mar 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/docs/01-Mass-Spec-LC-MS/Part-01-Theory/Characteristics_API/</guid>
+      <description>&lt;p&gt;Atmospheric Pressure Ionization includes ESI and APCI.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Cross Talk</title>
+      <link>https://example.com/docs/01-Mass-Spec-LC-MS/Part-01-Theory/Cross_Talk/</link>
+      <pubDate>Thu, 17 Mar 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/docs/01-Mass-Spec-LC-MS/Part-01-Theory/Cross_Talk/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>ESI General Review</title>
+      <link>https://example.com/docs/01-Mass-Spec-LC-MS/Part-01-Theory/ESI_general_review/</link>
+      <pubDate>Thu, 17 Mar 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/docs/01-Mass-Spec-LC-MS/Part-01-Theory/ESI_general_review/</guid>
+      <description>&lt;p&gt;The LC eluate is sprayed into a spray chamber at atmospheric pressure in the presence of a strong electrostatic field and heated drying gas.&lt;/p&gt;
+&lt;p&gt;The electrostatic field occurs between the nebulizer, which is the ES probe, and the capillary. Aerosol of charged droplet formation at right angles to the capillary.&lt;/p&gt;
+&lt;p&gt;Ionization takes place as a result of imparting the strong electrical field and the superheated nitrogrn sheath gas, with Agilent AJS (Jet Stream) technology.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>How to improve the sensitivity</title>
+      <link>https://example.com/docs/01-Mass-Spec-LC-MS/Part-02-Practices/Causes_sensitivity/</link>
+      <pubDate>Thu, 17 Mar 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/docs/01-Mass-Spec-LC-MS/Part-02-Practices/Causes_sensitivity/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>ICH M10 Guideline on Matrix Effects Evaluation</title>
+      <link>https://example.com/docs/08-Sample-Extraction-and-Cleanup/Matrix-Effects/Matrix_effects_03/</link>
+      <pubDate>Thu, 17 Mar 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/docs/08-Sample-Extraction-and-Cleanup/Matrix-Effects/Matrix_effects_03/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Increase of the LC-MS/MS sensitivity and detection limits using on-line sample preparation with large volume plasma injection</title>
+      <link>https://example.com/docs/01-Mass-Spec-LC-MS/Part-01-Theory/Increase_sensitivity_detection_limit/</link>
+      <pubDate>Thu, 17 Mar 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/docs/01-Mass-Spec-LC-MS/Part-01-Theory/Increase_sensitivity_detection_limit/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Introduction</title>
+      <link>https://example.com/docs/01-Mass-Spec-LC-MS/Part-03-Career-Development/Advion-Courses/post_lecture/</link>
+      <pubDate>Thu, 17 Mar 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/docs/01-Mass-Spec-LC-MS/Part-03-Career-Development/Advion-Courses/post_lecture/</guid>
+      <description>&lt;p&gt;Jack Henion is an emeritus professor at Cornell University.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Ionization General Review</title>
+      <link>https://example.com/docs/01-Mass-Spec-LC-MS/Part-01-Theory/Ionization_general_review/</link>
+      <pubDate>Thu, 17 Mar 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/docs/01-Mass-Spec-LC-MS/Part-01-Theory/Ionization_general_review/</guid>
+      <description>&lt;p&gt;series: [Analysis of Pesticides in Food and Environmental Samples, edited by Jose L. Tadeo]&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>LC-GC Matrix Effects</title>
+      <link>https://example.com/docs/01-Mass-Spec-LC-MS/Part-04-Matrix-Effects/LC-GC-Matrix-Effects/</link>
+      <pubDate>Thu, 17 Mar 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/docs/01-Mass-Spec-LC-MS/Part-04-Matrix-Effects/LC-GC-Matrix-Effects/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>LCGC Strategies for Detecting and Eliminating Matrix Effects</title>
+      <link>https://example.com/docs/01-Mass-Spec-LC-MS/Part-02-Practices/Strategy_detection_elimination_matrix_effects/</link>
+      <pubDate>Thu, 17 Mar 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/docs/01-Mass-Spec-LC-MS/Part-02-Practices/Strategy_detection_elimination_matrix_effects/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Lecture 1 - Understanding API Quadrupole Mass Spectrometry The Basics</title>
+      <link>https://example.com/docs/01-Mass-Spec-LC-MS/Part-03-Career-Development/Advion-Courses/Lecture-01/</link>
+      <pubDate>Thu, 17 Mar 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/docs/01-Mass-Spec-LC-MS/Part-03-Career-Development/Advion-Courses/Lecture-01/</guid>
+      <description>&lt;h1 id=&#34;brief&#34;&gt;
+  Brief
+  &lt;a class=&#34;anchor&#34; href=&#34;#brief&#34;&gt;#&lt;/a&gt;
+&lt;/h1&gt;
+&lt;p&gt;50 nanograms of almost anything injected is plenty for mass spectrometer systems.&lt;/p&gt;
+&lt;p&gt;we get a &lt;code&gt;protonated molecule&lt;/code&gt;, M+H or a &lt;code&gt;deprotonated molecule&lt;/code&gt;.  They are not &lt;code&gt;molecular ions&lt;/code&gt; that&amp;rsquo;s what you get in an EI spectrum.  They&amp;rsquo;re not &lt;code&gt;protonated molecule ions&lt;/code&gt; that&amp;rsquo;s redundant. A &lt;code&gt;protonated molecule&lt;/code&gt; is an ion basically.&lt;/p&gt;
+&lt;p&gt;Jack doesn&amp;rsquo;t like to call it a chromatogram.&lt;/p&gt;
+&lt;p&gt;The alternative technique of atmospheric pressure Chemical Ionization is also a useful technique for certain molecules. This one is most useful for very polar molecules, and macromolecules, peptides and proteins and unlike those have nitrogens. They are can be protonated. They&amp;rsquo;re easily to form them in an aqueous solution. This technique is not amenable. APCI is not good for proteins or inorganic or large molecules. It is much better for nonpolar molecules, steroids, for example, and other kinds of nonpolar molecules.[23:45]&lt;/p&gt;
+&lt;p&gt;We do not see ion current unless it&amp;rsquo;s above this Scan Line.  And as you move it up, you can see that you&amp;rsquo;re going to have less than less of this peak, and that&amp;rsquo;s increasing the resolution.  The Scan Line determines the resolution.&lt;/p&gt;
+&lt;p&gt;Good practice: I trust it, but I take a look at it first thing in the morning, I run something I know the result. You want accurate mass with measurement to the nearest 10th.  so checking on our daily or certainly weekly basis. And certainly minimally every month, you should do a mass axis calibration and an auto tune to make sure that it&amp;rsquo;s it&amp;rsquo;s correctly running.&lt;/p&gt;
+&lt;p&gt;At higher and higher mass, the baseline resolution becomes more challenging.&lt;/p&gt;
+&lt;p&gt;When ions hit the quadrupole, they are lost, therefore the sensitivity is poor.&lt;/p&gt;
+&lt;p&gt;I would go back at the beginning and clean to clean the source, or re tune it to make sure we&amp;rsquo;re getting good ion current performance, rather than kill my multiplier.&lt;/p&gt;
+&lt;p&gt;calibrate and tune mass spectrometer can optimize peak shape.&lt;/p&gt;
+&lt;p&gt;There&amp;rsquo;s another way of defining molecular weight that I&amp;rsquo;d like you to forget about because this is not the answer that the mass spectrometer is it&amp;rsquo;s called the relative atomic mass.&lt;/p&gt;
+&lt;p&gt;The low mass region below mass to charge 150 has a lot of chemical noise.&lt;/p&gt;
+&lt;p&gt;If you show me a mass spectrum, I can tell instantly whether you know what you&amp;rsquo;re doing and are doing a good job of mass spectrometry or haven&amp;rsquo;t tuned your system in a long time, I look for isotopes in the correct ratio.&lt;/p&gt;
+&lt;p&gt;Ions go in &lt;code&gt;this serpentine path&lt;/code&gt; in quadrupole analyzer.&lt;/p&gt;
+&lt;p&gt;APCI technique: liquid was introduced through the capillary to the chamber. Liquid turns to plume.  &lt;code&gt;A discharge needle&lt;/code&gt; is placed in the plume.  We put 4000 volts on it.  &lt;code&gt;Gas phase molecules&lt;/code&gt; are ionized by &lt;code&gt;gas phase chemistry&lt;/code&gt;.&lt;/p&gt;
+&lt;p&gt;What does autotune do?&lt;br&gt;
+) mass accuracy, resolution (FWHM - full width half max), peak symmetry, intensity.&lt;br&gt;
+) Tuning raises/adjusts the scan line of the quadrupole mass analyzer.  Its goal is to get/maintain resolution according to the stability diagram.&lt;/p&gt;
+&lt;p&gt;Disadvantage of LC/MS comparing to GC/MS:  The mobile phase, water, acetonitrile, methanol, maybe some additives like formic acid has a lot of chemical noise in the low mass region below mass to charge 150. Methanol adducts with itself.&lt;/p&gt;
+&lt;p&gt;Advantage of LC/MS comparing to GC/MS: you can see real molecule.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Lecture 2 - FIA, ESI &amp; APCI</title>
+      <link>https://example.com/docs/01-Mass-Spec-LC-MS/Part-03-Career-Development/Advion-Courses/Lecture-02/</link>
+      <pubDate>Thu, 17 Mar 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/docs/01-Mass-Spec-LC-MS/Part-03-Career-Development/Advion-Courses/Lecture-02/</guid>
+      <description>&lt;p&gt;so an HPLC, we typically had a few 1000 plates, which is not much, UHPLC has dramatically improved that, it&amp;rsquo;s still not as good as capillary GC.&lt;/p&gt;
+&lt;p&gt;Flow injection analysis: particle-free is important to prevent form plug up at the ESI.&lt;/p&gt;
+&lt;p&gt;you have a particle stuck in your tube, and the sprayer has high voltage on it, the liquids coming through at 200 microliters per minute, and it&amp;rsquo;s possible to get a particle stuck in there.&lt;/p&gt;
+&lt;p&gt;We don&amp;rsquo;t have good sensitivity if we have large droplets.&lt;/p&gt;
+&lt;p&gt;And so the other thing you may not appreciate is the negative ion mode, the chemical background that gets in our way of the positive ion, there are many fewer molecules in the background of our systems that respond to negative ions. So the chemical noise goes down, because it does not get deprotonated. So I will lean towards negative ion detection, if I&amp;rsquo;m after sensitivity.&lt;/p&gt;
+&lt;p&gt;If you want to optimize your chances of getting rid of any carryover, certain solvent Like isopropanol, as opposed to methanol, some of the heavier alcohols are better solvents and a solid blank to displace them more than you want to know.&lt;/p&gt;
+&lt;p&gt;you need to be aware of the relative ratios of the heat and the nebulizing gas and nitrogen nebulizing gas.&lt;/p&gt;
+&lt;p&gt;electrospray is a concentration sensitive detector&lt;/p&gt;
+&lt;p&gt;So the lower the flow, the smaller the peak volume in the LC peak, the more sensitivity we&amp;rsquo;ll have.&lt;/p&gt;
+&lt;p&gt;if you lower the voltage, what do we call global electrospray this may produce improved sensitivity&lt;/p&gt;
+&lt;p&gt;slower is better within the region of 200 microliters per minute higher can be accommodated but ion current stability can be deteriorated as well as sensitivity. So 200 microliters per minute or point two mils per minute is a real good sweet spot for good performance.&lt;/p&gt;
+&lt;p&gt;But each of these does in fact, represent a variable that the operator can choose to change the mechanisms for electrospray.&lt;/p&gt;
+&lt;p&gt;And that&amp;rsquo;s buffer control and LCMS. A lot of people don&amp;rsquo;t remember it, don&amp;rsquo;t use it. But it can be very helpful in optimizing results. If you maintain the pH and the preferred region based on what your compound needs.&lt;/p&gt;
+&lt;p&gt;If we&amp;rsquo;re trying to evaporate droplets that make sense, we want as low boiling mixture as possible.  So we ideal spray has low boiling point, a low dielectric constant and a low surface tension.&lt;/p&gt;
+&lt;p&gt;doing nano electrospray or micro LC gives you sensitivity.&lt;/p&gt;
+&lt;p&gt;ions do like do not like being in hexane, alcohols or trace aqueous may be produced.&lt;/p&gt;
+&lt;p&gt;Ideal electrospray solvent has low boiling point, a low dielectric constant and a low surface tension.&lt;/p&gt;
+&lt;p&gt;A combination of heat and nebulizing gas and time to get droplets from the sprayer where they&amp;rsquo;re fairly large down to the point where we have ion evaporation taking place.&lt;/p&gt;
+&lt;p&gt;you need to be aware of the relative ratios of the heat and the nebulizing gas and nitrogen nebulizing gas in order to optimize the electrospray.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Lecture 3 - Sample Preparation, Ion Source Optimization &amp; ASAP Probe</title>
+      <link>https://example.com/docs/01-Mass-Spec-LC-MS/Part-03-Career-Development/Advion-Courses/Lecture-03/</link>
+      <pubDate>Thu, 17 Mar 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/docs/01-Mass-Spec-LC-MS/Part-03-Career-Development/Advion-Courses/Lecture-03/</guid>
+      <description>&lt;p&gt;Ion source parameters that can be optimized are:&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;Capillary temperature&lt;/li&gt;
+&lt;li&gt;Capillary voltage&lt;/li&gt;
+&lt;li&gt;Source voltage offset&lt;/li&gt;
+&lt;/ol&gt;</description>
+    </item>
+    
+    <item>
+      <title>Lecture 4 - Novel Sampling Techniques - Plate Express, Touch Express</title>
+      <link>https://example.com/docs/01-Mass-Spec-LC-MS/Part-03-Career-Development/Advion-Courses/Lecture-04/</link>
+      <pubDate>Thu, 17 Mar 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/docs/01-Mass-Spec-LC-MS/Part-03-Career-Development/Advion-Courses/Lecture-04/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Lecture 5 - Principles for Successful LC/MS</title>
+      <link>https://example.com/docs/01-Mass-Spec-LC-MS/Part-03-Career-Development/Advion-Courses/Lecture-05/</link>
+      <pubDate>Thu, 17 Mar 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/docs/01-Mass-Spec-LC-MS/Part-03-Career-Development/Advion-Courses/Lecture-05/</guid>
+      <description>&lt;p&gt;What does the successful LC-MS look Like? or What is the principles that produce good successful data? or What do you address when developing a new method?&lt;/p&gt;
+&lt;p&gt;I want the isotopes to be as they should be.&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;whether a molecule is basic, or acidic&lt;/li&gt;
+&lt;/ol&gt;</description>
+    </item>
+    
+    <item>
+      <title>Lecture 6 - Negative Ions MS - Electrospray &amp; APCI</title>
+      <link>https://example.com/docs/01-Mass-Spec-LC-MS/Part-03-Career-Development/Advion-Courses/Lecture-06/</link>
+      <pubDate>Thu, 17 Mar 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/docs/01-Mass-Spec-LC-MS/Part-03-Career-Development/Advion-Courses/Lecture-06/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Lecture 7 - Normal Phase (Flash) Chromatography Couple to Mass Spectrometry</title>
+      <link>https://example.com/docs/01-Mass-Spec-LC-MS/Part-03-Career-Development/Advion-Courses/Lecture-07/</link>
+      <pubDate>Thu, 17 Mar 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/docs/01-Mass-Spec-LC-MS/Part-03-Career-Development/Advion-Courses/Lecture-07/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Matrix Effects</title>
+      <link>https://example.com/docs/08-Sample-Extraction-and-Cleanup/Matrix-Effects/Matrix_effects/</link>
+      <pubDate>Thu, 17 Mar 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/docs/08-Sample-Extraction-and-Cleanup/Matrix-Effects/Matrix_effects/</guid>
+      <description>&lt;p&gt;Ways of eliminating, reducing or compensating matrix effects:&lt;br&gt;
+Reduce the injection volume.&lt;br&gt;
+Dilute sample or extract.&lt;br&gt;
+&lt;br&gt;
+More extensive sample clean-up and better extraction&lt;br&gt;
+Use mixed-mode SPE.&lt;br&gt;
+Extra wash steps in SPE.&lt;br&gt;
+&lt;br&gt;
+Optimize mobile phase (including organic modifier, additives, buffers, pH)&lt;br&gt;
+Eluotropic strength or elution profile [not understand].&lt;br&gt;
+&lt;br&gt;
+Change the column chemistry,&lt;br&gt;
+use longer column,&lt;br&gt;
+use Ultra Fast LC (UFLC) or smaller particles to improve resolution.&lt;br&gt;
+&lt;br&gt;
+Switch from ESI to APCI.&lt;br&gt;
+Switch from positive ionization mode to negative ionization mode.&lt;br&gt;
+&lt;br&gt;
+External matrix-matched calibrators (i.e. standards with the same or similar matrix composition as the analysed sample) can be used to compensate for matrix effects. &lt;br&gt;
+&lt;br&gt;
+Internal standards (IS) can be used to compensate for variations in injection, sample preparation, instrumental parameters and also matrix effects.&lt;/p&gt;
+&lt;p&gt;Other less often used calibration techniques are echo peak technique, standard addition, extrapolative dilution and (segmented) post-column standard addition.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Matrix Effects</title>
+      <link>https://example.com/docs/08-Sample-Extraction-and-Cleanup/Matrix-Effects/Matrix_effects_02/</link>
+      <pubDate>Thu, 17 Mar 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/docs/08-Sample-Extraction-and-Cleanup/Matrix-Effects/Matrix_effects_02/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Matrix Effects Evaluation</title>
+      <link>https://example.com/docs/08-Sample-Extraction-and-Cleanup/Matrix-Effects/Matrix_effects_evaluation/</link>
+      <pubDate>Thu, 17 Mar 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/docs/08-Sample-Extraction-and-Cleanup/Matrix-Effects/Matrix_effects_evaluation/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Minimization of Matrix Effect</title>
+      <link>https://example.com/docs/08-Sample-Extraction-and-Cleanup/Matrix-Effects/Minimization_of_matrix_effects/</link>
+      <pubDate>Thu, 17 Mar 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/docs/08-Sample-Extraction-and-Cleanup/Matrix-Effects/Minimization_of_matrix_effects/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Practical Strategies to Boost Your Signal and Lower Your Noise</title>
+      <link>https://example.com/docs/01-Mass-Spec-LC-MS/Part-02-Practices/Boost_LSMSMS_Sensitivity/</link>
+      <pubDate>Thu, 17 Mar 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/docs/01-Mass-Spec-LC-MS/Part-02-Practices/Boost_LSMSMS_Sensitivity/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Successful Sample Preparation Strategies for LCMSMS Analysis</title>
+      <link>https://example.com/docs/01-Mass-Spec-LC-MS/Part-02-Practices/Sample_prep_strategy/</link>
+      <pubDate>Thu, 17 Mar 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/docs/01-Mass-Spec-LC-MS/Part-02-Practices/Sample_prep_strategy/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The influence of electrospray ion source design on matrix effects</title>
+      <link>https://example.com/docs/01-Mass-Spec-LC-MS/Part-01-Theory/ESI_design_on_matrix_effects/</link>
+      <pubDate>Thu, 17 Mar 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/docs/01-Mass-Spec-LC-MS/Part-01-Theory/ESI_design_on_matrix_effects/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The Visual Basics of Being An Effective Troubleshooter</title>
+      <link>https://example.com/docs/01-Mass-Spec-LC-MS/Part-05-Troubleshooting/LCMSMS_visuary_inspections/</link>
+      <pubDate>Thu, 17 Mar 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/docs/01-Mass-Spec-LC-MS/Part-05-Troubleshooting/LCMSMS_visuary_inspections/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Troubleshooting Peak Shapes</title>
+      <link>https://example.com/docs/01-Mass-Spec-LC-MS/Part-05-Troubleshooting/LCMSMS_peak_shape/</link>
+      <pubDate>Thu, 17 Mar 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/docs/01-Mass-Spec-LC-MS/Part-05-Troubleshooting/LCMSMS_peak_shape/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://example.com/docs/04-Chrom-GC/Part-01-Theory/Injection/</link>
+      <pubDate>Thu, 10 Mar 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/docs/04-Chrom-GC/Part-01-Theory/Injection/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://example.com/docs/04-Chrom-GC/Part-01-Theory/Z_00/</link>
+      <pubDate>Thu, 10 Mar 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/docs/04-Chrom-GC/Part-01-Theory/Z_00/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://example.com/docs/04-Chrom-GC/Part-02-Application/Z_00/</link>
+      <pubDate>Thu, 10 Mar 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/docs/04-Chrom-GC/Part-02-Application/Z_00/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://example.com/docs/04-Chrom-GC/Part-03-Instrument-Troubleshooting/Peak_problems/</link>
+      <pubDate>Thu, 10 Mar 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/docs/04-Chrom-GC/Part-03-Instrument-Troubleshooting/Peak_problems/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://example.com/docs/04-Chrom-GC/Part-03-Instrument-Troubleshooting/Z_00/</link>
+      <pubDate>Thu, 10 Mar 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/docs/04-Chrom-GC/Part-03-Instrument-Troubleshooting/Z_00/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://example.com/docs/04-Chrom-GC/Part-04-Instrument-Maintenance/Z_00/</link>
+      <pubDate>Thu, 10 Mar 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/docs/04-Chrom-GC/Part-04-Instrument-Maintenance/Z_00/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Agilent GC Column Installation Made Easier</title>
+      <link>https://example.com/docs/04-Chrom-GC/Part-02-Application/Agilent_GC_Column_Installation/</link>
+      <pubDate>Thu, 10 Mar 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/docs/04-Chrom-GC/Part-02-Application/Agilent_GC_Column_Installation/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Gas Leaks</title>
+      <link>https://example.com/docs/04-Chrom-GC/Part-03-Instrument-Troubleshooting/Restek_Gas_Leaks/</link>
+      <pubDate>Thu, 10 Mar 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/docs/04-Chrom-GC/Part-03-Instrument-Troubleshooting/Restek_Gas_Leaks/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Part 1 Restek Retention Gaps</title>
+      <link>https://example.com/docs/04-Chrom-GC/Part-02-Application/Part_1_Restek_Retention_gaps/</link>
+      <pubDate>Thu, 10 Mar 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/docs/04-Chrom-GC/Part-02-Application/Part_1_Restek_Retention_gaps/</guid>
+      <description>&lt;style type=&#34;text/css&#34;&gt;
+/* */
+.column {
+  float: left;
+  width: 50%;
+  padding: 5px;
+}
+
+/* Clear floats after image containers */
+.row::after {
+  content: &#34;&#34;;
+  clear: both;
+  display: table;
+}
+
+&lt;/style&gt;</description>
+    </item>
+    
+    <item>
+      <title>Part 2 Restek Guard Columns</title>
+      <link>https://example.com/docs/04-Chrom-GC/Part-02-Application/Part_2_Restek_Guard_columns/</link>
+      <pubDate>Thu, 10 Mar 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/docs/04-Chrom-GC/Part-02-Application/Part_2_Restek_Guard_columns/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Restek Optimizing Splitless Injection</title>
+      <link>https://example.com/docs/04-Chrom-GC/Part-02-Application/Restek_Optimizing_splitless_injection/</link>
+      <pubDate>Thu, 10 Mar 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/docs/04-Chrom-GC/Part-02-Application/Restek_Optimizing_splitless_injection/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Restek Using Guard Columns and Retention Gaps in GC</title>
+      <link>https://example.com/docs/01-Mass-Spec-LC-MS/Part-02-Practices/Restek_Guard_column/</link>
+      <pubDate>Thu, 10 Mar 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/docs/01-Mass-Spec-LC-MS/Part-02-Practices/Restek_Guard_column/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Split vs. Splitless Injection</title>
+      <link>https://example.com/docs/04-Chrom-GC/Part-02-Application/Restek_Split_splitless_injection/</link>
+      <pubDate>Thu, 10 Mar 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/docs/04-Chrom-GC/Part-02-Application/Restek_Split_splitless_injection/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Troubleshooting Principles</title>
+      <link>https://example.com/docs/04-Chrom-GC/Part-03-Instrument-Troubleshooting/Restek_Troubleshooting_principles/</link>
+      <pubDate>Thu, 10 Mar 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/docs/04-Chrom-GC/Part-03-Instrument-Troubleshooting/Restek_Troubleshooting_principles/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://example.com/docs/02-Chrom-HPLC/Part-06-Instrumentation-Troubleshooting/Blank/</link>
+      <pubDate>Wed, 12 Jan 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/docs/02-Chrom-HPLC/Part-06-Instrumentation-Troubleshooting/Blank/</guid>
+      <description>&lt;figcaption&gt;&lt;b&gt;Figure &lt;/b&gt;: &lt;/figcaption&gt;
+&lt;img src = &#34;/docs/images/&#34;/&gt;</description>
+    </item>
+    
+    <item>
+      <title>Chapter  Leakage</title>
+      <link>https://example.com/docs/02-Chrom-HPLC/Part-06-Instrumentation-Troubleshooting/13_Leakage/</link>
+      <pubDate>Wed, 12 Jan 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/docs/02-Chrom-HPLC/Part-06-Instrumentation-Troubleshooting/13_Leakage/</guid>
+      <description>&lt;figcaption&gt;&lt;b&gt;Figure &lt;/b&gt;: &lt;/figcaption&gt;
+&lt;img src = &#34;/docs/images/&#34;/&gt;</description>
+    </item>
+    
+    <item>
+      <title>Chapter  Loss of Accuracy</title>
+      <link>https://example.com/docs/02-Chrom-HPLC/Part-06-Instrumentation-Troubleshooting/12_Loss_of_Accuracy/</link>
+      <pubDate>Wed, 12 Jan 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/docs/02-Chrom-HPLC/Part-06-Instrumentation-Troubleshooting/12_Loss_of_Accuracy/</guid>
+      <description>&lt;figcaption&gt;&lt;b&gt;Figure &lt;/b&gt;: &lt;/figcaption&gt;
+&lt;img src = &#34;/docs/images/&#34;/&gt;</description>
+    </item>
+    
+    <item>
+      <title>Chapter  Loss of Precision</title>
+      <link>https://example.com/docs/02-Chrom-HPLC/Part-06-Instrumentation-Troubleshooting/11_Loss_of_Precision/</link>
+      <pubDate>Wed, 12 Jan 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/docs/02-Chrom-HPLC/Part-06-Instrumentation-Troubleshooting/11_Loss_of_Precision/</guid>
+      <description>&lt;figcaption&gt;&lt;b&gt;Figure &lt;/b&gt;: &lt;/figcaption&gt;
+&lt;img src = &#34;/docs/images/&#34;/&gt;</description>
+    </item>
+    
+    <item>
+      <title>Chapter  No Flow</title>
+      <link>https://example.com/docs/02-Chrom-HPLC/Part-06-Instrumentation-Troubleshooting/09_No_flow/</link>
+      <pubDate>Wed, 12 Jan 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/docs/02-Chrom-HPLC/Part-06-Instrumentation-Troubleshooting/09_No_flow/</guid>
+      <description>&lt;figcaption&gt;&lt;b&gt;Figure &lt;/b&gt;: &lt;/figcaption&gt;
+&lt;img width=&#34;320&#34; height=&#34;200&#34; src = &#34;/docs/images/&#34;/&gt;</description>
+    </item>
+    
+    <item>
+      <title>Chapter  Peaks Misidentified</title>
+      <link>https://example.com/docs/02-Chrom-HPLC/Part-06-Instrumentation-Troubleshooting/10_Peaks_Misidentified/</link>
+      <pubDate>Wed, 12 Jan 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/docs/02-Chrom-HPLC/Part-06-Instrumentation-Troubleshooting/10_Peaks_Misidentified/</guid>
+      <description>&lt;figcaption&gt;&lt;b&gt;Figure &lt;/b&gt;: &lt;/figcaption&gt;
+&lt;img src = &#34;/docs/images/&#34;/&gt;</description>
+    </item>
+    
+    <item>
+      <title>Chapter 01 Troubleshooting Strategy and Processes</title>
+      <link>https://example.com/docs/02-Chrom-HPLC/Part-06-Instrumentation-Troubleshooting/01_Strategy_and_Processes/</link>
+      <pubDate>Wed, 12 Jan 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/docs/02-Chrom-HPLC/Part-06-Instrumentation-Troubleshooting/01_Strategy_and_Processes/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Chapter 02 LC Pressure Issue</title>
+      <link>https://example.com/docs/02-Chrom-HPLC/Part-06-Instrumentation-Troubleshooting/02_Pressure_HPLC/</link>
+      <pubDate>Wed, 12 Jan 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/docs/02-Chrom-HPLC/Part-06-Instrumentation-Troubleshooting/02_Pressure_HPLC/</guid>
+      <description>&lt;figcaption&gt;&lt;b&gt;Figure &lt;/b&gt;: &lt;/figcaption&gt;
+&lt;img src = &#34;/docs/images/&#34;/&gt;
+&lt;p&gt;System pressure is affected by a number of variables including:&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;the viscosity of the solvent used,&lt;/li&gt;
+&lt;li&gt;column variables,&lt;/li&gt;
+&lt;li&gt;flow rate and temperature.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;It is important to have &lt;font style = &#34;color:blue&#34;&gt;a reference point&lt;/font&gt; when comparing high or low pressures to the norm. This reference point should be the pressure generated in the system when everything is functioning correctly. It is a good idea to note the system pressure under normal operating conditions each day or each time your HPLC is used. This will allow you to spot any pressure trends that otherwise might go unnoticed.&lt;/p&gt;
+&lt;p&gt;Pressure problems fall into one of three categories: high, low or fluctuating pressure. They can occur suddenly or be a gradual process. Sudden pressure rises tend to be due to particles from the sample, blocked or damaged tubing or column packed bed collapse. Gradual pressure rises can also be due to particles in the sample, but they can also arise from particles generated in the instrument, for example, debris from vial septa or degrading seals.&lt;/p&gt;
+&lt;p&gt;Before releasing any high pressure build-up in a system, be aware that the solvent may form an aerosol or spray when loosening connections. Eye protection should be worn and ideally the connection to be loosened should be positioned above an adsorbent material to soak up all released solvents.&lt;/p&gt;
+&lt;p&gt;The simplest way to troubleshoot pressure problems is using a systematic approach, as highlighted in the following tables for high, low and fluctuating pressure.&lt;/p&gt;
+&lt;p&gt;
+  &lt;a href=&#34;https://assets.thermofisher.com/TFS-Assets/CMD/Product-Guides/TG-20421-HPLC-Troubleshooting-Guide-TG20421-EN.pdf&#34;&gt;source&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Chapter 04 HPLC Retention Time Changes</title>
+      <link>https://example.com/docs/02-Chrom-HPLC/Part-06-Instrumentation-Troubleshooting/04_Retention_Time_Changes_HPLC/</link>
+      <pubDate>Wed, 12 Jan 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/docs/02-Chrom-HPLC/Part-06-Instrumentation-Troubleshooting/04_Retention_Time_Changes_HPLC/</guid>
+      <description>&lt;figcaption&gt;&lt;b&gt;Figure &lt;/b&gt;: &lt;/figcaption&gt;
+&lt;img src = &#34;/docs/images/&#34;/&gt;</description>
+    </item>
+    
+    <item>
+      <title>Chapter 05 LC Abnormal Peak Shape</title>
+      <link>https://example.com/docs/02-Chrom-HPLC/Part-06-Instrumentation-Troubleshooting/05_Abnormal_Peak_Shape_HPLC/</link>
+      <pubDate>Wed, 12 Jan 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/docs/02-Chrom-HPLC/Part-06-Instrumentation-Troubleshooting/05_Abnormal_Peak_Shape_HPLC/</guid>
+      <description>&lt;figcaption&gt;&lt;b&gt;Figure &lt;/b&gt;: &lt;/figcaption&gt;
+&lt;img src = &#34;/docs/images/&#34;/&gt;</description>
+    </item>
+    
+    <item>
+      <title>Preventing LC Column Clogs</title>
+      <link>https://example.com/docs/02-Chrom-HPLC/Part-06-Instrumentation-Troubleshooting/Column_clog/</link>
+      <pubDate>Wed, 12 Jan 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/docs/02-Chrom-HPLC/Part-06-Instrumentation-Troubleshooting/Column_clog/</guid>
+      <description>&lt;figcaption&gt;&lt;b&gt;Figure &lt;/b&gt;: &lt;/figcaption&gt;
+&lt;img src = &#34;/docs/images/&#34;/&gt;</description>
+    </item>
+    
+    <item>
+      <title>Restek - Effective LC Troubleshooting Symptom-based Strategies and Solutions</title>
+      <link>https://example.com/docs/02-Chrom-HPLC/Part-06-Instrumentation-Troubleshooting/16_Restek_LC_Troubleshooting/</link>
+      <pubDate>Wed, 12 Jan 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/docs/02-Chrom-HPLC/Part-06-Instrumentation-Troubleshooting/16_Restek_LC_Troubleshooting/</guid>
+      <description>&lt;p&gt;Summary of sensitivity reduction&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;
+&lt;p&gt;Simple potential causes:&lt;br&gt;
+1.1) sample preparation,&lt;br&gt;
+      abnormal storage temperature,&lt;br&gt;
+  storage time,&lt;br&gt;
+  abnormal extraction,&lt;br&gt;
+  abnormal clean-up,&lt;br&gt;
+1.2) LC system,&lt;br&gt;
+  Dilution error,&lt;br&gt;
+  autosampler needle not reaching sample,&lt;br&gt;
+  incorrect injection volume,&lt;br&gt;
+  abnormal LC back pressure,&lt;br&gt;
+  Leak,&lt;br&gt;
+  mobile phase unstable (modifier, prepared date, )&lt;br&gt;
+1.3) Mass spectrometer system,&lt;br&gt;
+  non-asymmetric spray (due to clog)&lt;br&gt;
+  Electron multiplier voltage error,&lt;br&gt;
+  the declustering potential error,&lt;br&gt;
+  the collision energy error&lt;br&gt;
+  the collision exit cell potential error&lt;br&gt;
+  GS1 pressure - nebulizer gas error&lt;br&gt;
+  GS2 pressure - turbo gas error&lt;br&gt;
+  Curtain gas pressure error&lt;br&gt;
+  Ion spray voltage error&lt;br&gt;
+  test&lt;br&gt;
+1.4) System monitoring,&lt;br&gt;
+   monitoring charts of internal standards, blank, calibrators,&lt;br&gt;
+1.5) Data processing,&lt;br&gt;
+  Calculation error (dilution factor),&lt;br&gt;
+  Peak integration error (baseline issue, noise),&lt;br&gt;
+  Retention time shift,&lt;br&gt;
+  
+  
+  &lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Complex potential causes:&lt;br&gt;
+  Analyze new known standard&lt;br&gt;
+  Analyze blank&lt;br&gt;
+  Infuse standard in 50-50 mobile phase solution to the mass spectrometer&lt;br&gt;
+  Dry run&lt;br&gt;
+  
+  
+  &lt;/p&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;******* End ***************&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Sciex System Issues</title>
+      <link>https://example.com/docs/07-Troubleshooting/Part-02-Sciex-LC-MSMS/Sciex_01/</link>
+      <pubDate>Wed, 12 Jan 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/docs/07-Troubleshooting/Part-02-Sciex-LC-MSMS/Sciex_01/</guid>
+      <description>&lt;figcaption&gt;&lt;b&gt;Figure &lt;/b&gt;: &lt;/figcaption&gt;
+&lt;img src = &#34;/docs/images/&#34;/&gt;</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://example.com/docs/02-Chrom-HPLC/Part-01-Theory/Tem/</link>
+      <pubDate>Mon, 03 Jan 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/docs/02-Chrom-HPLC/Part-01-Theory/Tem/</guid>
+      <description>&lt;figcaption&gt;&lt;b&gt;Figure &lt;/b&gt;: &lt;/figcaption&gt;
+&lt;img src = &#34;/docs/images/&#34;/&gt;</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://example.com/docs/03-Mass-Spec-GC-MS/Part-2-Application/Z_00/</link>
+      <pubDate>Mon, 03 Jan 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/docs/03-Mass-Spec-GC-MS/Part-2-Application/Z_00/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://example.com/docs/05-Mass-Spec/Part-2-Application/Z_00/</link>
+      <pubDate>Mon, 03 Jan 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/docs/05-Mass-Spec/Part-2-Application/Z_00/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://example.com/docs/09-Design-of-Experiments/Course/zzzz/</link>
+      <pubDate>Mon, 03 Jan 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/docs/09-Design-of-Experiments/Course/zzzz/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Agilent GC and GC-MS Scientists Answer Your Most FAQ</title>
+      <link>https://example.com/docs/03-Mass-Spec-GC-MS/Part-2-Application/Agilent_GC_and_GC-MS_Scientists_Answer_Your_Most_FAQ/</link>
+      <pubDate>Mon, 03 Jan 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/docs/03-Mass-Spec-GC-MS/Part-2-Application/Agilent_GC_and_GC-MS_Scientists_Answer_Your_Most_FAQ/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Amine Analysis</title>
+      <link>https://example.com/docs/02-Chrom-HPLC/Part-07-Application/Amine_analysis/</link>
+      <pubDate>Mon, 03 Jan 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/docs/02-Chrom-HPLC/Part-07-Application/Amine_analysis/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Analysis troubleshooting</title>
+      <link>https://example.com/docs/07-Troubleshooting/Part-01-Analysis-Troubleshooting/Analysis_troubleshooting/</link>
+      <pubDate>Mon, 03 Jan 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/docs/07-Troubleshooting/Part-01-Analysis-Troubleshooting/Analysis_troubleshooting/</guid>
+      <description>&lt;figcaption&gt;&lt;b&gt;Figure &lt;/b&gt;: &lt;/figcaption&gt;
+&lt;img width =&#34;360&#34; height= &#34;200&#34; src = &#34;/docs/images/&#34;/&gt;</description>
+    </item>
+    
+    <item>
+      <title>Buffers for Analyzing Ionizable Compounds</title>
+      <link>https://example.com/docs/02-Chrom-HPLC/Part-07-Application/Buffer_ionizable_compounds/</link>
+      <pubDate>Mon, 03 Jan 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/docs/02-Chrom-HPLC/Part-07-Application/Buffer_ionizable_compounds/</guid>
+      <description>&lt;p&gt;This note was copied from Dr. Egidijus Machtejevas&#39; blog on Analytix Reporter, issue 11 | 2021, page 34.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Change in Selectivity</title>
+      <link>https://example.com/docs/02-Chrom-HPLC/Part-06-Instrumentation-Troubleshooting/15_Change_in_selectivity/</link>
+      <pubDate>Mon, 03 Jan 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/docs/02-Chrom-HPLC/Part-06-Instrumentation-Troubleshooting/15_Change_in_selectivity/</guid>
+      <description>&lt;figcaption&gt;&lt;b&gt;Figure &lt;/b&gt;: &lt;/figcaption&gt;
+&lt;img src = &#34;/docs/images/&#34;/&gt;</description>
+    </item>
+    
+    <item>
+      <title>Chapter 01 Chromatography</title>
+      <link>https://example.com/docs/20-Separation-Science/Part-1-Theory/01_Chromatography/</link>
+      <pubDate>Mon, 03 Jan 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/docs/20-Separation-Science/Part-1-Theory/01_Chromatography/</guid>
+      <description>&lt;figcaption&gt;&lt;b&gt;Figure &lt;/b&gt;: &lt;/figcaption&gt;
+&lt;img src = &#34;/docs/images/&#34;/&gt;</description>
+    </item>
+    
+    <item>
+      <title>Chapter 01 List of Columns</title>
+      <link>https://example.com/docs/94-Database/Part-01-Columns/01_Column_list/</link>
+      <pubDate>Mon, 03 Jan 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/docs/94-Database/Part-01-Columns/01_Column_list/</guid>
+      <description>&lt;p&gt;I list columns.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Chapter 01 Solvent</title>
+      <link>https://example.com/docs/02-Chrom-HPLC/Part-04-GLP-for-HPLC/01_Solvent_prep/</link>
+      <pubDate>Mon, 03 Jan 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/docs/02-Chrom-HPLC/Part-04-GLP-for-HPLC/01_Solvent_prep/</guid>
+      <description>&lt;p&gt;Good practice on solvent property.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Chapter 01 Solvent Properties</title>
+      <link>https://example.com/docs/94-Database/Part-02-Solvent/01_Solvent_properties/</link>
+      <pubDate>Mon, 03 Jan 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/docs/94-Database/Part-02-Solvent/01_Solvent_properties/</guid>
+      <description>&lt;figcaption&gt;&lt;b&gt;Figure &lt;/b&gt;: &lt;/figcaption&gt;
+&lt;img src = &#34;/docs/images/&#34;/&gt;</description>
+    </item>
+    
+    <item>
+      <title>Chapter 01 Theory of Separation on LC Column</title>
+      <link>https://example.com/docs/02-Chrom-HPLC/Part-01-Theory/01_Theory_of_Separation_on_LC_column/</link>
+      <pubDate>Mon, 03 Jan 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/docs/02-Chrom-HPLC/Part-01-Theory/01_Theory_of_Separation_on_LC_column/</guid>
+      <description>&lt;p&gt;This section is copied from shodex.com.&lt;/p&gt;
+&lt;p&gt;Section 1: Theory and Types of HPLC Column&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;Theory of LC Column Separation&lt;/li&gt;
+&lt;li&gt;HPLC Separation&lt;/li&gt;
+&lt;li&gt;Types of Packed Gels&lt;/li&gt;
+&lt;li&gt;Types of Separation Mode&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;Section 2: Partition/Adsorption Chromatography Columns&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;Reversed-Phase Column&lt;/li&gt;
+&lt;li&gt;Normal-Phase Column&lt;/li&gt;
+&lt;li&gt;Hydrophilic Interaction Chromatography Column&lt;/li&gt;
+&lt;li&gt;Summary of Shodex Partition/Adsorption Columns&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;Section 3: Other Separation Modes, Preparative and Guard Columns&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;Ion Exchange Column  (not covered)&lt;/li&gt;
+&lt;li&gt;Ion Chromatography Column  (not covered)&lt;/li&gt;
+&lt;li&gt;Ion Exclusion Column  (not covered)&lt;/li&gt;
+&lt;li&gt;Ligand Exchange Column  (not covered)&lt;/li&gt;
+&lt;li&gt;Affinity Column  (not covered)&lt;/li&gt;
+&lt;li&gt;Chiral Column  (not covered)&lt;/li&gt;
+&lt;li&gt;Preparative Size Column  (not covered)&lt;/li&gt;
+&lt;li&gt;Guard Column&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;The following section is not covered at this moment, the details can be found in the source provided below.&lt;/p&gt;
+&lt;p&gt;Section 4: SEC Columns&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;Size Exclusion Chromatography column&lt;/li&gt;
+&lt;li&gt;Gel Filtration Chromatography&lt;/li&gt;
+&lt;li&gt;Gel Permeation Chromatography&lt;/li&gt;
+&lt;li&gt;Linear Column&lt;/li&gt;
+&lt;li&gt;Downsized Column&lt;/li&gt;
+&lt;li&gt;Analysis of Polymers that require Special Conditions&lt;/li&gt;
+&lt;li&gt;Multi-Mode Column&lt;/li&gt;
+&lt;li&gt;Multi-Solvent Column&lt;/li&gt;
+&lt;/ol&gt;</description>
+    </item>
+    
+    <item>
+      <title>Chapter 02 Buffer</title>
+      <link>https://example.com/docs/02-Chrom-HPLC/Part-04-GLP-for-HPLC/02_Buffer_prep/</link>
+      <pubDate>Mon, 03 Jan 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/docs/02-Chrom-HPLC/Part-04-GLP-for-HPLC/02_Buffer_prep/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Chapter 02 Buffer Properties</title>
+      <link>https://example.com/docs/94-Database/Part-03-Mobile-Phase/Buffer_properties/</link>
+      <pubDate>Mon, 03 Jan 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/docs/94-Database/Part-03-Mobile-Phase/Buffer_properties/</guid>
+      <description>&lt;figcaption&gt;&lt;b&gt;Figure &lt;/b&gt;: &lt;/figcaption&gt;
+&lt;img src = &#34;/docs/images/&#34;/&gt;</description>
+    </item>
+    
+    <item>
+      <title>Chapter 02 Column Chemistry</title>
+      <link>https://example.com/docs/02-Chrom-HPLC/Part-01-Theory/02_Column_chemistry/</link>
+      <pubDate>Mon, 03 Jan 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/docs/02-Chrom-HPLC/Part-01-Theory/02_Column_chemistry/</guid>
+      <description>&lt;ul&gt;
+&lt;li&gt;Silica Surface Chemistry &amp;amp; Physical Characteristics&lt;/li&gt;
+&lt;li&gt;Silica Bonding Procedures
+&lt;ul&gt;
+&lt;li&gt;Special Column Chemistries&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;Column Choices&lt;/li&gt;
+&lt;/ul&gt;
+&lt;figcaption&gt;&lt;b&gt;Figure &lt;/b&gt;: &lt;/figcaption&gt;
+&lt;img src = &#34;/docs/images/&#34;/&gt;</description>
+    </item>
+    
+    <item>
+      <title>Chapter 02 USP Specifications for LC Columns</title>
+      <link>https://example.com/docs/94-Database/Part-01-Columns/02_USP_spec_HPLC_columns/</link>
+      <pubDate>Mon, 03 Jan 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/docs/94-Database/Part-01-Columns/02_USP_spec_HPLC_columns/</guid>
+      <description>&lt;figcaption&gt;&lt;b&gt;Figure &lt;/b&gt;: &lt;/figcaption&gt;
+&lt;img src = &#34;/docs/images/&#34;/&gt;</description>
+    </item>
+    
+    <item>
+      <title>Chapter 02 Van Deemter Equation - Small Particle Size Column</title>
+      <link>https://example.com/docs/20-Separation-Science/Part-1-Theory/02_Van_Deemter_Equation_small_-particle_size_columns/</link>
+      <pubDate>Mon, 03 Jan 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/docs/20-Separation-Science/Part-1-Theory/02_Van_Deemter_Equation_small_-particle_size_columns/</guid>
+      <description>&lt;p&gt;How do small particle size columns increase sample throughput?&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Chapter 03 Chromatographic Performance Evaluation</title>
+      <link>https://example.com/docs/20-Separation-Science/Part-1-Theory/03_Chromatographic_performance_evaluation/</link>
+      <pubDate>Mon, 03 Jan 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/docs/20-Separation-Science/Part-1-Theory/03_Chromatographic_performance_evaluation/</guid>
+      <description>&lt;figcaption&gt;&lt;b&gt;Figure &lt;/b&gt;: &lt;/figcaption&gt;
+&lt;img src = &#34;/docs/images/&#34;/&gt;</description>
+    </item>
+    
+    <item>
+      <title>Chapter 03 LC Baseline Irregularities</title>
+      <link>https://example.com/docs/02-Chrom-HPLC/Part-06-Instrumentation-Troubleshooting/03_Baseline_Irregularities_HPLC/</link>
+      <pubDate>Mon, 03 Jan 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/docs/02-Chrom-HPLC/Part-06-Instrumentation-Troubleshooting/03_Baseline_Irregularities_HPLC/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Chapter 03 Mobile Phase</title>
+      <link>https://example.com/docs/02-Chrom-HPLC/Part-04-GLP-for-HPLC/03_Mobile_phase/</link>
+      <pubDate>Mon, 03 Jan 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/docs/02-Chrom-HPLC/Part-04-GLP-for-HPLC/03_Mobile_phase/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Chapter 03 Reversed-phase Chromatography</title>
+      <link>https://example.com/docs/02-Chrom-HPLC/Part-01-Theory/03_Reverse-Phase_Chromatogrphy/</link>
+      <pubDate>Mon, 03 Jan 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/docs/02-Chrom-HPLC/Part-01-Theory/03_Reverse-Phase_Chromatogrphy/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Chapter 04 Peak Shape Measurement</title>
+      <link>https://example.com/docs/02-Chrom-HPLC/Part-01-Theory/04_Peak_shape_measurement/</link>
+      <pubDate>Mon, 03 Jan 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/docs/02-Chrom-HPLC/Part-01-Theory/04_Peak_shape_measurement/</guid>
+      <description>&lt;p&gt;Chromatogram Peak.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Chapter 04 System Plumbing and Fittings</title>
+      <link>https://example.com/docs/02-Chrom-HPLC/Part-04-GLP-for-HPLC/04_System_plumbing-fittings/</link>
+      <pubDate>Mon, 03 Jan 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/docs/02-Chrom-HPLC/Part-04-GLP-for-HPLC/04_System_plumbing-fittings/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Chapter 05 Scaling Up or Scaling Down</title>
+      <link>https://example.com/docs/02-Chrom-HPLC/Part-01-Theory/05_Scaling_up_or_down/</link>
+      <pubDate>Mon, 03 Jan 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/docs/02-Chrom-HPLC/Part-01-Theory/05_Scaling_up_or_down/</guid>
+      <description>&lt;figcaption&gt;&lt;b&gt;Figure &lt;/b&gt;: &lt;/figcaption&gt;
+&lt;img src = &#34;/docs/images/&#34;/&gt;</description>
+    </item>
+    
+    <item>
+      <title>Chapter 06 Column Backpressure</title>
+      <link>https://example.com/docs/02-Chrom-HPLC/Part-01-Theory/06_Column_backpressure/</link>
+      <pubDate>Mon, 03 Jan 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/docs/02-Chrom-HPLC/Part-01-Theory/06_Column_backpressure/</guid>
+      <description>&lt;figcaption&gt;&lt;b&gt;Figure &lt;/b&gt;: &lt;/figcaption&gt;
+&lt;img src = &#34;/docs/images/&#34;/&gt;</description>
+    </item>
+    
+    <item>
+      <title>Chapter 06 HPLC Band Broadening Diagnosis</title>
+      <link>https://example.com/docs/02-Chrom-HPLC/Part-07-Application/06_Band_broadening/</link>
+      <pubDate>Mon, 03 Jan 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/docs/02-Chrom-HPLC/Part-07-Application/06_Band_broadening/</guid>
+      <description>&lt;figcaption&gt;&lt;b&gt;Figure &lt;/b&gt;: &lt;/figcaption&gt;
+&lt;img src = &#34;/docs/images/&#34;/&gt;</description>
+    </item>
+    
+    <item>
+      <title>Chapter 07 Choosing Columns and Conditions for the Best Peak Shape</title>
+      <link>https://example.com/docs/02-Chrom-HPLC/Part-07-Application/07_Factors_affecting_peak_shape/</link>
+      <pubDate>Mon, 03 Jan 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/docs/02-Chrom-HPLC/Part-07-Application/07_Factors_affecting_peak_shape/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Chapter 08 Degassing</title>
+      <link>https://example.com/docs/02-Chrom-HPLC/Part-04-GLP-for-HPLC/08_Degassing/</link>
+      <pubDate>Mon, 03 Jan 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/docs/02-Chrom-HPLC/Part-04-GLP-for-HPLC/08_Degassing/</guid>
+      <description>&lt;figcaption&gt;&lt;b&gt;Figure &lt;/b&gt;: &lt;/figcaption&gt;
+&lt;img src = &#34;/docs/images/&#34;/&gt;</description>
+    </item>
+    
+    <item>
+      <title>Chapter 09 Filtration</title>
+      <link>https://example.com/docs/02-Chrom-HPLC/Part-04-GLP-for-HPLC/09_Filtration/</link>
+      <pubDate>Mon, 03 Jan 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/docs/02-Chrom-HPLC/Part-04-GLP-for-HPLC/09_Filtration/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Chapter 20 Quantification</title>
+      <link>https://example.com/docs/20-Separation-Science/Part-1-Theory/20_Quantification/</link>
+      <pubDate>Mon, 03 Jan 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/docs/20-Separation-Science/Part-1-Theory/20_Quantification/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Chapter 21 Co-eluent effect in partition chromatography</title>
+      <link>https://example.com/docs/20-Separation-Science/Part-1-Theory/21_Co-eluent_effect_in_partition_chromatography/</link>
+      <pubDate>Mon, 03 Jan 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/docs/20-Separation-Science/Part-1-Theory/21_Co-eluent_effect_in_partition_chromatography/</guid>
+      <description>&lt;figcaption&gt;&lt;b&gt;Figure &lt;/b&gt;: &lt;/figcaption&gt;
+&lt;img src = &#34;/docs/images/&#34;/&gt;</description>
+    </item>
+    
+    <item>
+      <title>Chapter 22 Shape Selectivity</title>
+      <link>https://example.com/docs/20-Separation-Science/Part-1-Theory/22_Shape_Selectivity/</link>
+      <pubDate>Mon, 03 Jan 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/docs/20-Separation-Science/Part-1-Theory/22_Shape_Selectivity/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Chapter Loss of Resolution</title>
+      <link>https://example.com/docs/02-Chrom-HPLC/Part-06-Instrumentation-Troubleshooting/14_Loss_of_resolution/</link>
+      <pubDate>Mon, 03 Jan 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/docs/02-Chrom-HPLC/Part-06-Instrumentation-Troubleshooting/14_Loss_of_resolution/</guid>
+      <description>&lt;figcaption&gt;&lt;b&gt;Figure &lt;/b&gt;: &lt;/figcaption&gt;
+&lt;img src = &#34;/docs/images/&#34;/&gt;</description>
+    </item>
+    
+    <item>
+      <title>Chart of Polarity</title>
+      <link>https://example.com/docs/02-Chrom-HPLC/Part-07-Application/Chart_Polarity/</link>
+      <pubDate>Mon, 03 Jan 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/docs/02-Chrom-HPLC/Part-07-Application/Chart_Polarity/</guid>
+      <description>&lt;p&gt;To Compare different core-shell columns.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Choose a C18 Column</title>
+      <link>https://example.com/docs/02-Chrom-HPLC/Part-03-HPLC-Columns/C18_column_101/</link>
+      <pubDate>Mon, 03 Jan 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/docs/02-Chrom-HPLC/Part-03-HPLC-Columns/C18_column_101/</guid>
+      <description>&lt;figcaption&gt;&lt;b&gt;Figure &lt;/b&gt;: &lt;/figcaption&gt;
+&lt;img width =&#34;360&#34; height= &#34;200&#34; src = &#34;/docs/images/&#34;/&gt;</description>
+    </item>
+    
+    <item>
+      <title>Chromatography</title>
+      <link>https://example.com/docs/02-Chrom-HPLC/Part-01-Theory/Chromatography/</link>
+      <pubDate>Mon, 03 Jan 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/docs/02-Chrom-HPLC/Part-01-Theory/Chromatography/</guid>
+      <description>&lt;figcaption&gt;&lt;b&gt;Figure &lt;/b&gt;: &lt;/figcaption&gt;
+&lt;img src = &#34;/docs/images/&#34;/&gt;</description>
+    </item>
+    
+    <item>
+      <title>Chromatography resins</title>
+      <link>https://example.com/docs/02-Chrom-HPLC/Part-07-Application/Chromatography_resin/</link>
+      <pubDate>Mon, 03 Jan 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/docs/02-Chrom-HPLC/Part-07-Application/Chromatography_resin/</guid>
+      <description>&lt;figcaption&gt;&lt;b&gt;Figure &lt;/b&gt;: &lt;/figcaption&gt;
+&lt;img src = &#34;/docs/images/&#34;/&gt;</description>
+    </item>
+    
+    <item>
+      <title>Column Capacity</title>
+      <link>https://example.com/docs/94-Database/Part-01-Columns/Column_Capacity/</link>
+      <pubDate>Mon, 03 Jan 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/docs/94-Database/Part-01-Columns/Column_Capacity/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Column Caring and Protection</title>
+      <link>https://example.com/docs/02-Chrom-HPLC/Part-03-HPLC-Columns/Column_Caring/</link>
+      <pubDate>Mon, 03 Jan 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/docs/02-Chrom-HPLC/Part-03-HPLC-Columns/Column_Caring/</guid>
+      <description>&lt;p&gt;It talks about column caring, protection, cleaning, and regeneration.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Column Classification System</title>
+      <link>https://example.com/docs/02-Chrom-HPLC/Part-03-HPLC-Columns/Column_Classification/</link>
+      <pubDate>Mon, 03 Jan 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/docs/02-Chrom-HPLC/Part-03-HPLC-Columns/Column_Classification/</guid>
+      <description>&lt;figcaption&gt;&lt;b&gt;Figure &lt;/b&gt;: &lt;/figcaption&gt;
+&lt;img src = &#34;/docs/images/&#34;/&gt;
+&lt;p&gt;Columns are characterized by 4 column parameters, which are determined with 3 simple, fast, repeatable and reproducible chromatographic methods. More information can be obtained in the test procedure manual (below), ranking procedure based on F-value (below) and freeware.&lt;/p&gt;
+&lt;p&gt;The 4 column parameters are:&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;the retention factor of amylbenzene, &lt;font color = &#34;blue&#34;&gt;&lt;em&gt;k&#39; amylbenzene&lt;/em&gt;&lt;/font&gt;,&lt;/li&gt;
+&lt;li&gt;the relative retention factor of triphenylene/o-terphenyl, &lt;font color = &#34;blue&#34;&gt;&lt;em&gt;rk&#39; triphenylene/o-terphenyl&lt;/em&gt;&lt;/font&gt;,&lt;/li&gt;
+&lt;li&gt;the relative retention factor of benzylamine/phenol at pH 2.7, &lt;font color = &#34;blue&#34;&gt;&lt;em&gt;rk&#39; benzylamine/phenol pH 2.7&lt;/em&gt;&lt;/font&gt; and&lt;/li&gt;
+&lt;li&gt;the retention factor of 2,2&#39;-dipyridyl, &lt;font color = &#34;blue&#34;&gt;&lt;em&gt;k&#39; 2,2-dipyridyl&lt;/em&gt;&lt;/font&gt;.&lt;/li&gt;
+&lt;/ol&gt;</description>
+    </item>
+    
+    <item>
+      <title>Column Comparison Table</title>
+      <link>https://example.com/docs/02-Chrom-HPLC/Part-03-HPLC-Columns/Column_comparison_table/</link>
+      <pubDate>Mon, 03 Jan 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/docs/02-Chrom-HPLC/Part-03-HPLC-Columns/Column_comparison_table/</guid>
+      <description>&lt;figcaption&gt;&lt;b&gt;Figure &lt;/b&gt;: &lt;/figcaption&gt;
+&lt;img src = &#34;/docs/images/&#34;/&gt;</description>
+    </item>
+    
+    <item>
+      <title>Column Parameters Guide</title>
+      <link>https://example.com/docs/02-Chrom-HPLC/Part-03-HPLC-Columns/Column_parameters_guide/</link>
+      <pubDate>Mon, 03 Jan 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/docs/02-Chrom-HPLC/Part-03-HPLC-Columns/Column_parameters_guide/</guid>
+      <description>&lt;p&gt;To Compare different core-shell columns.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Column Performance Test</title>
+      <link>https://example.com/docs/02-Chrom-HPLC/Part-03-HPLC-Columns/Column_performance_test/</link>
+      <pubDate>Mon, 03 Jan 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/docs/02-Chrom-HPLC/Part-03-HPLC-Columns/Column_performance_test/</guid>
+      <description>&lt;figcaption&gt;&lt;b&gt;Figure &lt;/b&gt;: &lt;/figcaption&gt;
+&lt;img src = &#34;/docs/images/&#34;/&gt;</description>
+    </item>
+    
+    <item>
+      <title>Column Selection Showcases</title>
+      <link>https://example.com/docs/02-Chrom-HPLC/Part-03-HPLC-Columns/Column_selection_showcases/</link>
+      <pubDate>Mon, 03 Jan 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/docs/02-Chrom-HPLC/Part-03-HPLC-Columns/Column_selection_showcases/</guid>
+      <description>&lt;p&gt;I collected some column selection showcases from column manufacturers.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Combinations of possible solute-stationary phase interactions</title>
+      <link>https://example.com/docs/02-Chrom-HPLC/Part-01-Theory/Solute_stationary_phase_interactions/</link>
+      <pubDate>Mon, 03 Jan 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/docs/02-Chrom-HPLC/Part-01-Theory/Solute_stationary_phase_interactions/</guid>
+      <description>&lt;figcaption&gt;&lt;b&gt;Figure &lt;/b&gt;: &lt;/figcaption&gt;
+&lt;img src = &#34;/docs/images/&#34;/&gt;</description>
+    </item>
+    
+    <item>
+      <title>Core-shell Column Comparison</title>
+      <link>https://example.com/docs/02-Chrom-HPLC/Part-03-HPLC-Columns/Column_comparison/</link>
+      <pubDate>Mon, 03 Jan 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/docs/02-Chrom-HPLC/Part-03-HPLC-Columns/Column_comparison/</guid>
+      <description>&lt;p&gt;Jufang Wu Ludvigsson published a paper of Comparing different core-shell columns.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Core-shell Particles</title>
+      <link>https://example.com/docs/02-Chrom-HPLC/Part-07-Application/Core-shell_particles/</link>
+      <pubDate>Mon, 03 Jan 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/docs/02-Chrom-HPLC/Part-07-Application/Core-shell_particles/</guid>
+      <description>&lt;figcaption&gt;&lt;b&gt;Figure &lt;/b&gt;: &lt;/figcaption&gt;
+&lt;img width =&#34;360&#34; height= &#34;200&#34; src = &#34;/docs/images/&#34;/&gt;</description>
+    </item>
+    
+    <item>
+      <title>Critical Evaluation of Chromatography Methods</title>
+      <link>https://example.com/docs/02-Chrom-HPLC/Part-01-Theory/Evaluation_Chrom_Methods/</link>
+      <pubDate>Mon, 03 Jan 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/docs/02-Chrom-HPLC/Part-01-Theory/Evaluation_Chrom_Methods/</guid>
+      <description>&lt;p&gt;Tony Taylor concentrates on the mobile phase and HPLC column combination when investigating mobile-phase conditions in a HPLC method.&lt;/p&gt;
+&lt;figcaption&gt;&lt;b&gt;Figure &lt;/b&gt;: &lt;/figcaption&gt;
+&lt;img width=&#34;320&#34; height=&#34;200&#34; src = &#34;/docs/images/&#34;/&gt;</description>
+    </item>
+    
+    <item>
+      <title>Flat Film Degasser</title>
+      <link>https://example.com/docs/02-Chrom-HPLC/Part-07-Application/Degassing_flat_film_degasser/</link>
+      <pubDate>Mon, 03 Jan 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/docs/02-Chrom-HPLC/Part-07-Application/Degassing_flat_film_degasser/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Flow Direction</title>
+      <link>https://example.com/docs/02-Chrom-HPLC/Part-04-GLP-for-HPLC/10_flow_direction/</link>
+      <pubDate>Mon, 03 Jan 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/docs/02-Chrom-HPLC/Part-04-GLP-for-HPLC/10_flow_direction/</guid>
+      <description>&lt;figcaption&gt;&lt;b&gt;Figure &lt;/b&gt;: &lt;/figcaption&gt;
+&lt;img src = &#34;/docs/images/&#34;/&gt;</description>
+    </item>
+    
+    <item>
+      <title>Frit</title>
+      <link>https://example.com/docs/02-Chrom-HPLC/Part-07-Application/Frit/</link>
+      <pubDate>Mon, 03 Jan 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/docs/02-Chrom-HPLC/Part-07-Application/Frit/</guid>
+      <description>&lt;figcaption&gt;&lt;b&gt;Figure &lt;/b&gt;: &lt;/figcaption&gt;
+&lt;img width =&#34;360&#34; height= &#34;200&#34; src = &#34;/docs/images/&#34;/&gt;</description>
+    </item>
+    
+    <item>
+      <title>General Principles of Liquid Chromatography</title>
+      <link>https://example.com/docs/02-Chrom-HPLC/Part-01-Theory/General_principles_LC/</link>
+      <pubDate>Mon, 03 Jan 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/docs/02-Chrom-HPLC/Part-01-Theory/General_principles_LC/</guid>
+      <description>&lt;figcaption&gt;&lt;b&gt;Figure &lt;/b&gt;: &lt;/figcaption&gt;
+&lt;img src = &#34;/docs/images/&#34;/&gt;</description>
+    </item>
+    
+    <item>
+      <title>HPLC Column Database</title>
+      <link>https://example.com/docs/02-Chrom-HPLC/Part-03-HPLC-Columns/Column_selection_dB/</link>
+      <pubDate>Mon, 03 Jan 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/docs/02-Chrom-HPLC/Part-03-HPLC-Columns/Column_selection_dB/</guid>
+      <description>&lt;figcaption&gt;&lt;b&gt;Figure &lt;/b&gt;: &lt;/figcaption&gt;
+&lt;img src = &#34;/docs/images/&#34;/&gt;</description>
+    </item>
+    
+    <item>
+      <title>Hydrophilic-Lipophilic Balance</title>
+      <link>https://example.com/docs/20-Separation-Science/Part-1-Theory/Hydrophilic-Lipophilic_Balance/</link>
+      <pubDate>Mon, 03 Jan 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/docs/20-Separation-Science/Part-1-Theory/Hydrophilic-Lipophilic_Balance/</guid>
+      <description>&lt;figcaption&gt;&lt;b&gt;Figure &lt;/b&gt;: &lt;/figcaption&gt;
+&lt;img src = &#34;/docs/images/&#34;/&gt;
+&lt;p&gt;The hydrophilic-lipophilic balance is a measure of the degree to which it is hydrophilic or lipophilic (or hydrophobic), determined by calculating values for the different regions of the molecule, as described by Griffin in 1949 and 1954. Other methods have been suggested, notably in 1957 by Davies. 
+  &lt;a href=&#34;https://en.wikipedia.org/wiki/Hydrophilic-lipophilic_balance&#34;&gt;source: wiki&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Hydrophobic ion Paring</title>
+      <link>https://example.com/docs/02-Chrom-HPLC/Part-01-Theory/Hydrophobic_ion_paring/</link>
+      <pubDate>Mon, 03 Jan 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/docs/02-Chrom-HPLC/Part-01-Theory/Hydrophobic_ion_paring/</guid>
+      <description>&lt;figcaption&gt;&lt;b&gt;Figure &lt;/b&gt;: &lt;/figcaption&gt;
+&lt;img src = &#34;/docs/images/&#34;/&gt;</description>
+    </item>
+    
+    <item>
+      <title>Injector and Injection Solvents</title>
+      <link>https://example.com/docs/02-Chrom-HPLC/Part-04-GLP-for-HPLC/Injection_solvents/</link>
+      <pubDate>Mon, 03 Jan 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/docs/02-Chrom-HPLC/Part-04-GLP-for-HPLC/Injection_solvents/</guid>
+      <description>&lt;figcaption&gt;&lt;b&gt;Figure &lt;/b&gt;: &lt;/figcaption&gt;
+&lt;img src = &#34;/docs/images/&#34;/&gt;</description>
+    </item>
+    
+    <item>
+      <title>Introduction to Hydrophobic Interaction Chromatography</title>
+      <link>https://example.com/docs/02-Chrom-HPLC/Part-01-Theory/Hydrophobic_interaction_chromatography/</link>
+      <pubDate>Mon, 03 Jan 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/docs/02-Chrom-HPLC/Part-01-Theory/Hydrophobic_interaction_chromatography/</guid>
+      <description>&lt;figcaption&gt;&lt;b&gt;Figure &lt;/b&gt;: &lt;/figcaption&gt;
+&lt;img src = &#34;/docs/images/&#34;/&gt;</description>
+    </item>
+    
+    <item>
+      <title>LC column Selection Guide</title>
+      <link>https://example.com/docs/02-Chrom-HPLC/Part-03-HPLC-Columns/Column_selectioin_guide/</link>
+      <pubDate>Mon, 03 Jan 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/docs/02-Chrom-HPLC/Part-03-HPLC-Columns/Column_selectioin_guide/</guid>
+      <description>&lt;figcaption&gt;&lt;b&gt;Figure &lt;/b&gt;: &lt;/figcaption&gt;
+&lt;img src = &#34;/docs/images/&#34;/&gt;
+&lt;p&gt;Here is some basic principle for HPLC column choice.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Matrices / Substrate&lt;/li&gt;
+&lt;li&gt;Stationary phase / Ligand&lt;/li&gt;
+&lt;li&gt;Particle diameter&lt;/li&gt;
+&lt;li&gt;Pore size&lt;/li&gt;
+&lt;li&gt;column size&lt;/li&gt;
+&lt;li&gt;Guard columns&lt;/li&gt;
+&lt;/ul&gt;</description>
+    </item>
+    
+    <item>
+      <title>LC Sample Introduction</title>
+      <link>https://example.com/docs/02-Chrom-HPLC/Part-01-Theory/Sample_introduction/</link>
+      <pubDate>Mon, 03 Jan 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/docs/02-Chrom-HPLC/Part-01-Theory/Sample_introduction/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Mass Spectra Databases</title>
+      <link>https://example.com/docs/05-Mass-Spec/Part-2-Application/Databases/</link>
+      <pubDate>Mon, 03 Jan 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/docs/05-Mass-Spec/Part-2-Application/Databases/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Mobile Phase Conditions</title>
+      <link>https://example.com/docs/02-Chrom-HPLC/Part-07-Application/Mobile_phase_conditions/</link>
+      <pubDate>Mon, 03 Jan 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/docs/02-Chrom-HPLC/Part-07-Application/Mobile_phase_conditions/</guid>
+      <description>&lt;p&gt;To talk about mobile phase.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Mobile Phase pH</title>
+      <link>https://example.com/docs/94-Database/Part-03-Mobile-Phase/Mobile_phase-pH/</link>
+      <pubDate>Mon, 03 Jan 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/docs/94-Database/Part-03-Mobile-Phase/Mobile_phase-pH/</guid>
+      <description>&lt;figcaption&gt;&lt;b&gt;Figure &lt;/b&gt;: &lt;/figcaption&gt;
+&lt;img src = &#34;/docs/images/&#34;/&gt;</description>
+    </item>
+    
+    <item>
+      <title>Mobile Phases</title>
+      <link>https://example.com/docs/02-Chrom-HPLC/Part-01-Theory/Mobile_phase/</link>
+      <pubDate>Mon, 03 Jan 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/docs/02-Chrom-HPLC/Part-01-Theory/Mobile_phase/</guid>
+      <description>&lt;ol&gt;
+&lt;li&gt;pH can change the retention because the analyte charge could be suppressed, but it can also affect MS response.&lt;/li&gt;
+&lt;li&gt;We want to adjust pH to promote the charged state of the analyte in the electrospray ionization mode.&lt;/li&gt;
+&lt;li&gt;The concentration of the buffer, or acid or base used to adjust/control the pH, should be as low as possible for ES.&lt;/li&gt;
+&lt;li&gt;Ammonium acetate and ammonium formate are generally applicable at pH 7 but concentrations should be kept to a minimum.
+&amp;hellip;&lt;/li&gt;
+&lt;/ol&gt;</description>
+    </item>
+    
+    <item>
+      <title>MRM Transitions -01</title>
+      <link>https://example.com/docs/94-Database/Part-04-MRM-Transition/MRM_transitions_01/</link>
+      <pubDate>Mon, 03 Jan 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/docs/94-Database/Part-04-MRM-Transition/MRM_transitions_01/</guid>
+      <description>&lt;figcaption&gt;&lt;b&gt;Figure &lt;/b&gt;: &lt;/figcaption&gt;
+&lt;img width =&#34;360&#34; height= &#34;200&#34; src = &#34;/docs/images/&#34;/&gt;</description>
+    </item>
+    
+    <item>
+      <title>Normal-Phase HPLC vs. Reversed-Phase HPLC</title>
+      <link>https://example.com/docs/02-Chrom-HPLC/Part-07-Application/NP-HPLC_vs_RP-HPLC/</link>
+      <pubDate>Mon, 03 Jan 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/docs/02-Chrom-HPLC/Part-07-Application/NP-HPLC_vs_RP-HPLC/</guid>
+      <description>&lt;p&gt;To Compare different core-shell columns.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Operating Parameters Guide</title>
+      <link>https://example.com/docs/02-Chrom-HPLC/Part-07-Application/Operating_Parameters_Guide/</link>
+      <pubDate>Mon, 03 Jan 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/docs/02-Chrom-HPLC/Part-07-Application/Operating_Parameters_Guide/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Preventing and solving common hardware problems</title>
+      <link>https://example.com/docs/02-Chrom-HPLC/Part-04-GLP-for-HPLC/Preventing_solving_hardware_problems/</link>
+      <pubDate>Mon, 03 Jan 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/docs/02-Chrom-HPLC/Part-04-GLP-for-HPLC/Preventing_solving_hardware_problems/</guid>
+      <description>&lt;figcaption&gt;&lt;b&gt;Figure &lt;/b&gt;: &lt;/figcaption&gt;
+&lt;img src = &#34;/docs/images/&#34;/&gt;</description>
+    </item>
+    
+    <item>
+      <title>Problems</title>
+      <link>https://example.com/docs/02-Chrom-HPLC/Part-08-Problems/Problems/</link>
+      <pubDate>Mon, 03 Jan 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/docs/02-Chrom-HPLC/Part-08-Problems/Problems/</guid>
+      <description>&lt;figcaption&gt;&lt;b&gt;Figure &lt;/b&gt;: &lt;/figcaption&gt;
+&lt;img src = &#34;/docs/images/&#34;/&gt;</description>
+    </item>
+    
+    <item>
+      <title>Pump Maintenance</title>
+      <link>https://example.com/docs/02-Chrom-HPLC/Part-04-GLP-for-HPLC/Pump/</link>
+      <pubDate>Mon, 03 Jan 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/docs/02-Chrom-HPLC/Part-04-GLP-for-HPLC/Pump/</guid>
+      <description>&lt;figcaption&gt;&lt;b&gt;Figure &lt;/b&gt;: &lt;/figcaption&gt;
+&lt;img src = &#34;/docs/images/&#34;/&gt;</description>
+    </item>
+    
+    <item>
+      <title>Removal of Phospholipids</title>
+      <link>https://example.com/docs/02-Chrom-HPLC/Part-07-Application/Removal_Phospholipids/</link>
+      <pubDate>Mon, 03 Jan 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/docs/02-Chrom-HPLC/Part-07-Application/Removal_Phospholipids/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Spec sheet of Varian GC/MS @ AECL</title>
+      <link>https://example.com/docs/03-Mass-Spec-GC-MS/Part-2-Application/Varian_GCMS_Spec/</link>
+      <pubDate>Mon, 03 Jan 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/docs/03-Mass-Spec-GC-MS/Part-2-Application/Varian_GCMS_Spec/</guid>
+      <description>&lt;p&gt;Spec sheet of Varian GC/MS @ AECL&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>TEA Tri-ethyl-amine</title>
+      <link>https://example.com/docs/02-Chrom-HPLC/Part-07-Application/TEA-Tri-ethyl-amine/</link>
+      <pubDate>Mon, 03 Jan 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/docs/02-Chrom-HPLC/Part-07-Application/TEA-Tri-ethyl-amine/</guid>
+      <description>&lt;p&gt;
+  &lt;a href=&#34;https://www.researchgate.net/post/How_Triethilamine_works_on_a_compound_separation_in_a_reversed_phase_column_C182&#34;&gt;How Triethilamine works on a compound separation in a reversed phase column (C18)?&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Template</title>
+      <link>https://example.com/docs/02-Chrom-HPLC/Part-03-HPLC-Columns/T_02/</link>
+      <pubDate>Mon, 03 Jan 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/docs/02-Chrom-HPLC/Part-03-HPLC-Columns/T_02/</guid>
+      <description>&lt;figcaption&gt;&lt;b&gt;Figure &lt;/b&gt;: &lt;/figcaption&gt;
+&lt;img src = &#34;/docs/images/&#34;/&gt;</description>
+    </item>
+    
+    <item>
+      <title>Template</title>
+      <link>https://example.com/docs/02-Chrom-HPLC/Part-07-Application/T_02/</link>
+      <pubDate>Mon, 03 Jan 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/docs/02-Chrom-HPLC/Part-07-Application/T_02/</guid>
+      <description>&lt;figcaption&gt;&lt;b&gt;Figure &lt;/b&gt;: &lt;/figcaption&gt;
+&lt;img src = &#34;/docs/images/&#34;/&gt;</description>
+    </item>
+    
+    <item>
+      <title>Template</title>
+      <link>https://example.com/docs/94-Database/Part-01-Columns/T_02/</link>
+      <pubDate>Mon, 03 Jan 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/docs/94-Database/Part-01-Columns/T_02/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Template</title>
+      <link>https://example.com/docs/94-Database/Part-02-Solvent/T_02/</link>
+      <pubDate>Mon, 03 Jan 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/docs/94-Database/Part-02-Solvent/T_02/</guid>
+      <description>&lt;figcaption&gt;&lt;b&gt;Figure &lt;/b&gt;: &lt;/figcaption&gt;
+&lt;img src = &#34;/docs/images/&#34;/&gt;</description>
+    </item>
+    
+    <item>
+      <title>Template</title>
+      <link>https://example.com/docs/94-Database/Part-03-Mobile-Phase/T_02/</link>
+      <pubDate>Mon, 03 Jan 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/docs/94-Database/Part-03-Mobile-Phase/T_02/</guid>
+      <description>&lt;figcaption&gt;&lt;b&gt;Figure &lt;/b&gt;: &lt;/figcaption&gt;
+&lt;img src = &#34;/docs/images/&#34;/&gt;</description>
+    </item>
+    
+    <item>
+      <title>Template</title>
+      <link>https://example.com/docs/94-Database/Part-04-MRM-Transition/T_02/</link>
+      <pubDate>Mon, 03 Jan 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/docs/94-Database/Part-04-MRM-Transition/T_02/</guid>
+      <description>&lt;figcaption&gt;&lt;b&gt;Figure &lt;/b&gt;: &lt;/figcaption&gt;
+&lt;img width =&#34;360&#34; height= &#34;200&#34; src = &#34;/docs/images/&#34;/&gt;</description>
+    </item>
+    
+    <item>
+      <title>Template-02</title>
+      <link>https://example.com/docs/02-Chrom-HPLC/Part-04-GLP-for-HPLC/T_02/</link>
+      <pubDate>Mon, 03 Jan 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/docs/02-Chrom-HPLC/Part-04-GLP-for-HPLC/T_02/</guid>
+      <description>&lt;figcaption&gt;&lt;b&gt;Figure &lt;/b&gt;: &lt;/figcaption&gt;
+&lt;img src = &#34;/docs/images/&#34;/&gt;</description>
+    </item>
+    
+    <item>
+      <title>Template-02</title>
+      <link>https://example.com/docs/02-Chrom-HPLC/Template/T_02/</link>
+      <pubDate>Mon, 03 Jan 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/docs/02-Chrom-HPLC/Template/T_02/</guid>
+      <description>&lt;figcaption&gt;&lt;b&gt;Figure &lt;/b&gt;: &lt;/figcaption&gt;
+&lt;img src = &#34;/docs/images/&#34;/&gt;</description>
+    </item>
+    
+    <item>
+      <title>Template-02</title>
+      <link>https://example.com/docs/20-Separation-Science/Part-1-Theory/T_02/</link>
+      <pubDate>Mon, 03 Jan 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/docs/20-Separation-Science/Part-1-Theory/T_02/</guid>
+      <description>&lt;figcaption&gt;&lt;b&gt;Figure &lt;/b&gt;: &lt;/figcaption&gt;
+&lt;img src = &#34;/docs/images/&#34;/&gt;</description>
+    </item>
+    
+    <item>
+      <title>Troubleshooting I</title>
+      <link>https://example.com/docs/03-Mass-Spec-GC-MS/Part-2-Application/Troubleshooting_I/</link>
+      <pubDate>Mon, 03 Jan 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/docs/03-Mass-Spec-GC-MS/Part-2-Application/Troubleshooting_I/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>USP Specification (USP 35)</title>
+      <link>https://example.com/docs/02-Chrom-HPLC/Part-03-HPLC-Columns/Column_selection_USP_category/</link>
+      <pubDate>Mon, 03 Jan 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/docs/02-Chrom-HPLC/Part-03-HPLC-Columns/Column_selection_USP_category/</guid>
+      <description>&lt;figcaption&gt;&lt;b&gt;Figure &lt;/b&gt;: &lt;/figcaption&gt;
+&lt;img src = &#34;/docs/images/&#34;/&gt;</description>
+    </item>
+    
+    <item>
+      <title>What is the difference between HILIC columns and common HPLC columns?</title>
+      <link>https://example.com/docs/02-Chrom-HPLC/Part-03-HPLC-Columns/HILIC_coulmns_vs_common_columns/</link>
+      <pubDate>Mon, 03 Jan 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/docs/02-Chrom-HPLC/Part-03-HPLC-Columns/HILIC_coulmns_vs_common_columns/</guid>
+      <description>&lt;figcaption&gt;&lt;b&gt;Figure &lt;/b&gt;: &lt;/figcaption&gt;
+&lt;img src = &#34;/docs/images/&#34;/&gt;</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://example.com/docs/95-Literature-Reading/blank/</link>
+      <pubDate>Thu, 30 Dec 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/docs/95-Literature-Reading/blank/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>BEH Column Application in Steroid Conjugates</title>
+      <link>https://example.com/docs/95-Literature-Reading/BEH_application_steroids/</link>
+      <pubDate>Thu, 30 Dec 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/docs/95-Literature-Reading/BEH_application_steroids/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Core-shell Column Comparison</title>
+      <link>https://example.com/docs/95-Literature-Reading/Column-comparison/</link>
+      <pubDate>Thu, 30 Dec 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/docs/95-Literature-Reading/Column-comparison/</guid>
+      <description>&lt;p&gt;To Compare different core-shell columns.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Novel UiO2@SiO2 stationary phase</title>
+      <link>https://example.com/docs/95-Literature-Reading/Novel_UiO2SiO2_stationary_phase/</link>
+      <pubDate>Thu, 30 Dec 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/docs/95-Literature-Reading/Novel_UiO2SiO2_stationary_phase/</guid>
+      <description>&lt;p&gt;Novel UiO2@SiO2 stationary phase (2015)&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Hydrophobic Measurement</title>
+      <link>https://example.com/docs/96-Physiochemistry-Theory/Part-1-Water/Hydrophobic_Measurement/</link>
+      <pubDate>Tue, 28 Dec 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/docs/96-Physiochemistry-Theory/Part-1-Water/Hydrophobic_Measurement/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://example.com/docs/20-Separation-Science/Part-2-Application/z_00/</link>
+      <pubDate>Mon, 27 Dec 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/docs/20-Separation-Science/Part-2-Application/z_00/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Chromatography Resolution</title>
+      <link>https://example.com/docs/02-Chrom-HPLC/Part-01-Theory/Resolution/</link>
+      <pubDate>Mon, 27 Dec 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/docs/02-Chrom-HPLC/Part-01-Theory/Resolution/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Factors Affecting Resolution</title>
+      <link>https://example.com/docs/20-Separation-Science/Part-2-Application/Factors_Affecting_Resolution/</link>
+      <pubDate>Mon, 27 Dec 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/docs/20-Separation-Science/Part-2-Application/Factors_Affecting_Resolution/</guid>
+      <description>&lt;p&gt;Van Deemter Plot explains resolution.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>LC-MS/MS Separation Science by Rick Lake</title>
+      <link>https://example.com/docs/20-Separation-Science/Part-2-Application/Rick_Lake_LCMSMS_Separation_Science/</link>
+      <pubDate>Mon, 27 Dec 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/docs/20-Separation-Science/Part-2-Application/Rick_Lake_LCMSMS_Separation_Science/</guid>
+      <description>&lt;p&gt;This is the script of a presentation &amp;ldquo;Getting The Most Out Of Your LCMSMS Separations and Method Development&amp;rdquo; delivered by Rick Lake.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Hello R Markdown</title>
+      <link>https://example.com/posts/2020-12-01-r-rmarkdown/</link>
+      <pubDate>Tue, 01 Dec 2020 21:13:14 -0500</pubDate>
+      
+      <guid>https://example.com/posts/2020-12-01-r-rmarkdown/</guid>
+      <description>R MarkdownThis is an R Markdown document. Markdown is a simple formatting syntax for authoring HTML, PDF, and MS Word documents. For more details on using R Markdown see http://rmarkdown.rstudio.com.
+You can embed an R code chunk like this:
+summary(cars)## speed dist ## Min. : 4.0 Min. : 2.00 ## 1st Qu.:12.0 1st Qu.: 26.00 ## Median :15.0 Median : 36.00 ## Mean :15.4 Mean : 42.98 ## 3rd Qu.</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://example.com/docs/08-Sample-Extraction-and-Cleanup/Liquid-Liquid-Extraction/LLE-1/</link>
+      <pubDate>Fri, 16 Oct 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/docs/08-Sample-Extraction-and-Cleanup/Liquid-Liquid-Extraction/LLE-1/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://example.com/docs/08-Sample-Extraction-and-Cleanup/Liquid-Liquid-Extraction/LLE-2/</link>
+      <pubDate>Fri, 16 Oct 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/docs/08-Sample-Extraction-and-Cleanup/Liquid-Liquid-Extraction/LLE-2/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://example.com/docs/08-Sample-Extraction-and-Cleanup/Supported-Liquid-Extraction/SLE-1/</link>
+      <pubDate>Fri, 16 Oct 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/docs/08-Sample-Extraction-and-Cleanup/Supported-Liquid-Extraction/SLE-1/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://example.com/docs/08-Sample-Extraction-and-Cleanup/Supported-Liquid-Extraction/SLE-2/</link>
+      <pubDate>Fri, 16 Oct 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/docs/08-Sample-Extraction-and-Cleanup/Supported-Liquid-Extraction/SLE-2/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Chapter 2</title>
+      <link>https://example.com/docs/02-Chrom-HPLC/Part-05-Method-Development/blank/</link>
+      <pubDate>Fri, 16 Oct 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/docs/02-Chrom-HPLC/Part-05-Method-Development/blank/</guid>
+      <description>&lt;p&gt;This is chapter 2 of nested chapter.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Chapter 2</title>
+      <link>https://example.com/docs/96-Physiochemistry-Theory/Part-1-Water/Theo-2/</link>
+      <pubDate>Fri, 16 Oct 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/docs/96-Physiochemistry-Theory/Part-1-Water/Theo-2/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Increase HPLC/UHPLC Method Sensitivity</title>
+      <link>https://example.com/docs/02-Chrom-HPLC/Part-05-Method-Development/Increase_HPLC_method_sensitivity/</link>
+      <pubDate>Fri, 16 Oct 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/docs/02-Chrom-HPLC/Part-05-Method-Development/Increase_HPLC_method_sensitivity/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>(Hu)go Template Primer</title>
+      <link>https://example.com/posts/goisforlovers/</link>
+      <pubDate>Wed, 02 Apr 2014 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/posts/goisforlovers/</guid>
+      <description>Hugo uses the excellent Go html/template library for its template engine. It is an extremely lightweight engine that provides a very small amount of logic. In our experience that it is just the right amount of logic to be able to create a good static website. If you have used other template systems from different languages or frameworks you will find a lot of similarities in Go templates.
+This document is a brief primer on using Go templates.</description>
+    </item>
+    
+    <item>
+      <title>Getting Started with Hugo</title>
+      <link>https://example.com/posts/hugoisforlovers/</link>
+      <pubDate>Wed, 02 Apr 2014 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/posts/hugoisforlovers/</guid>
+      <description>Step 1. Install Hugo #  Go to Hugo releases and download the appropriate version for your OS and architecture.
+Save it somewhere specific as we will be using it in the next step.
+More complete instructions are available at Install Hugo
+Step 2. Build the Docs #  Hugo has its own example site which happens to also be the documentation site you are reading right now.
+Follow the following steps:</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://example.com/docs/98-example/collapsed/3rd-level/4th-level/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/docs/98-example/collapsed/3rd-level/4th-level/</guid>
+      <description>4th Level of Menu #  Caesorum illa tu sentit micat vestes papyriferi #  Inde aderam facti; Theseus vis de tauri illa peream. Oculos uberaque non regisque vobis cursuque, opus venit quam vulnera. Et maiora necemque, lege modo; gestanda nitidi, vero? Dum ne pectoraque testantur.
+Venasque repulsa Samos qui, exspectatum eram animosque hinc, aut manes, Assyrii. Cupiens auctoribus pariter rubet, profana magni super nocens. Vos ius sibilat inpar turba visae iusto!</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://example.com/docs/98-example/hidden/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/docs/98-example/hidden/</guid>
+      <description>This page is hidden in menu #  Quondam non pater est dignior ille Eurotas #  Latent te facies #  Lorem markdownum arma ignoscas vocavit quoque ille texit mandata mentis ultimus, frementes, qui in vel. Hippotades Peleus pennas conscia cuiquam Caeneus quas.
+ Pater demittere evincitque reddunt Maxime adhuc pressit huc Danaas quid freta Soror ego Luctus linguam saxa ultroque prior Tatiumque inquit Saepe liquitur subita superata dederat Anius sudor  Cum honorum Latona #  O fallor in sustinui iussorum equidem.</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://example.com/docs/99-shortcodes/buttons/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/docs/99-shortcodes/buttons/</guid>
+      <description>Buttons #  Buttons are styled links that can lead to local page or external link.
+Example #  {{&amp;lt; button relref=&amp;#34;/&amp;#34; [class=&amp;#34;...&amp;#34;] &amp;gt;}}Get Home{{&amp;lt; /button &amp;gt;}} {{&amp;lt; button href=&amp;#34;https://github.com/alex-shpak/hugo-book&amp;#34; &amp;gt;}}Contribute{{&amp;lt; /button &amp;gt;}}  Get Home  Contribute  </description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://example.com/docs/99-shortcodes/columns/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/docs/99-shortcodes/columns/</guid>
+      <description>Columns #  Columns help organize shorter pieces of content horizontally for readability.
+{{&amp;lt; columns &amp;gt;}} &amp;lt;!-- begin columns block --&amp;gt; # Left Content Lorem markdownum insigne... &amp;lt;---&amp;gt; &amp;lt;!-- magic separator, between columns --&amp;gt; # Mid Content Lorem markdownum insigne... &amp;lt;---&amp;gt; &amp;lt;!-- magic separator, between columns --&amp;gt; # Right Content Lorem markdownum insigne... {{&amp;lt; /columns &amp;gt;}} Example #  Left Content #  Lorem markdownum insigne. Olympo signis Delphis! Retexi Nereius nova develat stringit, frustra Saturnius uteroque inter!</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://example.com/docs/99-shortcodes/details/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/docs/99-shortcodes/details/</guid>
+      <description>Details #  Details shortcode is a helper for details html5 element. It is going to replace expand shortcode.
+Example #  {{&amp;lt; details &amp;#34;Title&amp;#34; [open] &amp;gt;}} ## Markdown content Lorem markdownum insigne... {{&amp;lt; /details &amp;gt;}} {{&amp;lt; details title=&amp;#34;Title&amp;#34; open=true &amp;gt;}} ## Markdown content Lorem markdownum insigne... {{&amp;lt; /details &amp;gt;}} Title Markdown content #  Lorem markdownum insigne&amp;hellip;   </description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://example.com/docs/99-shortcodes/expand/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/docs/99-shortcodes/expand/</guid>
+      <description>Expand #  Expand shortcode can help to decrease clutter on screen by hiding part of text. Expand content by clicking on it.
+Example #  Default #  {{&amp;lt; expand &amp;gt;}} ## Markdown content Lorem markdownum insigne... {{&amp;lt; /expand &amp;gt;}}   Expand ↕  Markdown content Lorem markdownum insigne&amp;hellip;    With Custom Label #  {{&amp;lt; expand &amp;#34;Custom Label&amp;#34; &amp;#34;...&amp;#34; &amp;gt;}} ## Markdown content Lorem markdownum insigne.</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://example.com/docs/99-shortcodes/hints/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/docs/99-shortcodes/hints/</guid>
+      <description>Hints #  Hint shortcode can be used as hint/alerts/notification block.
+There are 3 colors to choose: info, warning and danger.
+{{&amp;lt; hint [info|warning|danger] &amp;gt;}} **Markdown content** Lorem markdownum insigne. Olympo signis Delphis! Retexi Nereius nova develat stringit, frustra Saturnius uteroque inter! Oculis non ritibus Telethusa {{&amp;lt; /hint &amp;gt;}} Example #  Markdown content
+Lorem markdownum insigne. Olympo signis Delphis! Retexi Nereius nova develat stringit, frustra Saturnius uteroque inter! Oculis non ritibus Telethusa  Markdown content</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://example.com/docs/99-shortcodes/katex/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/docs/99-shortcodes/katex/</guid>
+      <description>KaTeX #  KaTeX shortcode let you render math typesetting in markdown document. See KaTeX
+Example #  {{&amp;lt; katex [display] [class=&amp;#34;text-center&amp;#34;] &amp;gt;}} f(x) = \int_{-\infty}^\infty\hat f(\xi)\,e^{2 \pi i \xi x}\,d\xi {{&amp;lt; /katex &amp;gt;}}     \[f(x) = \int_{-\infty}^\infty\hat f(\xi)\,e^{2 \pi i \xi x}\,d\xi\]    Display Mode Example #  Here is some inline example:  \(\pi(x)\)  , rendered in the same line. And below is display example, having display: block  \[f(x) = \int_{-\infty}^\infty\hat f(\xi)\,e^{2 \pi i \xi x}\,d\xi\]  Text continues here.</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://example.com/docs/99-shortcodes/mermaid/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/docs/99-shortcodes/mermaid/</guid>
+      <description>Mermaid Chart #   MermaidJS is library for generating svg charts and diagrams from text.
+Override Mermaid Initialization Config
+To override the initialization config for Mermaid, create a mermaid.json file in your assets folder!
+ Example #  {{&amp;lt; mermaid [class=&amp;#34;text-center&amp;#34;]&amp;gt;}} stateDiagram-v2 State1: The state with a note note right of State1 Important information! You can write notes. end note State1 --&amp;gt; State2 note left of State2 : This is the note to the left.</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://example.com/docs/99-shortcodes/section/first-page/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/docs/99-shortcodes/section/first-page/</guid>
+      <description>First page #  Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+ Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://example.com/docs/99-shortcodes/section/second-page/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/docs/99-shortcodes/section/second-page/</guid>
+      <description>Second Page #  Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+ Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://example.com/docs/99-shortcodes/tabs/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/docs/99-shortcodes/tabs/</guid>
+      <description>Tabs #  Tabs let you organize content by context, for example installation instructions for each supported platform.
+{{&amp;lt; tabs &amp;#34;uniqueid&amp;#34; &amp;gt;}} {{&amp;lt; tab &amp;#34;MacOS&amp;#34; &amp;gt;}} # MacOS Content {{&amp;lt; /tab &amp;gt;}} {{&amp;lt; tab &amp;#34;Linux&amp;#34; &amp;gt;}} # Linux Content {{&amp;lt; /tab &amp;gt;}} {{&amp;lt; tab &amp;#34;Windows&amp;#34; &amp;gt;}} # Windows Content {{&amp;lt; /tab &amp;gt;}} {{&amp;lt; /tabs &amp;gt;}} Example #  MacOS MacOS #  This is tab MacOS content.
+Lorem markdownum insigne. Olympo signis Delphis!</description>
+    </item>
+    
+  </channel>
+</rss>

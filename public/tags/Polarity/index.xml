@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Polarity on FenXiHuaXue Handbook</title>
+    <link>https://example.com/tags/Polarity/</link>
+    <description>Recent content in Polarity on FenXiHuaXue Handbook</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Mon, 03 Jan 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://example.com/tags/Polarity/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Chart of Polarity</title>
+      <link>https://example.com/docs/02-Chrom-HPLC/Part-07-Application/Chart_Polarity/</link>
+      <pubDate>Mon, 03 Jan 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/docs/02-Chrom-HPLC/Part-07-Application/Chart_Polarity/</guid>
+      <description>&lt;p&gt;To Compare different core-shell columns.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Normal-Phase HPLC vs. Reversed-Phase HPLC</title>
+      <link>https://example.com/docs/02-Chrom-HPLC/Part-07-Application/NP-HPLC_vs_RP-HPLC/</link>
+      <pubDate>Mon, 03 Jan 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/docs/02-Chrom-HPLC/Part-07-Application/NP-HPLC_vs_RP-HPLC/</guid>
+      <description>&lt;p&gt;To Compare different core-shell columns.&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Sample Extraction and Cleanup on FenXiHuaXue Handbook</title>
+    <link>https://example.com/docs/08-Sample-Extraction-and-Cleanup/</link>
+    <description>Recent content in Sample Extraction and Cleanup on FenXiHuaXue Handbook</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Sat, 07 May 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://example.com/docs/08-Sample-Extraction-and-Cleanup/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Clean-up for Lipid</title>
+      <link>https://example.com/docs/08-Sample-Extraction-and-Cleanup/Sample_cleanup/</link>
+      <pubDate>Fri, 24 Jun 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/docs/08-Sample-Extraction-and-Cleanup/Sample_cleanup/</guid>
+      <description>&lt;p&gt;series: [Analysis of Pesticides in Food and Environmental Samples, edited by Jose L. Tadeo]&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Sample Extraction</title>
+      <link>https://example.com/docs/08-Sample-Extraction-and-Cleanup/Sample_extraction/</link>
+      <pubDate>Fri, 24 Jun 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/docs/08-Sample-Extraction-and-Cleanup/Sample_extraction/</guid>
+      <description>&lt;p&gt;series: [Analysis of Pesticides in Food and Environmental Samples, edited by Jose L. Tadeo]&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Sample Preparation</title>
+      <link>https://example.com/docs/08-Sample-Extraction-and-Cleanup/Sample_prep/</link>
+      <pubDate>Fri, 24 Jun 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/docs/08-Sample-Extraction-and-Cleanup/Sample_prep/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

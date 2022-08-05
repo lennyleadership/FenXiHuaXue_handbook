@@ -1,0 +1,217 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Part 06 Instrumentation Troubleshooting Guide in General on FenXiHuaXue Handbook</title>
+    <link>https://example.com/docs/02-Chrom-HPLC/Part-06-Instrumentation-Troubleshooting/</link>
+    <description>Recent content in Part 06 Instrumentation Troubleshooting Guide in General on FenXiHuaXue Handbook</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Mon, 03 Jan 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://example.com/docs/02-Chrom-HPLC/Part-06-Instrumentation-Troubleshooting/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title></title>
+      <link>https://example.com/docs/02-Chrom-HPLC/Part-06-Instrumentation-Troubleshooting/Blank/</link>
+      <pubDate>Wed, 12 Jan 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/docs/02-Chrom-HPLC/Part-06-Instrumentation-Troubleshooting/Blank/</guid>
+      <description>&lt;figcaption&gt;&lt;b&gt;Figure &lt;/b&gt;: &lt;/figcaption&gt;
+&lt;img src = &#34;/docs/images/&#34;/&gt;</description>
+    </item>
+    
+    <item>
+      <title>Chapter  Leakage</title>
+      <link>https://example.com/docs/02-Chrom-HPLC/Part-06-Instrumentation-Troubleshooting/13_Leakage/</link>
+      <pubDate>Wed, 12 Jan 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/docs/02-Chrom-HPLC/Part-06-Instrumentation-Troubleshooting/13_Leakage/</guid>
+      <description>&lt;figcaption&gt;&lt;b&gt;Figure &lt;/b&gt;: &lt;/figcaption&gt;
+&lt;img src = &#34;/docs/images/&#34;/&gt;</description>
+    </item>
+    
+    <item>
+      <title>Chapter  Loss of Accuracy</title>
+      <link>https://example.com/docs/02-Chrom-HPLC/Part-06-Instrumentation-Troubleshooting/12_Loss_of_Accuracy/</link>
+      <pubDate>Wed, 12 Jan 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/docs/02-Chrom-HPLC/Part-06-Instrumentation-Troubleshooting/12_Loss_of_Accuracy/</guid>
+      <description>&lt;figcaption&gt;&lt;b&gt;Figure &lt;/b&gt;: &lt;/figcaption&gt;
+&lt;img src = &#34;/docs/images/&#34;/&gt;</description>
+    </item>
+    
+    <item>
+      <title>Chapter  Loss of Precision</title>
+      <link>https://example.com/docs/02-Chrom-HPLC/Part-06-Instrumentation-Troubleshooting/11_Loss_of_Precision/</link>
+      <pubDate>Wed, 12 Jan 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/docs/02-Chrom-HPLC/Part-06-Instrumentation-Troubleshooting/11_Loss_of_Precision/</guid>
+      <description>&lt;figcaption&gt;&lt;b&gt;Figure &lt;/b&gt;: &lt;/figcaption&gt;
+&lt;img src = &#34;/docs/images/&#34;/&gt;</description>
+    </item>
+    
+    <item>
+      <title>Chapter  No Flow</title>
+      <link>https://example.com/docs/02-Chrom-HPLC/Part-06-Instrumentation-Troubleshooting/09_No_flow/</link>
+      <pubDate>Wed, 12 Jan 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/docs/02-Chrom-HPLC/Part-06-Instrumentation-Troubleshooting/09_No_flow/</guid>
+      <description>&lt;figcaption&gt;&lt;b&gt;Figure &lt;/b&gt;: &lt;/figcaption&gt;
+&lt;img width=&#34;320&#34; height=&#34;200&#34; src = &#34;/docs/images/&#34;/&gt;</description>
+    </item>
+    
+    <item>
+      <title>Chapter  Peaks Misidentified</title>
+      <link>https://example.com/docs/02-Chrom-HPLC/Part-06-Instrumentation-Troubleshooting/10_Peaks_Misidentified/</link>
+      <pubDate>Wed, 12 Jan 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/docs/02-Chrom-HPLC/Part-06-Instrumentation-Troubleshooting/10_Peaks_Misidentified/</guid>
+      <description>&lt;figcaption&gt;&lt;b&gt;Figure &lt;/b&gt;: &lt;/figcaption&gt;
+&lt;img src = &#34;/docs/images/&#34;/&gt;</description>
+    </item>
+    
+    <item>
+      <title>Chapter 01 Troubleshooting Strategy and Processes</title>
+      <link>https://example.com/docs/02-Chrom-HPLC/Part-06-Instrumentation-Troubleshooting/01_Strategy_and_Processes/</link>
+      <pubDate>Wed, 12 Jan 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/docs/02-Chrom-HPLC/Part-06-Instrumentation-Troubleshooting/01_Strategy_and_Processes/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Chapter 02 LC Pressure Issue</title>
+      <link>https://example.com/docs/02-Chrom-HPLC/Part-06-Instrumentation-Troubleshooting/02_Pressure_HPLC/</link>
+      <pubDate>Wed, 12 Jan 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/docs/02-Chrom-HPLC/Part-06-Instrumentation-Troubleshooting/02_Pressure_HPLC/</guid>
+      <description>&lt;figcaption&gt;&lt;b&gt;Figure &lt;/b&gt;: &lt;/figcaption&gt;
+&lt;img src = &#34;/docs/images/&#34;/&gt;
+&lt;p&gt;System pressure is affected by a number of variables including:&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;the viscosity of the solvent used,&lt;/li&gt;
+&lt;li&gt;column variables,&lt;/li&gt;
+&lt;li&gt;flow rate and temperature.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;It is important to have &lt;font style = &#34;color:blue&#34;&gt;a reference point&lt;/font&gt; when comparing high or low pressures to the norm. This reference point should be the pressure generated in the system when everything is functioning correctly. It is a good idea to note the system pressure under normal operating conditions each day or each time your HPLC is used. This will allow you to spot any pressure trends that otherwise might go unnoticed.&lt;/p&gt;
+&lt;p&gt;Pressure problems fall into one of three categories: high, low or fluctuating pressure. They can occur suddenly or be a gradual process. Sudden pressure rises tend to be due to particles from the sample, blocked or damaged tubing or column packed bed collapse. Gradual pressure rises can also be due to particles in the sample, but they can also arise from particles generated in the instrument, for example, debris from vial septa or degrading seals.&lt;/p&gt;
+&lt;p&gt;Before releasing any high pressure build-up in a system, be aware that the solvent may form an aerosol or spray when loosening connections. Eye protection should be worn and ideally the connection to be loosened should be positioned above an adsorbent material to soak up all released solvents.&lt;/p&gt;
+&lt;p&gt;The simplest way to troubleshoot pressure problems is using a systematic approach, as highlighted in the following tables for high, low and fluctuating pressure.&lt;/p&gt;
+&lt;p&gt;
+  &lt;a href=&#34;https://assets.thermofisher.com/TFS-Assets/CMD/Product-Guides/TG-20421-HPLC-Troubleshooting-Guide-TG20421-EN.pdf&#34;&gt;source&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Chapter 04 HPLC Retention Time Changes</title>
+      <link>https://example.com/docs/02-Chrom-HPLC/Part-06-Instrumentation-Troubleshooting/04_Retention_Time_Changes_HPLC/</link>
+      <pubDate>Wed, 12 Jan 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/docs/02-Chrom-HPLC/Part-06-Instrumentation-Troubleshooting/04_Retention_Time_Changes_HPLC/</guid>
+      <description>&lt;figcaption&gt;&lt;b&gt;Figure &lt;/b&gt;: &lt;/figcaption&gt;
+&lt;img src = &#34;/docs/images/&#34;/&gt;</description>
+    </item>
+    
+    <item>
+      <title>Chapter 05 LC Abnormal Peak Shape</title>
+      <link>https://example.com/docs/02-Chrom-HPLC/Part-06-Instrumentation-Troubleshooting/05_Abnormal_Peak_Shape_HPLC/</link>
+      <pubDate>Wed, 12 Jan 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/docs/02-Chrom-HPLC/Part-06-Instrumentation-Troubleshooting/05_Abnormal_Peak_Shape_HPLC/</guid>
+      <description>&lt;figcaption&gt;&lt;b&gt;Figure &lt;/b&gt;: &lt;/figcaption&gt;
+&lt;img src = &#34;/docs/images/&#34;/&gt;</description>
+    </item>
+    
+    <item>
+      <title>Preventing LC Column Clogs</title>
+      <link>https://example.com/docs/02-Chrom-HPLC/Part-06-Instrumentation-Troubleshooting/Column_clog/</link>
+      <pubDate>Wed, 12 Jan 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/docs/02-Chrom-HPLC/Part-06-Instrumentation-Troubleshooting/Column_clog/</guid>
+      <description>&lt;figcaption&gt;&lt;b&gt;Figure &lt;/b&gt;: &lt;/figcaption&gt;
+&lt;img src = &#34;/docs/images/&#34;/&gt;</description>
+    </item>
+    
+    <item>
+      <title>Restek - Effective LC Troubleshooting Symptom-based Strategies and Solutions</title>
+      <link>https://example.com/docs/02-Chrom-HPLC/Part-06-Instrumentation-Troubleshooting/16_Restek_LC_Troubleshooting/</link>
+      <pubDate>Wed, 12 Jan 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/docs/02-Chrom-HPLC/Part-06-Instrumentation-Troubleshooting/16_Restek_LC_Troubleshooting/</guid>
+      <description>&lt;p&gt;Summary of sensitivity reduction&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;
+&lt;p&gt;Simple potential causes:&lt;br&gt;
+1.1) sample preparation,&lt;br&gt;
+      abnormal storage temperature,&lt;br&gt;
+  storage time,&lt;br&gt;
+  abnormal extraction,&lt;br&gt;
+  abnormal clean-up,&lt;br&gt;
+1.2) LC system,&lt;br&gt;
+  Dilution error,&lt;br&gt;
+  autosampler needle not reaching sample,&lt;br&gt;
+  incorrect injection volume,&lt;br&gt;
+  abnormal LC back pressure,&lt;br&gt;
+  Leak,&lt;br&gt;
+  mobile phase unstable (modifier, prepared date, )&lt;br&gt;
+1.3) Mass spectrometer system,&lt;br&gt;
+  non-asymmetric spray (due to clog)&lt;br&gt;
+  Electron multiplier voltage error,&lt;br&gt;
+  the declustering potential error,&lt;br&gt;
+  the collision energy error&lt;br&gt;
+  the collision exit cell potential error&lt;br&gt;
+  GS1 pressure - nebulizer gas error&lt;br&gt;
+  GS2 pressure - turbo gas error&lt;br&gt;
+  Curtain gas pressure error&lt;br&gt;
+  Ion spray voltage error&lt;br&gt;
+  test&lt;br&gt;
+1.4) System monitoring,&lt;br&gt;
+   monitoring charts of internal standards, blank, calibrators,&lt;br&gt;
+1.5) Data processing,&lt;br&gt;
+  Calculation error (dilution factor),&lt;br&gt;
+  Peak integration error (baseline issue, noise),&lt;br&gt;
+  Retention time shift,&lt;br&gt;
+  
+  
+  &lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Complex potential causes:&lt;br&gt;
+  Analyze new known standard&lt;br&gt;
+  Analyze blank&lt;br&gt;
+  Infuse standard in 50-50 mobile phase solution to the mass spectrometer&lt;br&gt;
+  Dry run&lt;br&gt;
+  
+  
+  &lt;/p&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;******* End ***************&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Change in Selectivity</title>
+      <link>https://example.com/docs/02-Chrom-HPLC/Part-06-Instrumentation-Troubleshooting/15_Change_in_selectivity/</link>
+      <pubDate>Mon, 03 Jan 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/docs/02-Chrom-HPLC/Part-06-Instrumentation-Troubleshooting/15_Change_in_selectivity/</guid>
+      <description>&lt;figcaption&gt;&lt;b&gt;Figure &lt;/b&gt;: &lt;/figcaption&gt;
+&lt;img src = &#34;/docs/images/&#34;/&gt;</description>
+    </item>
+    
+    <item>
+      <title>Chapter 03 LC Baseline Irregularities</title>
+      <link>https://example.com/docs/02-Chrom-HPLC/Part-06-Instrumentation-Troubleshooting/03_Baseline_Irregularities_HPLC/</link>
+      <pubDate>Mon, 03 Jan 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/docs/02-Chrom-HPLC/Part-06-Instrumentation-Troubleshooting/03_Baseline_Irregularities_HPLC/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Chapter Loss of Resolution</title>
+      <link>https://example.com/docs/02-Chrom-HPLC/Part-06-Instrumentation-Troubleshooting/14_Loss_of_resolution/</link>
+      <pubDate>Mon, 03 Jan 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/docs/02-Chrom-HPLC/Part-06-Instrumentation-Troubleshooting/14_Loss_of_resolution/</guid>
+      <description>&lt;figcaption&gt;&lt;b&gt;Figure &lt;/b&gt;: &lt;/figcaption&gt;
+&lt;img src = &#34;/docs/images/&#34;/&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

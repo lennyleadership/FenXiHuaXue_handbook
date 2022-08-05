@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Part II Application on FenXiHuaXue Handbook</title>
+    <link>https://example.com/docs/04-Chrom-GC/Part-02-Application/</link>
+    <description>Recent content in Part II Application on FenXiHuaXue Handbook</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Thu, 10 Mar 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://example.com/docs/04-Chrom-GC/Part-02-Application/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title></title>
+      <link>https://example.com/docs/04-Chrom-GC/Part-02-Application/Z_00/</link>
+      <pubDate>Thu, 10 Mar 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/docs/04-Chrom-GC/Part-02-Application/Z_00/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Agilent GC Column Installation Made Easier</title>
+      <link>https://example.com/docs/04-Chrom-GC/Part-02-Application/Agilent_GC_Column_Installation/</link>
+      <pubDate>Thu, 10 Mar 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/docs/04-Chrom-GC/Part-02-Application/Agilent_GC_Column_Installation/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Part 1 Restek Retention Gaps</title>
+      <link>https://example.com/docs/04-Chrom-GC/Part-02-Application/Part_1_Restek_Retention_gaps/</link>
+      <pubDate>Thu, 10 Mar 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/docs/04-Chrom-GC/Part-02-Application/Part_1_Restek_Retention_gaps/</guid>
+      <description>&lt;style type=&#34;text/css&#34;&gt;
+/* */
+.column {
+  float: left;
+  width: 50%;
+  padding: 5px;
+}
+
+/* Clear floats after image containers */
+.row::after {
+  content: &#34;&#34;;
+  clear: both;
+  display: table;
+}
+
+&lt;/style&gt;</description>
+    </item>
+    
+    <item>
+      <title>Part 2 Restek Guard Columns</title>
+      <link>https://example.com/docs/04-Chrom-GC/Part-02-Application/Part_2_Restek_Guard_columns/</link>
+      <pubDate>Thu, 10 Mar 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/docs/04-Chrom-GC/Part-02-Application/Part_2_Restek_Guard_columns/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Restek Optimizing Splitless Injection</title>
+      <link>https://example.com/docs/04-Chrom-GC/Part-02-Application/Restek_Optimizing_splitless_injection/</link>
+      <pubDate>Thu, 10 Mar 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/docs/04-Chrom-GC/Part-02-Application/Restek_Optimizing_splitless_injection/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Split vs. Splitless Injection</title>
+      <link>https://example.com/docs/04-Chrom-GC/Part-02-Application/Restek_Split_splitless_injection/</link>
+      <pubDate>Thu, 10 Mar 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/docs/04-Chrom-GC/Part-02-Application/Restek_Split_splitless_injection/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

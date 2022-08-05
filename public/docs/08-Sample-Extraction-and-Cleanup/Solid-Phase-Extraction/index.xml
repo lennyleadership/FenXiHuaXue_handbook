@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Solid-Phase Extraction on FenXiHuaXue Handbook</title>
+    <link>https://example.com/docs/08-Sample-Extraction-and-Cleanup/Solid-Phase-Extraction/</link>
+    <description>Recent content in Solid-Phase Extraction on FenXiHuaXue Handbook</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Sat, 07 May 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://example.com/docs/08-Sample-Extraction-and-Cleanup/Solid-Phase-Extraction/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Solid Phase Extraction</title>
+      <link>https://example.com/docs/08-Sample-Extraction-and-Cleanup/Solid-Phase-Extraction/SPE/</link>
+      <pubDate>Fri, 24 Jun 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/docs/08-Sample-Extraction-and-Cleanup/Solid-Phase-Extraction/SPE/</guid>
+      <description>&lt;p&gt;series: [Analysis of Pesticides in Food and Environmental Samples, edited by Jose L. Tadeo]&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>SPE General Procedures</title>
+      <link>https://example.com/docs/08-Sample-Extraction-and-Cleanup/Solid-Phase-Extraction/SPE_general_procedures/</link>
+      <pubDate>Sat, 07 May 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/docs/08-Sample-Extraction-and-Cleanup/Solid-Phase-Extraction/SPE_general_procedures/</guid>
+      <description>&lt;p&gt;series: [Analysis of Pesticides in Food and Environmental Samples, edited by Jose L. Tadeo]&lt;/p&gt;
+&lt;h2 id=&#34;summary-a-hrefref1a&#34;&gt;
+  Summary &lt;a href=&#34;#ref&#34;&gt;[1]&lt;/a&gt;
+  &lt;a class=&#34;anchor&#34; href=&#34;#summary-a-hrefref1a&#34;&gt;#&lt;/a&gt;
+&lt;/h2&gt;
+&lt;p&gt;samples or extracts are percolated through the cartridge and the compounds are sorbed on the solid phase materials, which have been previously conditioned and activated (Zhang et al., 2012). Then the interferences are removed by prewashing by organic solvents while the analytes are retained on the sorbents. More frequently, the interferences are retained in the cartridge and the analytes pass through and are collected for analysis.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>SPE Selection Tree</title>
+      <link>https://example.com/docs/08-Sample-Extraction-and-Cleanup/Solid-Phase-Extraction/SPE_selection_tree/</link>
+      <pubDate>Sat, 07 May 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/docs/08-Sample-Extraction-and-Cleanup/Solid-Phase-Extraction/SPE_selection_tree/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>When should I choose a mixed-mode SPE?</title>
+      <link>https://example.com/docs/08-Sample-Extraction-and-Cleanup/Solid-Phase-Extraction/Mixed-mode_SPE/</link>
+      <pubDate>Sat, 07 May 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/docs/08-Sample-Extraction-and-Cleanup/Solid-Phase-Extraction/Mixed-mode_SPE/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

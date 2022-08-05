@@ -1,0 +1,235 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Part I Theory on FenXiHuaXue Handbook</title>
+    <link>https://example.com/docs/02-Chrom-HPLC/Part-01-Theory/</link>
+    <description>Recent content in Part I Theory on FenXiHuaXue Handbook</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Mon, 03 Jan 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://example.com/docs/02-Chrom-HPLC/Part-01-Theory/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Fast Liquid Chromatography</title>
+      <link>https://example.com/docs/02-Chrom-HPLC/Part-01-Theory/Fast_liquid_chromatography/</link>
+      <pubDate>Mon, 27 Jun 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/docs/02-Chrom-HPLC/Part-01-Theory/Fast_liquid_chromatography/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Ion Pair Reagents</title>
+      <link>https://example.com/docs/02-Chrom-HPLC/Part-01-Theory/Ion_pair_reagents/</link>
+      <pubDate>Mon, 27 Jun 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/docs/02-Chrom-HPLC/Part-01-Theory/Ion_pair_reagents/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://example.com/docs/02-Chrom-HPLC/Part-01-Theory/Tem/</link>
+      <pubDate>Mon, 03 Jan 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/docs/02-Chrom-HPLC/Part-01-Theory/Tem/</guid>
+      <description>&lt;figcaption&gt;&lt;b&gt;Figure &lt;/b&gt;: &lt;/figcaption&gt;
+&lt;img src = &#34;/docs/images/&#34;/&gt;</description>
+    </item>
+    
+    <item>
+      <title>Chapter 01 Theory of Separation on LC Column</title>
+      <link>https://example.com/docs/02-Chrom-HPLC/Part-01-Theory/01_Theory_of_Separation_on_LC_column/</link>
+      <pubDate>Mon, 03 Jan 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/docs/02-Chrom-HPLC/Part-01-Theory/01_Theory_of_Separation_on_LC_column/</guid>
+      <description>&lt;p&gt;This section is copied from shodex.com.&lt;/p&gt;
+&lt;p&gt;Section 1: Theory and Types of HPLC Column&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;Theory of LC Column Separation&lt;/li&gt;
+&lt;li&gt;HPLC Separation&lt;/li&gt;
+&lt;li&gt;Types of Packed Gels&lt;/li&gt;
+&lt;li&gt;Types of Separation Mode&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;Section 2: Partition/Adsorption Chromatography Columns&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;Reversed-Phase Column&lt;/li&gt;
+&lt;li&gt;Normal-Phase Column&lt;/li&gt;
+&lt;li&gt;Hydrophilic Interaction Chromatography Column&lt;/li&gt;
+&lt;li&gt;Summary of Shodex Partition/Adsorption Columns&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;Section 3: Other Separation Modes, Preparative and Guard Columns&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;Ion Exchange Column  (not covered)&lt;/li&gt;
+&lt;li&gt;Ion Chromatography Column  (not covered)&lt;/li&gt;
+&lt;li&gt;Ion Exclusion Column  (not covered)&lt;/li&gt;
+&lt;li&gt;Ligand Exchange Column  (not covered)&lt;/li&gt;
+&lt;li&gt;Affinity Column  (not covered)&lt;/li&gt;
+&lt;li&gt;Chiral Column  (not covered)&lt;/li&gt;
+&lt;li&gt;Preparative Size Column  (not covered)&lt;/li&gt;
+&lt;li&gt;Guard Column&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;The following section is not covered at this moment, the details can be found in the source provided below.&lt;/p&gt;
+&lt;p&gt;Section 4: SEC Columns&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;Size Exclusion Chromatography column&lt;/li&gt;
+&lt;li&gt;Gel Filtration Chromatography&lt;/li&gt;
+&lt;li&gt;Gel Permeation Chromatography&lt;/li&gt;
+&lt;li&gt;Linear Column&lt;/li&gt;
+&lt;li&gt;Downsized Column&lt;/li&gt;
+&lt;li&gt;Analysis of Polymers that require Special Conditions&lt;/li&gt;
+&lt;li&gt;Multi-Mode Column&lt;/li&gt;
+&lt;li&gt;Multi-Solvent Column&lt;/li&gt;
+&lt;/ol&gt;</description>
+    </item>
+    
+    <item>
+      <title>Chapter 02 Column Chemistry</title>
+      <link>https://example.com/docs/02-Chrom-HPLC/Part-01-Theory/02_Column_chemistry/</link>
+      <pubDate>Mon, 03 Jan 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/docs/02-Chrom-HPLC/Part-01-Theory/02_Column_chemistry/</guid>
+      <description>&lt;ul&gt;
+&lt;li&gt;Silica Surface Chemistry &amp;amp; Physical Characteristics&lt;/li&gt;
+&lt;li&gt;Silica Bonding Procedures
+&lt;ul&gt;
+&lt;li&gt;Special Column Chemistries&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;Column Choices&lt;/li&gt;
+&lt;/ul&gt;
+&lt;figcaption&gt;&lt;b&gt;Figure &lt;/b&gt;: &lt;/figcaption&gt;
+&lt;img src = &#34;/docs/images/&#34;/&gt;</description>
+    </item>
+    
+    <item>
+      <title>Chapter 03 Reversed-phase Chromatography</title>
+      <link>https://example.com/docs/02-Chrom-HPLC/Part-01-Theory/03_Reverse-Phase_Chromatogrphy/</link>
+      <pubDate>Mon, 03 Jan 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/docs/02-Chrom-HPLC/Part-01-Theory/03_Reverse-Phase_Chromatogrphy/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Chapter 04 Peak Shape Measurement</title>
+      <link>https://example.com/docs/02-Chrom-HPLC/Part-01-Theory/04_Peak_shape_measurement/</link>
+      <pubDate>Mon, 03 Jan 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/docs/02-Chrom-HPLC/Part-01-Theory/04_Peak_shape_measurement/</guid>
+      <description>&lt;p&gt;Chromatogram Peak.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Chapter 05 Scaling Up or Scaling Down</title>
+      <link>https://example.com/docs/02-Chrom-HPLC/Part-01-Theory/05_Scaling_up_or_down/</link>
+      <pubDate>Mon, 03 Jan 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/docs/02-Chrom-HPLC/Part-01-Theory/05_Scaling_up_or_down/</guid>
+      <description>&lt;figcaption&gt;&lt;b&gt;Figure &lt;/b&gt;: &lt;/figcaption&gt;
+&lt;img src = &#34;/docs/images/&#34;/&gt;</description>
+    </item>
+    
+    <item>
+      <title>Chapter 06 Column Backpressure</title>
+      <link>https://example.com/docs/02-Chrom-HPLC/Part-01-Theory/06_Column_backpressure/</link>
+      <pubDate>Mon, 03 Jan 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/docs/02-Chrom-HPLC/Part-01-Theory/06_Column_backpressure/</guid>
+      <description>&lt;figcaption&gt;&lt;b&gt;Figure &lt;/b&gt;: &lt;/figcaption&gt;
+&lt;img src = &#34;/docs/images/&#34;/&gt;</description>
+    </item>
+    
+    <item>
+      <title>Chromatography</title>
+      <link>https://example.com/docs/02-Chrom-HPLC/Part-01-Theory/Chromatography/</link>
+      <pubDate>Mon, 03 Jan 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/docs/02-Chrom-HPLC/Part-01-Theory/Chromatography/</guid>
+      <description>&lt;figcaption&gt;&lt;b&gt;Figure &lt;/b&gt;: &lt;/figcaption&gt;
+&lt;img src = &#34;/docs/images/&#34;/&gt;</description>
+    </item>
+    
+    <item>
+      <title>Combinations of possible solute-stationary phase interactions</title>
+      <link>https://example.com/docs/02-Chrom-HPLC/Part-01-Theory/Solute_stationary_phase_interactions/</link>
+      <pubDate>Mon, 03 Jan 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/docs/02-Chrom-HPLC/Part-01-Theory/Solute_stationary_phase_interactions/</guid>
+      <description>&lt;figcaption&gt;&lt;b&gt;Figure &lt;/b&gt;: &lt;/figcaption&gt;
+&lt;img src = &#34;/docs/images/&#34;/&gt;</description>
+    </item>
+    
+    <item>
+      <title>Critical Evaluation of Chromatography Methods</title>
+      <link>https://example.com/docs/02-Chrom-HPLC/Part-01-Theory/Evaluation_Chrom_Methods/</link>
+      <pubDate>Mon, 03 Jan 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/docs/02-Chrom-HPLC/Part-01-Theory/Evaluation_Chrom_Methods/</guid>
+      <description>&lt;p&gt;Tony Taylor concentrates on the mobile phase and HPLC column combination when investigating mobile-phase conditions in a HPLC method.&lt;/p&gt;
+&lt;figcaption&gt;&lt;b&gt;Figure &lt;/b&gt;: &lt;/figcaption&gt;
+&lt;img width=&#34;320&#34; height=&#34;200&#34; src = &#34;/docs/images/&#34;/&gt;</description>
+    </item>
+    
+    <item>
+      <title>General Principles of Liquid Chromatography</title>
+      <link>https://example.com/docs/02-Chrom-HPLC/Part-01-Theory/General_principles_LC/</link>
+      <pubDate>Mon, 03 Jan 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/docs/02-Chrom-HPLC/Part-01-Theory/General_principles_LC/</guid>
+      <description>&lt;figcaption&gt;&lt;b&gt;Figure &lt;/b&gt;: &lt;/figcaption&gt;
+&lt;img src = &#34;/docs/images/&#34;/&gt;</description>
+    </item>
+    
+    <item>
+      <title>Hydrophobic ion Paring</title>
+      <link>https://example.com/docs/02-Chrom-HPLC/Part-01-Theory/Hydrophobic_ion_paring/</link>
+      <pubDate>Mon, 03 Jan 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/docs/02-Chrom-HPLC/Part-01-Theory/Hydrophobic_ion_paring/</guid>
+      <description>&lt;figcaption&gt;&lt;b&gt;Figure &lt;/b&gt;: &lt;/figcaption&gt;
+&lt;img src = &#34;/docs/images/&#34;/&gt;</description>
+    </item>
+    
+    <item>
+      <title>Introduction to Hydrophobic Interaction Chromatography</title>
+      <link>https://example.com/docs/02-Chrom-HPLC/Part-01-Theory/Hydrophobic_interaction_chromatography/</link>
+      <pubDate>Mon, 03 Jan 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/docs/02-Chrom-HPLC/Part-01-Theory/Hydrophobic_interaction_chromatography/</guid>
+      <description>&lt;figcaption&gt;&lt;b&gt;Figure &lt;/b&gt;: &lt;/figcaption&gt;
+&lt;img src = &#34;/docs/images/&#34;/&gt;</description>
+    </item>
+    
+    <item>
+      <title>LC Sample Introduction</title>
+      <link>https://example.com/docs/02-Chrom-HPLC/Part-01-Theory/Sample_introduction/</link>
+      <pubDate>Mon, 03 Jan 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/docs/02-Chrom-HPLC/Part-01-Theory/Sample_introduction/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Mobile Phases</title>
+      <link>https://example.com/docs/02-Chrom-HPLC/Part-01-Theory/Mobile_phase/</link>
+      <pubDate>Mon, 03 Jan 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/docs/02-Chrom-HPLC/Part-01-Theory/Mobile_phase/</guid>
+      <description>&lt;ol&gt;
+&lt;li&gt;pH can change the retention because the analyte charge could be suppressed, but it can also affect MS response.&lt;/li&gt;
+&lt;li&gt;We want to adjust pH to promote the charged state of the analyte in the electrospray ionization mode.&lt;/li&gt;
+&lt;li&gt;The concentration of the buffer, or acid or base used to adjust/control the pH, should be as low as possible for ES.&lt;/li&gt;
+&lt;li&gt;Ammonium acetate and ammonium formate are generally applicable at pH 7 but concentrations should be kept to a minimum.
+&amp;hellip;&lt;/li&gt;
+&lt;/ol&gt;</description>
+    </item>
+    
+    <item>
+      <title>Chromatography Resolution</title>
+      <link>https://example.com/docs/02-Chrom-HPLC/Part-01-Theory/Resolution/</link>
+      <pubDate>Mon, 27 Dec 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/docs/02-Chrom-HPLC/Part-01-Theory/Resolution/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

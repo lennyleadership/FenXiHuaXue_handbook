@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Analysis of Pesticides in Food and Environmental Samples edited by Jose L. Tadeo on FenXiHuaXue Handbook</title>
+    <link>https://example.com/categories/Analysis-of-Pesticides-in-Food-and-Environmental-Samples-edited-by-Jose-L.-Tadeo/</link>
+    <description>Recent content in Analysis of Pesticides in Food and Environmental Samples edited by Jose L. Tadeo on FenXiHuaXue Handbook</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Thu, 17 Mar 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://example.com/categories/Analysis-of-Pesticides-in-Food-and-Environmental-Samples-edited-by-Jose-L.-Tadeo/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>APCI General Review</title>
+      <link>https://example.com/docs/01-Mass-Spec-LC-MS/Part-01-Theory/APCI_general_review/</link>
+      <pubDate>Thu, 17 Mar 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/docs/01-Mass-Spec-LC-MS/Part-01-Theory/APCI_general_review/</guid>
+      <description>&lt;p&gt;The LC elute passing through a nebulizing needle, creates a fine spray.  The spray passes through a heated ceramic tube, where the droplets are fully vaporized.  The resulting gas/vapor mixture is then passed over a corona discharge needle, where the solvent vapor is ionized to create reagent gas ions.&lt;/p&gt;
+&lt;p&gt;For successful APCI, the analyte must be volatile and thermally stable and the mobile phase must be suitable for gas-phase acid–base reactions.&lt;/p&gt;
+&lt;p&gt;To vaporize the solvent and analyte, the APCI source is typically operated at vaporizer temperatures of 400 to 500 &lt;sup&gt;0&lt;/sup&gt;C.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>ESI General Review</title>
+      <link>https://example.com/docs/01-Mass-Spec-LC-MS/Part-01-Theory/ESI_general_review/</link>
+      <pubDate>Thu, 17 Mar 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/docs/01-Mass-Spec-LC-MS/Part-01-Theory/ESI_general_review/</guid>
+      <description>&lt;p&gt;The LC eluate is sprayed into a spray chamber at atmospheric pressure in the presence of a strong electrostatic field and heated drying gas.&lt;/p&gt;
+&lt;p&gt;The electrostatic field occurs between the nebulizer, which is the ES probe, and the capillary. Aerosol of charged droplet formation at right angles to the capillary.&lt;/p&gt;
+&lt;p&gt;Ionization takes place as a result of imparting the strong electrical field and the superheated nitrogrn sheath gas, with Agilent AJS (Jet Stream) technology.&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

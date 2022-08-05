@@ -1,0 +1,296 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Sensitivity on FenXiHuaXue Handbook</title>
+    <link>https://example.com/tags/Sensitivity/</link>
+    <description>Recent content in Sensitivity on FenXiHuaXue Handbook</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Mon, 27 Jun 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://example.com/tags/Sensitivity/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Tag Index</title>
+      <link>https://example.com/docs/Tag_Collection/</link>
+      <pubDate>Mon, 27 Jun 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/docs/Tag_Collection/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Ion Pair Reagents</title>
+      <link>https://example.com/docs/02-Chrom-HPLC/Part-01-Theory/Ion_pair_reagents/</link>
+      <pubDate>Mon, 27 Jun 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/docs/02-Chrom-HPLC/Part-01-Theory/Ion_pair_reagents/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>APCI General Review</title>
+      <link>https://example.com/docs/01-Mass-Spec-LC-MS/Part-01-Theory/APCI_general_review/</link>
+      <pubDate>Thu, 17 Mar 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/docs/01-Mass-Spec-LC-MS/Part-01-Theory/APCI_general_review/</guid>
+      <description>&lt;p&gt;The LC elute passing through a nebulizing needle, creates a fine spray.  The spray passes through a heated ceramic tube, where the droplets are fully vaporized.  The resulting gas/vapor mixture is then passed over a corona discharge needle, where the solvent vapor is ionized to create reagent gas ions.&lt;/p&gt;
+&lt;p&gt;For successful APCI, the analyte must be volatile and thermally stable and the mobile phase must be suitable for gas-phase acid–base reactions.&lt;/p&gt;
+&lt;p&gt;To vaporize the solvent and analyte, the APCI source is typically operated at vaporizer temperatures of 400 to 500 &lt;sup&gt;0&lt;/sup&gt;C.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>ESI General Review</title>
+      <link>https://example.com/docs/01-Mass-Spec-LC-MS/Part-01-Theory/ESI_general_review/</link>
+      <pubDate>Thu, 17 Mar 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/docs/01-Mass-Spec-LC-MS/Part-01-Theory/ESI_general_review/</guid>
+      <description>&lt;p&gt;The LC eluate is sprayed into a spray chamber at atmospheric pressure in the presence of a strong electrostatic field and heated drying gas.&lt;/p&gt;
+&lt;p&gt;The electrostatic field occurs between the nebulizer, which is the ES probe, and the capillary. Aerosol of charged droplet formation at right angles to the capillary.&lt;/p&gt;
+&lt;p&gt;Ionization takes place as a result of imparting the strong electrical field and the superheated nitrogrn sheath gas, with Agilent AJS (Jet Stream) technology.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>How to improve the sensitivity</title>
+      <link>https://example.com/docs/01-Mass-Spec-LC-MS/Part-02-Practices/Causes_sensitivity/</link>
+      <pubDate>Thu, 17 Mar 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/docs/01-Mass-Spec-LC-MS/Part-02-Practices/Causes_sensitivity/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Practical Strategies to Boost Your Signal and Lower Your Noise</title>
+      <link>https://example.com/docs/01-Mass-Spec-LC-MS/Part-02-Practices/Boost_LSMSMS_Sensitivity/</link>
+      <pubDate>Thu, 17 Mar 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/docs/01-Mass-Spec-LC-MS/Part-02-Practices/Boost_LSMSMS_Sensitivity/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The influence of electrospray ion source design on matrix effects</title>
+      <link>https://example.com/docs/01-Mass-Spec-LC-MS/Part-01-Theory/ESI_design_on_matrix_effects/</link>
+      <pubDate>Thu, 17 Mar 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/docs/01-Mass-Spec-LC-MS/Part-01-Theory/ESI_design_on_matrix_effects/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Gas Leaks</title>
+      <link>https://example.com/docs/04-Chrom-GC/Part-03-Instrument-Troubleshooting/Restek_Gas_Leaks/</link>
+      <pubDate>Thu, 10 Mar 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/docs/04-Chrom-GC/Part-03-Instrument-Troubleshooting/Restek_Gas_Leaks/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Split vs. Splitless Injection</title>
+      <link>https://example.com/docs/04-Chrom-GC/Part-02-Application/Restek_Split_splitless_injection/</link>
+      <pubDate>Thu, 10 Mar 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/docs/04-Chrom-GC/Part-02-Application/Restek_Split_splitless_injection/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Restek - Effective LC Troubleshooting Symptom-based Strategies and Solutions</title>
+      <link>https://example.com/docs/02-Chrom-HPLC/Part-06-Instrumentation-Troubleshooting/16_Restek_LC_Troubleshooting/</link>
+      <pubDate>Wed, 12 Jan 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/docs/02-Chrom-HPLC/Part-06-Instrumentation-Troubleshooting/16_Restek_LC_Troubleshooting/</guid>
+      <description>&lt;p&gt;Summary of sensitivity reduction&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;
+&lt;p&gt;Simple potential causes:&lt;br&gt;
+1.1) sample preparation,&lt;br&gt;
+      abnormal storage temperature,&lt;br&gt;
+  storage time,&lt;br&gt;
+  abnormal extraction,&lt;br&gt;
+  abnormal clean-up,&lt;br&gt;
+1.2) LC system,&lt;br&gt;
+  Dilution error,&lt;br&gt;
+  autosampler needle not reaching sample,&lt;br&gt;
+  incorrect injection volume,&lt;br&gt;
+  abnormal LC back pressure,&lt;br&gt;
+  Leak,&lt;br&gt;
+  mobile phase unstable (modifier, prepared date, )&lt;br&gt;
+1.3) Mass spectrometer system,&lt;br&gt;
+  non-asymmetric spray (due to clog)&lt;br&gt;
+  Electron multiplier voltage error,&lt;br&gt;
+  the declustering potential error,&lt;br&gt;
+  the collision energy error&lt;br&gt;
+  the collision exit cell potential error&lt;br&gt;
+  GS1 pressure - nebulizer gas error&lt;br&gt;
+  GS2 pressure - turbo gas error&lt;br&gt;
+  Curtain gas pressure error&lt;br&gt;
+  Ion spray voltage error&lt;br&gt;
+  test&lt;br&gt;
+1.4) System monitoring,&lt;br&gt;
+   monitoring charts of internal standards, blank, calibrators,&lt;br&gt;
+1.5) Data processing,&lt;br&gt;
+  Calculation error (dilution factor),&lt;br&gt;
+  Peak integration error (baseline issue, noise),&lt;br&gt;
+  Retention time shift,&lt;br&gt;
+  
+  
+  &lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Complex potential causes:&lt;br&gt;
+  Analyze new known standard&lt;br&gt;
+  Analyze blank&lt;br&gt;
+  Infuse standard in 50-50 mobile phase solution to the mass spectrometer&lt;br&gt;
+  Dry run&lt;br&gt;
+  
+  
+  &lt;/p&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;******* End ***************&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Agilent GC and GC-MS Scientists Answer Your Most FAQ</title>
+      <link>https://example.com/docs/03-Mass-Spec-GC-MS/Part-2-Application/Agilent_GC_and_GC-MS_Scientists_Answer_Your_Most_FAQ/</link>
+      <pubDate>Mon, 03 Jan 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/docs/03-Mass-Spec-GC-MS/Part-2-Application/Agilent_GC_and_GC-MS_Scientists_Answer_Your_Most_FAQ/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Buffers for Analyzing Ionizable Compounds</title>
+      <link>https://example.com/docs/02-Chrom-HPLC/Part-07-Application/Buffer_ionizable_compounds/</link>
+      <pubDate>Mon, 03 Jan 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/docs/02-Chrom-HPLC/Part-07-Application/Buffer_ionizable_compounds/</guid>
+      <description>&lt;p&gt;This note was copied from Dr. Egidijus Machtejevas&#39; blog on Analytix Reporter, issue 11 | 2021, page 34.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Chapter 03 LC Baseline Irregularities</title>
+      <link>https://example.com/docs/02-Chrom-HPLC/Part-06-Instrumentation-Troubleshooting/03_Baseline_Irregularities_HPLC/</link>
+      <pubDate>Mon, 03 Jan 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/docs/02-Chrom-HPLC/Part-06-Instrumentation-Troubleshooting/03_Baseline_Irregularities_HPLC/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Chapter 03 Mobile Phase</title>
+      <link>https://example.com/docs/02-Chrom-HPLC/Part-04-GLP-for-HPLC/03_Mobile_phase/</link>
+      <pubDate>Mon, 03 Jan 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/docs/02-Chrom-HPLC/Part-04-GLP-for-HPLC/03_Mobile_phase/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Chapter 06 HPLC Band Broadening Diagnosis</title>
+      <link>https://example.com/docs/02-Chrom-HPLC/Part-07-Application/06_Band_broadening/</link>
+      <pubDate>Mon, 03 Jan 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/docs/02-Chrom-HPLC/Part-07-Application/06_Band_broadening/</guid>
+      <description>&lt;figcaption&gt;&lt;b&gt;Figure &lt;/b&gt;: &lt;/figcaption&gt;
+&lt;img src = &#34;/docs/images/&#34;/&gt;</description>
+    </item>
+    
+    <item>
+      <title>Chapter 07 Choosing Columns and Conditions for the Best Peak Shape</title>
+      <link>https://example.com/docs/02-Chrom-HPLC/Part-07-Application/07_Factors_affecting_peak_shape/</link>
+      <pubDate>Mon, 03 Jan 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/docs/02-Chrom-HPLC/Part-07-Application/07_Factors_affecting_peak_shape/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Choose a C18 Column</title>
+      <link>https://example.com/docs/02-Chrom-HPLC/Part-03-HPLC-Columns/C18_column_101/</link>
+      <pubDate>Mon, 03 Jan 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/docs/02-Chrom-HPLC/Part-03-HPLC-Columns/C18_column_101/</guid>
+      <description>&lt;figcaption&gt;&lt;b&gt;Figure &lt;/b&gt;: &lt;/figcaption&gt;
+&lt;img width =&#34;360&#34; height= &#34;200&#34; src = &#34;/docs/images/&#34;/&gt;</description>
+    </item>
+    
+    <item>
+      <title>Column Parameters Guide</title>
+      <link>https://example.com/docs/02-Chrom-HPLC/Part-03-HPLC-Columns/Column_parameters_guide/</link>
+      <pubDate>Mon, 03 Jan 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/docs/02-Chrom-HPLC/Part-03-HPLC-Columns/Column_parameters_guide/</guid>
+      <description>&lt;p&gt;To Compare different core-shell columns.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Column Selection Showcases</title>
+      <link>https://example.com/docs/02-Chrom-HPLC/Part-03-HPLC-Columns/Column_selection_showcases/</link>
+      <pubDate>Mon, 03 Jan 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/docs/02-Chrom-HPLC/Part-03-HPLC-Columns/Column_selection_showcases/</guid>
+      <description>&lt;p&gt;I collected some column selection showcases from column manufacturers.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Flat Film Degasser</title>
+      <link>https://example.com/docs/02-Chrom-HPLC/Part-07-Application/Degassing_flat_film_degasser/</link>
+      <pubDate>Mon, 03 Jan 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/docs/02-Chrom-HPLC/Part-07-Application/Degassing_flat_film_degasser/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>General Principles of Liquid Chromatography</title>
+      <link>https://example.com/docs/02-Chrom-HPLC/Part-01-Theory/General_principles_LC/</link>
+      <pubDate>Mon, 03 Jan 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/docs/02-Chrom-HPLC/Part-01-Theory/General_principles_LC/</guid>
+      <description>&lt;figcaption&gt;&lt;b&gt;Figure &lt;/b&gt;: &lt;/figcaption&gt;
+&lt;img src = &#34;/docs/images/&#34;/&gt;</description>
+    </item>
+    
+    <item>
+      <title>LC Sample Introduction</title>
+      <link>https://example.com/docs/02-Chrom-HPLC/Part-01-Theory/Sample_introduction/</link>
+      <pubDate>Mon, 03 Jan 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/docs/02-Chrom-HPLC/Part-01-Theory/Sample_introduction/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Mobile Phases</title>
+      <link>https://example.com/docs/02-Chrom-HPLC/Part-01-Theory/Mobile_phase/</link>
+      <pubDate>Mon, 03 Jan 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/docs/02-Chrom-HPLC/Part-01-Theory/Mobile_phase/</guid>
+      <description>&lt;ol&gt;
+&lt;li&gt;pH can change the retention because the analyte charge could be suppressed, but it can also affect MS response.&lt;/li&gt;
+&lt;li&gt;We want to adjust pH to promote the charged state of the analyte in the electrospray ionization mode.&lt;/li&gt;
+&lt;li&gt;The concentration of the buffer, or acid or base used to adjust/control the pH, should be as low as possible for ES.&lt;/li&gt;
+&lt;li&gt;Ammonium acetate and ammonium formate are generally applicable at pH 7 but concentrations should be kept to a minimum.
+&amp;hellip;&lt;/li&gt;
+&lt;/ol&gt;</description>
+    </item>
+    
+    <item>
+      <title>Removal of Phospholipids</title>
+      <link>https://example.com/docs/02-Chrom-HPLC/Part-07-Application/Removal_Phospholipids/</link>
+      <pubDate>Mon, 03 Jan 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/docs/02-Chrom-HPLC/Part-07-Application/Removal_Phospholipids/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Increase HPLC/UHPLC Method Sensitivity</title>
+      <link>https://example.com/docs/02-Chrom-HPLC/Part-05-Method-Development/Increase_HPLC_method_sensitivity/</link>
+      <pubDate>Fri, 16 Oct 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/docs/02-Chrom-HPLC/Part-05-Method-Development/Increase_HPLC_method_sensitivity/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

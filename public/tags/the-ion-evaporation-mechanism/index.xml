@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>the ion evaporation mechanism on FenXiHuaXue Handbook</title>
+    <link>https://example.com/tags/the-ion-evaporation-mechanism/</link>
+    <description>Recent content in the ion evaporation mechanism on FenXiHuaXue Handbook</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Mon, 27 Jun 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://example.com/tags/the-ion-evaporation-mechanism/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Tag Index</title>
+      <link>https://example.com/docs/Tag_Collection/</link>
+      <pubDate>Mon, 27 Jun 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/docs/Tag_Collection/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>ESI General Review</title>
+      <link>https://example.com/docs/01-Mass-Spec-LC-MS/Part-01-Theory/ESI_general_review/</link>
+      <pubDate>Thu, 17 Mar 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/docs/01-Mass-Spec-LC-MS/Part-01-Theory/ESI_general_review/</guid>
+      <description>&lt;p&gt;The LC eluate is sprayed into a spray chamber at atmospheric pressure in the presence of a strong electrostatic field and heated drying gas.&lt;/p&gt;
+&lt;p&gt;The electrostatic field occurs between the nebulizer, which is the ES probe, and the capillary. Aerosol of charged droplet formation at right angles to the capillary.&lt;/p&gt;
+&lt;p&gt;Ionization takes place as a result of imparting the strong electrical field and the superheated nitrogrn sheath gas, with Agilent AJS (Jet Stream) technology.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Lecture 2 - FIA, ESI &amp; APCI</title>
+      <link>https://example.com/docs/01-Mass-Spec-LC-MS/Part-03-Career-Development/Advion-Courses/Lecture-02/</link>
+      <pubDate>Thu, 17 Mar 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/docs/01-Mass-Spec-LC-MS/Part-03-Career-Development/Advion-Courses/Lecture-02/</guid>
+      <description>&lt;p&gt;so an HPLC, we typically had a few 1000 plates, which is not much, UHPLC has dramatically improved that, it&amp;rsquo;s still not as good as capillary GC.&lt;/p&gt;
+&lt;p&gt;Flow injection analysis: particle-free is important to prevent form plug up at the ESI.&lt;/p&gt;
+&lt;p&gt;you have a particle stuck in your tube, and the sprayer has high voltage on it, the liquids coming through at 200 microliters per minute, and it&amp;rsquo;s possible to get a particle stuck in there.&lt;/p&gt;
+&lt;p&gt;We don&amp;rsquo;t have good sensitivity if we have large droplets.&lt;/p&gt;
+&lt;p&gt;And so the other thing you may not appreciate is the negative ion mode, the chemical background that gets in our way of the positive ion, there are many fewer molecules in the background of our systems that respond to negative ions. So the chemical noise goes down, because it does not get deprotonated. So I will lean towards negative ion detection, if I&amp;rsquo;m after sensitivity.&lt;/p&gt;
+&lt;p&gt;If you want to optimize your chances of getting rid of any carryover, certain solvent Like isopropanol, as opposed to methanol, some of the heavier alcohols are better solvents and a solid blank to displace them more than you want to know.&lt;/p&gt;
+&lt;p&gt;you need to be aware of the relative ratios of the heat and the nebulizing gas and nitrogen nebulizing gas.&lt;/p&gt;
+&lt;p&gt;electrospray is a concentration sensitive detector&lt;/p&gt;
+&lt;p&gt;So the lower the flow, the smaller the peak volume in the LC peak, the more sensitivity we&amp;rsquo;ll have.&lt;/p&gt;
+&lt;p&gt;if you lower the voltage, what do we call global electrospray this may produce improved sensitivity&lt;/p&gt;
+&lt;p&gt;slower is better within the region of 200 microliters per minute higher can be accommodated but ion current stability can be deteriorated as well as sensitivity. So 200 microliters per minute or point two mils per minute is a real good sweet spot for good performance.&lt;/p&gt;
+&lt;p&gt;But each of these does in fact, represent a variable that the operator can choose to change the mechanisms for electrospray.&lt;/p&gt;
+&lt;p&gt;And that&amp;rsquo;s buffer control and LCMS. A lot of people don&amp;rsquo;t remember it, don&amp;rsquo;t use it. But it can be very helpful in optimizing results. If you maintain the pH and the preferred region based on what your compound needs.&lt;/p&gt;
+&lt;p&gt;If we&amp;rsquo;re trying to evaporate droplets that make sense, we want as low boiling mixture as possible.  So we ideal spray has low boiling point, a low dielectric constant and a low surface tension.&lt;/p&gt;
+&lt;p&gt;doing nano electrospray or micro LC gives you sensitivity.&lt;/p&gt;
+&lt;p&gt;ions do like do not like being in hexane, alcohols or trace aqueous may be produced.&lt;/p&gt;
+&lt;p&gt;Ideal electrospray solvent has low boiling point, a low dielectric constant and a low surface tension.&lt;/p&gt;
+&lt;p&gt;A combination of heat and nebulizing gas and time to get droplets from the sprayer where they&amp;rsquo;re fairly large down to the point where we have ion evaporation taking place.&lt;/p&gt;
+&lt;p&gt;you need to be aware of the relative ratios of the heat and the nebulizing gas and nitrogen nebulizing gas in order to optimize the electrospray.&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

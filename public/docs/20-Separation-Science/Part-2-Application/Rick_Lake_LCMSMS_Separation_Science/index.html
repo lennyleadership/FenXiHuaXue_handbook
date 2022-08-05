@@ -1,0 +1,5167 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+<head>
+  <meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<meta name="description" content="This is the script of a presentation &ldquo;Getting The Most Out Of Your LCMSMS Separations and Method Development&rdquo; delivered by Rick Lake.">
+<meta name="theme-color" content="#FFFFFF">
+<meta name="color-scheme" content="light dark"><meta property="og:title" content="LC-MS/MS Separation Science by Rick Lake" />
+<meta property="og:description" content="This is the script of a presentation &ldquo;Getting The Most Out Of Your LCMSMS Separations and Method Development&rdquo; delivered by Rick Lake." />
+<meta property="og:type" content="article" />
+<meta property="og:url" content="https://example.com/docs/20-Separation-Science/Part-2-Application/Rick_Lake_LCMSMS_Separation_Science/" /><meta property="article:section" content="docs" />
+<meta property="article:published_time" content="2021-12-27T00:00:00+00:00" />
+<meta property="article:modified_time" content="2022-08-02T11:54:17-05:00" />
+
+<title>LC-MS/MS Separation Science by Rick Lake | FenXiHuaXue Handbook</title>
+<link rel="manifest" href="/manifest.json">
+<link rel="icon" href="/favicon.png" type="image/x-icon">
+<link rel="stylesheet" href="/book.min.3a3f0e81319d5a90394b38609ff3f215301f56951754ea5a863b898f4e5467a1.css" integrity="sha256-Oj8OgTGdWpA5Szhgn/PyFTAfVpUXVOpahjuJj05UZ6E=" crossorigin="anonymous">
+  <script defer src="/flexsearch.min.js"></script>
+  <script defer src="/en.search.min.75bfb77130ca4ed394970f00f714edc99940eed3b850ea32da4e3042b4644ba7.js" integrity="sha256-db&#43;3cTDKTtOUlw8A9xTtyZlA7tO4UOoy2k4wQrRkS6c=" crossorigin="anonymous"></script>
+
+  <script defer src="/sw.min.6f6f90fcb8eb1c49ec389838e6b801d0de19430b8e516902f8d75c3c8bd98739.js" integrity="sha256-b2&#43;Q/LjrHEnsOJg45rgB0N4ZQwuOUWkC&#43;NdcPIvZhzk=" crossorigin="anonymous"></script>
+<!--
+Made with Book Theme
+https://github.com/alex-shpak/hugo-book
+-->
+  
+</head>
+<body dir="ltr">
+  <input type="checkbox" class="hidden toggle" id="menu-control" />
+  <input type="checkbox" class="hidden toggle" id="toc-control" />
+  <main class="container flex">
+    <aside class="book-menu">
+      <div class="book-menu-content">
+        
+  <nav>
+<h2 class="book-brand">
+  <a class="flex align-center" href="/"><span>FenXiHuaXue Handbook</span>
+  </a>
+</h2>
+
+
+<div class="book-search">
+  <input type="text" id="book-search-input" placeholder="Search" aria-label="Search" maxlength="64" data-hotkeys="s/" />
+  <div class="book-search-spinner hidden"></div>
+  <ul id="book-search-results"></ul>
+</div>
+
+
+
+  
+
+
+
+  
+    
+  
+
+
+
+<ul class="book-languages">
+  <li>
+    <input type="checkbox" id="languages" class="toggle" />
+    <label for="languages" class="flex justify-between">
+      <a role="button" class="flex align-center">
+        <img src="/svg/translate.svg" class="book-icon" alt="Languages" />
+        English
+      </a>
+    </label>
+
+    <ul>
+      
+      <li>
+        <a href="https://example.com/zh/">
+          Chinese
+        </a>
+      </li>
+      
+    </ul>
+  </li>
+</ul>
+
+
+
+
+
+
+
+
+
+
+
+  
+
+
+
+  
+  <ul>
+    
+      
+        <li>
+          
+  
+  
+
+  
+    <input type="checkbox" id="section-f297b075796fa8fc4ba0bbb60b7e8ee8" class="toggle"  />
+    <label for="section-f297b075796fa8fc4ba0bbb60b7e8ee8" class="flex justify-between">
+      <a href="/docs/01-Mass-Spec-LC-MS/" class="">LC-MS</a>
+    </label>
+  
+
+          
+  <ul>
+    
+      
+        <li>
+          
+  
+  
+
+  
+    <span>Temp</span>
+  
+
+          
+  <ul>
+    
+      
+    
+  </ul>
+
+        </li>
+      
+    
+      
+        <li>
+          
+  
+  
+
+  
+    <input type="checkbox" id="section-09bb2b4a3fef476d0a163c15d545f039" class="toggle"  />
+    <label for="section-09bb2b4a3fef476d0a163c15d545f039" class="flex justify-between">
+      <a role="button" class="">Part I Theory</a>
+    </label>
+  
+
+          
+  <ul>
+    
+      
+        <li>
+          
+  
+  
+
+  
+    <a href="/docs/01-Mass-Spec-LC-MS/Part-01-Theory/LCMSMS_Analyte_Tuning_Waters/" class="">Analyte Tuning</a>
+  
+
+        </li>
+      
+    
+      
+        <li>
+          
+  
+  
+
+  
+    <a href="/docs/01-Mass-Spec-LC-MS/Part-01-Theory/Calculation_Optimun_MRM_Dwell_Time/" class="">Calculation of Optimum MRM Dwell Times</a>
+  
+
+        </li>
+      
+    
+      
+        <li>
+          
+  
+  
+
+  
+    <a href="/docs/01-Mass-Spec-LC-MS/Part-01-Theory/LCMSMS_resolution_N_masscalibration_Waters/" class="">Quadupole Resolution &amp; Mass Calibration</a>
+  
+
+        </li>
+      
+    
+      
+        <li>
+          
+  
+  
+
+  
+    <a href="/docs/01-Mass-Spec-LC-MS/Part-01-Theory/LCMSMS_theory_N_use_Waters/" class="">Quadrupole Theory and Use</a>
+  
+
+        </li>
+      
+    
+      
+        <li>
+          
+  
+  
+
+  
+    <a href="/docs/01-Mass-Spec-LC-MS/Part-01-Theory/TIC_N_BPC/" class="">The M&#43; peak and the base peak</a>
+  
+
+        </li>
+      
+    
+      
+        <li>
+          
+  
+  
+
+  
+    <a href="/docs/01-Mass-Spec-LC-MS/Part-01-Theory/M&#43;_M&#43;1_M&#43;2/" class="">The M&#43;, M&#43;1 and M&#43;2 Peaks</a>
+  
+
+        </li>
+      
+    
+      
+        <li>
+          
+  
+  
+
+  
+    <a href="/docs/01-Mass-Spec-LC-MS/Part-01-Theory/Profile_N_Centroid/" class="">Centroid or Profile</a>
+  
+
+        </li>
+      
+    
+      
+    
+      
+    
+      
+        <li>
+          
+  
+  
+
+  
+    <a href="/docs/01-Mass-Spec-LC-MS/Part-01-Theory/APCI_general_review/" class="">APCI General Review</a>
+  
+
+        </li>
+      
+    
+      
+        <li>
+          
+  
+  
+
+  
+    <a href="/docs/01-Mass-Spec-LC-MS/Part-01-Theory/Characteristics_API/" class="">Characteristics of ESI and APCI</a>
+  
+
+        </li>
+      
+    
+      
+        <li>
+          
+  
+  
+
+  
+    <a href="/docs/01-Mass-Spec-LC-MS/Part-01-Theory/Cross_Talk/" class="">Cross Talk</a>
+  
+
+        </li>
+      
+    
+      
+        <li>
+          
+  
+  
+
+  
+    <a href="/docs/01-Mass-Spec-LC-MS/Part-01-Theory/ESI_general_review/" class="">ESI General Review</a>
+  
+
+        </li>
+      
+    
+      
+        <li>
+          
+  
+  
+
+  
+    <a href="/docs/01-Mass-Spec-LC-MS/Part-01-Theory/Increase_sensitivity_detection_limit/" class="">Increase of the LC-MS/MS sensitivity and detection limits using on-line sample preparation with large volume plasma injection</a>
+  
+
+        </li>
+      
+    
+      
+        <li>
+          
+  
+  
+
+  
+    <a href="/docs/01-Mass-Spec-LC-MS/Part-01-Theory/Ionization_general_review/" class="">Ionization General Review</a>
+  
+
+        </li>
+      
+    
+      
+        <li>
+          
+  
+  
+
+  
+    <a href="/docs/01-Mass-Spec-LC-MS/Part-01-Theory/ESI_design_on_matrix_effects/" class="">The influence of electrospray ion source design on matrix effects</a>
+  
+
+        </li>
+      
+    
+      
+        <li>
+          
+  
+  
+
+  
+    <input type="checkbox" id="section-49ff34a5dac9d327169f250a4ddb2e58" class="toggle"  />
+    <label for="section-49ff34a5dac9d327169f250a4ddb2e58" class="flex justify-between">
+      <a role="button" class="">Theory Series by Waters</a>
+    </label>
+  
+
+          
+  <ul>
+    
+      
+        <li>
+          
+  
+  
+
+  
+    <a href="/docs/01-Mass-Spec-LC-MS/Part-01-Theory/Theory-Series-by-Waters/Theory_01_ESI/" class="">1/7 Electrospray Ionization</a>
+  
+
+        </li>
+      
+    
+      
+        <li>
+          
+  
+  
+
+  
+    <a href="/docs/01-Mass-Spec-LC-MS/Part-01-Theory/Theory-Series-by-Waters/Theory_02_adduct_ion/" class="">2/7 Adduct Ions</a>
+  
+
+        </li>
+      
+    
+      
+        <li>
+          
+  
+  
+
+  
+    <a href="/docs/01-Mass-Spec-LC-MS/Part-01-Theory/Theory-Series-by-Waters/Theory_03_multiple_charging/" class="">3/7 Multiple Charging</a>
+  
+
+        </li>
+      
+    
+      
+        <li>
+          
+  
+  
+
+  
+    <a href="/docs/01-Mass-Spec-LC-MS/Part-01-Theory/Theory-Series-by-Waters/Theory_04_Quadrupoles/" class="">4/7 Quadrupoles</a>
+  
+
+        </li>
+      
+    
+      
+        <li>
+          
+  
+  
+
+  
+    <a href="/docs/01-Mass-Spec-LC-MS/Part-01-Theory/Theory-Series-by-Waters/Theory_05_Resolution/" class="">5/7 Resolution</a>
+  
+
+        </li>
+      
+    
+      
+        <li>
+          
+  
+  
+
+  
+    <a href="/docs/01-Mass-Spec-LC-MS/Part-01-Theory/Theory-Series-by-Waters/Theory_06_Isotopes/" class="">6/7 Isotopes</a>
+  
+
+        </li>
+      
+    
+      
+        <li>
+          
+  
+  
+
+  
+    <a href="/docs/01-Mass-Spec-LC-MS/Part-01-Theory/Theory-Series-by-Waters/Theory_07_Fragmentation/" class="">7/7 Fragmentation</a>
+  
+
+        </li>
+      
+    
+  </ul>
+
+        </li>
+      
+    
+  </ul>
+
+        </li>
+      
+    
+      
+        <li>
+          
+  
+  
+
+  
+    <input type="checkbox" id="section-f25d5207b38b3dae6bea3bc26cc41bf7" class="toggle"  />
+    <label for="section-f25d5207b38b3dae6bea3bc26cc41bf7" class="flex justify-between">
+      <a role="button" class="">Part II Practices</a>
+    </label>
+  
+
+          
+  <ul>
+    
+      
+        <li>
+          
+  
+  
+
+  
+    <a href="/docs/01-Mass-Spec-LC-MS/Part-02-Practices/Accuracy_for_LCMSMS/" class="">Acceptable Limits for Accuracy using LCMSMS?</a>
+  
+
+        </li>
+      
+    
+      
+        <li>
+          
+  
+  
+
+  
+    <a href="/docs/01-Mass-Spec-LC-MS/Part-02-Practices/Forums/" class="">Forums</a>
+  
+
+        </li>
+      
+    
+      
+        <li>
+          
+  
+  
+
+  
+    <a href="/docs/01-Mass-Spec-LC-MS/Part-02-Practices/LCMSMS_no-signal/" class="">LC-MS/MS No Signal</a>
+  
+
+        </li>
+      
+    
+      
+        <li>
+          
+  
+  
+
+  
+    <a href="/docs/01-Mass-Spec-LC-MS/Part-02-Practices/LCMSMS-unstable_signal/" class="">LC-MS/MS unstable Signals</a>
+  
+
+        </li>
+      
+    
+      
+        <li>
+          
+  
+  
+
+  
+    <a href="/docs/01-Mass-Spec-LC-MS/Part-02-Practices/Noisy_baseline/" class="">Noisy Baseline</a>
+  
+
+        </li>
+      
+    
+      
+        <li>
+          
+  
+  
+
+  
+    <a href="/docs/01-Mass-Spec-LC-MS/Part-02-Practices/Problem_with_one_analyte/" class="">Problem with one Analyte Response</a>
+  
+
+        </li>
+      
+    
+      
+        <li>
+          
+  
+  
+
+  
+    <a href="/docs/01-Mass-Spec-LC-MS/Part-02-Practices/Dwell_time/" class="">Dwell Time Effect in SIM</a>
+  
+
+        </li>
+      
+    
+      
+    
+      
+        <li>
+          
+  
+  
+
+  
+    <a href="/docs/01-Mass-Spec-LC-MS/Part-02-Practices/Guide_sample_prep/" class="">A Practical Guide to Sample Preparation for LCMSMS</a>
+  
+
+        </li>
+      
+    
+      
+        <li>
+          
+  
+  
+
+  
+    <a href="/docs/01-Mass-Spec-LC-MS/Part-02-Practices/Agilent_LCQQQ/" class="">Agilent LC-MS/MS</a>
+  
+
+        </li>
+      
+    
+      
+        <li>
+          
+  
+  
+
+  
+    <a href="/docs/01-Mass-Spec-LC-MS/Part-02-Practices/Avoid_ion_pair_reagents/" class="">Avoid Ion Pair Reagents in LC-MS</a>
+  
+
+        </li>
+      
+    
+      
+        <li>
+          
+  
+  
+
+  
+    <a href="/docs/01-Mass-Spec-LC-MS/Part-02-Practices/Causes_sensitivity/" class="">How to improve the sensitivity</a>
+  
+
+        </li>
+      
+    
+      
+        <li>
+          
+  
+  
+
+  
+    <a href="/docs/01-Mass-Spec-LC-MS/Part-02-Practices/Strategy_detection_elimination_matrix_effects/" class="">LCGC Strategies for Detecting and Eliminating Matrix Effects</a>
+  
+
+        </li>
+      
+    
+      
+        <li>
+          
+  
+  
+
+  
+    <a href="/docs/01-Mass-Spec-LC-MS/Part-02-Practices/Boost_LSMSMS_Sensitivity/" class="">Practical Strategies to Boost Your Signal and Lower Your Noise</a>
+  
+
+        </li>
+      
+    
+      
+    
+      
+        <li>
+          
+  
+  
+
+  
+    <a href="/docs/01-Mass-Spec-LC-MS/Part-02-Practices/Restek_Guard_column/" class="">Restek Using Guard Columns and Retention Gaps in GC</a>
+  
+
+        </li>
+      
+    
+  </ul>
+
+        </li>
+      
+    
+      
+        <li>
+          
+  
+  
+
+  
+    <input type="checkbox" id="section-2a181c300541220bb22224eec7616064" class="toggle"  />
+    <label for="section-2a181c300541220bb22224eec7616064" class="flex justify-between">
+      <a role="button" class="">Part III Career Development</a>
+    </label>
+  
+
+          
+  <ul>
+    
+      
+    
+      
+        <li>
+          
+  
+  
+
+  
+    <input type="checkbox" id="section-bb7db5556c7fbae5440a808d0daf8f52" class="toggle"  />
+    <label for="section-bb7db5556c7fbae5440a808d0daf8f52" class="flex justify-between">
+      <a role="button" class="">Temp</a>
+    </label>
+  
+
+          
+  <ul>
+    
+      
+    
+  </ul>
+
+        </li>
+      
+    
+      
+        <li>
+          
+  
+  
+
+  
+    <input type="checkbox" id="section-9b59bbf2f2e6d0a916e15333863e0224" class="toggle"  />
+    <label for="section-9b59bbf2f2e6d0a916e15333863e0224" class="flex justify-between">
+      <a role="button" class="">Sciex LC-MS/MS 101</a>
+    </label>
+  
+
+          
+  <ul>
+    
+      
+    
+      
+        <li>
+          
+  
+  
+
+  
+    <a href="/docs/01-Mass-Spec-LC-MS/Part-03-Career-Development/Sciex-Courses/01_Fundamentals/" class="">01 Fundamentals</a>
+  
+
+        </li>
+      
+    
+      
+        <li>
+          
+  
+  
+
+  
+    <a href="/docs/01-Mass-Spec-LC-MS/Part-03-Career-Development/Sciex-Courses/02_Method_development/" class="">02 Method Development</a>
+  
+
+        </li>
+      
+    
+      
+        <li>
+          
+  
+  
+
+  
+    <a href="/docs/01-Mass-Spec-LC-MS/Part-03-Career-Development/Sciex-Courses/03_Effective_data_processing/" class="">03 Effective Data Processing</a>
+  
+
+        </li>
+      
+    
+      
+        <li>
+          
+  
+  
+
+  
+    <a href="/docs/01-Mass-Spec-LC-MS/Part-03-Career-Development/Sciex-Courses/04_Maintenance_N_troubleshooting/" class="">04 Maintenance and Troubleshooting</a>
+  
+
+        </li>
+      
+    
+  </ul>
+
+        </li>
+      
+    
+      
+        <li>
+          
+  
+  
+
+  
+    <input type="checkbox" id="section-c642670d97fad707d9e1b50c6d54aa5b" class="toggle"  />
+    <label for="section-c642670d97fad707d9e1b50c6d54aa5b" class="flex justify-between">
+      <a href="/docs/01-Mass-Spec-LC-MS/Part-03-Career-Development/Advion-Courses/" class="">Advion Courses on LC-MS</a>
+    </label>
+  
+
+          
+  <ul>
+    
+      
+        <li>
+          
+  
+  
+
+  
+    <a href="/docs/01-Mass-Spec-LC-MS/Part-03-Career-Development/Advion-Courses/post_lecture/" class="">Introduction</a>
+  
+
+        </li>
+      
+    
+      
+        <li>
+          
+  
+  
+
+  
+    <a href="/docs/01-Mass-Spec-LC-MS/Part-03-Career-Development/Advion-Courses/Lecture-01/" class="">Lecture 1 - Understanding API Quadrupole Mass Spectrometry The Basics</a>
+  
+
+        </li>
+      
+    
+      
+        <li>
+          
+  
+  
+
+  
+    <a href="/docs/01-Mass-Spec-LC-MS/Part-03-Career-Development/Advion-Courses/Lecture-02/" class="">Lecture 2 - FIA, ESI &amp; APCI</a>
+  
+
+        </li>
+      
+    
+      
+        <li>
+          
+  
+  
+
+  
+    <a href="/docs/01-Mass-Spec-LC-MS/Part-03-Career-Development/Advion-Courses/Lecture-03/" class="">Lecture 3 - Sample Preparation, Ion Source Optimization &amp; ASAP Probe</a>
+  
+
+        </li>
+      
+    
+      
+        <li>
+          
+  
+  
+
+  
+    <a href="/docs/01-Mass-Spec-LC-MS/Part-03-Career-Development/Advion-Courses/Lecture-04/" class="">Lecture 4 - Novel Sampling Techniques - Plate Express, Touch Express</a>
+  
+
+        </li>
+      
+    
+      
+        <li>
+          
+  
+  
+
+  
+    <a href="/docs/01-Mass-Spec-LC-MS/Part-03-Career-Development/Advion-Courses/Lecture-05/" class="">Lecture 5 - Principles for Successful LC/MS</a>
+  
+
+        </li>
+      
+    
+      
+        <li>
+          
+  
+  
+
+  
+    <a href="/docs/01-Mass-Spec-LC-MS/Part-03-Career-Development/Advion-Courses/Lecture-06/" class="">Lecture 6 - Negative Ions MS - Electrospray &amp; APCI</a>
+  
+
+        </li>
+      
+    
+      
+        <li>
+          
+  
+  
+
+  
+    <a href="/docs/01-Mass-Spec-LC-MS/Part-03-Career-Development/Advion-Courses/Lecture-07/" class="">Lecture 7 - Normal Phase (Flash) Chromatography Couple to Mass Spectrometry</a>
+  
+
+        </li>
+      
+    
+  </ul>
+
+        </li>
+      
+    
+      
+        <li>
+          
+  
+  
+
+  
+    <input type="checkbox" id="section-c8cc3e6b28d4fe1da78a56e87c7c2f6b" class="toggle"  />
+    <label for="section-c8cc3e6b28d4fe1da78a56e87c7c2f6b" class="flex justify-between">
+      <a role="button" class="">Other Courses</a>
+    </label>
+  
+
+          
+  <ul>
+    
+      
+    
+      
+        <li>
+          
+  
+  
+
+  
+    <a href="/docs/01-Mass-Spec-LC-MS/Part-03-Career-Development/Others/Workflow_pesticides_spicesNtobacco/" class="">Pesticides in Spices and Tobacco</a>
+  
+
+        </li>
+      
+    
+      
+        <li>
+          
+  
+  
+
+  
+    <a href="/docs/01-Mass-Spec-LC-MS/Part-03-Career-Development/Others/High_throughput_pesticides/" class="">The Challenges and Workflow Dilemma of High-throughput Multi-residue Pesticide</a>
+  
+
+        </li>
+      
+    
+      
+        <li>
+          
+  
+  
+
+  
+    <a href="/docs/01-Mass-Spec-LC-MS/Part-03-Career-Development/Others/Pesticide_residues_challenge/" class="">The Challenges of Pesticide Analysis</a>
+  
+
+        </li>
+      
+    
+  </ul>
+
+        </li>
+      
+    
+  </ul>
+
+        </li>
+      
+    
+      
+        <li>
+          
+  
+  
+
+  
+    <span>Part IV Matrix Effects</span>
+  
+
+          
+  <ul>
+    
+      
+    
+      
+        <li>
+          
+  
+  
+
+  
+    <a href="/docs/01-Mass-Spec-LC-MS/Part-04-Matrix-Effects/LC-GC-Matrix-Effects/" class="">LC-GC Matrix Effects</a>
+  
+
+        </li>
+      
+    
+  </ul>
+
+        </li>
+      
+    
+      
+        <li>
+          
+  
+  
+
+  
+    <span>Part V LC-MS Troubleshooting</span>
+  
+
+          
+  <ul>
+    
+      
+        <li>
+          
+  
+  
+
+  
+    <a href="/docs/01-Mass-Spec-LC-MS/Part-05-Troubleshooting/Agilent_troubleshooting_guide/" class="">Agilent HPLC &amp; LC-MS Troubleshooting Guide</a>
+  
+
+        </li>
+      
+    
+      
+        <li>
+          
+  
+  
+
+  
+    <a href="/docs/01-Mass-Spec-LC-MS/Part-05-Troubleshooting/Troubleshooting_series/" class="">LC-MS/MS Troubleshooting Series</a>
+  
+
+        </li>
+      
+    
+      
+        <li>
+          
+  
+  
+
+  
+    <a href="/docs/01-Mass-Spec-LC-MS/Part-05-Troubleshooting/Troubleshooting_LCMSMS/" class="">Troubleshooting Liquid Chromatography Tandem Mass Spectrometry in the Clinical Laboratory</a>
+  
+
+        </li>
+      
+    
+      
+        <li>
+          
+  
+  
+
+  
+    <a href="/docs/01-Mass-Spec-LC-MS/Part-05-Troubleshooting/Troubleshooting_strategy/" class="">Troubleshooting strategy</a>
+  
+
+        </li>
+      
+    
+      
+    
+      
+        <li>
+          
+  
+  
+
+  
+    <a href="/docs/01-Mass-Spec-LC-MS/Part-05-Troubleshooting/LCMSMS_visuary_inspections/" class="">The Visual Basics of Being An Effective Troubleshooter</a>
+  
+
+        </li>
+      
+    
+      
+        <li>
+          
+  
+  
+
+  
+    <a href="/docs/01-Mass-Spec-LC-MS/Part-05-Troubleshooting/LCMSMS_peak_shape/" class="">Troubleshooting Peak Shapes</a>
+  
+
+        </li>
+      
+    
+  </ul>
+
+        </li>
+      
+    
+  </ul>
+
+        </li>
+      
+    
+      
+    
+      
+        <li>
+          
+  
+  
+
+  
+    <input type="checkbox" id="section-73263717ec0bad55607490a7a7e9c60b" class="toggle"  />
+    <label for="section-73263717ec0bad55607490a7a7e9c60b" class="flex justify-between">
+      <a role="button" class="">HPLC</a>
+    </label>
+  
+
+          
+  <ul>
+    
+      
+        <li>
+          
+  
+  
+
+  
+    <input type="checkbox" id="section-9bbe588c321128fba363a41d011bd605" class="toggle"  />
+    <label for="section-9bbe588c321128fba363a41d011bd605" class="flex justify-between">
+      <a href="/docs/02-Chrom-HPLC/Part-03-HPLC-Columns/" class="">Part 03 HPLC Columns</a>
+    </label>
+  
+
+          
+  <ul>
+    
+      
+        <li>
+          
+  
+  
+
+  
+    <a href="/docs/02-Chrom-HPLC/Part-03-HPLC-Columns/C18_column_101/" class="">Choose a C18 Column</a>
+  
+
+        </li>
+      
+    
+      
+        <li>
+          
+  
+  
+
+  
+    <a href="/docs/02-Chrom-HPLC/Part-03-HPLC-Columns/Column_Caring/" class="">Column Caring and Protection</a>
+  
+
+        </li>
+      
+    
+      
+        <li>
+          
+  
+  
+
+  
+    <a href="/docs/02-Chrom-HPLC/Part-03-HPLC-Columns/Column_Classification/" class="">Column Classification System</a>
+  
+
+        </li>
+      
+    
+      
+        <li>
+          
+  
+  
+
+  
+    <a href="/docs/02-Chrom-HPLC/Part-03-HPLC-Columns/Column_comparison_table/" class="">Column Comparison Table</a>
+  
+
+        </li>
+      
+    
+      
+        <li>
+          
+  
+  
+
+  
+    <a href="/docs/02-Chrom-HPLC/Part-03-HPLC-Columns/Column_parameters_guide/" class="">Column Parameters Guide</a>
+  
+
+        </li>
+      
+    
+      
+        <li>
+          
+  
+  
+
+  
+    <a href="/docs/02-Chrom-HPLC/Part-03-HPLC-Columns/Column_performance_test/" class="">Column Performance Test</a>
+  
+
+        </li>
+      
+    
+      
+        <li>
+          
+  
+  
+
+  
+    <a href="/docs/02-Chrom-HPLC/Part-03-HPLC-Columns/Column_selection_showcases/" class="">Column Selection Showcases</a>
+  
+
+        </li>
+      
+    
+      
+        <li>
+          
+  
+  
+
+  
+    <a href="/docs/02-Chrom-HPLC/Part-03-HPLC-Columns/Column_comparison/" class="">Core-shell Column Comparison</a>
+  
+
+        </li>
+      
+    
+      
+        <li>
+          
+  
+  
+
+  
+    <a href="/docs/02-Chrom-HPLC/Part-03-HPLC-Columns/Column_selection_dB/" class="">HPLC Column Database</a>
+  
+
+        </li>
+      
+    
+      
+        <li>
+          
+  
+  
+
+  
+    <a href="/docs/02-Chrom-HPLC/Part-03-HPLC-Columns/Column_selectioin_guide/" class="">LC column Selection Guide</a>
+  
+
+        </li>
+      
+    
+      
+        <li>
+          
+  
+  
+
+  
+    <a href="/docs/02-Chrom-HPLC/Part-03-HPLC-Columns/T_02/" class="">Template</a>
+  
+
+        </li>
+      
+    
+      
+        <li>
+          
+  
+  
+
+  
+    <a href="/docs/02-Chrom-HPLC/Part-03-HPLC-Columns/Column_selection_USP_category/" class="">USP Specification (USP 35)</a>
+  
+
+        </li>
+      
+    
+      
+        <li>
+          
+  
+  
+
+  
+    <a href="/docs/02-Chrom-HPLC/Part-03-HPLC-Columns/HILIC_coulmns_vs_common_columns/" class="">What is the difference between HILIC columns and common HPLC columns?</a>
+  
+
+        </li>
+      
+    
+  </ul>
+
+        </li>
+      
+    
+      
+        <li>
+          
+  
+  
+
+  
+    <input type="checkbox" id="section-75805505bf277f13cbcb62a546b4635e" class="toggle"  />
+    <label for="section-75805505bf277f13cbcb62a546b4635e" class="flex justify-between">
+      <a href="/docs/02-Chrom-HPLC/Part-04-GLP-for-HPLC/" class="">Part 04 Good Lab Practice for HPLC</a>
+    </label>
+  
+
+          
+  <ul>
+    
+      
+        <li>
+          
+  
+  
+
+  
+    <a href="/docs/02-Chrom-HPLC/Part-04-GLP-for-HPLC/01_Solvent_prep/" class="">Chapter 01 Solvent</a>
+  
+
+        </li>
+      
+    
+      
+        <li>
+          
+  
+  
+
+  
+    <a href="/docs/02-Chrom-HPLC/Part-04-GLP-for-HPLC/02_Buffer_prep/" class="">Chapter 02 Buffer</a>
+  
+
+        </li>
+      
+    
+      
+        <li>
+          
+  
+  
+
+  
+    <a href="/docs/02-Chrom-HPLC/Part-04-GLP-for-HPLC/03_Mobile_phase/" class="">Chapter 03 Mobile Phase</a>
+  
+
+        </li>
+      
+    
+      
+        <li>
+          
+  
+  
+
+  
+    <a href="/docs/02-Chrom-HPLC/Part-04-GLP-for-HPLC/04_System_plumbing-fittings/" class="">Chapter 04 System Plumbing and Fittings</a>
+  
+
+        </li>
+      
+    
+      
+        <li>
+          
+  
+  
+
+  
+    <a href="/docs/02-Chrom-HPLC/Part-04-GLP-for-HPLC/08_Degassing/" class="">Chapter 08 Degassing</a>
+  
+
+        </li>
+      
+    
+      
+        <li>
+          
+  
+  
+
+  
+    <a href="/docs/02-Chrom-HPLC/Part-04-GLP-for-HPLC/09_Filtration/" class="">Chapter 09 Filtration</a>
+  
+
+        </li>
+      
+    
+      
+        <li>
+          
+  
+  
+
+  
+    <a href="/docs/02-Chrom-HPLC/Part-04-GLP-for-HPLC/10_flow_direction/" class="">Flow Direction</a>
+  
+
+        </li>
+      
+    
+      
+        <li>
+          
+  
+  
+
+  
+    <a href="/docs/02-Chrom-HPLC/Part-04-GLP-for-HPLC/Injection_solvents/" class="">Injector and Injection Solvents</a>
+  
+
+        </li>
+      
+    
+      
+        <li>
+          
+  
+  
+
+  
+    <a href="/docs/02-Chrom-HPLC/Part-04-GLP-for-HPLC/Preventing_solving_hardware_problems/" class="">Preventing and solving common hardware problems</a>
+  
+
+        </li>
+      
+    
+      
+        <li>
+          
+  
+  
+
+  
+    <a href="/docs/02-Chrom-HPLC/Part-04-GLP-for-HPLC/Pump/" class="">Pump Maintenance</a>
+  
+
+        </li>
+      
+    
+      
+        <li>
+          
+  
+  
+
+  
+    <a href="/docs/02-Chrom-HPLC/Part-04-GLP-for-HPLC/T_02/" class="">Template-02</a>
+  
+
+        </li>
+      
+    
+  </ul>
+
+        </li>
+      
+    
+      
+        <li>
+          
+  
+  
+
+  
+    <input type="checkbox" id="section-dfd893c67a4aa8a49b95faa2c781f63d" class="toggle"  />
+    <label for="section-dfd893c67a4aa8a49b95faa2c781f63d" class="flex justify-between">
+      <a href="/docs/02-Chrom-HPLC/Part-05-Method-Development/" class="">Part 05 Method Development</a>
+    </label>
+  
+
+          
+  <ul>
+    
+      
+        <li>
+          
+  
+  
+
+  
+    <a href="/docs/02-Chrom-HPLC/Part-05-Method-Development/blank/" class="">Chapter 2</a>
+  
+
+        </li>
+      
+    
+      
+        <li>
+          
+  
+  
+
+  
+    <a href="/docs/02-Chrom-HPLC/Part-05-Method-Development/Increase_HPLC_method_sensitivity/" class="">Increase HPLC/UHPLC Method Sensitivity</a>
+  
+
+        </li>
+      
+    
+  </ul>
+
+        </li>
+      
+    
+      
+        <li>
+          
+  
+  
+
+  
+    <input type="checkbox" id="section-98274ada0c62320e42a1f02118cbaf85" class="toggle"  />
+    <label for="section-98274ada0c62320e42a1f02118cbaf85" class="flex justify-between">
+      <a href="/docs/02-Chrom-HPLC/Part-06-Instrumentation-Troubleshooting/" class="">Part 06 Instrumentation Troubleshooting Guide in General</a>
+    </label>
+  
+
+          
+  <ul>
+    
+      
+        <li>
+          
+  
+  
+
+  
+    <a href="/docs/02-Chrom-HPLC/Part-06-Instrumentation-Troubleshooting/Blank/" class="">Blank</a>
+  
+
+        </li>
+      
+    
+      
+        <li>
+          
+  
+  
+
+  
+    <a href="/docs/02-Chrom-HPLC/Part-06-Instrumentation-Troubleshooting/13_Leakage/" class="">Chapter  Leakage</a>
+  
+
+        </li>
+      
+    
+      
+        <li>
+          
+  
+  
+
+  
+    <a href="/docs/02-Chrom-HPLC/Part-06-Instrumentation-Troubleshooting/12_Loss_of_Accuracy/" class="">Chapter  Loss of Accuracy</a>
+  
+
+        </li>
+      
+    
+      
+        <li>
+          
+  
+  
+
+  
+    <a href="/docs/02-Chrom-HPLC/Part-06-Instrumentation-Troubleshooting/11_Loss_of_Precision/" class="">Chapter  Loss of Precision</a>
+  
+
+        </li>
+      
+    
+      
+        <li>
+          
+  
+  
+
+  
+    <a href="/docs/02-Chrom-HPLC/Part-06-Instrumentation-Troubleshooting/09_No_flow/" class="">Chapter  No Flow</a>
+  
+
+        </li>
+      
+    
+      
+        <li>
+          
+  
+  
+
+  
+    <a href="/docs/02-Chrom-HPLC/Part-06-Instrumentation-Troubleshooting/10_Peaks_Misidentified/" class="">Chapter  Peaks Misidentified</a>
+  
+
+        </li>
+      
+    
+      
+        <li>
+          
+  
+  
+
+  
+    <a href="/docs/02-Chrom-HPLC/Part-06-Instrumentation-Troubleshooting/01_Strategy_and_Processes/" class="">Chapter 01 Troubleshooting Strategy and Processes</a>
+  
+
+        </li>
+      
+    
+      
+        <li>
+          
+  
+  
+
+  
+    <a href="/docs/02-Chrom-HPLC/Part-06-Instrumentation-Troubleshooting/02_Pressure_HPLC/" class="">Chapter 02 LC Pressure Issue</a>
+  
+
+        </li>
+      
+    
+      
+        <li>
+          
+  
+  
+
+  
+    <a href="/docs/02-Chrom-HPLC/Part-06-Instrumentation-Troubleshooting/04_Retention_Time_Changes_HPLC/" class="">Chapter 04 HPLC Retention Time Changes</a>
+  
+
+        </li>
+      
+    
+      
+        <li>
+          
+  
+  
+
+  
+    <a href="/docs/02-Chrom-HPLC/Part-06-Instrumentation-Troubleshooting/05_Abnormal_Peak_Shape_HPLC/" class="">Chapter 05 LC Abnormal Peak Shape</a>
+  
+
+        </li>
+      
+    
+      
+        <li>
+          
+  
+  
+
+  
+    <a href="/docs/02-Chrom-HPLC/Part-06-Instrumentation-Troubleshooting/Column_clog/" class="">Preventing LC Column Clogs</a>
+  
+
+        </li>
+      
+    
+      
+        <li>
+          
+  
+  
+
+  
+    <a href="/docs/02-Chrom-HPLC/Part-06-Instrumentation-Troubleshooting/16_Restek_LC_Troubleshooting/" class="">Restek - Effective LC Troubleshooting Symptom-based Strategies and Solutions</a>
+  
+
+        </li>
+      
+    
+      
+        <li>
+          
+  
+  
+
+  
+    <a href="/docs/02-Chrom-HPLC/Part-06-Instrumentation-Troubleshooting/15_Change_in_selectivity/" class="">Change in Selectivity</a>
+  
+
+        </li>
+      
+    
+      
+        <li>
+          
+  
+  
+
+  
+    <a href="/docs/02-Chrom-HPLC/Part-06-Instrumentation-Troubleshooting/03_Baseline_Irregularities_HPLC/" class="">Chapter 03 LC Baseline Irregularities</a>
+  
+
+        </li>
+      
+    
+      
+        <li>
+          
+  
+  
+
+  
+    <a href="/docs/02-Chrom-HPLC/Part-06-Instrumentation-Troubleshooting/14_Loss_of_resolution/" class="">Chapter Loss of Resolution</a>
+  
+
+        </li>
+      
+    
+  </ul>
+
+        </li>
+      
+    
+      
+        <li>
+          
+  
+  
+
+  
+    <input type="checkbox" id="section-fb618e76ecf6f03288c09429b163f9a0" class="toggle"  />
+    <label for="section-fb618e76ecf6f03288c09429b163f9a0" class="flex justify-between">
+      <a href="/docs/02-Chrom-HPLC/Part-07-Application/" class="">Part 07 Application</a>
+    </label>
+  
+
+          
+  <ul>
+    
+      
+        <li>
+          
+  
+  
+
+  
+    <a href="/docs/02-Chrom-HPLC/Part-07-Application/Amine_analysis/" class="">Amine Analysis</a>
+  
+
+        </li>
+      
+    
+      
+        <li>
+          
+  
+  
+
+  
+    <a href="/docs/02-Chrom-HPLC/Part-07-Application/Buffer_ionizable_compounds/" class="">Buffers for Analyzing Ionizable Compounds</a>
+  
+
+        </li>
+      
+    
+      
+        <li>
+          
+  
+  
+
+  
+    <a href="/docs/02-Chrom-HPLC/Part-07-Application/06_Band_broadening/" class="">Chapter 06 HPLC Band Broadening Diagnosis</a>
+  
+
+        </li>
+      
+    
+      
+        <li>
+          
+  
+  
+
+  
+    <a href="/docs/02-Chrom-HPLC/Part-07-Application/07_Factors_affecting_peak_shape/" class="">Chapter 07 Choosing Columns and Conditions for the Best Peak Shape</a>
+  
+
+        </li>
+      
+    
+      
+        <li>
+          
+  
+  
+
+  
+    <a href="/docs/02-Chrom-HPLC/Part-07-Application/Chart_Polarity/" class="">Chart of Polarity</a>
+  
+
+        </li>
+      
+    
+      
+        <li>
+          
+  
+  
+
+  
+    <a href="/docs/02-Chrom-HPLC/Part-07-Application/Chromatography_resin/" class="">Chromatography resins</a>
+  
+
+        </li>
+      
+    
+      
+        <li>
+          
+  
+  
+
+  
+    <a href="/docs/02-Chrom-HPLC/Part-07-Application/Core-shell_particles/" class="">Core-shell Particles</a>
+  
+
+        </li>
+      
+    
+      
+        <li>
+          
+  
+  
+
+  
+    <a href="/docs/02-Chrom-HPLC/Part-07-Application/Degassing_flat_film_degasser/" class="">Flat Film Degasser</a>
+  
+
+        </li>
+      
+    
+      
+        <li>
+          
+  
+  
+
+  
+    <a href="/docs/02-Chrom-HPLC/Part-07-Application/Frit/" class="">Frit</a>
+  
+
+        </li>
+      
+    
+      
+        <li>
+          
+  
+  
+
+  
+    <a href="/docs/02-Chrom-HPLC/Part-07-Application/Mobile_phase_conditions/" class="">Mobile Phase Conditions</a>
+  
+
+        </li>
+      
+    
+      
+        <li>
+          
+  
+  
+
+  
+    <a href="/docs/02-Chrom-HPLC/Part-07-Application/NP-HPLC_vs_RP-HPLC/" class="">Normal-Phase HPLC vs. Reversed-Phase HPLC</a>
+  
+
+        </li>
+      
+    
+      
+        <li>
+          
+  
+  
+
+  
+    <a href="/docs/02-Chrom-HPLC/Part-07-Application/Operating_Parameters_Guide/" class="">Operating Parameters Guide</a>
+  
+
+        </li>
+      
+    
+      
+        <li>
+          
+  
+  
+
+  
+    <a href="/docs/02-Chrom-HPLC/Part-07-Application/Removal_Phospholipids/" class="">Removal of Phospholipids</a>
+  
+
+        </li>
+      
+    
+      
+        <li>
+          
+  
+  
+
+  
+    <a href="/docs/02-Chrom-HPLC/Part-07-Application/TEA-Tri-ethyl-amine/" class="">TEA Tri-ethyl-amine</a>
+  
+
+        </li>
+      
+    
+      
+        <li>
+          
+  
+  
+
+  
+    <a href="/docs/02-Chrom-HPLC/Part-07-Application/T_02/" class="">Template</a>
+  
+
+        </li>
+      
+    
+  </ul>
+
+        </li>
+      
+    
+      
+        <li>
+          
+  
+  
+
+  
+    <input type="checkbox" id="section-1c2e368a0d5ced3ad40170d258ad96f8" class="toggle"  />
+    <label for="section-1c2e368a0d5ced3ad40170d258ad96f8" class="flex justify-between">
+      <a href="/docs/02-Chrom-HPLC/Part-08-Problems/" class="">Part 08 Problems</a>
+    </label>
+  
+
+          
+  <ul>
+    
+      
+        <li>
+          
+  
+  
+
+  
+    <a href="/docs/02-Chrom-HPLC/Part-08-Problems/Problems/" class="">Problems</a>
+  
+
+        </li>
+      
+    
+  </ul>
+
+        </li>
+      
+    
+      
+        <li>
+          
+  
+  
+
+  
+    <input type="checkbox" id="section-53e2cf94f1b9e3e05bf4978d077988ee" class="toggle"  />
+    <label for="section-53e2cf94f1b9e3e05bf4978d077988ee" class="flex justify-between">
+      <a href="/docs/02-Chrom-HPLC/Part-01-Theory/" class="">Part I Theory</a>
+    </label>
+  
+
+          
+  <ul>
+    
+      
+        <li>
+          
+  
+  
+
+  
+    <a href="/docs/02-Chrom-HPLC/Part-01-Theory/Fast_liquid_chromatography/" class="">Fast Liquid Chromatography</a>
+  
+
+        </li>
+      
+    
+      
+        <li>
+          
+  
+  
+
+  
+    <a href="/docs/02-Chrom-HPLC/Part-01-Theory/Ion_pair_reagents/" class="">Ion Pair Reagents</a>
+  
+
+        </li>
+      
+    
+      
+        <li>
+          
+  
+  
+
+  
+    <a href="/docs/02-Chrom-HPLC/Part-01-Theory/Tem/" class="">Tem</a>
+  
+
+        </li>
+      
+    
+      
+        <li>
+          
+  
+  
+
+  
+    <a href="/docs/02-Chrom-HPLC/Part-01-Theory/01_Theory_of_Separation_on_LC_column/" class="">Chapter 01 Theory of Separation on LC Column</a>
+  
+
+        </li>
+      
+    
+      
+        <li>
+          
+  
+  
+
+  
+    <a href="/docs/02-Chrom-HPLC/Part-01-Theory/02_Column_chemistry/" class="">Chapter 02 Column Chemistry</a>
+  
+
+        </li>
+      
+    
+      
+        <li>
+          
+  
+  
+
+  
+    <a href="/docs/02-Chrom-HPLC/Part-01-Theory/03_Reverse-Phase_Chromatogrphy/" class="">Chapter 03 Reversed-phase Chromatography</a>
+  
+
+        </li>
+      
+    
+      
+        <li>
+          
+  
+  
+
+  
+    <a href="/docs/02-Chrom-HPLC/Part-01-Theory/04_Peak_shape_measurement/" class="">Chapter 04 Peak Shape Measurement</a>
+  
+
+        </li>
+      
+    
+      
+        <li>
+          
+  
+  
+
+  
+    <a href="/docs/02-Chrom-HPLC/Part-01-Theory/05_Scaling_up_or_down/" class="">Chapter 05 Scaling Up or Scaling Down</a>
+  
+
+        </li>
+      
+    
+      
+        <li>
+          
+  
+  
+
+  
+    <a href="/docs/02-Chrom-HPLC/Part-01-Theory/06_Column_backpressure/" class="">Chapter 06 Column Backpressure</a>
+  
+
+        </li>
+      
+    
+      
+        <li>
+          
+  
+  
+
+  
+    <a href="/docs/02-Chrom-HPLC/Part-01-Theory/Chromatography/" class="">Chromatography</a>
+  
+
+        </li>
+      
+    
+      
+        <li>
+          
+  
+  
+
+  
+    <a href="/docs/02-Chrom-HPLC/Part-01-Theory/Solute_stationary_phase_interactions/" class="">Combinations of possible solute-stationary phase interactions</a>
+  
+
+        </li>
+      
+    
+      
+        <li>
+          
+  
+  
+
+  
+    <a href="/docs/02-Chrom-HPLC/Part-01-Theory/Evaluation_Chrom_Methods/" class="">Critical Evaluation of Chromatography Methods</a>
+  
+
+        </li>
+      
+    
+      
+        <li>
+          
+  
+  
+
+  
+    <a href="/docs/02-Chrom-HPLC/Part-01-Theory/General_principles_LC/" class="">General Principles of Liquid Chromatography</a>
+  
+
+        </li>
+      
+    
+      
+        <li>
+          
+  
+  
+
+  
+    <a href="/docs/02-Chrom-HPLC/Part-01-Theory/Hydrophobic_ion_paring/" class="">Hydrophobic ion Paring</a>
+  
+
+        </li>
+      
+    
+      
+        <li>
+          
+  
+  
+
+  
+    <a href="/docs/02-Chrom-HPLC/Part-01-Theory/Hydrophobic_interaction_chromatography/" class="">Introduction to Hydrophobic Interaction Chromatography</a>
+  
+
+        </li>
+      
+    
+      
+        <li>
+          
+  
+  
+
+  
+    <a href="/docs/02-Chrom-HPLC/Part-01-Theory/Sample_introduction/" class="">LC Sample Introduction</a>
+  
+
+        </li>
+      
+    
+      
+        <li>
+          
+  
+  
+
+  
+    <a href="/docs/02-Chrom-HPLC/Part-01-Theory/Mobile_phase/" class="">Mobile Phases</a>
+  
+
+        </li>
+      
+    
+      
+        <li>
+          
+  
+  
+
+  
+    <a href="/docs/02-Chrom-HPLC/Part-01-Theory/Resolution/" class="">Chromatography Resolution</a>
+  
+
+        </li>
+      
+    
+  </ul>
+
+        </li>
+      
+    
+      
+        <li>
+          
+  
+  
+
+  
+    <input type="checkbox" id="section-4a6e7cb285d9f5074253e37074264636" class="toggle"  />
+    <label for="section-4a6e7cb285d9f5074253e37074264636" class="flex justify-between">
+      <a href="/docs/02-Chrom-HPLC/Template/" class="">Template</a>
+    </label>
+  
+
+          
+  <ul>
+    
+      
+        <li>
+          
+  
+  
+
+  
+    <a href="/docs/02-Chrom-HPLC/Template/T_02/" class="">Template-02</a>
+  
+
+        </li>
+      
+    
+  </ul>
+
+        </li>
+      
+    
+  </ul>
+
+        </li>
+      
+    
+      
+        <li>
+          
+  
+  
+
+  
+    <input type="checkbox" id="section-451036e155406525489fcb11e42cac0a" class="toggle"  />
+    <label for="section-451036e155406525489fcb11e42cac0a" class="flex justify-between">
+      <a href="/docs/03-Mass-Spec-GC-MS/" class="">GC-MS</a>
+    </label>
+  
+
+          
+  <ul>
+    
+      
+        <li>
+          
+  
+  
+
+  
+    <input type="checkbox" id="section-b88a440b5918d95815182f5a50c0a905" class="toggle"  />
+    <label for="section-b88a440b5918d95815182f5a50c0a905" class="flex justify-between">
+      <a href="/docs/03-Mass-Spec-GC-MS/Part-1-Theory/" class="">Part I Theory</a>
+    </label>
+  
+
+          
+  <ul>
+    
+      
+        <li>
+          
+  
+  
+
+  
+    <a href="/docs/03-Mass-Spec-GC-MS/Part-1-Theory/GC-MSMS/" class="">GC-Ms/MS</a>
+  
+
+        </li>
+      
+    
+  </ul>
+
+        </li>
+      
+    
+      
+        <li>
+          
+  
+  
+
+  
+    <input type="checkbox" id="section-20a13da4dcdbacb2f95611d015409c5a" class="toggle"  />
+    <label for="section-20a13da4dcdbacb2f95611d015409c5a" class="flex justify-between">
+      <a href="/docs/03-Mass-Spec-GC-MS/Part-2-Application/" class="">Part II</a>
+    </label>
+  
+
+          
+  <ul>
+    
+      
+    
+      
+        <li>
+          
+  
+  
+
+  
+    <a href="/docs/03-Mass-Spec-GC-MS/Part-2-Application/Agilent_GC_and_GC-MS_Scientists_Answer_Your_Most_FAQ/" class="">Agilent GC and GC-MS Scientists Answer Your Most FAQ</a>
+  
+
+        </li>
+      
+    
+      
+        <li>
+          
+  
+  
+
+  
+    <a href="/docs/03-Mass-Spec-GC-MS/Part-2-Application/Varian_GCMS_Spec/" class="">Spec sheet of Varian GC/MS @ AECL</a>
+  
+
+        </li>
+      
+    
+      
+        <li>
+          
+  
+  
+
+  
+    <a href="/docs/03-Mass-Spec-GC-MS/Part-2-Application/Troubleshooting_I/" class="">Troubleshooting I</a>
+  
+
+        </li>
+      
+    
+  </ul>
+
+        </li>
+      
+    
+  </ul>
+
+        </li>
+      
+    
+      
+        <li>
+          
+  
+  
+
+  
+    <input type="checkbox" id="section-a8538b9ab8e0f271e680d2516e9e88bc" class="toggle"  />
+    <label for="section-a8538b9ab8e0f271e680d2516e9e88bc" class="flex justify-between">
+      <a role="button" class="">GC</a>
+    </label>
+  
+
+          
+  <ul>
+    
+      
+        <li>
+          
+  
+  
+
+  
+    <input type="checkbox" id="section-07e24db6ea1072c1542529c28706fe5d" class="toggle"  />
+    <label for="section-07e24db6ea1072c1542529c28706fe5d" class="flex justify-between">
+      <a role="button" class="">Part I Theory</a>
+    </label>
+  
+
+          
+  <ul>
+    
+      
+        <li>
+          
+  
+  
+
+  
+    <a href="/docs/04-Chrom-GC/Part-01-Theory/Injection/" class="">Injection</a>
+  
+
+        </li>
+      
+    
+      
+    
+  </ul>
+
+        </li>
+      
+    
+      
+        <li>
+          
+  
+  
+
+  
+    <input type="checkbox" id="section-0c28289c1df066f3d97400ab80ba980a" class="toggle"  />
+    <label for="section-0c28289c1df066f3d97400ab80ba980a" class="flex justify-between">
+      <a role="button" class="">Part II Application</a>
+    </label>
+  
+
+          
+  <ul>
+    
+      
+    
+      
+        <li>
+          
+  
+  
+
+  
+    <a href="/docs/04-Chrom-GC/Part-02-Application/Agilent_GC_Column_Installation/" class="">Agilent GC Column Installation Made Easier</a>
+  
+
+        </li>
+      
+    
+      
+        <li>
+          
+  
+  
+
+  
+    <a href="/docs/04-Chrom-GC/Part-02-Application/Part_1_Restek_Retention_gaps/" class="">Part 1 Restek Retention Gaps</a>
+  
+
+        </li>
+      
+    
+      
+        <li>
+          
+  
+  
+
+  
+    <a href="/docs/04-Chrom-GC/Part-02-Application/Part_2_Restek_Guard_columns/" class="">Part 2 Restek Guard Columns</a>
+  
+
+        </li>
+      
+    
+      
+        <li>
+          
+  
+  
+
+  
+    <a href="/docs/04-Chrom-GC/Part-02-Application/Restek_Optimizing_splitless_injection/" class="">Restek Optimizing Splitless Injection</a>
+  
+
+        </li>
+      
+    
+      
+        <li>
+          
+  
+  
+
+  
+    <a href="/docs/04-Chrom-GC/Part-02-Application/Restek_Split_splitless_injection/" class="">Split vs. Splitless Injection</a>
+  
+
+        </li>
+      
+    
+  </ul>
+
+        </li>
+      
+    
+      
+        <li>
+          
+  
+  
+
+  
+    <input type="checkbox" id="section-8eff03ad234603edf42212bb974eb670" class="toggle"  />
+    <label for="section-8eff03ad234603edf42212bb974eb670" class="flex justify-between">
+      <a role="button" class="">Part III Instrument Troubleshooting</a>
+    </label>
+  
+
+          
+  <ul>
+    
+      
+    
+      
+    
+      
+        <li>
+          
+  
+  
+
+  
+    <a href="/docs/04-Chrom-GC/Part-03-Instrument-Troubleshooting/Restek_Gas_Leaks/" class="">Gas Leaks</a>
+  
+
+        </li>
+      
+    
+      
+        <li>
+          
+  
+  
+
+  
+    <a href="/docs/04-Chrom-GC/Part-03-Instrument-Troubleshooting/Restek_Troubleshooting_principles/" class="">Troubleshooting Principles</a>
+  
+
+        </li>
+      
+    
+  </ul>
+
+        </li>
+      
+    
+      
+        <li>
+          
+  
+  
+
+  
+    <input type="checkbox" id="section-ff16e0c20779e68acabf19890b9ed3c8" class="toggle"  />
+    <label for="section-ff16e0c20779e68acabf19890b9ed3c8" class="flex justify-between">
+      <a role="button" class="">Part IV Instrument Maintenance</a>
+    </label>
+  
+
+          
+  <ul>
+    
+      
+    
+  </ul>
+
+        </li>
+      
+    
+  </ul>
+
+        </li>
+      
+    
+      
+        <li>
+          
+  
+  
+
+  
+    <input type="checkbox" id="section-f7bc35b1728f7eced1c1d8e15c0f86d4" class="toggle"  />
+    <label for="section-f7bc35b1728f7eced1c1d8e15c0f86d4" class="flex justify-between">
+      <a role="button" class="">Mass Spectrometry</a>
+    </label>
+  
+
+          
+  <ul>
+    
+      
+        <li>
+          
+  
+  
+
+  
+    <input type="checkbox" id="section-485cba94eac1defe3840825f43cb739b" class="toggle"  />
+    <label for="section-485cba94eac1defe3840825f43cb739b" class="flex justify-between">
+      <a role="button" class="">Part I Theory</a>
+    </label>
+  
+
+          
+  <ul>
+    
+      
+    
+      
+        <li>
+          
+  
+  
+
+  
+    <a href="/docs/05-Mass-Spec/Part-1-Theory/HRMS_table/" class="">HRMS List</a>
+  
+
+        </li>
+      
+    
+      
+        <li>
+          
+  
+  
+
+  
+    <a href="/docs/05-Mass-Spec/Part-1-Theory/Ion_trap/" class="">Ion Trap Quadrupole</a>
+  
+
+        </li>
+      
+    
+      
+        <li>
+          
+  
+  
+
+  
+    <a href="/docs/05-Mass-Spec/Part-1-Theory/Mass_definition/" class="">Mass Definition</a>
+  
+
+        </li>
+      
+    
+      
+        <li>
+          
+  
+  
+
+  
+    <a href="/docs/05-Mass-Spec/Part-1-Theory/Mass_error/" class="">Mass Error - Terminology</a>
+  
+
+        </li>
+      
+    
+      
+        <li>
+          
+  
+  
+
+  
+    <a href="/docs/05-Mass-Spec/Part-1-Theory/MS_resolution/" class="">Mass Spec Resolution</a>
+  
+
+        </li>
+      
+    
+      
+        <li>
+          
+  
+  
+
+  
+    <a href="/docs/05-Mass-Spec/Part-1-Theory/Orbitrap/" class="">Orbitrap</a>
+  
+
+        </li>
+      
+    
+      
+        <li>
+          
+  
+  
+
+  
+    <a href="/docs/05-Mass-Spec/Part-1-Theory/QToF/" class="">QToF</a>
+  
+
+        </li>
+      
+    
+      
+        <li>
+          
+  
+  
+
+  
+    <a href="/docs/05-Mass-Spec/Part-1-Theory/Single_quad/" class="">Single Quadrupole Analyzer</a>
+  
+
+        </li>
+      
+    
+      
+        <li>
+          
+  
+  
+
+  
+    <a href="/docs/05-Mass-Spec/Part-1-Theory/QQQ/" class="">Tandem Mass Spectrometry Analyzers</a>
+  
+
+        </li>
+      
+    
+      
+        <li>
+          
+  
+  
+
+  
+    <a href="/docs/05-Mass-Spec/Part-1-Theory/ToF/" class="">Time-of-Flight Analyzer</a>
+  
+
+        </li>
+      
+    
+  </ul>
+
+        </li>
+      
+    
+      
+        <li>
+          
+  
+  
+
+  
+    <input type="checkbox" id="section-04d34e724890f8d74f0c4f094538682f" class="toggle"  />
+    <label for="section-04d34e724890f8d74f0c4f094538682f" class="flex justify-between">
+      <a role="button" class="">Part 2 Application</a>
+    </label>
+  
+
+          
+  <ul>
+    
+      
+    
+      
+        <li>
+          
+  
+  
+
+  
+    <a href="/docs/05-Mass-Spec/Part-2-Application/Databases/" class="">Mass Spectra Databases</a>
+  
+
+        </li>
+      
+    
+  </ul>
+
+        </li>
+      
+    
+  </ul>
+
+        </li>
+      
+    
+      
+        <li>
+          
+  
+  
+
+  
+    <input type="checkbox" id="section-0bf8a3c4b372f2cfb3baa87d4cd79a4f" class="toggle"  />
+    <label for="section-0bf8a3c4b372f2cfb3baa87d4cd79a4f" class="flex justify-between">
+      <a href="/docs/06-Method-Development-and-Validation/" class="">Method Development and Validation</a>
+    </label>
+  
+
+          
+  <ul>
+    
+      
+        <li>
+          
+  
+  
+
+  
+    <input type="checkbox" id="section-9fa96f557a482b5a5e4e62bdd264c64d" class="toggle"  />
+    <label for="section-9fa96f557a482b5a5e4e62bdd264c64d" class="flex justify-between">
+      <a href="/docs/06-Method-Development-and-Validation/Part-2-DoE-Application/" class="">Part 2 Do E Application</a>
+    </label>
+  
+
+          
+  <ul>
+    
+      
+    
+  </ul>
+
+        </li>
+      
+    
+      
+        <li>
+          
+  
+  
+
+  
+    <input type="checkbox" id="section-949fd0a8d9d82d57d881e6bd5021565e" class="toggle"  />
+    <label for="section-949fd0a8d9d82d57d881e6bd5021565e" class="flex justify-between">
+      <a href="/docs/06-Method-Development-and-Validation/Case-Studies/" class="">Case Studies</a>
+    </label>
+  
+
+          
+  <ul>
+    
+      
+        <li>
+          
+  
+  
+
+  
+    <a href="/docs/06-Method-Development-and-Validation/Case-Studies/Case_01_phenomenex_MMA_Serum/" class="">phenomenex - Method Development for Underivatized MMA from Serum</a>
+  
+
+        </li>
+      
+    
+      
+        <li>
+          
+  
+  
+
+  
+    <a href="/docs/06-Method-Development-and-Validation/Case-Studies/Case_02_phenomenex_overcome_sample_prep_challenge_clinical_app/" class="">phenomenex - Overcoming the Challenges of Sample Preparation and LC/MS/MS Method Development for Clinical Applications</a>
+  
+
+        </li>
+      
+    
+  </ul>
+
+        </li>
+      
+    
+      
+        <li>
+          
+  
+  
+
+  
+    <input type="checkbox" id="section-1dc00dc04f449fd03c253a0f348a4d4b" class="toggle"  />
+    <label for="section-1dc00dc04f449fd03c253a0f348a4d4b" class="flex justify-between">
+      <a href="/docs/06-Method-Development-and-Validation/Part-1-Workflow/" class="">Part I Method Validation</a>
+    </label>
+  
+
+          
+  <ul>
+    
+      
+        <li>
+          
+  
+  
+
+  
+    <a href="/docs/06-Method-Development-and-Validation/Part-1-Workflow/Clinical_LC_MSMS_method_validation_01/" class="">Clinical LC-MS/MS Method Validation</a>
+  
+
+        </li>
+      
+    
+      
+    
+  </ul>
+
+        </li>
+      
+    
+      
+        <li>
+          
+  
+  
+
+  
+    <input type="checkbox" id="section-426669b60310fd8b8e7de33279ac10f0" class="toggle"  />
+    <label for="section-426669b60310fd8b8e7de33279ac10f0" class="flex justify-between">
+      <a href="/docs/06-Method-Development-and-Validation/Template/" class="">Template</a>
+    </label>
+  
+
+          
+  <ul>
+    
+      
+    
+  </ul>
+
+        </li>
+      
+    
+  </ul>
+
+        </li>
+      
+    
+      
+        <li>
+          
+  
+  
+
+  
+    <input type="checkbox" id="section-645aa81ab381fb972363f48e3a45c95f" class="toggle"  />
+    <label for="section-645aa81ab381fb972363f48e3a45c95f" class="flex justify-between">
+      <a href="/docs/07-Troubleshooting/" class="">Troubleshooting</a>
+    </label>
+  
+
+          
+  <ul>
+    
+      
+        <li>
+          
+  
+  
+
+  
+    <input type="checkbox" id="section-eb182c4c60a03b9e1e07bc60fce551dc" class="toggle"  />
+    <label for="section-eb182c4c60a03b9e1e07bc60fce551dc" class="flex justify-between">
+      <a href="/docs/07-Troubleshooting/Part-02-Sciex-LC-MSMS/" class="">Part II Sciex LC-MS/MS Troubleshooting Guide</a>
+    </label>
+  
+
+          
+  <ul>
+    
+      
+        <li>
+          
+  
+  
+
+  
+    <a href="/docs/07-Troubleshooting/Part-02-Sciex-LC-MSMS/Sciex_01/" class="">Sciex System Issues</a>
+  
+
+        </li>
+      
+    
+  </ul>
+
+        </li>
+      
+    
+      
+        <li>
+          
+  
+  
+
+  
+    <input type="checkbox" id="section-ad3af1b824705d3d36e6f4235a2883d6" class="toggle"  />
+    <label for="section-ad3af1b824705d3d36e6f4235a2883d6" class="flex justify-between">
+      <a href="/docs/07-Troubleshooting/Part-01-Analysis-Troubleshooting/" class="">Analysis troubleshooting</a>
+    </label>
+  
+
+          
+  <ul>
+    
+      
+    
+      
+        <li>
+          
+  
+  
+
+  
+    <a href="/docs/07-Troubleshooting/Part-01-Analysis-Troubleshooting/Internal_standard_variation/" class="">Internal standard Variation</a>
+  
+
+        </li>
+      
+    
+      
+        <li>
+          
+  
+  
+
+  
+    <a href="/docs/07-Troubleshooting/Part-01-Analysis-Troubleshooting/Analysis_troubleshooting/" class="">Analysis troubleshooting</a>
+  
+
+        </li>
+      
+    
+  </ul>
+
+        </li>
+      
+    
+  </ul>
+
+        </li>
+      
+    
+      
+        <li>
+          
+  
+  
+
+  
+    <input type="checkbox" id="section-179fdc9f38b231f1f1e458b0c445184f" class="toggle"  />
+    <label for="section-179fdc9f38b231f1f1e458b0c445184f" class="flex justify-between">
+      <a role="button" class="">Sample Extraction and Cleanup</a>
+    </label>
+  
+
+          
+  <ul>
+    
+      
+        <li>
+          
+  
+  
+
+  
+    <a href="/docs/08-Sample-Extraction-and-Cleanup/Sample_cleanup/" class="">Clean-up for Lipid</a>
+  
+
+        </li>
+      
+    
+      
+        <li>
+          
+  
+  
+
+  
+    <a href="/docs/08-Sample-Extraction-and-Cleanup/Sample_extraction/" class="">Sample Extraction</a>
+  
+
+        </li>
+      
+    
+      
+        <li>
+          
+  
+  
+
+  
+    <a href="/docs/08-Sample-Extraction-and-Cleanup/Sample_prep/" class="">Sample Preparation</a>
+  
+
+        </li>
+      
+    
+      
+        <li>
+          
+  
+  
+
+  
+    <input type="checkbox" id="section-b92e88153291580674d8b3cf0e78c6ec" class="toggle"  />
+    <label for="section-b92e88153291580674d8b3cf0e78c6ec" class="flex justify-between">
+      <a role="button" class="">Solid-Phase Extraction</a>
+    </label>
+  
+
+          
+  <ul>
+    
+      
+        <li>
+          
+  
+  
+
+  
+    <a href="/docs/08-Sample-Extraction-and-Cleanup/Solid-Phase-Extraction/SPE/" class="">Solid Phase Extraction</a>
+  
+
+        </li>
+      
+    
+      
+        <li>
+          
+  
+  
+
+  
+    <a href="/docs/08-Sample-Extraction-and-Cleanup/Solid-Phase-Extraction/SPE_general_procedures/" class="">SPE General Procedures</a>
+  
+
+        </li>
+      
+    
+      
+        <li>
+          
+  
+  
+
+  
+    <a href="/docs/08-Sample-Extraction-and-Cleanup/Solid-Phase-Extraction/SPE_selection_tree/" class="">SPE Selection Tree</a>
+  
+
+        </li>
+      
+    
+      
+        <li>
+          
+  
+  
+
+  
+    <a href="/docs/08-Sample-Extraction-and-Cleanup/Solid-Phase-Extraction/Mixed-mode_SPE/" class="">When should I choose a mixed-mode SPE?</a>
+  
+
+        </li>
+      
+    
+  </ul>
+
+        </li>
+      
+    
+      
+        <li>
+          
+  
+  
+
+  
+    <input type="checkbox" id="section-f6cbc122fc82bea4d9fed0fc2fb365a3" class="toggle"  />
+    <label for="section-f6cbc122fc82bea4d9fed0fc2fb365a3" class="flex justify-between">
+      <a role="button" class="">Extraction and Cleanup Evaluation</a>
+    </label>
+  
+
+          
+  <ul>
+    
+      
+        <li>
+          
+  
+  
+
+  
+    <a href="/docs/08-Sample-Extraction-and-Cleanup/Extraction-N-Cleanup-Evaluation/Evaluation_extraction_N_cleanup_method/" class="">Evaluation of the Extraction and Cleanup Methods</a>
+  
+
+        </li>
+      
+    
+  </ul>
+
+        </li>
+      
+    
+      
+        <li>
+          
+  
+  
+
+  
+    <input type="checkbox" id="section-224fa7b40789074d55a47a1d231d2169" class="toggle"  />
+    <label for="section-224fa7b40789074d55a47a1d231d2169" class="flex justify-between">
+      <a role="button" class="">Liquid-Liquid Extraction</a>
+    </label>
+  
+
+          
+  <ul>
+    
+      
+    
+      
+    
+  </ul>
+
+        </li>
+      
+    
+      
+        <li>
+          
+  
+  
+
+  
+    <input type="checkbox" id="section-9c19d4e24685b544170f0089eb0536d2" class="toggle"  />
+    <label for="section-9c19d4e24685b544170f0089eb0536d2" class="flex justify-between">
+      <a role="button" class="">Matrix Effects</a>
+    </label>
+  
+
+          
+  <ul>
+    
+      
+        <li>
+          
+  
+  
+
+  
+    <a href="/docs/08-Sample-Extraction-and-Cleanup/Matrix-Effects/Matrix_effect_determination/" class="">Matrix Effect Determination</a>
+  
+
+        </li>
+      
+    
+      
+        <li>
+          
+  
+  
+
+  
+    <a href="/docs/08-Sample-Extraction-and-Cleanup/Matrix-Effects/Comprehensive_matrix_effect/" class="">Application of Matrix Effect Factor</a>
+  
+
+        </li>
+      
+    
+      
+        <li>
+          
+  
+  
+
+  
+    <a href="/docs/08-Sample-Extraction-and-Cleanup/Matrix-Effects/Matrix_effects_03/" class="">ICH M10 Guideline on Matrix Effects Evaluation</a>
+  
+
+        </li>
+      
+    
+      
+        <li>
+          
+  
+  
+
+  
+    <a href="/docs/08-Sample-Extraction-and-Cleanup/Matrix-Effects/Matrix_effects/" class="">Matrix Effects</a>
+  
+
+        </li>
+      
+    
+      
+        <li>
+          
+  
+  
+
+  
+    <a href="/docs/08-Sample-Extraction-and-Cleanup/Matrix-Effects/Matrix_effects_02/" class="">Matrix Effects</a>
+  
+
+        </li>
+      
+    
+      
+        <li>
+          
+  
+  
+
+  
+    <a href="/docs/08-Sample-Extraction-and-Cleanup/Matrix-Effects/Matrix_effects_evaluation/" class="">Matrix Effects Evaluation</a>
+  
+
+        </li>
+      
+    
+      
+        <li>
+          
+  
+  
+
+  
+    <a href="/docs/08-Sample-Extraction-and-Cleanup/Matrix-Effects/Minimization_of_matrix_effects/" class="">Minimization of Matrix Effect</a>
+  
+
+        </li>
+      
+    
+  </ul>
+
+        </li>
+      
+    
+      
+        <li>
+          
+  
+  
+
+  
+    <input type="checkbox" id="section-490278b7ad882b0b60fc2668cf351f3b" class="toggle"  />
+    <label for="section-490278b7ad882b0b60fc2668cf351f3b" class="flex justify-between">
+      <a role="button" class="">Supported-Liquid Extraction</a>
+    </label>
+  
+
+          
+  <ul>
+    
+      
+    
+      
+    
+  </ul>
+
+        </li>
+      
+    
+  </ul>
+
+        </li>
+      
+    
+      
+        <li>
+          
+  
+  
+
+  
+    <input type="checkbox" id="section-3ad4b4685a6bd2045c963b706a45f5a4" class="toggle"  />
+    <label for="section-3ad4b4685a6bd2045c963b706a45f5a4" class="flex justify-between">
+      <a href="/docs/09-Design-of-Experiments/" class="">Design of Experiments</a>
+    </label>
+  
+
+          
+  <ul>
+    
+      
+        <li>
+          
+  
+  
+
+  
+    <a href="/docs/09-Design-of-Experiments/Course/02_principles_of_DoE/" class="">02 Introduction</a>
+  
+
+        </li>
+      
+    
+      
+        <li>
+          
+  
+  
+
+  
+    <a href="/docs/09-Design-of-Experiments/Course/03_statistical_concepts/" class="">03 Statistical Concepts</a>
+  
+
+        </li>
+      
+    
+      
+        <li>
+          
+  
+  
+
+  
+    <a href="/docs/09-Design-of-Experiments/Course/04_sampling_sample_properties/" class="">04 Sampling and Sample Properties</a>
+  
+
+        </li>
+      
+    
+      
+        <li>
+          
+  
+  
+
+  
+    <a href="/docs/09-Design-of-Experiments/Course/05_hypothesis_testing/" class="">05 Hypothesis Testing (t-Test &amp; F-Test)</a>
+  
+
+        </li>
+      
+    
+      
+        <li>
+          
+  
+  
+
+  
+    <a href="/docs/09-Design-of-Experiments/Course/06_compare_means/" class="">08 Comparing Treatment Means</a>
+  
+
+        </li>
+      
+    
+      
+        <li>
+          
+  
+  
+
+  
+    <a href="/docs/09-Design-of-Experiments/Course/07_intro_single_factor_experiments/" class="">07 Introduction to Single-Factor Experiments</a>
+  
+
+        </li>
+      
+    
+      
+        <li>
+          
+  
+  
+
+  
+    <a href="/docs/09-Design-of-Experiments/Course/08_One_way_ANOVA/" class="">One-Way ANOVA</a>
+  
+
+        </li>
+      
+    
+      
+        <li>
+          
+  
+  
+
+  
+    <a href="/docs/09-Design-of-Experiments/Course/12_Interpretation_ANOVA/" class="">12 Interpretation of the ANOVA Results</a>
+  
+
+        </li>
+      
+    
+      
+        <li>
+          
+  
+  
+
+  
+    <a href="/docs/09-Design-of-Experiments/Course/17_Intro_Factorial_designs/" class="">17 Introduction to Factorial Design</a>
+  
+
+        </li>
+      
+    
+      
+        <li>
+          
+  
+  
+
+  
+    <a href="/docs/09-Design-of-Experiments/Course/18_Main_effects_interactions/" class="">18 Main Effects and Interactions Between Factors</a>
+  
+
+        </li>
+      
+    
+      
+        <li>
+          
+  
+  
+
+  
+    <a href="/docs/09-Design-of-Experiments/Course/19_why_use_factorial_design/" class="">19 Why Using Factorial Design?</a>
+  
+
+        </li>
+      
+    
+      
+        <li>
+          
+  
+  
+
+  
+    <a href="/docs/09-Design-of-Experiments/Course/20_Two_factor_factorial_designs/" class="">20 Two-Factor Factorial Designs</a>
+  
+
+        </li>
+      
+    
+      
+        <li>
+          
+  
+  
+
+  
+    <a href="/docs/09-Design-of-Experiments/Course/22_Interpretation_of_the_results/" class="">22 Interpretation of the Results</a>
+  
+
+        </li>
+      
+    
+      
+        <li>
+          
+  
+  
+
+  
+    <a href="/docs/09-Design-of-Experiments/Course/23_Means_comparison_Tukey_test/" class="">23 Means Comparison by Tukey&#39;s Test and Final Conclusion</a>
+  
+
+        </li>
+      
+    
+      
+        <li>
+          
+  
+  
+
+  
+    <a href="/docs/09-Design-of-Experiments/Course/24_Intro_2k_designs/" class="">24 Introduction to 2^k Designs</a>
+  
+
+        </li>
+      
+    
+      
+        <li>
+          
+  
+  
+
+  
+    <a href="/docs/09-Design-of-Experiments/Course/25_22_design/" class="">25 The 2^2 Design</a>
+  
+
+        </li>
+      
+    
+      
+        <li>
+          
+  
+  
+
+  
+    <a href="/docs/09-Design-of-Experiments/Course/43_Block_replicated_design/" class="">43 Block Replicated Design</a>
+  
+
+        </li>
+      
+    
+      
+        <li>
+          
+  
+  
+
+  
+    <a href="/docs/09-Design-of-Experiments/Course/44_ANOVA_2k_blocked_design/" class="">44 Analyzing a 2^k Design with Blocks as Replicates</a>
+  
+
+        </li>
+      
+    
+      
+        <li>
+          
+  
+  
+
+  
+    <a href="/docs/09-Design-of-Experiments/Course/45_confounding_design_blocks/" class="">45 Confounding a 2^k Design in Blocks</a>
+  
+
+        </li>
+      
+    
+      
+    
+  </ul>
+
+        </li>
+      
+    
+      
+        <li>
+          
+  
+  
+
+  
+    <input type="checkbox" id="section-79096ef6947cd799263d3843d83348d4" class="toggle"  />
+    <label for="section-79096ef6947cd799263d3843d83348d4" class="flex justify-between">
+      <a href="/docs/10-Maintenance/" class="">Maintenance</a>
+    </label>
+  
+
+          
+  <ul>
+    
+  </ul>
+
+        </li>
+      
+    
+      
+        <li>
+          
+  
+  
+
+  
+    <input type="checkbox" id="section-13b07b24acd01c32f053e999909a3fc4" class="toggle" checked />
+    <label for="section-13b07b24acd01c32f053e999909a3fc4" class="flex justify-between">
+      <a href="/docs/20-Separation-Science/" class="">Separation Science</a>
+    </label>
+  
+
+          
+  <ul>
+    
+      
+        <li>
+          
+  
+  
+
+  
+    <input type="checkbox" id="section-16562a6ed0091764a5d37e8de14e8156" class="toggle"  />
+    <label for="section-16562a6ed0091764a5d37e8de14e8156" class="flex justify-between">
+      <a href="/docs/20-Separation-Science/Part-1-Theory/" class="">Part 01 Theory</a>
+    </label>
+  
+
+          
+  <ul>
+    
+      
+        <li>
+          
+  
+  
+
+  
+    <a href="/docs/20-Separation-Science/Part-1-Theory/01_Chromatography/" class="">Chapter 01 Chromatography</a>
+  
+
+        </li>
+      
+    
+      
+        <li>
+          
+  
+  
+
+  
+    <a href="/docs/20-Separation-Science/Part-1-Theory/02_Van_Deemter_Equation_small_-particle_size_columns/" class="">Chapter 02 Van Deemter Equation - Small Particle Size Column</a>
+  
+
+        </li>
+      
+    
+      
+        <li>
+          
+  
+  
+
+  
+    <a href="/docs/20-Separation-Science/Part-1-Theory/03_Chromatographic_performance_evaluation/" class="">Chapter 03 Chromatographic Performance Evaluation</a>
+  
+
+        </li>
+      
+    
+      
+        <li>
+          
+  
+  
+
+  
+    <a href="/docs/20-Separation-Science/Part-1-Theory/20_Quantification/" class="">Chapter 20 Quantification</a>
+  
+
+        </li>
+      
+    
+      
+        <li>
+          
+  
+  
+
+  
+    <a href="/docs/20-Separation-Science/Part-1-Theory/21_Co-eluent_effect_in_partition_chromatography/" class="">Chapter 21 Co-eluent effect in partition chromatography</a>
+  
+
+        </li>
+      
+    
+      
+    
+      
+        <li>
+          
+  
+  
+
+  
+    <a href="/docs/20-Separation-Science/Part-1-Theory/Hydrophilic-Lipophilic_Balance/" class="">Hydrophilic-Lipophilic Balance</a>
+  
+
+        </li>
+      
+    
+      
+        <li>
+          
+  
+  
+
+  
+    <a href="/docs/20-Separation-Science/Part-1-Theory/T_02/" class="">Template-02</a>
+  
+
+        </li>
+      
+    
+  </ul>
+
+        </li>
+      
+    
+      
+        <li>
+          
+  
+  
+
+  
+    <input type="checkbox" id="section-21a8968c33c62c0447a6a6b81d48a7d6" class="toggle" checked />
+    <label for="section-21a8968c33c62c0447a6a6b81d48a7d6" class="flex justify-between">
+      <a href="/docs/20-Separation-Science/Part-2-Application/" class="">Part 02 Applications</a>
+    </label>
+  
+
+          
+  <ul>
+    
+      
+    
+      
+        <li>
+          
+  
+  
+
+  
+    <a href="/docs/20-Separation-Science/Part-2-Application/Factors_Affecting_Resolution/" class="">Factors Affecting Resolution</a>
+  
+
+        </li>
+      
+    
+      
+        <li>
+          
+  
+  
+
+  
+    <a href="/docs/20-Separation-Science/Part-2-Application/Rick_Lake_LCMSMS_Separation_Science/" class="active">LC-MS/MS Separation Science by Rick Lake</a>
+  
+
+        </li>
+      
+    
+  </ul>
+
+        </li>
+      
+    
+  </ul>
+
+        </li>
+      
+    
+      
+        <li>
+          
+  
+  
+
+  
+    <input type="checkbox" id="section-d1d98fbe4a7121994d3d45e8b27877a3" class="toggle"  />
+    <label for="section-d1d98fbe4a7121994d3d45e8b27877a3" class="flex justify-between">
+      <a role="button" class="">Pesticides Analysis</a>
+    </label>
+  
+
+          
+  <ul>
+    
+      
+        <li>
+          
+  
+  
+
+  
+    <input type="checkbox" id="section-4cbef6da79b7d1c4f9deb3ba9fa77b81" class="toggle"  />
+    <label for="section-4cbef6da79b7d1c4f9deb3ba9fa77b81" class="flex justify-between">
+      <a role="button" class="">101 knowledge</a>
+    </label>
+  
+
+          
+  <ul>
+    
+      
+    
+      
+        <li>
+          
+  
+  
+
+  
+    <a href="/docs/30-Pesticides-Analysis/Part-1-101-Knowledge/Common_detection_aflatoxins/" class="">Common Detection Methods of Aflatoxins</a>
+  
+
+        </li>
+      
+    
+      
+        <li>
+          
+  
+  
+
+  
+    <a href="/docs/30-Pesticides-Analysis/Part-1-101-Knowledge/English-Chinese_terms/" class="">English-Chinese Terms</a>
+  
+
+        </li>
+      
+    
+      
+        <li>
+          
+  
+  
+
+  
+    <a href="/docs/30-Pesticides-Analysis/Part-1-101-Knowledge/Instrumentation_details/" class="">Instrumentation Details</a>
+  
+
+        </li>
+      
+    
+      
+        <li>
+          
+  
+  
+
+  
+    <a href="/docs/30-Pesticides-Analysis/Part-1-101-Knowledge/Pesticide_analysis_method/" class="">Pesticides Analysis Methods</a>
+  
+
+        </li>
+      
+    
+      
+        <li>
+          
+  
+  
+
+  
+    <a href="/docs/30-Pesticides-Analysis/Part-1-101-Knowledge/Pesticides_N_Mycotoxins/" class="">Pesticides and Mycotoxins</a>
+  
+
+        </li>
+      
+    
+      
+        <li>
+          
+  
+  
+
+  
+    <a href="/docs/30-Pesticides-Analysis/Part-1-101-Knowledge/Pesticides_physicochemical_properties/" class="">Pesticides Physicochemical Properties</a>
+  
+
+        </li>
+      
+    
+      
+        <li>
+          
+  
+  
+
+  
+    <a href="/docs/30-Pesticides-Analysis/Part-1-101-Knowledge/Which_instrument/" class="">Which Instrument?</a>
+  
+
+        </li>
+      
+    
+  </ul>
+
+        </li>
+      
+    
+      
+        <li>
+          
+  
+  
+
+  
+    <input type="checkbox" id="section-c2b3a2d8ed6a729406a36bdef81fc30c" class="toggle"  />
+    <label for="section-c2b3a2d8ed6a729406a36bdef81fc30c" class="flex justify-between">
+      <a role="button" class="">Practices</a>
+    </label>
+  
+
+          
+  <ul>
+    
+      
+    
+      
+        <li>
+          
+  
+  
+
+  
+    <a href="/docs/30-Pesticides-Analysis/Part-2-Practices/Challenges/" class="">Challenges</a>
+  
+
+        </li>
+      
+    
+      
+        <li>
+          
+  
+  
+
+  
+    <a href="/docs/30-Pesticides-Analysis/Part-2-Practices/LRMS_HRMS/" class="">LRMS vs HRMS</a>
+  
+
+        </li>
+      
+    
+      
+        <li>
+          
+  
+  
+
+  
+    <a href="/docs/30-Pesticides-Analysis/Part-2-Practices/database/" class="">Pesticide Database</a>
+  
+
+        </li>
+      
+    
+      
+    
+  </ul>
+
+        </li>
+      
+    
+  </ul>
+
+        </li>
+      
+    
+      
+        <li>
+          
+  
+  
+
+  
+    <input type="checkbox" id="section-86b0c63c97468f1cd1c4eaf8e81b1e36" class="toggle"  />
+    <label for="section-86b0c63c97468f1cd1c4eaf8e81b1e36" class="flex justify-between">
+      <a href="/docs/50-MS-Based-Metabolomics/" class="">Mass Spectrometry Based Metabolomics</a>
+    </label>
+  
+
+          
+  <ul>
+    
+      
+        <li>
+          
+  
+  
+
+  
+    <input type="checkbox" id="section-1a6b3b169dadc40fbf334aaacbdd17b2" class="toggle"  />
+    <label for="section-1a6b3b169dadc40fbf334aaacbdd17b2" class="flex justify-between">
+      <a href="/docs/50-MS-Based-Metabolomics/Notes/" class="">Notes</a>
+    </label>
+  
+
+          
+  <ul>
+    
+      
+        <li>
+          
+  
+  
+
+  
+    <a href="/docs/50-MS-Based-Metabolomics/Notes/xcms_arguments/" class="">Arguments available in xcmsSet()</a>
+  
+
+        </li>
+      
+    
+      
+        <li>
+          
+  
+  
+
+  
+    <a href="/docs/50-MS-Based-Metabolomics/Notes/IPO_procedure/" class="">IPO Optimization Procedure</a>
+  
+
+        </li>
+      
+    
+      
+        <li>
+          
+  
+  
+
+  
+    <a href="/docs/50-MS-Based-Metabolomics/Notes/Notes/" class="">Notes</a>
+  
+
+        </li>
+      
+    
+      
+        <li>
+          
+  
+  
+
+  
+    <a href="/docs/50-MS-Based-Metabolomics/Notes/xcms_methods/" class="">xcms Methods and Parameters</a>
+  
+
+        </li>
+      
+    
+  </ul>
+
+        </li>
+      
+    
+  </ul>
+
+        </li>
+      
+    
+      
+        <li>
+          
+  
+  
+
+  
+    <input type="checkbox" id="section-fc69b7ef910e155bcc24ebb2d8282448" class="toggle"  />
+    <label for="section-fc69b7ef910e155bcc24ebb2d8282448" class="flex justify-between">
+      <a href="/docs/94-Database/" class="">DataBase</a>
+    </label>
+  
+
+          
+  <ul>
+    
+      
+        <li>
+          
+  
+  
+
+  
+    <input type="checkbox" id="section-aac1a8b3cdbd8d750ea299cccd29a020" class="toggle"  />
+    <label for="section-aac1a8b3cdbd8d750ea299cccd29a020" class="flex justify-between">
+      <a href="/docs/94-Database/Part-01-Columns/" class="">Part 01 Columns</a>
+    </label>
+  
+
+          
+  <ul>
+    
+      
+        <li>
+          
+  
+  
+
+  
+    <a href="/docs/94-Database/Part-01-Columns/01_Column_list/" class="">Chapter 01 List of Columns</a>
+  
+
+        </li>
+      
+    
+      
+        <li>
+          
+  
+  
+
+  
+    <a href="/docs/94-Database/Part-01-Columns/02_USP_spec_HPLC_columns/" class="">Chapter 02 USP Specifications for LC Columns</a>
+  
+
+        </li>
+      
+    
+      
+        <li>
+          
+  
+  
+
+  
+    <a href="/docs/94-Database/Part-01-Columns/Column_Capacity/" class="">Column Capacity</a>
+  
+
+        </li>
+      
+    
+      
+        <li>
+          
+  
+  
+
+  
+    <a href="/docs/94-Database/Part-01-Columns/T_02/" class="">Template</a>
+  
+
+        </li>
+      
+    
+  </ul>
+
+        </li>
+      
+    
+      
+        <li>
+          
+  
+  
+
+  
+    <input type="checkbox" id="section-18c97203d3096f844521c347c43d1dfa" class="toggle"  />
+    <label for="section-18c97203d3096f844521c347c43d1dfa" class="flex justify-between">
+      <a href="/docs/94-Database/Part-02-Solvent/" class="">Part 02 Solvent Property</a>
+    </label>
+  
+
+          
+  <ul>
+    
+      
+        <li>
+          
+  
+  
+
+  
+    <a href="/docs/94-Database/Part-02-Solvent/01_Solvent_properties/" class="">Chapter 01 Solvent Properties</a>
+  
+
+        </li>
+      
+    
+      
+        <li>
+          
+  
+  
+
+  
+    <a href="/docs/94-Database/Part-02-Solvent/T_02/" class="">Template</a>
+  
+
+        </li>
+      
+    
+  </ul>
+
+        </li>
+      
+    
+      
+        <li>
+          
+  
+  
+
+  
+    <input type="checkbox" id="section-e4071d735c85bf5910322771103f8eee" class="toggle"  />
+    <label for="section-e4071d735c85bf5910322771103f8eee" class="flex justify-between">
+      <a href="/docs/94-Database/Part-03-Mobile-Phase/" class="">Part 03 Mobile Phase</a>
+    </label>
+  
+
+          
+  <ul>
+    
+      
+        <li>
+          
+  
+  
+
+  
+    <a href="/docs/94-Database/Part-03-Mobile-Phase/Buffer_properties/" class="">Chapter 02 Buffer Properties</a>
+  
+
+        </li>
+      
+    
+      
+        <li>
+          
+  
+  
+
+  
+    <a href="/docs/94-Database/Part-03-Mobile-Phase/Mobile_phase-pH/" class="">Mobile Phase pH</a>
+  
+
+        </li>
+      
+    
+      
+        <li>
+          
+  
+  
+
+  
+    <a href="/docs/94-Database/Part-03-Mobile-Phase/T_02/" class="">Template</a>
+  
+
+        </li>
+      
+    
+  </ul>
+
+        </li>
+      
+    
+      
+        <li>
+          
+  
+  
+
+  
+    <input type="checkbox" id="section-1cb923547f7d49d96d032ea91bc26cc0" class="toggle"  />
+    <label for="section-1cb923547f7d49d96d032ea91bc26cc0" class="flex justify-between">
+      <a href="/docs/94-Database/Part-04-MRM-Transition/" class="">Part 04 MRM Transitions</a>
+    </label>
+  
+
+          
+  <ul>
+    
+      
+        <li>
+          
+  
+  
+
+  
+    <a href="/docs/94-Database/Part-04-MRM-Transition/MRM_transitions_01/" class="">MRM Transitions -01</a>
+  
+
+        </li>
+      
+    
+      
+        <li>
+          
+  
+  
+
+  
+    <a href="/docs/94-Database/Part-04-MRM-Transition/T_02/" class="">Template</a>
+  
+
+        </li>
+      
+    
+  </ul>
+
+        </li>
+      
+    
+  </ul>
+
+        </li>
+      
+    
+      
+        <li>
+          
+  
+  
+
+  
+    <input type="checkbox" id="section-1af9011328499a6b8de0680376c09b29" class="toggle"  />
+    <label for="section-1af9011328499a6b8de0680376c09b29" class="flex justify-between">
+      <a href="/docs/95-Literature-Reading/" class="">Literature Reading</a>
+    </label>
+  
+
+          
+  <ul>
+    
+      
+    
+      
+        <li>
+          
+  
+  
+
+  
+    <a href="/docs/95-Literature-Reading/BEH_application_steroids/" class="">BEH Column Application in Steroid Conjugates</a>
+  
+
+        </li>
+      
+    
+      
+        <li>
+          
+  
+  
+
+  
+    <a href="/docs/95-Literature-Reading/Column-comparison/" class="">Core-shell Column Comparison</a>
+  
+
+        </li>
+      
+    
+      
+        <li>
+          
+  
+  
+
+  
+    <a href="/docs/95-Literature-Reading/Novel_UiO2SiO2_stationary_phase/" class="">Novel UiO2@SiO2 stationary phase</a>
+  
+
+        </li>
+      
+    
+  </ul>
+
+        </li>
+      
+    
+      
+        <li>
+          
+  
+  
+
+  
+    <input type="checkbox" id="section-2f332247c78934970311f4f8ac492ef5" class="toggle"  />
+    <label for="section-2f332247c78934970311f4f8ac492ef5" class="flex justify-between">
+      <a href="/docs/96-Physiochemistry-Theory/" class="">Physiochemistry Theory</a>
+    </label>
+  
+
+          
+  <ul>
+    
+      
+        <li>
+          
+  
+  
+
+  
+    <input type="checkbox" id="section-6a0ec94baafea0bb6a07d595f7111e21" class="toggle"  />
+    <label for="section-6a0ec94baafea0bb6a07d595f7111e21" class="flex justify-between">
+      <a role="button" class="">Part I Water</a>
+    </label>
+  
+
+          
+  <ul>
+    
+      
+        <li>
+          
+  
+  
+
+  
+    <a href="/docs/96-Physiochemistry-Theory/Part-1-Water/Hydrophobic_Measurement/" class="">Hydrophobic Measurement</a>
+  
+
+        </li>
+      
+    
+      
+    
+  </ul>
+
+        </li>
+      
+    
+  </ul>
+
+        </li>
+      
+    
+      
+        <li>
+          
+  
+  
+
+  
+    <input type="checkbox" id="section-3fe901786b8715f297bb3f0ee50eb590" class="toggle"  />
+    <label for="section-3fe901786b8715f297bb3f0ee50eb590" class="flex justify-between">
+      <a role="button" class="">Raman Spectroscopy</a>
+    </label>
+  
+
+          
+  <ul>
+    
+      
+        <li>
+          
+  
+  
+
+  
+    <input type="checkbox" id="section-9d75cd89e1789c4e0c442733b7e8bb87" class="toggle"  />
+    <label for="section-9d75cd89e1789c4e0c442733b7e8bb87" class="flex justify-between">
+      <a role="button" class="">Part I Raman Spectroscopy Principle</a>
+    </label>
+  
+
+          
+  <ul>
+    
+      
+        <li>
+          
+  
+  
+
+  
+    <a href="/docs/97-Raman/Part-1-Theory/Thermo_Principle/" class="">Raman Spectroscopy Principle by Thermo</a>
+  
+
+        </li>
+      
+    
+  </ul>
+
+        </li>
+      
+    
+  </ul>
+
+        </li>
+      
+    
+      
+        <li>
+          
+  
+  
+
+  
+    <input type="checkbox" id="section-85483040eb6fd24a84d2ca8930e012fd" class="toggle"  />
+    <label for="section-85483040eb6fd24a84d2ca8930e012fd" class="flex justify-between">
+      <a href="/docs/98-example/" class="">Example Site</a>
+    </label>
+  
+
+          
+  <ul>
+    
+      
+        <li>
+          
+  
+  
+
+  
+    <a href="/docs/98-example/table-of-contents/" class="">Table of Contents</a>
+  
+
+          
+  <ul>
+    
+      
+        <li>
+          
+  
+  
+
+  
+    <a href="/docs/98-example/table-of-contents/with-toc/" class="">With ToC</a>
+  
+
+        </li>
+      
+    
+      
+        <li>
+          
+  
+  
+
+  
+    <a href="/docs/98-example/table-of-contents/without-toc/" class="">Without ToC</a>
+  
+
+        </li>
+      
+    
+  </ul>
+
+        </li>
+      
+    
+      
+        <li>
+          
+  
+  
+
+  
+    <input type="checkbox" id="section-8c7ad14d5206bb95f83305f8ec781260" class="toggle"  />
+    <label for="section-8c7ad14d5206bb95f83305f8ec781260" class="flex justify-between">
+      <a role="button" class="">Collapsed</a>
+    </label>
+  
+
+          
+  <ul>
+    
+      
+        <li>
+          
+  
+  
+
+  
+    <a href="/docs/98-example/collapsed/3rd-level/" class="">3rd Level</a>
+  
+
+          
+  <ul>
+    
+      
+        <li>
+          
+  
+  
+
+  
+    <a href="/docs/98-example/collapsed/3rd-level/4th-level/" class="">4th Level</a>
+  
+
+        </li>
+      
+    
+  </ul>
+
+        </li>
+      
+    
+  </ul>
+
+        </li>
+      
+    
+  </ul>
+
+        </li>
+      
+    
+      
+        <li>
+          
+  
+  
+
+  
+    <input type="checkbox" id="section-e41d2da3529dabe044f62c15ef61af94" class="toggle"  />
+    <label for="section-e41d2da3529dabe044f62c15ef61af94" class="flex justify-between">
+      <a role="button" class="">shortcodes</a>
+    </label>
+  
+
+          
+  <ul>
+    
+      
+        <li>
+          
+  
+  
+
+  
+    <a href="/docs/99-shortcodes/buttons/" class="">Buttons</a>
+  
+
+        </li>
+      
+    
+      
+        <li>
+          
+  
+  
+
+  
+    <a href="/docs/99-shortcodes/columns/" class="">Columns</a>
+  
+
+        </li>
+      
+    
+      
+        <li>
+          
+  
+  
+
+  
+    <a href="/docs/99-shortcodes/details/" class="">Details</a>
+  
+
+        </li>
+      
+    
+      
+        <li>
+          
+  
+  
+
+  
+    <a href="/docs/99-shortcodes/expand/" class="">Expand</a>
+  
+
+        </li>
+      
+    
+      
+        <li>
+          
+  
+  
+
+  
+    <a href="/docs/99-shortcodes/hints/" class="">Hints</a>
+  
+
+        </li>
+      
+    
+      
+        <li>
+          
+  
+  
+
+  
+    <a href="/docs/99-shortcodes/katex/" class="">Katex</a>
+  
+
+        </li>
+      
+    
+      
+        <li>
+          
+  
+  
+
+  
+    <a href="/docs/99-shortcodes/mermaid/" class="">Mermaid</a>
+  
+
+        </li>
+      
+    
+      
+        <li>
+          
+  
+  
+
+  
+    <input type="checkbox" id="section-cbf9cfa6e69ce9778e5c14c2a5bad203" class="toggle"  />
+    <label for="section-cbf9cfa6e69ce9778e5c14c2a5bad203" class="flex justify-between">
+      <a href="/docs/99-shortcodes/section/" class="">Section</a>
+    </label>
+  
+
+          
+  <ul>
+    
+      
+        <li>
+          
+  
+  
+
+  
+    <a href="/docs/99-shortcodes/section/first-page/" class="">First Page</a>
+  
+
+        </li>
+      
+    
+      
+        <li>
+          
+  
+  
+
+  
+    <a href="/docs/99-shortcodes/section/second-page/" class="">Second Page</a>
+  
+
+        </li>
+      
+    
+  </ul>
+
+        </li>
+      
+    
+      
+        <li>
+          
+  
+  
+
+  
+    <a href="/docs/99-shortcodes/tabs/" class="">Tabs</a>
+  
+
+        </li>
+      
+    
+  </ul>
+
+        </li>
+      
+    
+  </ul>
+
+
+
+
+
+
+
+
+
+
+
+  
+<ul>
+  
+  <li>
+    <a href="/posts/" >
+        Tags
+      </a>
+  </li>
+  
+  <li>
+    <a href="https://github.com/alex-shpak/hugo-book" target="_blank" rel="noopener">
+        Github
+      </a>
+  </li>
+  
+  <li>
+    <a href="https://themes.gohugo.io/hugo-book/" target="_blank" rel="noopener">
+        Hugo Themes
+      </a>
+  </li>
+  
+</ul>
+
+
+
+
+
+
+</nav>
+
+
+
+
+  <script>(function(){var a=document.querySelector("aside .book-menu-content");addEventListener("beforeunload",function(b){localStorage.setItem("menu.scrollTop",a.scrollTop)}),a.scrollTop=localStorage.getItem("menu.scrollTop")})()</script>
+
+
+ 
+      </div>
+    </aside>
+
+    <div class="book-page">
+      <header class="book-header">
+        
+  <div class="flex align-center justify-between">
+  <label for="menu-control">
+    <img src="/svg/menu.svg" class="book-icon" alt="Menu" />
+  </label>
+
+  <strong>LC-MS/MS Separation Science by Rick Lake</strong>
+
+  <label for="toc-control">
+    
+    <img src="/svg/toc.svg" class="book-icon" alt="Table of Contents" />
+    
+  </label>
+</div>
+
+
+  
+  <aside class="hidden clearfix">
+    
+  
+<nav id="TableOfContents"></nav>
+
+
+
+  </aside>
+  
+ 
+      </header>
+
+      
+      
+  <article class="markdown"><p>This is the script of a presentation &ldquo;Getting The Most Out Of Your LCMSMS Separations and Method Development&rdquo; delivered by Rick Lake.</p>
+<iframe width="360" height="200" src="https://www.youtube.com/embed/b2vIPpwAQqg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<p><strong><font color =#3fb5bd>Intro</font></strong><br>
+What I&rsquo;d like to give a talk today about well jump ahead real quick. It&rsquo;s really hard to get the most out of LC-MS/MS
+separations, and everyone in here is doing LC-MS/MS? Show of hands. Okay, good, good. I could have been bad. It could have been a very long night for all of you guys.</p>
+<p>What I&rsquo;m going to try and cover is, I guess what I&rsquo;ve learned over the course of what I&rsquo;ve been doing.
+In my professional career, when I started making methods in 1994, the approach that was taken when there was no mass spectrometry, or as it is today, was very different. It really changes the game of chromatography. And what I&rsquo;d like to do is kind of walk through really just an outline of how to utilize chromatography to make the mass spec work better. I&rsquo;ve, I&rsquo;ve done some seminars with Shimadzu. In the past, we do a few a year, I handle the chromatography side, they handle the mass spec side. And we always get into debates. What&rsquo;s more important mass spec or chromatography? And we really found it to be pretty simple. The mass spec is $400,000, and the column is $400. So mass spec wins.</p>
+<p><strong><font color =#3fb5bd>Presentation Objectives</font></strong>
+So what I&rsquo;m going to talk about is really how do we define what&rsquo;s needed for mass spectrometry? Because I look at it, the columns and the chromatography and the sample preparation, we do feeds that. So we&rsquo;re going to cover that. We&rsquo;re going to talk about what I like to call the physical stuff options for column formats, what works really well, because that&rsquo;s really the first choice you make when you&rsquo;re trying to determine what type of method to run. And then I&rsquo;m going to talk about what I like to call the chemical stuff, options for column chemistry. How do we choose the phase? And more importantly, how do we adjust the mobile phases that are needed to make mass spec work better, because really, what it comes down to is you got to feed the mass spec with something good, and you get some good results. So that&rsquo;s what I&rsquo;m going to cover. I glossed over slide real quick, I&rsquo;m going to cover it. I&rsquo;m from Restek. We are located our our headquarters is in Happy Valley, Pennsylvania. Actually, we&rsquo;re talking to a customer today. And I think we refer to it as Silicon Valley. There&rsquo;s a lot of chromatography companies in this little valley. So that&rsquo;s where I&rsquo;m at. We are an employee owned company. And we work exclusively in chromatography. So about 12 years ago, the employees bought the company off of the original owner, and we&rsquo;re maintaining an employee ownership today. So if you don&rsquo;t know who Restek is, that&rsquo;s, I guess who we are in a nutshell. So let&rsquo;s get into the actual meat of the presentation. Let&rsquo;s cover first what do we need from chromatography when it&rsquo;s coupled to a mass spectrometer? And I really think that&rsquo;s, that&rsquo;s what we&rsquo;re looking at,
+to kind of sum it up. And this was our discussion with Shimadzu that I would have over and over again. Here&rsquo;s how here&rsquo;s how chromatography mass spectrometry see the world.</p>
+<p>Here&rsquo;s how the chromatography sees it. Heavy LC a little bit of MSMS mass spec is a detector for my separation. And that&rsquo;s
+that&rsquo;s how chromatography is look at it. How a mass spectrometers mass spectrometry sees it. Little LC heavy MSM at the column is a filter for my mass back. Right? That&rsquo;s really how they look at it. But really what it is, and I think how we should see it is chromatography makes the mass spec perform better. And that&rsquo;s really what it&rsquo;s about. Can chromatography feed the mass spec? And how do we create the good food that the mass spec needs. And that&rsquo;s really what I&rsquo;d like to cover. So if we just look at our process is very simple, right? We have sample preparation, and light separation and, and light detection. And really, each step makes the ladder work better. And if we do a very poor job of sample preparation, then the separation becomes very difficult. So if we can do a good job here, and a good job here that feeds detection, I think that&rsquo;s how we make the mass spec work better. So what I&rsquo;m going to talk about for this talk is how do we use? How do we utilize chromatography, this section right here? How do we make that work better? So if we think about what mass spec needs, right?
+Removal and or separation of matrix ion suppression, we&rsquo;ll talk about that in a little bit. That&rsquo;s,
+that&rsquo;s one of our major components for anytime we&rsquo;re dealing with a mass spec, we need high peak capacity, right? We don&rsquo;t necessarily want complete resolution. But what we need is very high peak capacity. We want to cram as many peaks into a minute as we possibly can, right? Let&rsquo;s let the mass spec do its job. We want symmetrical peaks at low mass on column. So this is probably this is one of the tricks that I learned early on in chromatography. If you want to make your peak look good, inject more. Right? It makes the peak look really nice. All those active sites, fill it up with analyte and my percentages go up by
+Peak looks good. But when we&rsquo;re dealing with mass spec, we&rsquo;re really dealing with very low on column masses of analytes. So we really want something that&rsquo;s going to work at that low on column percentages. We want consistent retention for MRM transitions, nothing is worse than having a peak shift out of an MRM window. It&rsquo;s just way too laborious. So really, what we want, in my opinion, is we want to remove and separate we want a lot of peaks crammed in there, we want good peak shape. Overall sensitivity is ultimately the the result of how efficient and symmetrical are Pixar. Lastly, which we&rsquo;re going to talk about a lot is compatibility with unlimited mobile face choice. That&rsquo;s probably the biggest driver that I&rsquo;ve seen in what&rsquo;s changing the way that we approach method development from my first time in 1994, with an HPLC. And what we&rsquo;re seeing today with LC, MS. MS, the options for mobile phase just aren&rsquo;t there, we have to have volatile components.
+We really don&rsquo;t want to add too much, we can&rsquo;t get anything too fancy. So the hardest part, in my opinion, is this part right here. How do we find mobile phases and stationary phase, they&rsquo;re gonna give good chromatography, and really feed us with what we need. So I look at it this way. That was the instrument I started on in 1994. And where I made my first method and how that method worked, it was step one and step two, step one, open up the lab drawer and grab a call, because it really didn&rsquo;t matter. Grab any old C 18, stick it on the instrument, and then spend a long time adjusting our mobile phase until we get what we want. So it was really laborious in this stage, right? Grab something, put it on and get what you want. Or we&rsquo;re dealing with our cmsms. What, what I&rsquo;d like to work on today, it&rsquo;s it&rsquo;s, it&rsquo;s a different thing entirely, we&rsquo;re actually starting step one is the mobile phase. What gives me the highest sensitivity, and especially in matrix, that&rsquo;s really where we&rsquo;re starting. So we&rsquo;re kind of reversing how method development occurs. And the last thing we do is find a column that works. So I think, um, from a column manufacturer standpoint, I like mass spec, because it puts a lot more onus an emphasis on the, on the column portion of it, and how can we choose the right columns that work under those conditions, but with a simplified mobile face selection, so that&rsquo;s really what I&rsquo;m going to talk about
+in this in this presentation. And when I&rsquo;m mean, feed the mass back,
+I think there&rsquo;s a very important thing to look at, and I&rsquo;m going to talk exclusively about electrospray ionization, it seems to be the most prominently used, and honestly, with the sources today, and the ability to switch from positive to negative. So quickly, we&rsquo;re seeing a lot of work being done on electrospray. And in the process is actually relatively straightforward. John Fen, great job and coming up with it. But the process is really, it&rsquo;s very straightforward. It happens, what I like to call dig. So this is what I always remind myself when I&rsquo;m trying to make ions to D solve a ionizing guide. And that&rsquo;s really what the interface does. It takes a liquid that&rsquo;s coming
+from our LC takes it into a small capillary, and then it it applies gas overtop of it. And the way that I like to describe this when I give educational seminars is, it&rsquo;s a spit take, does anyone know to spit take is, Do you ever watch like a bad comedy, where someone takes a drink, and then they go, and they spray it out? That&rsquo;s what that that&rsquo;s what the interface is doing? It&rsquo;s creating these tiny little droplets. And those little droplets go through the process of de solvate ionizing guide.
+Why am I talking about these droplets, because as they start to produce the ions, right, you have charges, and let&rsquo;s say they&rsquo;re the same charge. And as that droplet starts to shrink, right, it&rsquo;s D solvating. So it&rsquo;s getting smaller, and those charges are coming closer together. When two charges of the same charge come together, they want to pull apart, so you get this little bit of repulsion. Ultimately, you end up with your ions in a gaseous phase. And that&rsquo;s really what we want. And now we can move them into the mass spectrometer. So we dissolve eight, we ionize and we guide. If you think about the importance of chromatography, it really comes down to this. What&rsquo;s in that droplet? If there&rsquo;s a lot of stuff in that droplet, it could compete for that charge that&rsquo;s available inside that droplet. So when I say feed the mass spectrometer, this is really what we&rsquo;re doing. We want to give it something that is ionizable. It dissipates very, very quickly.
+Sita nitro trial versus water, two different levels of the ionization. If we&rsquo;ve got matrix in there, right, we didn&rsquo;t do a good job with sample preparation. And as that stuff is coming
+through, it&rsquo;ll take some of that charge, it&rsquo;s called ionization suppression. So we&rsquo;re really trying to do is get high peak capacity. So the mass spec can do its job, feed it with a good mobile phase something that it likes something that produces high ionization or, or yields good ionization. And most importantly, gives us selectivity where it&rsquo;s needed cases like isobars, or two compounds that might compete for that charge. So when we look at the role of chromatography, it&rsquo;s really what I like to call
+what we produce sensitivity with, we really have to balance flow.
+There&rsquo;s optimal desolvation efficiencies, sources like certain amounts, and depending on the instrumentation, that flow could vary, we typically want a gradient elution. That&rsquo;s something I&rsquo;m going to talk about in the column section about the van director equation, or what I like to call the over use of the van Diem equation,
+we&rsquo;re really going to use gradients, we want to try and compress that time as much as possible. So we&rsquo;re going to be changing the percentage or the overall overall composition of it. We want high efficiency and peak capacity coming from that. So we really want high flow, right, and we want enough flow
+in a gradient, so we can compress that time down very quickly. I came prior to working at Restek, as I like to call one had a real job.
+I would we I worked for a CRO and time was money, you wanted to make the fastest, you want to make the fastest method possible. So that&rsquo;s all that stuff is very important. We also have to consider any interferences as I talked about ion suppression charge competition, any isobaric separations we need. That&rsquo;s the one point where selectivity is needed in chromatography. If we have two isobars, and the mass spec can&rsquo;t tell the difference, then we&rsquo;re going to need something to separate those. We also want to look at mobile phase composition, high volatility, pah optimized for sensitivity, not necessarily for separation. And that&rsquo;s a that&rsquo;s, in my opinion, is a key component. When I think back to the my early days of working on an LC with a CA team, pH was one of the major things that I changed. That&rsquo;s how I controlled my separation. With mass spec, we don&rsquo;t really have that much of an option anymore. I look at pH as what we need for sensitivity, certain compounds in ESI, like a very low pH condition, because the droplet has very low tension at that point, the surface tension is low. And it does it the solvents very efficiently. Some nonpolar compounds need a high pH, they tend to ionize better under those conditions. So we&rsquo;re really looking at not changing pH for selectivity, just for sensitivity, and a very few amendable modifiers. So I look at this as really what we&rsquo;re trying to produce from chromatography, we need the proper flow, limit interference and get the right mobile phase composition to feed the mass spec. The reason why I&rsquo;m bringing this up is because that is a completely different shift of thinking from when I started in 1994. It was very different. So what I&rsquo;d like to walk through is how we can make an LC separation that&rsquo;s going to give us that and feed what the mass spec is looking for. So I&rsquo;m just gonna check real quick. Are we is everybody awake? We&rsquo;re good? Yeah, okay, good. How&rsquo;s the pace too slow, too fast.
+I was talking with someone at at dinner. I&rsquo;m from Western Pennsylvania. So um, this is really slow talking for me. So if, if, if it&rsquo;s too fast, please let me know. bases. Good. Good. Okay. So I&rsquo;m going to start with where the LC separation works. And somebody keep track of time for me too. I can, I can get stuck with this. Come on, you can do it. Okay.
+The LC separation, I&rsquo;m not going to spend a lot of time talking on this. I just want to kind of mention very quickly a schematic of how the process works. There&rsquo;s really
+it&rsquo;s a multi step process. It&rsquo;s much more complex than this, but I&rsquo;m going to give the overall basis for what we are trying to achieve from our chromatography. So it starts off with bulk mass transport, goes to pore diffusion, film mass transport, and then the interaction step. We&rsquo;re going to spend some time on this at the end. I think that&rsquo;s very important. How do the phases actually interact? So a picture says 1000 words, we have a mobile phase. We have bulk mass transport, we inject into that with our six port valve, we get this nice sample that&rsquo;s flowing in our mobile phase. From there, we go into the pores of the, of the, of the particles inside the column. So we saw we have poor diffusion and lights move in. That&rsquo;s a very important part of chromatography. They&rsquo;re nerf balls, the silica particles are nerf balls, not oranges. So you&rsquo;re actually flowing through them. So they
+analytes and really everything starts starts this process of pore diffusion. As it goes inside, I like to look at an LC column as a really, really good radiator or filter. What does the radiator in a car do? Does do, I don&rsquo;t know, it&rsquo;s late at an early morning flight.
+We it takes the water right, and it spreads it out into these very small channels and the air flows over and it cools it, and then it takes it back in and it keeps that process moving, hot goes in, goes out cold goes in, and it keeps that going. That&rsquo;s exactly what the LC column is doing. We&rsquo;ve got angstrom level pores, where we&rsquo;re taking all of this mobile phase with the analytes in it and moving it into these very small channels. As a result, the surface difference is much, much smaller, our analytes have a chance to do what&rsquo;s called filled mass transport, or pass into the stagnant liquid layer that&rsquo;s that stands on those particles. That&rsquo;s our face, our ca P or phenol or cyano. And we do Lastly, what&rsquo;s called the interaction step where those analytes bind or interact with what&rsquo;s on that stationary phase. So when it comes to LC columns, the first thing we look at is the physical stuff. How do we create high efficiency, high peak capacity? What works really well for what we&rsquo;re trying to do? And then we&rsquo;re going to talk about this the chemical stuff, what phases work really well? And then how do we control them? Because ultimately, it&rsquo;s about creating this retention, which could drive selectivity. So when we look at chromatography, all of it still applies. The efficiency is really what I like to call the molecular distribution, a peak is just a mathematical distribution of analytes. Right? It&rsquo;s a Gaussian distribution,
+how wide they are, and how tall they are, is the efficiencies that distribution retention is how much solubility they have in our stationary phase. If something is retained longer, it likes the stationary phase over the mobile. And the selectivity is the difference between the solubility of those molecules. And that&rsquo;s really the simplified way that we look at chromatography, what it means for mass spec, what we need high efficiency, retention for matrix using a gradient elution and selectivity from isobars and interferences. So that&rsquo;s what we&rsquo;re going to cover in this section. How can you use chromatography to make that not
+any type of column any type of mobile phase? Let&rsquo;s try and limit it to very specific mass spec. So how do we choose the best column parameters? What I like to call the physical stuff?
+If anyone&rsquo;s ever has anyone ever opened up a column? Open up the top? Yeah. If you haven&rsquo;t, don&rsquo;t,
+unless it&rsquo;s our column, then do it.
+Because chances are, it&rsquo;s not going back together again. But if you ever open it up what it what a column is comprised of, it&rsquo;s a very finely polished stainless steel tube, right? That&rsquo;s really what it is with an end fitting that is either compressed on or mostly now threaded onto it. In there, we have a fret. And what this does is two things. One, it keeps the silica inside. And the second thing that it does is it stops matrix or, or particulates from getting into the column. Right? So really, we have this stainless steel housing, we have a bunch of silica balls that are contained in there with an average particle diameter that contain a pore volume, of which inside we have a stationary phase. So this is really the components. We&rsquo;re going to talk about how do we take these components and make the right choices for mass spec? So just so we can understand what is the column, this is the column.
+And in actuality, it&rsquo;s only if you look at the porosity of silica and what&rsquo;s inside there. It&rsquo;s only about 35%, silica 65%, empty. So we&rsquo;re really ripping you off. When you think about it, we&rsquo;re charging a full price for 35% of the call.
+So
+what are these things do, I&rsquo;m going to walk through this relatively quickly, because I think the most important thing we talk about is really the chemical stuff, but just to kind of cover it very quickly.
+We have what I like to call the physical stuff or the parameters, and then what that does and how we control it. So our pore volume is really related to analyte size, a poor volume 300 angstrom, was about as high as you&rsquo;re gonna get for a silica particle, right and much wider. And the basic rule that I&rsquo;ve been told is it&rsquo;s the poor has to be 10 times the size of the analyte or you&rsquo;re not really doing chromatography. So anytime we&rsquo;re dealing with proteins or sometimes peptides, any larger molecules, we look at for volume. particle diameter has a huge impact on flow, pressure, efficiency and retention.
+Particle tight
+Again, the same thing, you can see where the particle contribution is right here. This is really what it creates the internal diameter, the greatest impact that it has is really on the flow. If we want to try and limit the amount of flow, we take the tube and we make it smaller, right? That&rsquo;s really what we&rsquo;re doing. Column Link has a huge impact on efficiency, or what I like to call peak capacity, some pressure, obviously, it&rsquo;s twice as long. And, and retention stationary phase is going to affect efficiency, retention and selectivity. So most people say it&rsquo;s retention and selectivity, right? It&rsquo;s the solutes. And how they interact. I&rsquo;ve also found that has a large impact on efficiency as well, how well it transfers between those phases, impacts its peak shape. So if we take a look at all of this, this is really what we&rsquo;re trying to control. And here&rsquo;s the overall impact that it has on chromatography. So I&rsquo;m going to walk through a couple options starting at the particle diameter.
+I&rsquo;m sure you all have heard of UHPLC, or UPLC, right? increasing speed.
+Has anyone heard of fused core products or core shell or SPP superficially, porous particles, this is really a diagram of what we have here. It&rsquo;s a very simple concept, efficiency increases as particle
+particle diameter lowers, and in pressure increases as well. So we have these two exponential curves. What we&rsquo;re really doing here is if we take and compare a fully porous particle with an SPP, or fused core type particle,
+what we&rsquo;re looking at is the diffusion path through the particle, that&rsquo;s really what creates our efficiency. A smaller diffusion path means we have higher efficiency. So we want smaller diffusion pass, right? What the fuse core particles do is they, they lower the diffusion path, but with a nominal particle diameter. So if we look at particle diameter, impacts pressure, and efficiency, these types of particles are a way to get higher efficiencies without the back pressure that you would typically get from UHPLC. So really, we have three options, and
+which ones we choose are really going to be related to what we&rsquo;re trying to achieve. What are we trying to do? I have my personal favorite, but it&rsquo;s only my personal opinion. And I can show you
+why, what what I believe on that. So the van der equation, this is what I like to call the real handyman equation. So we see this a lot, right. And plate height is has has three major contributions, any diffusion, longitudinal diffusion, and mass transfer. But if you break this down, this is what I think is really important. We have a choice of particle diameter, we can choose fully porous, different sizes, fused core type particles of different sizes. And we see a lot of text and research on van diem for linear velocities and what&rsquo;s what&rsquo;s optimal efficiencies. But I want to point out something I think is very significant for mass spectrometry.
+These terms are impacted by gradients. And they&rsquo;re impacted by flow rates as well. So when we start to think about the van Diem equation, that works really, really well, if we&rsquo;re using an isocratic separation, I think it&rsquo;s pinpoint. But when we change to a gradient elution we are impacting these terms considerably. So gradients, change what is necessary in terms of flow and what is necessary in terms of what we think about the van demerger. So, if we think about that, if we got a gradient, that&rsquo;s changing percent composition with mass spec, we are going to run very fast gradients, we want to compress that time as much as possible, the impact of the particle is actually much less than what we typically see, right? The gradient hides a lot of that and you can get three micron particles, five micron particles to give very high efficiency, if used under the right conditions. So I look at Yes, there is an efficiency and pressure contribution to particles. But when we consider very fast flow rates, and very quick gradient or ballistic gradients, it changes the VAM team or completely. So if we look at Van Demeter, the actual numbers
+as we drop the particle diameter, so what was in the 1980s was about five micron in the 1990s was three microns. This is when I started. Now we&rsquo;re in an area we have sub two and the superficially porous particles. So we have the contribution of an A term, the b term and then the c term. Notice how flat the c terms are getting. What that indicates to me is, we&rsquo;re not going to have a large impact on linear velocity. So we want to run fast and
+What I always say is, if you are running a gradient at optimal linear velocity by Van Demeter, you&rsquo;re running too slow. With these new particles and what&rsquo;s available, we can run a lot quicker, what is the limiting factor is the pressure of the system, and how much flow your source can take. That&rsquo;s really the limiting factor today. So run as quickly as possible and use these particles to optimize, not necessarily efficiency because running a gradient, but your pressure profile, and your ability to use a high linear velocity.
+Here&rsquo;s an example of a UHPLC column and a superficially porous particle column under the exact same gradient conditions, the peak efficiencies are very similar, the particle diameters are different. But really, what we&rsquo;re looking at is using the instrument conditions, the instrument type, this was a UHPLC. This is a waters acuity, very good system, very low dwell volume, makes everything look really good. But when we start to compare a 2.7 micron
+SPP particle with a 1.7 FPP, the peak capacity is very similar, different phase. So this activity is different, but we&rsquo;re really seeing the same thing. So what I like to look at is, if we run these at what I like to call optimal efficiency, running at something with mass spec, that&rsquo;s going to give us the best results. If we compare the different particle diameters, a 1.9 micron, these are all Restek products. It&rsquo;s it&rsquo;s not it&rsquo;s just to show how they compare our 1.9 micron DB versus our raptor 2.7. So a fully porous 1.9 with a superficially porous 2.7, because we can run at much higher linear velocity, because the back pressure is lower, we can actually create much higher efficiency, when we look at a five micron version, that things fantastic. Look at the pressure, look at the pressure per plates, you can get a ton of efficiency. So what I always recommend to any customer I&rsquo;m talking to, especially if it&rsquo;s a dirty sample, which I&rsquo;ll show here in a moment, if we do limited sample preparation, we can run with a higher particle column, it&rsquo;ll handle matrix much better. And we can use our our mobile phase, our our flow, our velocity, to really crank up the plates, the only place these things really suffer is if you&rsquo;re trying to run 100 compounds, right, you want to go with a higher particle diameter. But what we&rsquo;re seeing are efficiency differences with pressure that are very substantial, your standard fully pour three and five micron columns, they&rsquo;re not going to produce the plates that you see. So really, in this range is where we&rsquo;re going to see what I like to call the mass spec columns. This is really what we&rsquo;re looking for this is your high peak capacity.
+Another important contribution to that is the instrument. So my personal favorite, I like these, this is the particle that I like. And this is why because we can fit this on multiple instrumentation, I can take the HPLC that I have in the lab and the UHPLC that I have in the lab and run the same column. And they really run very consistently, what I have found is are we going to see a difference in efficiency between this, this system and that system using that column? Absolutely, the systems are much tighter. But if you look at actually compare efficiencies, we get much lower back pressure at much higher efficiencies. So my personal choice, this is where I start a 2.7 2.6 micron, fused core type product or core shell is a great column for mass spectrometry.
+Another thing that I found with these particles,
+so
+you know how there&rsquo;s this fret in the front, and when matrix comes in, it&rsquo;ll start to contaminate the front of the column. So as it comes in, we start to get this spread. Now, these are two very technical terms, crap and crud.
+That&rsquo;s, that&rsquo;s what you get when you start to inject matrix into these and I work with a lot of customers doing dilute and shoot analysis. Anybody
+do that? Or know what it is that has a major impact on crap and crud, so your filter will stop the crap. That&rsquo;s the particulates, the pee, but the crud the dissolved stuff is going to stick in here. So what I have found is particle diameter has a large impact on the ability of that column to handle crap and crud. A larger particle has a larger frit size and doesn&rsquo;t clog as quickly. It also has much larger interstitial space, so the impact of crud is less. So if we can run with if we&rsquo;re doing a lot of sample preparation, and it really doesn&rsquo;t matter. But if I&rsquo;m running dilute and shoot, or if I&rsquo;m running some clinical samples, and I&rsquo;m skipping that sample preparation step for speed
+Higher particle diameters tend to operate at a much greater reproducibility and ruggedness in the long run. So all those factors considered when dealing with these, these types of particles here can give really high efficiencies. So they can work really well. And they can handle a lot of matrix. So, what I like to say for the physical stuff
+2.7 micron, right,
+sub two micron, I like the highly efficient SPP particles, we&rsquo;ll talk about the phases here in a second 2.1 millimeter is a good ID, why say it&rsquo;s good, because we can really increase linear velocity to take advantage of that improve, and Demeter and really run and create incredibly fast separations. And I like to work between 50 and 100 millimeters, the major difference here is peak capacity. So, if I&rsquo;m running a panel of five compounds, right, a five micron 2.1 by 50, works great. If I haven&rsquo;t, I really look at number of analytes. If I&rsquo;ve got 200 compounds. And I&rsquo;ll show you an example, we just did a method of 650 pesticides, when when that is what we&rsquo;re trying to do, it&rsquo;s 2.7 2.1 by 100, we want that length to increase peak capacity, the length does not matter when we&rsquo;re running a gradient, the analysis time is the gradient time, not the time that it takes to run through that column. So I always keep that in mind. Length is for increased peak capacity. So we covered what I like to call the boring stuff, the physical stuff. Are we still awake?
+Yeah. Is it any more coffee? Are we good? Are we doing so far? Good. Okay, now let&rsquo;s get into good, we got a half hour for the fun stuff, the chemistry. So we have a mass spec, we know what it&rsquo;s good for.
+We&rsquo;re going to feed it with good mobile phase, and we&rsquo;re going to feed it with high efficiency. And we&rsquo;re going to try and take care of that matrix as much as possible. So we kind of have a column we know what we&rsquo;re gonna use. Now, let&rsquo;s talk about the stationary phases. Because this seems to be probably the area where, at least for me, was the hardest to understand. We can apply mathematics to plates and to gradient illusions. And we can we can do all of that. That&rsquo;s math, when it comes down to this analyte, solubility and phases, this is a lot trickier. So what I&rsquo;d like to provide with you is just a very simple way to view not Restek columns, but columns in general, which ones are made for mass spec? And if I&rsquo;m that mass spec guy who&rsquo;s trying to run, trying to make chromatography, what are the types of columns I need? And more importantly, depending on that type of column, how do I adjust those mobile phase? Because to me, this is really where method development comes in. This is the time this is the spend. So if we can make these choices and understand it very simply, I think it speeds our time up considerably. So
+what we&rsquo;re really looking at here, is I&rsquo;m going to cover a couple modes. So
+the first thing we do is what mode are we going to work in? And I assume everybody here does reverse face, right? Does anybody doing hillock or aqueous normal phase type work? Yeah, no, it&rsquo;s a great thing. For mass spec really is, I&rsquo;m going to talk about that a little bit. And what really drives these modes are analytes going from insoluble to very water soluble, so we&rsquo;re hillock fits, and I&rsquo;m going to show this here in a second is right in this range right here, where we have something that is so water soluble, that it really doesn&rsquo;t stick to a CA team or other types of phases. So I&rsquo;m going to spend some time talking about that. But really, for mass spec, we&rsquo;re dealing with this range right here. So if you remember from just general chemistry and chromatography, reverse phase,
+which by the way, do you guys know why it&rsquo;s called reverse phase?
+Because it&rsquo;s the reverse of normal phase. The first one, right? Everybody knows reverse phase normals kind of forgotten, but the Aleutian order is reverse. So if I have reverse phase, my hydrophobic compounds retain longer, right more solubility and come out last. A ca teen is an alkyl chain. It&rsquo;s it&rsquo;s grease, right? So nonpolar likes it by hydrophilic compounds come up first, which is the reverse elution order to what we see with normal phase, because we&rsquo;re dealing with a nonpolar stationary mobile phase and a polar stationary phase versus non polar stationary phase and polar mobile phase. It is the reverse illusion, where he like comes in or aqueous normal phase and I don&rsquo;t know which one to use.
+I&rsquo;ve been reading a lot on it. And there&rsquo;s certain people that say hillock and aqueous normal phase are not the same thing. They&rsquo;re actually different.
+I&rsquo;m going to use Hilic,
+I&rsquo;m not quite sure that there is a difference, the result is the same, what we&rsquo;re essentially doing is taking a polar stationary phase, using a polar mobile phase that contains water, creating a layer of water on that surface. So what we get is a reverse phase mobile phase that the mass spec loves. And the illusion order of, of normal phase. So this is our way to retain to get the retention profile that we&rsquo;re looking for using mass spec capable mobile phases. So that&rsquo;s why it&rsquo;s often termed aqueous normal phase normal phase, Aleutian order aqueous layer. So I&rsquo;m going to talk about both of these things. Because really, I think it&rsquo;s important that the columns we use need to be able to do both of these. So
+we&rsquo;re going to talk about those because that&rsquo;s really what&rsquo;s amenable to us
+with mass spectrometry. So
+we&rsquo;re gonna make some choices from the very beginning when we talk about mode. Honestly, what I have found that makes it the easiest is
+one way that you can look at it, whatever ionization source I&rsquo;m using, so we&rsquo;re going to take our compounds, we&rsquo;re going to put them through the source, and we&rsquo;re going to look for sensitivity, we&rsquo;re gonna look for ions. If you&rsquo;re using a PcrA ppi, then your analyte composition is very nonpolar. That&rsquo;s a good indicator. In that case, I&rsquo;m probably going to be working with a C at a very nonpolar stationary phase. If I&rsquo;m using positive electrospray, typically, it&rsquo;s going to have a basic functionality and negative is going to have acidic. So it gives you an idea of the overall chemistry. This is going to be important when we start to talk about phases. Another thing I like to take a look at is when looking at these, how do I choose my mode of separation, reverse Bayes is going to work for watersoluble nonpolar compounds, but Hilic is going to work for water soluble polar compounds. So real quick trick that I like to do, take a look at the analyte we can look at log p values. And log p value will give us what we&rsquo;re looking for, right the water octanol partition coefficient, that&rsquo;s really what we&rsquo;re talking about. Sometimes that&rsquo;s not available, the cheat that I like to do
+count up the carbons to hetero atom ratio, carbons per others that aren&rsquo;t hydrogen. If it&rsquo;s three to one or smaller, it&rsquo;s probably aqueous normal phase, it&rsquo;s probably too water soluble. And then at that point, look at the functionality, acidic functionality, basic functionality. And that&rsquo;ll give you an idea as to where I start my How do I start my choice of phases. So just as a key, look at ionization, and that is a guide to what type of column to use, whatever is working for sensitivity, or for ionization is probably going to work for
+your chromatography as well. So I&rsquo;m going to use these charts, I think this is probably just an easy way to actually depict what type of columns to use. So if we really break it down to what&rsquo;s happening inside there, when we focus back to that picture, where we had the analyte, binding to the phase, that step of interaction, what&rsquo;s occurring is ionic interactions, hydrogen bonding, VanderWaal, interactions, pi pi interactions, or sometimes metal coordination. So this is really everything that&rsquo;s happening in that interaction step in certain phases are going to do some to a better degree. If I have a CA teen phase, it&rsquo;s going to have a lot of VanderWaal, interactions, dispersion, right. So this would be a graph of what a CA teen would look like, it&rsquo;s going to have a little bit of cat ion exchange, a lot of that&rsquo;s metal coordination, right? The silica surface itself, when you bond the phase onto the silica particle, you&rsquo;re not covering the entire thing. So a GC column, a capillary column, you&rsquo;re going to take a polymer, you&rsquo;re going to coat that entire phase, when it comes to a silica particle, you&rsquo;re going to put down these monomers. And the distances that they are apart is going to there&rsquo;s going to be a space in between we Encap it right, we try and fill in the gaps. But there&rsquo;s always a little bit left. So that&rsquo;s metal coordination. I&rsquo;m not going to talk about it in this presentation, but it does exist. What I&rsquo;m going to focus more on is how can we look at dispersion, hydrogen bonding, cat ion exchange, and polarizability. To determine what types of phases do what because that gives us the key to choosing the column. So if we know the chemistry of the analytes, and we know what type of bonds are forming with stationary phases, we link the two together. And that&rsquo;s how we can choose a stationary phase. So it&rsquo;s really looking at that interaction step. And how do we create this? So I&rsquo;m going to show you where these radar plots came from. The hydrophobic subtraction model was used for a lot of things.
+work. Has anyone ever ever seen this thing before? Yeah. Interesting work. Snyder Dolan car.
+It was really what I&rsquo;m what I seem to think was it was a way to find calm equivalency, right? USP says you can use this or equivalent or or, or my methods says I can use column x or equivalent, well, how do you know it&rsquo;s equivalent. So this was determined to look at equivalencies and selectivities. But honestly, the equation itself, as I like to say, is a big equation, it&rsquo;s over my head.
+What it doesn&rsquo;t really matter, what I found really matters is when you break it down, and you start to measure columns, and you look at the work that was done and how it was done. They took 18 different compounds, and they ran it under two conditions to pH conditions, and they used ethylbenzene as the marker, we&rsquo;re going to look at the retention of everything relative to ethylbenzene. And now we can determine flow activities that are the same. So they came up with a selectivity function and F, F sub s, if it&rsquo;s the same, it&rsquo;s a one. If it&rsquo;s 245, then they&rsquo;re not even close to what this that that spread of peaks are. So why I&rsquo;m showing you this is because we can use this for column equivalency purposes, I can take vendor column and check it relative to mine and tell you that those two things are what I would consider to be a match. So not really useful in method development. But what is useful method development is we can take a look at phases, right? And determine which ones are different. Because when we&rsquo;re doing method development, we don&rsquo;t want a lot of the same same column, we want to have a variety. So when you start to look at variety, what we can take a look at is this f sub s function. So on this graph, what we have done is taken everything with the same base silica. And what we&rsquo;re comparing here is the phase itself. And we&rsquo;re looking for very high numbers, because high numbers indicates the PFP propyl is very different from a CA team using the C 18 as a control. And what we can do is look at what phases are actually different. Once we determine what&rsquo;s different, then we can determine different how something&rsquo;s causing this selectivity difference. So what we really came down to is aqueous columns, federal columns, PFP, or fluorinated columns, polar embedded columns, these things create alternate selectivities. That&rsquo;s when we&rsquo;re doing method development. That&rsquo;s crucially important.
+The cyano gave a pretty good difference between a CA teen but we didn&rsquo;t choose it. Does anybody know why?
+Because it&rsquo;s a cyano.
+We don&rsquo;t like cyanosis.
+Mass Spec in cyano, don&rsquo;t mix in my opinion, don&rsquo;t combine the two. If we&rsquo;re using very acidic mobile phases, and we have a cyano functional group, they don&rsquo;t like one another they&rsquo;re really made for more neutral pH is what I&rsquo;ll show you is the PFP profile is actually very similar in its retention mechanism to the cyano. So these phases are amenable for mass spectrometry, that&rsquo;s really how we looked at it work under common mobile phases, and can be adjusted with changes in mobile phase composition amenable. So
+here&rsquo;s the perfect column, right? The column that does dispersion, hydrogen bonding, cat ion exchange, and polarizability. It doesn&rsquo;t exist, there is no such thing as this column. As much as we try, we can&rsquo;t seem to make it. But what we can do is this, we can find the phases that produce these types of interactions. And if you notice, we we highlighted these on the list, because this is what actually creates the differences in selectivity. The polar embedded was very different to a CA teen because of hydrogen bonding. The PFP probe or fluorinated phase was very different because of cat ion exchange in federal bass columns were different because of polarizability. So what you get is a retention profile that&rsquo;s vastly different between the two. This is the toolbox. These are the phases that we have that we can now add to that mobile phase we chose for mass spec and create the type of separation or retention we&rsquo;re looking for. So we can use the hydrophobic subtraction model as a way to guide what columns can we use or should we use? So I&rsquo;m going to walk through these I got 10 minutes left, and I think I can do it.
+So ca team.
+It&rsquo;s your dispersion column. So when we think about that, there&rsquo;s multiple different types of CA teens, I really don&rsquo;t want to get into the different types of CA teens, but what we&rsquo;re really doing here is dispersion with a little bit of change based on the type that it is.
+Stable bond or what we call archaic
+tiene, low pH columns, polar phases that are added aqueous style columns, all of these things are going to add a little bit of selectivity difference. But largely, they&rsquo;re going to be very similar in the overall selectivity. When we look at.
+Here&rsquo;s an example of where you might use one MRM. Windows, we talked about consistent retention.
+RK teen
+these little bonds are these little
+sides that come off here, they protect this bond from hydrolysis. So all phases bleed, sometimes you see it, sometimes you don&rsquo;t, when dealing with low pH conditions for mass spec, especially have multiple analytes, the 230 pesticides, those phases can work really well, to keep them to keep the peaks in the window, multiple lots multiple runs, the phase doesn&rsquo;t change, it keeps consistent retention, but really we&rsquo;re dealing with the dispersion reaction, or
+interaction. So with a CA teen, what do I change, I&rsquo;m going to change organic modifier, right, a Sita nitrile methanol, we know how that works on a CA team, once PROTEK ones a product. So we&rsquo;re going to get different selectivity based on that, we can change pH, we can look at creating different ionization on the molecule with mass spec, not too much of an option, temperature and modifiers like TFA, we can add certain modifiers here to stop cat ion exchange. But really what we&rsquo;re dealing with is this. So C 18. Here&rsquo;s how we adjust it. And this is classic, right? These are what we typically do, what I have found is if you do what you do with a C 18 to a by federal phase, it&rsquo;s not the same result. So we have to look at those each individually. The Federal bass columns, what they do is called polarizability. I think Deshaun was the first one who actually coined that term. And I think it describes it best. The ring itself.
+It&rsquo;s a neutral molecule, it&rsquo;s symmetrical, right and it&rsquo;s arrangement. But what we have or we have the the the electrons around the ring, when a dipole
+or an ion comes close to that phase, it&rsquo;ll shift its electron density, it&rsquo;s polarizable, to form that interaction. So it can be much more retentive, for drug like compounds. Anything with a functional group, an electron withdrawing group attached to a ring. These types of phases, because they&rsquo;re polarizable, can work much better in that capacity. So we tend to see them being used for things like steroids, pain panel analysis, anything where we&rsquo;re dealing with drug like compounds, they can give you much higher retention and selectivity. So they tend to work really well in that capacity.
+You don&rsquo;t change it like you do a CA team. So we can work with the dispersive part. But honestly, the best change to make on a phenol column is choice of organic. With a CA team, you&rsquo;re going to complex based on protocol aprotic solvents, with a phenol it is completely different. And here&rsquo;s the journal article that first mentioned, this effect and how it works. Ultimately, what we have is this. If we have a Sita nitrile in our mobile phase, right, we have C triple bond N, and that phenol phase likes that. So it complexes with that, when we start taking that out and replace it with methanol, it&rsquo;s not the fact that it&rsquo;s methanol, it&rsquo;s the fact that it&rsquo;s not acetic Nitro, you start to get a completely different elution profile, a completely different retention mechanism. So the first thing we do, if we run that column, and we like it, and we want to change it, we focus on choice of organic switches between methanol and acetic. Nitro. And honestly, that is a major component to how these columns work. It&rsquo;s a very quick selectivity. I&rsquo;m not gonna have time to go into the method itself. But what I have learned over time is
+the first time I ran a method, right, I look back to this and I was so dumb, so dumb. It was three compounds, right? It was three compounds. Looking back was the easiest thing in the world as a first thing I was handed. So what do I run?
+5050 methanol water. Sounds good, right? Give it a shot. How many peaks come out? Two, right, three compounds, two peaks come out. Where&rsquo;s that last peak? Let me wait a little bit longer. Right? Okay, let me go to 6040. How many peaks come out to I don&rsquo;t know if they came out or if they didn&rsquo;t come out. So you always start with a scouting gradient, I learned that very quickly run at 5% to 95% with with zero to 95. And you can calculate anything off of that linear curve. You can tell where everything comes out, and you know your pics came out. So if you run that and you like it right on this type of column, and you want to tweak let&rsquo;s say you want to move matrix or you have an isobar you want to try and separate that a little bit more
+ethanol, that&rsquo;s really all you have to do. And what you&rsquo;ll find is, you&rsquo;re going to get vast differences in selectivity based upon that. So it&rsquo;s a real simple change.
+Here&rsquo;s an example steroids, going from 100%, methanol to 100%, acetic. Nitro, notice how we took this peak and moved it to there. And that&rsquo;s really what we&rsquo;re trying to do. We didn&rsquo;t like it where it was. So we moved it to there. And that&rsquo;s an example of how we can just use this. We didn&rsquo;t get drastically different chromatography. We like what we had initially, but we wanted to move it. And that&rsquo;s an example of how these can work. The flora phenol phases.
+I like to call these the MF cyano column. And there&rsquo;s two things I really like about them. One, they retain things ca teens cannot. And number two, they&rsquo;re mixed modal. So we can run it in reverse phase mode, or we can run it in hillock mode, and we get to make that choice. So we have a column that can do both.
+Very good column. Ultimately, what we have here is fluorines. On a ring, the floorings are going to be slightly electron withdrawing. So we got ourselves a charge. So if you think about LC HPLC, we couldn&rsquo;t get something to retain. And we got to the point where we couldn&rsquo;t take organic outturn anymore already in 100% aqueous, we would do what&rsquo;s called ion pairing, we would add it a complex it to neutralize it to stick. So I think really, what happens is that I am pairing agent sticks to the CA teen and it has a charge on it. So we&rsquo;ve applied a charge to the phase, what have we done here, apply to charge to the phase. And it&rsquo;s a cat ion exchanger. So anything basic is going to interact with that very strongly. So this is an example of using ion pairing on the column itself. And that&rsquo;s how I for mass spec. That&rsquo;s how I like to look at it.
+Here&rsquo;s an example two to one carbon heteroatom ratio, therefore, it is a aqueous normal phase type of a separation being done on a PFP propyl. This is a Carmel coloring
+impurity. So I like to look at it this way. Mixed Mode columns, reverse phase columns, as we increase organic, we lose retention, right fact is the role of three, the role of three, three fold reduction for 10% increase in organic and that&rsquo;s a roll, you know, throw a two is that 32 fold reduction for 30 degrees and temperature, you know, the role of one is and method development only change one thing at a time. And it&rsquo;s the hardest role to follow.
+So, as we increase reverse phase organic, we lose retention. What&rsquo;s interesting on these columns, and the next one, I&rsquo;ll show you, as you as you increase organic, you increase retention. So you start to drop, and then you increase because you&rsquo;re switching between the two modes, you can run it in either mode. So if you don&rsquo;t like if you don&rsquo;t like it, just change it to something different. Here&rsquo;s an example of catecholamines, very small neurotransmitters. 100% water, right? That&rsquo;s a good UV, not a good mass spec test. But if we go to 80% of Sita Nitro, why my fingers, we go to 80% of Sita Nitro, we&rsquo;ve actually moved the retention out to here, suitable LCMS test. So you see how we can just by adjusting organic, we can change our retention profile on these columns and run in 80% organic and that helps our dig, it does solve a very, very quickly.
+Example of where they&rsquo;re used
+hydroxy vitamin EPA MERS, these, this is a big test and clinical can resolve the isobars. Very, very quickly how we adjust this phase, very interesting thing for mass spec folks, acid percentage Aqua acid type and aqueous content, it has the largest impact on selectivity. And this is great, we can change organic to try and mess with this polarizability. But we can also just adjust the percent of acid. If I have point 1% Formic and I don&rsquo;t like where my peaks are, I&rsquo;ll go 2.05%. And I will get completely different selectivity for certain types of compounds. The more ionizable the more it comes up. So I can use percent acid, or changes in acid, maybe acetic acid, formic acid to adjust my selectivity. It&rsquo;s a mass spec amenable and it gives us what we want. We run that scouting gradient. We like this column, it looks pretty good. I can start playing with percent acid and start to move things around.
+Here&rsquo;s an example of a silica column in hillock mode,
+a much greater retention by lowering the percent of formic acid. And I think it&rsquo;s a really simple concept. If we&rsquo;re lowering the acid content, we&rsquo;re lowering the age plus we&rsquo;re inducing cat ion exchange. So it&rsquo;s a very simple concept. That is the greatest impact that we&rsquo;re gonna have. So when we&rsquo;re talking about the Florida
+phases and these polar embedded phases. This is another example, this one is really tweaked for hydrogen bonding, good peak shape for basis, if you want to run one compound, so when I had a real job, and I was doing a potency analysis, or something that was one peak, but 2% RSD is the max that I could have these types of columns worked great for peak shape. So I could get a good peak shape for one compound, where it comes in terms of selectivity is water soluble acids, they can retain the much greater and they can be much more selective for it. So where they&rsquo;re typically used, here&rsquo;s an example. Again, what&rsquo;s nice about these is it&rsquo;s it&rsquo;s it&rsquo;s mixed modal, we can run it in reverse phase mode, or I can run it in hillock mode. And just like the PFP propyl, we get that same type of impact.
+So we can change aqueous content to get aqueous normal phase or hillock type. But it also works with acid percentage and type. And it&rsquo;s the opposite on these phases, increase to increase retention on the fluorinated decrease to increase retention. And if you think about it, we have anion and cat ion exchange. So by messing with the H plus composition in the mobile phase, we&rsquo;re tweaking the selectivity or the amount of interaction that we can have. So they&rsquo;re the yin and the yang to one another. So they&rsquo;re very simple adjustments, and very simple phases to use. Here&rsquo;s an example highlighted peaks 1%, for MC 2.1. Notice how the neutrals are staying staying put. And we&rsquo;re increasing the selectivity or the retention of just the charged
+just the charged analytes. And that&rsquo;s an example of we take this, we like it, but we want to move it, we just adjust that. So scouting gradient, get something that works, what works, well look at the ionization source first, and determine what based on that it&rsquo;s going to give you a lot of the composition of the column, you&rsquo;re going to need run that scouting gradient get something you like minimal mobile phase adjustments, with stuff that&rsquo;s mass spec friendly. And you&rsquo;ll find that your separations happen very quickly. So this is probably the most important two slides, this would have saved you an hour of your evening. I could have just given you it this and and saves you a lot of time. But ultimately, when choosing phases, or types for mass spec, we can go reverse phase or we can go aqueous normal phase. Here&rsquo;s how we tell which way we&rsquo;re going to go. If we go this way, here&rsquo;s the types of columns that you can use for mass spec. And here&rsquo;s where you&rsquo;d want to use them.
+And likewise, we can look on the normal face side or aqueous normal face side, cat ions and ions, conventional would be silica, and then how do we adjust the mobile phases? We do that. So just a very quick kind of guide to take a look at. And again, these are classes of columns, they&rsquo;re not really columns. So polar embedded phenols, right? They&rsquo;re all going to be a little bit different. But this type of paradigm works on pretty much all of those types of columns. There&rsquo;s subtle differences, but I found it works really, really smoothly. So with that, any questions that you guys have was a good the pace good educational, worth your time. Good. Thank you</p></article>
+ 
+      
+
+      <footer class="book-footer">
+        
+  <div class="flex flex-wrap justify-between">
+
+
+  <div><a class="flex align-center" href="https://github.com/alex-shpak/hugo-book/commit/8262f0c939408b6e5fe57e6a3d7e3bed240e8db0" title='Last modified by lennyleadership | August 2, 2022' target="_blank" rel="noopener">
+      <img src="/svg/calendar.svg" class="book-icon" alt="Calendar" />
+      <span>August 2, 2022</span>
+    </a>
+  </div>
+
+
+
+  <div>
+    <a class="flex align-center" href="https://github.com/alex-shpak/hugo-book/edit/main/exampleSite/content/docs/20%20Separation%20Science/Part%202%20Application/Rick_Lake_LCMSMS_Separation_Science.md" target="_blank" rel="noopener">
+      <img src="/svg/edit.svg" class="book-icon" alt="Edit" />
+      <span>Edit this page</span>
+    </a>
+  </div>
+
+
+</div>
+
+
+
+  <script>(function(){function a(c){const a=window.getSelection(),b=document.createRange();b.selectNodeContents(c),a.removeAllRanges(),a.addRange(b)}document.querySelectorAll("pre code").forEach(b=>{b.addEventListener("click",function(c){if(window.getSelection().toString())return;a(b.parentElement),navigator.clipboard&&navigator.clipboard.writeText(b.parentElement.textContent)})})})()</script>
+
+
+ 
+        
+      </footer>
+
+      
+  
+  <div class="book-comments">
+
+</div>
+  
+ 
+
+      <label for="menu-control" class="hidden book-menu-overlay"></label>
+    </div>
+
+    
+    <aside class="book-toc">
+      <div class="book-toc-content">
+        
+  
+<nav id="TableOfContents"></nav>
+
+
+ 
+      </div>
+    </aside>
+    
+  </main>
+
+  
+</body>
+</html>
+
+
+
+
+
+
+
+
+
+
+
+

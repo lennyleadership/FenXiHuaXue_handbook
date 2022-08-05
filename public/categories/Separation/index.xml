@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Separation on FenXiHuaXue Handbook</title>
+    <link>https://example.com/categories/Separation/</link>
+    <description>Recent content in Separation on FenXiHuaXue Handbook</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Wed, 29 Dec 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://example.com/categories/Separation/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Separation Science</title>
+      <link>https://example.com/docs/20-Separation-Science/</link>
+      <pubDate>Wed, 29 Dec 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/docs/20-Separation-Science/</guid>
+      <description>My interests in separation science theory.</description>
+    </item>
+    
+  </channel>
+</rss>

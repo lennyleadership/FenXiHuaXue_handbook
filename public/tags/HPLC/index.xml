@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>HPLC on FenXiHuaXue Handbook</title>
+    <link>https://example.com/tags/HPLC/</link>
+    <description>Recent content in HPLC on FenXiHuaXue Handbook</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Wed, 12 Jan 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://example.com/tags/HPLC/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Chapter 01 Troubleshooting Strategy and Processes</title>
+      <link>https://example.com/docs/02-Chrom-HPLC/Part-06-Instrumentation-Troubleshooting/01_Strategy_and_Processes/</link>
+      <pubDate>Wed, 12 Jan 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/docs/02-Chrom-HPLC/Part-06-Instrumentation-Troubleshooting/01_Strategy_and_Processes/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Flow Direction</title>
+      <link>https://example.com/docs/02-Chrom-HPLC/Part-04-GLP-for-HPLC/10_flow_direction/</link>
+      <pubDate>Mon, 03 Jan 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/docs/02-Chrom-HPLC/Part-04-GLP-for-HPLC/10_flow_direction/</guid>
+      <description>&lt;figcaption&gt;&lt;b&gt;Figure &lt;/b&gt;: &lt;/figcaption&gt;
+&lt;img src = &#34;/docs/images/&#34;/&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Analysis troubleshooting on FenXiHuaXue Handbook</title>
+    <link>https://example.com/docs/07-Troubleshooting/Part-01-Analysis-Troubleshooting/</link>
+    <description>Recent content in Analysis troubleshooting on FenXiHuaXue Handbook</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Mon, 03 Jan 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://example.com/docs/07-Troubleshooting/Part-01-Analysis-Troubleshooting/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title></title>
+      <link>https://example.com/docs/07-Troubleshooting/Part-01-Analysis-Troubleshooting/zzzz/</link>
+      <pubDate>Thu, 07 Jul 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/docs/07-Troubleshooting/Part-01-Analysis-Troubleshooting/zzzz/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Internal standard Variation</title>
+      <link>https://example.com/docs/07-Troubleshooting/Part-01-Analysis-Troubleshooting/Internal_standard_variation/</link>
+      <pubDate>Thu, 07 Jul 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/docs/07-Troubleshooting/Part-01-Analysis-Troubleshooting/Internal_standard_variation/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Analysis troubleshooting</title>
+      <link>https://example.com/docs/07-Troubleshooting/Part-01-Analysis-Troubleshooting/Analysis_troubleshooting/</link>
+      <pubDate>Mon, 03 Jan 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/docs/07-Troubleshooting/Part-01-Analysis-Troubleshooting/Analysis_troubleshooting/</guid>
+      <description>&lt;figcaption&gt;&lt;b&gt;Figure &lt;/b&gt;: &lt;/figcaption&gt;
+&lt;img width =&#34;360&#34; height= &#34;200&#34; src = &#34;/docs/images/&#34;/&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

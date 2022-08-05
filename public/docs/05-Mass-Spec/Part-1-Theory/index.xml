@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Part I Theory on FenXiHuaXue Handbook</title>
+    <link>https://example.com/docs/05-Mass-Spec/Part-1-Theory/</link>
+    <description>Recent content in Part I Theory on FenXiHuaXue Handbook</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Mon, 20 Jun 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://example.com/docs/05-Mass-Spec/Part-1-Theory/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title></title>
+      <link>https://example.com/docs/05-Mass-Spec/Part-1-Theory/zzz/</link>
+      <pubDate>Tue, 28 Jun 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/docs/05-Mass-Spec/Part-1-Theory/zzz/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>HRMS List</title>
+      <link>https://example.com/docs/05-Mass-Spec/Part-1-Theory/HRMS_table/</link>
+      <pubDate>Tue, 28 Jun 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/docs/05-Mass-Spec/Part-1-Theory/HRMS_table/</guid>
+      <description>&lt;p&gt;series: [Applications in High Resolution Mass Spectrometrey Food Safety and Pesticide Residue Analysis edited by Roberto Romero-Gonzalez]&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Ion Trap Quadrupole</title>
+      <link>https://example.com/docs/05-Mass-Spec/Part-1-Theory/Ion_trap/</link>
+      <pubDate>Tue, 28 Jun 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/docs/05-Mass-Spec/Part-1-Theory/Ion_trap/</guid>
+      <description>&lt;p&gt;series: [Analysis of Pesticides in Food and Environmental Samples, edited by Jose L. Tadeo]&lt;/p&gt;
+&lt;h2 id=&#34;summary&#34;&gt;
+  Summary
+  &lt;a class=&#34;anchor&#34; href=&#34;#summary&#34;&gt;#&lt;/a&gt;
+&lt;/h2&gt;
+&lt;p&gt;Ion trap works at unit mass resolution, selectivity is limited.&lt;/p&gt;
+&lt;p&gt;Advantage:&lt;br&gt;
+) selectively store ions of one &lt;code&gt;mass-to-charge&lt;/code&gt; value.  As a result, the sensitivity is increased.&lt;br&gt;
+) When coupling with CID and a quadrupole, ion trap can store one precursor ion.&lt;/p&gt;
+&lt;p&gt;Disadvantage:&lt;br&gt;
+)&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Mass Definition</title>
+      <link>https://example.com/docs/05-Mass-Spec/Part-1-Theory/Mass_definition/</link>
+      <pubDate>Tue, 28 Jun 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/docs/05-Mass-Spec/Part-1-Theory/Mass_definition/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Mass Error - Terminology</title>
+      <link>https://example.com/docs/05-Mass-Spec/Part-1-Theory/Mass_error/</link>
+      <pubDate>Tue, 28 Jun 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/docs/05-Mass-Spec/Part-1-Theory/Mass_error/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Mass Spec Resolution</title>
+      <link>https://example.com/docs/05-Mass-Spec/Part-1-Theory/MS_resolution/</link>
+      <pubDate>Tue, 28 Jun 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/docs/05-Mass-Spec/Part-1-Theory/MS_resolution/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Orbitrap</title>
+      <link>https://example.com/docs/05-Mass-Spec/Part-1-Theory/Orbitrap/</link>
+      <pubDate>Tue, 28 Jun 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/docs/05-Mass-Spec/Part-1-Theory/Orbitrap/</guid>
+      <description>&lt;p&gt;series: [Applications in High Resolution Mass Spectrometrey Food Safety and Pesticide Residue Analysis edited by Roberto Romero-Gonzalez]&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>QToF</title>
+      <link>https://example.com/docs/05-Mass-Spec/Part-1-Theory/QToF/</link>
+      <pubDate>Tue, 28 Jun 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/docs/05-Mass-Spec/Part-1-Theory/QToF/</guid>
+      <description>&lt;p&gt;series: [Applications in High Resolution Mass Spectrometrey Food Safety and Pesticide Residue Analysis edited by Roberto Romero-Gonzalez]&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Single Quadrupole Analyzer</title>
+      <link>https://example.com/docs/05-Mass-Spec/Part-1-Theory/Single_quad/</link>
+      <pubDate>Tue, 28 Jun 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/docs/05-Mass-Spec/Part-1-Theory/Single_quad/</guid>
+      <description>&lt;p&gt;series: [Analysis of Pesticides in Food and Environmental Samples, edited by Jose L. Tadeo]&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Tandem Mass Spectrometry Analyzers</title>
+      <link>https://example.com/docs/05-Mass-Spec/Part-1-Theory/QQQ/</link>
+      <pubDate>Tue, 28 Jun 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/docs/05-Mass-Spec/Part-1-Theory/QQQ/</guid>
+      <description>&lt;p&gt;series: [Analysis of Pesticides in Food and Environmental Samples, edited by Jose L. Tadeo]&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Time-of-Flight Analyzer</title>
+      <link>https://example.com/docs/05-Mass-Spec/Part-1-Theory/ToF/</link>
+      <pubDate>Tue, 28 Jun 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/docs/05-Mass-Spec/Part-1-Theory/ToF/</guid>
+      <description>&lt;p&gt;series: [Analysis of Pesticides in Food and Environmental Samples, edited by Jose L. Tadeo]&lt;/p&gt;
+&lt;h2 id=&#34;summary&#34;&gt;
+  Summary
+  &lt;a class=&#34;anchor&#34; href=&#34;#summary&#34;&gt;#&lt;/a&gt;
+&lt;/h2&gt;
+&lt;p&gt;) operates at unit mass resolution but with very fast scan rates.&lt;br&gt;
+) has limited linear dynamic range.&lt;br&gt;
+) Flight times are proportional to the square root of the &lt;code&gt;m/z value&lt;/code&gt; of an ion.&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;measures ions flight time based on the fact that ion velocity is mass-dependent.  The more energetic the ion, the deeper it penetrates the retarding field of the reflection before getting reflected. This allows an energetic ion, traveling a longer flight path, to arrive at the detector at the same time as the less energetic ions of the same mass.&lt;/li&gt;
+&lt;li&gt;detects at trace levels while retaining full spectral information.&lt;/li&gt;
+&lt;/ol&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

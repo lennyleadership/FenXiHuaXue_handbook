@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Notes on FenXiHuaXue Handbook</title>
+    <link>https://example.com/docs/50-MS-Based-Metabolomics/Notes/</link>
+    <description>Recent content in Notes on FenXiHuaXue Handbook</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Tue, 17 May 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://example.com/docs/50-MS-Based-Metabolomics/Notes/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Arguments available in xcmsSet()</title>
+      <link>https://example.com/docs/50-MS-Based-Metabolomics/Notes/xcms_arguments/</link>
+      <pubDate>Tue, 17 May 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/docs/50-MS-Based-Metabolomics/Notes/xcms_arguments/</guid>
+      <description>&lt;p&gt;I list a number of arguments available in xcmsSet().&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>IPO Optimization Procedure</title>
+      <link>https://example.com/docs/50-MS-Based-Metabolomics/Notes/IPO_procedure/</link>
+      <pubDate>Tue, 17 May 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/docs/50-MS-Based-Metabolomics/Notes/IPO_procedure/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Notes</title>
+      <link>https://example.com/docs/50-MS-Based-Metabolomics/Notes/Notes/</link>
+      <pubDate>Tue, 17 May 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/docs/50-MS-Based-Metabolomics/Notes/Notes/</guid>
+      <description>&lt;figcaption&gt;&lt;b&gt;Figure &lt;/b&gt;: &lt;/figcaption&gt;
+&lt;img src = &#34;/docs/images/&#34;/&gt;</description>
+    </item>
+    
+    <item>
+      <title>xcms Methods and Parameters</title>
+      <link>https://example.com/docs/50-MS-Based-Metabolomics/Notes/xcms_methods/</link>
+      <pubDate>Tue, 17 May 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/docs/50-MS-Based-Metabolomics/Notes/xcms_methods/</guid>
+      <description>&lt;figcaption&gt;&lt;b&gt;Figure &lt;/b&gt;: &lt;/figcaption&gt;
+&lt;img src = &#34;/docs/images/&#34;/&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

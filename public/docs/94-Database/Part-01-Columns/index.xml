@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Part 01 Columns on FenXiHuaXue Handbook</title>
+    <link>https://example.com/docs/94-Database/Part-01-Columns/</link>
+    <description>Recent content in Part 01 Columns on FenXiHuaXue Handbook</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Mon, 03 Jan 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://example.com/docs/94-Database/Part-01-Columns/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Chapter 01 List of Columns</title>
+      <link>https://example.com/docs/94-Database/Part-01-Columns/01_Column_list/</link>
+      <pubDate>Mon, 03 Jan 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/docs/94-Database/Part-01-Columns/01_Column_list/</guid>
+      <description>&lt;p&gt;I list columns.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Chapter 02 USP Specifications for LC Columns</title>
+      <link>https://example.com/docs/94-Database/Part-01-Columns/02_USP_spec_HPLC_columns/</link>
+      <pubDate>Mon, 03 Jan 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/docs/94-Database/Part-01-Columns/02_USP_spec_HPLC_columns/</guid>
+      <description>&lt;figcaption&gt;&lt;b&gt;Figure &lt;/b&gt;: &lt;/figcaption&gt;
+&lt;img src = &#34;/docs/images/&#34;/&gt;</description>
+    </item>
+    
+    <item>
+      <title>Column Capacity</title>
+      <link>https://example.com/docs/94-Database/Part-01-Columns/Column_Capacity/</link>
+      <pubDate>Mon, 03 Jan 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/docs/94-Database/Part-01-Columns/Column_Capacity/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Template</title>
+      <link>https://example.com/docs/94-Database/Part-01-Columns/T_02/</link>
+      <pubDate>Mon, 03 Jan 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/docs/94-Database/Part-01-Columns/T_02/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Waters on FenXiHuaXue Handbook</title>
+    <link>https://example.com/tags/Waters/</link>
+    <description>Recent content in Waters on FenXiHuaXue Handbook</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Mon, 27 Jun 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://example.com/tags/Waters/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Tag Index</title>
+      <link>https://example.com/docs/Tag_Collection/</link>
+      <pubDate>Mon, 27 Jun 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/docs/Tag_Collection/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>1/7 Electrospray Ionization</title>
+      <link>https://example.com/docs/01-Mass-Spec-LC-MS/Part-01-Theory/Theory-Series-by-Waters/Theory_01_ESI/</link>
+      <pubDate>Mon, 20 Jun 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/docs/01-Mass-Spec-LC-MS/Part-01-Theory/Theory-Series-by-Waters/Theory_01_ESI/</guid>
+      <description>&lt;p&gt;Fundamentals of Mass Spectrometry provided by Waters (1 of 7)&lt;/p&gt;
+&lt;p&gt;Electrospray ionization, commonly referred to as ESI, is an example of an atmospheric pressure ionization (API) technique.&lt;/p&gt;
+&lt;p&gt;In the ESI source, the electric field is sufficient enough so that small droplets (solvated ions) turned to desolvated ions.&lt;/p&gt;
+&lt;p&gt;In contrast to vacuum ionization techniques, such as electron ionization or EI, ESI is considered to be a soft ionization technique, this is because ESI typically produces intact ions related to the analyte molecule and fewer fragment ions than vacuum ionization techniques.&lt;/p&gt;
+&lt;p&gt;EI produces positive ions, while ESI produces positive and negative ions.&lt;/p&gt;
+&lt;iframe width=&#34;360&#34; height=&#34;200&#34; src=&#34;https://www.youtube.com/embed/9AWBAI-Owzk?list=PL6yA4jv5tA-k9_2NVxm5jlzpZV_aW59DT&#34; title=&#34;Fundamentals of Mass Spectrometry (MS) (1 of 7) - Electrospray Ionisation&#34; frameborder=&#34;0&#34; allow=&#34;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture&#34; allowfullscreen&gt;&lt;/iframe&gt;</description>
+    </item>
+    
+    <item>
+      <title>2/7 Adduct Ions</title>
+      <link>https://example.com/docs/01-Mass-Spec-LC-MS/Part-01-Theory/Theory-Series-by-Waters/Theory_02_adduct_ion/</link>
+      <pubDate>Mon, 20 Jun 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/docs/01-Mass-Spec-LC-MS/Part-01-Theory/Theory-Series-by-Waters/Theory_02_adduct_ion/</guid>
+      <description>&lt;p&gt;Fundamentals of Mass Spectrometry provided by Waters (2 of 7)&lt;/p&gt;
+&lt;p&gt;Adduct ions are formed by the interaction of a precursor ion with one or more atoms or molecules, such as hydrogen ions, sodium ions, potassium ions, ammonium ions, hydride ions, chloride ions, bromide ions, acetate ions to form an ion.&lt;/p&gt;
+&lt;p&gt;Adding particular cations or anions into solution can enhance the formation of adduct ions, such as formic acid, acetic acid.&lt;/p&gt;
+&lt;p&gt;Matrix suppression is the result of adduct ion formation with background ions.&lt;/p&gt;
+&lt;p&gt;Compounds that readily form particular cations or anions can be added to sample solutions in order to enhance the formation of adduct ions.&lt;/p&gt;
+&lt;p&gt;This is a transcript of the following video.&lt;/p&gt;
+&lt;iframe width=&#34;360&#34; height=&#34;200&#34; src=&#34;https://www.youtube.com/embed/WusWNAb0IRM?list=PL6yA4jv5tA-k9_2NVxm5jlzpZV_aW59DT&#34; title=&#34;Fundamentals of MS (2 of 7) - Adduct Ions&#34; frameborder=&#34;0&#34; allow=&#34;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture&#34; allowfullscreen&gt;&lt;/iframe&gt;</description>
+    </item>
+    
+    <item>
+      <title>3/7 Multiple Charging</title>
+      <link>https://example.com/docs/01-Mass-Spec-LC-MS/Part-01-Theory/Theory-Series-by-Waters/Theory_03_multiple_charging/</link>
+      <pubDate>Mon, 20 Jun 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/docs/01-Mass-Spec-LC-MS/Part-01-Theory/Theory-Series-by-Waters/Theory_03_multiple_charging/</guid>
+      <description>&lt;p&gt;Fundamentals of Mass Spectrometry provided by Waters (3 of 7)&lt;/p&gt;
+&lt;p&gt;In positive ion mode, cations will form bonds with lone pairs of electrons that are located on atoms in the analyte molecule.  These atoms are typically nitrogen, oxygen or sulfur.&lt;/p&gt;
+&lt;p&gt;when analyzing small molecules, only one cation bonds with a small molecule to make a single charged ion.&lt;/p&gt;
+&lt;p&gt;When analyzing large molecules, there will be more atoms with lone pairs of electron, therefore more charges can be added to the molecule.&lt;/p&gt;
+&lt;p&gt;On the mass spectrum, we know that the x-axis represents the mass of the ion divided by the charge the ion is carrying.  If the ion is single charged, the ion will be observed at M+1.  If the ion gets two protons, the ion will be observed at &lt;code&gt;M+2/2&lt;/code&gt;.  If the charge is 4, the ion will be observed at &lt;code&gt;M+4/4&lt;/code&gt;.&lt;/p&gt;
+&lt;p&gt;This is a transcript of the following video.&lt;/p&gt;
+&lt;iframe width=&#34;360&#34; height=&#34;200&#34; src=&#34;https://www.youtube.com/embed/CuJRTHvy64k?list=PL6yA4jv5tA-k9_2NVxm5jlzpZV_aW59DT&#34; title=&#34;Fundamentals of MS (3 of 7)  - Multiple Charging&#34; frameborder=&#34;0&#34; allow=&#34;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture&#34; allowfullscreen&gt;&lt;/iframe&gt;</description>
+    </item>
+    
+    <item>
+      <title>4/7 Quadrupoles</title>
+      <link>https://example.com/docs/01-Mass-Spec-LC-MS/Part-01-Theory/Theory-Series-by-Waters/Theory_04_Quadrupoles/</link>
+      <pubDate>Mon, 20 Jun 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/docs/01-Mass-Spec-LC-MS/Part-01-Theory/Theory-Series-by-Waters/Theory_04_Quadrupoles/</guid>
+      <description>&lt;p&gt;Fundamentals of Mass Spectrometry provided by Waters (4 of 7)&lt;/p&gt;
+&lt;p&gt;A quadruploe consists of four parallel rods arranged around the central axis.&lt;/p&gt;
+&lt;p&gt;Static potentials or DC voltages, and alternating potentials or RF voltages are applied to the quadrupole rods with one pair of rods having the opposite polarity to the other pair.  These voltages create a fluctuating electric field between the rods.&lt;/p&gt;
+&lt;p&gt;Different ions can pass through the quadrupole and won&amp;rsquo;t strike rods under different ratios of the RF and DC voltages.  As the the DC to RF ratio is increased linearly with time, the ions of that particular mass are transmitted through the quadrupole to the detector.&lt;/p&gt;
+&lt;p&gt;This is a transcript of the following video.&lt;/p&gt;
+&lt;iframe width=&#34;360&#34; height=&#34;200&#34; src=&#34;https://www.youtube.com/embed/6_mavZ_WKoU?list=PL6yA4jv5tA-k9_2NVxm5jlzpZV_aW59DT&#34; title=&#34;Fundamentals of MS (4 of 7) - Quadrupoles&#34; frameborder=&#34;0&#34; allow=&#34;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture&#34; allowfullscreen&gt;&lt;/iframe&gt;</description>
+    </item>
+    
+    <item>
+      <title>5/7 Resolution</title>
+      <link>https://example.com/docs/01-Mass-Spec-LC-MS/Part-01-Theory/Theory-Series-by-Waters/Theory_05_Resolution/</link>
+      <pubDate>Mon, 20 Jun 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/docs/01-Mass-Spec-LC-MS/Part-01-Theory/Theory-Series-by-Waters/Theory_05_Resolution/</guid>
+      <description>&lt;p&gt;Fundamentals of Mass Spectrometry provided by Waters (5 of 7)&lt;/p&gt;
+&lt;p&gt;The definition of resolution is different for mass spectrometry with low resolution and for mass spectrometry with high resolution.&lt;/p&gt;
+&lt;p&gt;This is a transcript of the following video.&lt;/p&gt;
+&lt;iframe width=&#34;360&#34; height=&#34;200&#34; src=&#34;https://www.youtube.com/embed/qUhi98o1qUU?list=PL6yA4jv5tA-k9_2NVxm5jlzpZV_aW59DT&#34; title=&#34;Fundamentals of MS (5 of 7) - Resolution&#34; frameborder=&#34;0&#34; allow=&#34;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture&#34; allowfullscreen&gt;&lt;/iframe&gt;</description>
+    </item>
+    
+    <item>
+      <title>6/7 Isotopes</title>
+      <link>https://example.com/docs/01-Mass-Spec-LC-MS/Part-01-Theory/Theory-Series-by-Waters/Theory_06_Isotopes/</link>
+      <pubDate>Mon, 20 Jun 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/docs/01-Mass-Spec-LC-MS/Part-01-Theory/Theory-Series-by-Waters/Theory_06_Isotopes/</guid>
+      <description>&lt;p&gt;Fundamentals of Mass Spectrometry provided by Waters (6 of 7)&lt;/p&gt;
+&lt;p&gt;This is a transcript of the following video.&lt;/p&gt;
+&lt;iframe width=&#34;360&#34; height=&#34;200&#34; src=&#34;https://www.youtube.com/embed/om0BfIHXD0s?list=PL6yA4jv5tA-k9_2NVxm5jlzpZV_aW59DT&#34; title=&#34;Fundamentals of MS (6 of 7) - Isotopes&#34; frameborder=&#34;0&#34; allow=&#34;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture&#34; allowfullscreen&gt;&lt;/iframe&gt;</description>
+    </item>
+    
+    <item>
+      <title>7/7 Fragmentation</title>
+      <link>https://example.com/docs/01-Mass-Spec-LC-MS/Part-01-Theory/Theory-Series-by-Waters/Theory_07_Fragmentation/</link>
+      <pubDate>Mon, 20 Jun 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/docs/01-Mass-Spec-LC-MS/Part-01-Theory/Theory-Series-by-Waters/Theory_07_Fragmentation/</guid>
+      <description>&lt;p&gt;Fundamentals of Mass Spectrometry provided by Waters (7 of 7)&lt;/p&gt;
+&lt;p&gt;Fragmentation occurs at CID. The CID yields fragments using relatively low energies. The drawback of the CID is its difficulty to predict the results for complex molecules.&lt;/p&gt;
+&lt;p&gt;This is a transcript of the following video.&lt;/p&gt;
+&lt;iframe width=&#34;360&#34; height=&#34;200&#34; src=&#34;https://www.youtube.com/embed/ESKpOcjF8QM?list=PL6yA4jv5tA-k9_2NVxm5jlzpZV_aW59DT&#34; title=&#34;Fundamentals of MS (7 of 7) - Fragmentation&#34; frameborder=&#34;0&#34; allow=&#34;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture&#34; allowfullscreen&gt;&lt;/iframe&gt;</description>
+    </item>
+    
+    <item>
+      <title>Quadrupole Theory and Use</title>
+      <link>https://example.com/docs/01-Mass-Spec-LC-MS/Part-01-Theory/LCMSMS_theory_N_use_Waters/</link>
+      <pubDate>Sun, 19 Jun 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/docs/01-Mass-Spec-LC-MS/Part-01-Theory/LCMSMS_theory_N_use_Waters/</guid>
+      <description>&lt;p&gt;LC-MS/MS Education Series 1/3 by Waters&lt;/p&gt;
+&lt;p&gt;Operation modes: static mode, and scanning mode.&lt;/p&gt;
+&lt;p&gt;Acquisition modes: full scan, MRM, precursor ion scan, product ion scan, and neutral loss scan.&lt;/p&gt;
+&lt;iframe width=&#34;360&#34; height=&#34;200&#34; src=&#34;https://www.youtube.com/embed/iZH-oxP-OJ0&#34; title=&#34;LC-MS/MS Education Series: Quadrupole Theory and Use&#34; frameborder=&#34;0&#34; allow=&#34;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture&#34; allowfullscreen&gt;&lt;/iframe&gt;</description>
+    </item>
+    
+  </channel>
+</rss>
