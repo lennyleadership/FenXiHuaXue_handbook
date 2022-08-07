@@ -1,16 +1,18 @@
 ---
-weight: 
-title: 
+weight: 26
+title: 26 Graphical Representation and Treatment's Nomenclature
 authors: edited by Lenny Lin
 categories: 
 tags: []
 description: null
 draft: false
-date: "2022-08-05"
-lastmod: "2022-08-05"
+date: "2022-01-03"
+lastmod: "2022-08-02"
 series: 
 toc: true
 ---
+
+
 
 
 <!--more-->
