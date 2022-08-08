@@ -14,18 +14,6 @@ languages:
     contentDir: content
     languageName: English
     weight: 1
-  zh:
-    contentDir: content.zh
-    languageName: Chinese
-    weight: 2
-menu:
-  after:
-    - name: Github
-      url: https://github.com/alex-shpak/hugo-book
-      weight: 10
-    - name: Hugo Themes
-      url: https://themes.gohugo.io/hugo-book/
-      weight: 20
 params:
   BookComments: yes
   BookDateFormat: January 2, 2006
