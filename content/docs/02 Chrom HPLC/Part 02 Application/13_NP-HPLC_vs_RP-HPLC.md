@@ -1,4 +1,5 @@
 ---
+weight: 13
 authors: Edited by Lenny Lin
 categories: Category
 date: "2022-01-03"
@@ -7,7 +8,7 @@ draft: false
 lastmod: "2022-01-11"
 series: 
 tags: [Polarity]
-title: Chart of Polarity
+title: Normal-Phase HPLC vs. Reversed-Phase HPLC
 toc: true
 ---
 
@@ -18,7 +19,7 @@ To Compare different core-shell columns.
 <figcaption><b>Figure </b>: </figcaption>
 <img src = "/docs/images/"/>
 
-<figcaption><b>Figure </b>: Chart of Polarity</figcaption>
-<img src = "/docs/images/Screenshot 2022-01-11 045750.png"/>
+<figcaption><b>Figure </b>: Normal-Phase HPLC vs. Reversed-Phase HPLC</figcaption>
+<img src = "/docs/images/Screenshot 2022-01-11 051034.png"/>
 
-https://web.vscht.cz/~schulzov/HPLC/1%20HPLC%202019%20teorie.pdf
+https://web.vscht.cz/~schulzov/HPLC/2%202019%20HPLC%20systemy.pdf

@@ -1,4 +1,5 @@
 ---
+weight: 6
 authors: edited by Lenny Lin
 categories: 
 date: "2022-01-03"
@@ -10,10 +11,6 @@ tags: [Sensitivity]
 title: Chapter 06 HPLC Band Broadening Diagnosis
 toc: true
 ---
-
-<figcaption><b>Figure </b>: </figcaption>
-<img src = "/docs/images/"/>
-
 
 
 <!--more-->

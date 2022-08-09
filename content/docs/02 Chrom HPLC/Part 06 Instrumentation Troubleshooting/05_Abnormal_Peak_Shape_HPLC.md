@@ -6,7 +6,7 @@ description: It talks about abnormal peak shape
 draft: false
 lastmod: "2022-01-28"
 series: 
-tags: []
+tags: [Diagram Demo]
 title: Chapter 05 LC Abnormal Peak Shape
 toc: true
 ---
@@ -834,6 +834,11 @@ They are also caused after routine maintenance when the system has not been reco
 
 ## Diagrams for Troubleshooting Abnormal Peak Shape
 
+{{< mermaid >}}
+stateDiagram-v2
+    State1: The state with a note
+    State1 --> State2
+{{< /mermaid >}}
 
 <div class="mermaid">
   graph LR
@@ -916,5 +921,4 @@ They are also caused after routine maintenance when the system has not been reco
   1.4 --> 1.4.2[pH?]
 </div>
 ____
-<figcaption><b>Figure </b>: </figcaption>
-<img src = "/docs/images/"/>
+

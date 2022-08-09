@@ -1,4 +1,6 @@
 ---
+weight: 7
+title: Part VIII Problems
 authors: Lenny Lin
 categories: category
 date: "2022-01-03"
@@ -7,7 +9,7 @@ draft: false
 lastmod: "2022-01-03"
 series: null
 tags: null
-title: Part 08 Problems
+
 toc: true
 bookCollapseSection: true
 ---

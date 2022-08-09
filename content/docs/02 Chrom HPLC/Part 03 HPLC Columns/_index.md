@@ -1,4 +1,6 @@
 ---
+weight: 3
+title: Part III HPLC Columns
 authors: Lenny Lin
 categories: category
 date: "2022-01-03"
@@ -7,7 +9,7 @@ draft: false
 lastmod: "2022-01-03"
 series: null
 tags: null
-title: Part 03 HPLC Columns
+
 toc: true
 bookCollapseSection: true
 ---
