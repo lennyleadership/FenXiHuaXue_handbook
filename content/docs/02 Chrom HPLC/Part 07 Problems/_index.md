@@ -1,6 +1,6 @@
 ---
 weight: 7
-title: Part VIII Problems
+title: Part VII Problems
 authors: Lenny Lin
 categories: category
 date: "2022-01-03"

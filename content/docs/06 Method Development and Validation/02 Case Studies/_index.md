@@ -1,4 +1,6 @@
 ---
+weight: 2
+title: Part II Case Studies
 authors: Lenny Lin
 categories: category
 date: "2022-04-05"
@@ -7,7 +9,6 @@ draft: false
 lastmod: "2022-05-02"
 series: null
 tags: null
-title: Case Studies
 toc: true
 bookCollapseSection: true
 ---
