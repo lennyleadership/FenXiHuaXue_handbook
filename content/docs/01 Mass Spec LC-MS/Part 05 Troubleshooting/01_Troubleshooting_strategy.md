@@ -1,13 +1,14 @@
 ---
+weight: 1
+title: Troubleshooting strategy
 authors: edited by Lenny Lin
 categories:
+tags: [Troubleshooting]
 date: "2022-07-07"
 description: null
 draft: false
 lastmod: "2022-07-18"
 series:
-tags: [Troubleshooting]
-title: Troubleshooting strategy
 toc: true
 ---
 

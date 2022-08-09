@@ -1,13 +1,14 @@
 ---
+weight: 3
+title: The Visual Basics of Being An Effective Troubleshooter
 authors: J. Will Thompson, edited by Lenny Lin
 categories: MSACL Video Library
+tags: null
 date: "2022-03-17"
 description:  
 draft: false
 lastmod: "2022-07-29"
 series: null
-tags: null
-title: The Visual Basics of Being An Effective Troubleshooter
 toc: true
 ---
 

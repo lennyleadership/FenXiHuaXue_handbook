@@ -1,13 +1,14 @@
 ---
+weight: 4
+title: Troubleshooting Peak Shapes
 authors: Judy Stone, edited by Lenny Lin
 categories: MSACL Video Library
+tags: [Peak Shapes]
 date: "2022-03-17"
 description:  
 draft: false
 lastmod: "2022-07-31"
 series: null
-tags: [Peak Shapes]
-title: Troubleshooting Peak Shapes
 toc: true
 ---
 
