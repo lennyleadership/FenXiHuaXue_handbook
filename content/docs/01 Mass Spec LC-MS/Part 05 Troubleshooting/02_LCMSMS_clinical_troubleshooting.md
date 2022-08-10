@@ -91,8 +91,8 @@ I recommend the following steps to enhance your troubleshooting abilities, outli
 
 1. First rule out false alarms from `common mistakes`. For example, an error yields bad data, such as injecting the wrong vial ([Table 4](https://www.aacc.org/-/media/Files/CLN/2015/Judy-Stone-article-August/Stone-Table-4-CLNAug15.pdf?la=en&hash=5711F71AB69471D56D579CDFEC14E72D55C80D9E)). [^6]  
 &ensp;Any maintenance, component, or reagent replacement is susceptible to `human error`. Don’t hesitate to check, reconnect, repeat, and replace even though it may feel insulting or redundant.   
-2. Distinguish between sample preparation, LC, and MS/MS problems using `the SST` and `MS/MS infusion`.
-&emsp;1) Sample Prep: 
+2. Distinguish between sample preparation, LC, and MS/MS problems using `the SST` and `MS/MS infusion`.  
+&emsp;1) Sample Prep:   
 &emsp;&emsp;a) a normal SST indicates a sample preparation problem, but casual inspection of the SST can lead to a false conclusion that the instrument is working correctly.  
 &emsp;&emsp;b) Evaluate SST results for trends over time as well as for out-of-range values.   
 &emsp;&emsp;c) Verify that the vial or plate cap was pierced by the autosampler needle and confirm that the liquid contents appear as expected.   
@@ -100,7 +100,7 @@ I recommend the following steps to enhance your troubleshooting abilities, outli
 &emsp;&emsp;e) Also, check for lot changes.   
 &emsp;&emsp;f) Finally, a step-by-step review with the analyst who performed the sample preparation may be the only remaining option before repeating the extractions (See [Table 5](https://www.aacc.org/-/media/Files/CLN/2015/Judy-Stone-article-August/Stone-Table-5-CLNAug15.pdf?la=en&hash=811F7D8999745CA959BD0E459929A8EE4F8C693B) for a list of common mistakes categorized by type of sample preparation).  
 &emsp;2) MS/MS:  
-If infusion of standards or calibration solutions indicates the MS/MS signal is decreased, first rule out interventions that do not require venting. For example, confirm that the MS/MS detector voltage is appropriate, mass resolution and calibration are correct, and no ion source maintenance (e.g. new capillary electrode) is needed. Consulting the pattern of MS/MS maintenance-free intervals for the instrument may be helpful (SST records), although one bad sample or a change in the assays performed on the instrument can cause a dramatic loss of response. Most clinical laboratories consult vendor technical support and request onsite service at this stage, although competent end users can change interface components followed by mass resolution and calibration.
+If infusion of standards or calibration solutions indicates the MS/MS signal is decreased, first rule out interventions that do not require venting. For example, confirm that the MS/MS detector voltage is appropriate, mass resolution and calibration are correct, and no ion source maintenance (e.g. new capillary electrode) is needed. Consulting the pattern of MS/MS maintenance-free intervals for the instrument may be helpful (SST records), although one bad sample or a change in the assays performed on the instrument can cause a dramatic loss of response. Most clinical laboratories consult vendor technical support and request onsite service at this stage, although competent end users can change interface components followed by mass resolution and calibration.  
 &emsp;3) LC:   
 LC-related problems are the most common reason for SST and batch failures. Review of the SST report, XIC overlays, and pressure traces are the best tools to detect and solve an LC problem. If you suspect a leak, look at and touch every tubing connection from the pump to the MS/MS source while the instrument is pumping, and look for buffer deposits below a connection or discoloration of metal fittings (green) as indication of a slow leak. Leaks often occur following over pressure.  
 
