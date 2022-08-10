@@ -23,24 +23,26 @@ it is the unexpected instrument failure that compromises productivity more than 
 1) signal-to-noise  
 2) retention time shift  
 3) missing peak  
-4) MS/MS sensitivity
+4) MS/MS sensitivity  
+5) peak abundance  
+6) resolution  
 5) leak  
 6) over pressure  
 
 **What are good practices of maintenance?**   
 &emsp;a) Have spare, clean, MS/MS interface parts ready to install  
 &emsp;b) Track column and lot changes for as many chemicals, reagents, and solvents as possible.  
-&emsp;c) avoid using plastic containers and parafilm
+&emsp;c) avoid using plastic containers and parafilm  
 &emsp;d) ?? practices of adding and discarding residual mobile phase
 
 **What is troubleshooting strategy?** or **What is proactive maintenance about?**
 1) Setup and support proactive maintenance infrastructure  
-&emsp;a) injection of neat standards, double blanks, method blanks daily.
-&emsp;b) post-column syringe infusions for the sensitivity to the MS/MS.
-&emsp;c) have a reference point to compare with.  The reference could be: baseline, retention time, EIC (extracted ion chromatogram), peak height
-&emsp;d) Good records (Shiny app)
-&emsp;e)
-&emsp;f)
+&emsp;a) injection of neat standards, double blanks, method blanks daily.  
+&emsp;b) post-column syringe infusions for the sensitivity to the MS/MS.  
+&emsp;c) have a reference point to compare with.  The reference could be: baseline, retention time, EIC (extracted ion chromatogram), peak height  
+&emsp;d) Good records (Shiny app)  
+&emsp;e)  
+&emsp;f)  
 
 
 1 mg/dL = 1000 &mu;g/100mL = 10 &mu;g/mL = 1000 x 1000 x 10 pg/mL
@@ -49,7 +51,7 @@ it is the unexpected instrument failure that compromises productivity more than 
 ---
 Troubleshooting liquid chromatography-tandem mass spectrometry (LC-MS/MS) systems can be intimidating because the technique is complex, instrument operation and sample processing are still quite manual, and the majority of assays are laboratory-developed tests (LDTs). Vendor service and support has improved, but it is unrealistic to expect that a vendor can have the same degree of understanding for an LDT as for a Food and Drug Administration (FDA)–approved test.
 
-Another challenge is the natural history of LC columns and MS/MS instruments. Chromatography and MS/MS response degrade incrementally with every injection, as residual matrix from extracted sample deposits on the LC column and the MS/MS interface region. Labs replace the LC column when it becomes unusable, and clean the interface region when MS/MS sensitivity falls too low. This pattern recurs regularly; the only variable is the length of time that the MS/MS can operate before cleaning is needed, called the maintenance-free interval. <u>Although most laboratories find LC failures much more often than MS/MS problems, it is often faster to diagnose the root cause and return the LC to normal operations than it is to recover **MS/MS sensitivity**</u> ([Figure 1](https://www.aacc.org/-/media/Files/CLN/2015/Judy-Stone-article-August/Stone-Figure-1-CLNAug15.pdf?la=en&hash=3D56664D6DE62E79A18EBB97B5B4D72A125CF97A)). [^1]  
+Another challenge is the natural history of LC columns and MS/MS instruments. Chromatography and MS/MS response degrade incrementally with every injection, as residual matrix from extracted sample deposits on the LC column and the MS/MS interface region. Labs replace the LC column when it becomes unusable, and clean the interface region when MS/MS sensitivity falls too low. This pattern recurs regularly; the only variable is the length of time that the MS/MS can operate before cleaning is needed, called the maintenance-free interval. <u>Although most laboratories find LC failures much more often than MS/MS problems, it is often faster to diagnose the root cause and return the LC to normal operations than it is to recover `MS/MS sensitivity`</u> ([Figure 1](https://www.aacc.org/-/media/Files/CLN/2015/Judy-Stone-article-August/Stone-Figure-1-CLNAug15.pdf?la=en&hash=3D56664D6DE62E79A18EBB97B5B4D72A125CF97A)). [^1]  
 
 The key to minimizing instrument unavailability and producing reliable patient results is <u>implementing sample preparation and maintenance protocols</u> that deliver predictable maintenance-free intervals. Although needing to clean the MS/MS less often does mean that more samples can be tested per instrument, <u>it is the unexpected instrument failure that compromises productivity more than the regularly scheduled preventative maintenance</u>. Therefore, <u>successful troubleshooting skills</u> are vital to diagnose instrument decline early and intervene before there is a batch failure. Of course, troubleshooting will be of little value unless the laboratory knows its instrument well ([Table 1](https://www.aacc.org/-/media/Files/CLN/2015/Judy-Stone-article-August/Stone-Table-1-CLNAug15.pdf?la=en&hash=6C6B0A0718796F956AB201FB3D5FAFDC3EED6859)). [^2]  
 
@@ -75,9 +77,9 @@ I recommend the following steps to enhance your troubleshooting abilities, outli
 
 3. For almost any problem, review the SST results. The SST can distinguish between an instrument problem versus a sample preparation failure because the sample preparation phase is bypassed by using neat standards.
 
-4. Compare composite extracted ion chromatogram (XIC) overlays from questionable injections to your archived images. Changes in the pattern of relative peak abundance, `Rt`, or `resolution` may be immediately apparent with XIC overlays when review of individual peaks is unrevealing.
+4. **Compare composite extracted ion chromatogram (XIC) overlays** from questionable injections to your archived images. Changes in the pattern of relative peak abundance, Rt, or `resolution` may be immediately apparent with XIC overlays when review of individual peaks is unrevealing.
 
-5. When you question your `MS/MS response`, compare peak heights from post-column syringe infusions to your historical values to isolate a loss of sensitivity to the MS/MS rather than LC. However, infusion abundance sometimes appears acceptable even when the MS/MS needs service, so always evaluate infusions in the context of the SST.
+5. When you question your `MS/MS response`, **compare peak heights** from post-column syringe infusions to your historical values to isolate a loss of sensitivity to the MS/MS rather than LC. However, infusion abundance sometimes appears acceptable even when the MS/MS needs service, so always evaluate infusions in the context of the SST.
 
 6. Peruse the maintenance chart and accept that every human intervention (including your own) is suspect when there is a subsequent change in instrument performance. As long as good records are kept, you can appear to be a genius with the quick fix of an operator mistake or non-compliance with the standard operating procedure.
 
@@ -85,13 +87,19 @@ I recommend the following steps to enhance your troubleshooting abilities, outli
 
 **Divide and Conquer**
 
-1. First rule out false alarms from common mistakes. For example, an error yields bad data, such as injecting the wrong vial ([Table 4](https://www.aacc.org/-/media/Files/CLN/2015/Judy-Stone-article-August/Stone-Table-4-CLNAug15.pdf?la=en&hash=5711F71AB69471D56D579CDFEC14E72D55C80D9E)). [^6]
+1. First rule out false alarms from `common mistakes`. For example, an error yields bad data, such as injecting the wrong vial ([Table 4](https://www.aacc.org/-/media/Files/CLN/2015/Judy-Stone-article-August/Stone-Table-4-CLNAug15.pdf?la=en&hash=5711F71AB69471D56D579CDFEC14E72D55C80D9E)). [^6]
 
-2. Any maintenance, component, or reagent replacement is susceptible to human error. Don’t hesitate to check, reconnect, repeat, and replace even though it may feel insulting or redundant.
+2. Any maintenance, component, or reagent replacement is susceptible to `human error`. Don’t hesitate to check, reconnect, repeat, and replace even though it may feel insulting or redundant.
 
-3. Distinguish between sample preparation, LC, and MS/MS problems using the SST and MS/MS infusion.
+3. Distinguish between sample preparation, LC, and MS/MS problems using `the SST` and `MS/MS infusion`.
 
-4. Sample Prep: a normal SST indicates a sample preparation problem, but casual inspection of the SST can lead to a false conclusion that the instrument is working correctly. Evaluate SST results for trends over time as well as for out-of-range values. Verify that the vial or plate cap was pierced by the autosampler needle and confirm that the liquid contents appear as expected. Re-inject a stable extracted sample from a previous batch to confirm acceptable instrument performance. Also, check for lot changes. Finally, a step-by-step review with the analyst who performed the sample preparation may be the only remaining option before repeating the extractions (See [Table 5](https://www.aacc.org/-/media/Files/CLN/2015/Judy-Stone-article-August/Stone-Table-5-CLNAug15.pdf?la=en&hash=811F7D8999745CA959BD0E459929A8EE4F8C693B) for a list of common mistakes categorized by type of sample preparation).
+4. Sample Prep: 
+&emsp;1) a normal SST indicates a sample preparation problem, but casual inspection of the SST can lead to a false conclusion that the instrument is working correctly. 
+&emsp;2) Evaluate SST results for trends over time as well as for out-of-range values. 
+&emsp;3) Verify that the vial or plate cap was pierced by the autosampler needle and confirm that the liquid contents appear as expected. 
+&emsp;4) Re-inject a stable extracted sample from a previous batch to confirm acceptable instrument performance. 
+&emsp;5) Also, check for lot changes. 
+&emsp;6) Finally, a step-by-step review with the analyst who performed the sample preparation may be the only remaining option before repeating the extractions (See [Table 5](https://www.aacc.org/-/media/Files/CLN/2015/Judy-Stone-article-August/Stone-Table-5-CLNAug15.pdf?la=en&hash=811F7D8999745CA959BD0E459929A8EE4F8C693B) for a list of common mistakes categorized by type of sample preparation).
 
 5. MS/MS: If infusion of standards or calibration solutions indicates the MS/MS signal is decreased, first rule out interventions that do not require venting. For example, confirm that the MS/MS detector voltage is appropriate, mass resolution and calibration are correct, and no ion source maintenance (e.g. new capillary electrode) is needed. Consulting the pattern of MS/MS maintenance-free intervals for the instrument may be helpful (SST records), although one bad sample or a change in the assays performed on the instrument can cause a dramatic loss of response. Most clinical laboratories consult vendor technical support and request onsite service at this stage, although competent end users can change interface components followed by mass resolution and calibration.
 
@@ -161,7 +169,7 @@ Table 5 Some common sample preparation problems by extraction type
 </table>
 
 ---
-[^1]: Figure 1   
+[^1]: **Figure 1**   
 Extracted biological fluid samples contain varying degrees of residual matrix which deposits on the front end components of the MS/MS (entrance plate and interface region) when samples are injected on the LC-MS/MS system. Eventually the interface region becomes contaminated and MS/MS performance is compromised—for example sensitivity (peak area) is decreased. The MS/MS is vented to atmospheric pressure and cooled. Interface components are removed and cleaned or replaced. The MS/MS is pumped down to operating vacuum pressures (e.g. 1 e-5 torr) and returned to use after checking/updating mass resolution and calibration. Typically the instrument is out of service for 18-24 hrs, most of the time spent on the pump down phase.   
 <img width ="360" height= "200" src = "/docs/images/Screenshot 2022-08-09 153054.png"/>  
 [^2]: **Table 1 Know your instrument better than you know your co-workers**   
@@ -174,7 +182,7 @@ Extracted biological fluid samples contain varying degrees of residual matrix wh
 &emsp;7. Create and archive composite extracted ion chromatogram (XIC) overlays with a fixed Y scale for all MRMs in a low calibrator with good chromatography.  This documents normal retention times (Rt), peak shapes, resolution and relative heights.   
 &emsp;8. As a baseline for future reference record the MS/MS response on more than one occasion from post-column infusion of pure standards in methanol.  Write a protocol including the instrument parameters used for infusion.   
 &emsp;9. Archive photographs of the MS/MS ion source and the cone, curtain plate or skimmer (differs by vendor - the first heated MS/MS surface encountered by volatilized samples) when clean.  Some discoloration of this metal surface is expected, but deposition of excess salts and carbonized matrix may indicate errors in maintenance, divert valve editing, reagent or sample preparation. 
-[^3]: Table 2 Recommendations for items to include in an LC-MS/MS maintenance calendar  
+[^3]: **Table 2 Recommendations for items to include in an LC-MS/MS maintenance calendar**  
 Customize as needed based on vendor guidance, number of samples tested, extent of sampleclean-up (minimal or extensive matrix removal during extraction)  
 **Daily System Checks & Instrument Preparation**  
 &emsp;1. Sufficient mobile phases & autosampler wash  
@@ -215,10 +223,10 @@ Customize as needed based on vendor guidance, number of samples tested, extent o
 &emsp;1. Verify acceptable separation of peaks most sensitive to column degradation (if applicable).  
 &emsp;2. Document (screen shot, print) acceptable peak shape for analyte(s) most sensitive to column degradation.  
 &emsp;3. Verify baseline signal (counts per sec or cps) is below action limit  
-[^5]: Figure 2  
+[^5]: **Figure 2**  
 The MS/MS “interface” is defined generically as the hardware components under vacuum between the ion source and the first mass analyzer quadrupole. These components differ in design from one vendor to another (IonDrive™, iFunnel , Stepwave Ion Guide, Active Ion Management [AIM™]) but have the common purpose of **increasing ion transfer efficiency and reducing transfer of neutral species and gases** from the ion source to the mass analyzer region. These surfaces receive the maximum exposure to residual matrix from extracted biological fluids and environmental contaminants, and therefore are susceptible to contamination and compromised function. The blue arrow denotes the direction of the ion path.  
 <img width ="360" height= "200" src = "/docs/images/Screenshot 2022-08-09 195057.png" />  
-[^6]: Table 4 Common “false alarm” mistakes – operator failure instead of instrument failure   
+[^6]: **Table 4 Common “false alarm” mistakes – operator failure instead of instrument failure**   
 &emsp;1. Injecting the wrong vial (mistaken position in autosampler tray) for SST – no or wrong peaks  
 &emsp;2. Injecting the wrong volume (typically 0 volume) for SST – no peaks or low peak areas  
 &emsp;3. Insufficient liquid in vials for SST – high %CV with latter injections having low peak area, no peak  
