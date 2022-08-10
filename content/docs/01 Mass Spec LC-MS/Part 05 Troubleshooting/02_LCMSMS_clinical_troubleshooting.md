@@ -70,13 +70,14 @@ I recommend the following steps to enhance your troubleshooting abilities, outli
 7. Selected distortions in peak shape and pressure traces are diagnostic for specific injection matrix, LC plumbing, LC pump, and column problems ([Table 6](https://www.aacc.org/-/media/Files/CLN/2015/Judy-Stone-article-August/Stone-Figure-6-CLNAug15.pdf?la=en&hash=83D9C9944A637FF211D927F7E7613ECA5265C180)). [^7]
 
 Even if you can’t solve the problem, taking the first steps and sharing your troubleshooting data with the vendor service representative can get the instrument back in to service more quickly. Discussions with and learning from the service representative also boosts your troubleshooting skills, although nothing is more rewarding than finding the root cause of an obscure LC problem on your own. Grab your wrenches and troubleshoot!
+
 ---
 Table 5 Some common sample preparation problems by extraction type  
 <table style="width:100%;">
 <colgroup><col style="width: 40%" /><col style="width: 60%" />
 </colgroup>
 <thead>
-  <tr VALIGN=TOP class="header">
+  <tr VALIGN=TOP style="text-align:left" class="header">
     <th><p>Type of Sample Preparation</p></th>
     <th><p>Common Problems and Outcomes</p></th>
   </tr>
@@ -197,7 +198,9 @@ The MS/MS “interface” is defined generically as the hardware components unde
 &emsp;8. Wrong acquisition method used for SST – no or wrong peaks  
 &emsp;9. Wrong data analysis method used for SST – no peaks, selected peaks are missing  
 &emsp;10. Data files stored in wrong project for SST – no peaks, no baseline  
-[^7]: Table 6 Examples of LC problems diagnosed from peak shape and pressure traces
+[^7]: Table 5 Some common sample preparation problems by extraction type 
+<img width ="360" height= "200" src = "/docs/images/"/>
+[^8]: Table 6 Examples of LC problems diagnosed from peak shape and pressure traces
 <img width ="720" height= "400" src = "/docs/images/Screenshot 2022-08-09 200845.png"/>
 
 
