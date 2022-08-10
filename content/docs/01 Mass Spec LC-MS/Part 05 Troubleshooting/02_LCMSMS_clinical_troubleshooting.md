@@ -199,7 +199,7 @@ The MS/MS “interface” is defined generically as the hardware components unde
 &emsp;9. Wrong data analysis method used for SST – no peaks, selected peaks are missing  
 &emsp;10. Data files stored in wrong project for SST – no peaks, no baseline  
 [^7]: Table 5 Some common sample preparation problems by extraction type 
-<img width ="360" height= "200" src = "/docs/images/"/>
+<img width ="360" height= "200" src = "/docs/images/Screenshot 2022-08-09 201922.png"/>
 [^8]: Table 6 Examples of LC problems diagnosed from peak shape and pressure traces
 <img width ="720" height= "400" src = "/docs/images/Screenshot 2022-08-09 200845.png"/>
 
