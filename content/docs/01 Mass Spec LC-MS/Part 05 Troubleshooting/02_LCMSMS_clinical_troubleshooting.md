@@ -19,7 +19,7 @@ Most laboratories encounter much more LC failures than MS/MS problems, but they 
 
 it is the unexpected instrument failure that compromises productivity more than <u>the regularly scheduled **preventative** maintenance</u>. Therefore, successful troubleshooting skills are vital to diagnose instrument decline early (**proactive maintenance**) and intervene before there is a batch failure.  
 
-**List of problems**
+**List of problems**  
 1) signal-to-noise  
 2) retention time shift  
 3) missing peak  
@@ -43,9 +43,9 @@ it is the unexpected instrument failure that compromises productivity more than 
 &emsp;d) Good records (Shiny app)  
 &emsp;e)  
 &emsp;f)  
-2) Divide and conquer
+2) Divide and conquer  
 &emsp;a) 'false alarms' from analyst failure.
-&emsp;b) 
+&emsp;b) 'Sample preparation', 'LC', 'MS/MS'
 
 1 mg/dL = 1000 &mu;g/100mL = 10 &mu;g/mL = 1000 x 1000 x 10 pg/mL
 
@@ -90,7 +90,7 @@ I recommend the following steps to enhance your troubleshooting abilities, outli
 **Divide and Conquer**
 
 1. First rule out false alarms from `common mistakes`. For example, an error yields bad data, such as injecting the wrong vial ([Table 4](https://www.aacc.org/-/media/Files/CLN/2015/Judy-Stone-article-August/Stone-Table-4-CLNAug15.pdf?la=en&hash=5711F71AB69471D56D579CDFEC14E72D55C80D9E)). [^6]  
-&emsp;Any maintenance, component, or reagent replacement is susceptible to `human error`. Don’t hesitate to check, reconnect, repeat, and replace even though it may feel insulting or redundant.   
+&ensp;Any maintenance, component, or reagent replacement is susceptible to `human error`. Don’t hesitate to check, reconnect, repeat, and replace even though it may feel insulting or redundant.   
 2. Distinguish between sample preparation, LC, and MS/MS problems using `the SST` and `MS/MS infusion`.
 &emsp;1) Sample Prep: 
 &emsp;&emsp;a) a normal SST indicates a sample preparation problem, but casual inspection of the SST can lead to a false conclusion that the instrument is working correctly.  
