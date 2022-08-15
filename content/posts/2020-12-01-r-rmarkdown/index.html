@@ -47,3 +47,18 @@ Figure 1: A fancy pie chart.
 </p>
 </div>
 </div>
+<div id="fishbone-diagram" class="section level1">
+<h1>Fishbone diagram</h1>
+<pre class="r"><code>library(SixSigma)
+## Warning: package &#39;SixSigma&#39; was built under R version 4.2.1
+
+effect &lt;- &quot;Low Sensitivity&quot;
+causes.gr &lt;- c(&quot;MS&quot;, &quot;LC&quot;, &quot;Sample Preparation&quot;, &quot;Human Failures&quot;)
+causes &lt;- vector(mode = &quot;list&quot;, length = length(causes.gr))
+causes[1] &lt;- list(c(&quot;---ESI&quot;, &quot;---EMV&quot;, &quot;---Ion Source&quot;))
+causes[2] &lt;- list(c(&quot;---Column degration&quot;, &quot;---Contamination&quot;))
+causes[3] &lt;- list(c(&quot;---Analyte Loss&quot;))
+causes[4] &lt;- list(c(&quot;---Wrong vial&quot;, &quot;&quot;, &quot;&quot;))
+ss.ceDiag(effect, causes.gr, causes, main = &quot;Sensitivity with LC-MS/MS&quot;, sub = &quot;test&quot;)</code></pre>
+<p><img src="{{< blogdown/postref >}}index_files/figure-html/unnamed-chunk-1-1.png" width="672" /></p>
+</div>

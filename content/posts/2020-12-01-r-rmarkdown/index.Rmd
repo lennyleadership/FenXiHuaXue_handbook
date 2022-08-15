@@ -36,3 +36,18 @@ pie(
 )
 ```
 
+
+# Fishbone diagram
+
+```{r}
+library(SixSigma)
+
+effect <- "Low Sensitivity"
+causes.gr <- c("MS", "LC", "Sample Preparation", "Human Failures")
+causes <- vector(mode = "list", length = length(causes.gr))
+causes[1] <- list(c("---ESI", "---EMV", "---Ion Source"))
+causes[2] <- list(c("---Column degration", "---Contamination"))
+causes[3] <- list(c("---Analyte Loss"))
+causes[4] <- list(c("---Wrong vial", "", ""))
+ss.ceDiag(effect, causes.gr, causes, main = "Sensitivity with LC-MS/MS", sub = "test")
+```
