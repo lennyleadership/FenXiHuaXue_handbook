@@ -1,4 +1,5 @@
 +++
+weight: 103
 title = "Getting Started with Hugo"
 description = ""
 tags = [
