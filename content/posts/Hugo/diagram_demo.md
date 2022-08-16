@@ -1,18 +1,4 @@
----
-weight: 100
-title: Diagram demo
-authors: Lenny Lin
-categories:
-tags: [Troubleshooting Strategy, Diagram demo]
-date: "2022-07-07"
-description: null
-draft: false
-lastmod: "2022-07-18"
-series:
-toc: true
----
-
-
++++
 title = "Diagram demo"
 description = ""
 tags = [
@@ -22,7 +8,7 @@ date = "2022.08.09"
 categories = [
 ]
 menu = "main"
-
++++
 
 {{< mermaid >}}
 stateDiagram-v2

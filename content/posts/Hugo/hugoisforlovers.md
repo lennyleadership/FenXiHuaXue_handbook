@@ -1,4 +1,4 @@
----
++++
 title = "Getting Started with Hugo"
 description = ""
 tags = [
@@ -13,7 +13,7 @@ categories = [
     "golang",
 ]
 menu = "main"
----
++++
 
 ## Step 1. Install Hugo
 
