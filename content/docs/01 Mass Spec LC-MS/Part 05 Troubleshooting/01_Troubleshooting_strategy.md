@@ -17,15 +17,35 @@ toc: true
 <!--more-->
 
 ---
-The first step is to list the potential root causes to the problem.  Build a fishbone diagram if you wish. If you had a problem of sensitivity with LC-MS/MS.  The root causes would be:
-1) MS part
-1) ESI  
-2) dirty ion source
-3) 
+The first step is to list the potential root causes to the problem.  Build a Fishbone (Cause and Effect) diagram if you wish. Below is an example
+
+<img width ="360" height= "200" src = "/docs/images/Screenshot 2022-08-15 110558.png"/>
+
+The causes are broken into four categories.  
+
+How do I know where I look into?  
+- Build up a system, so that each cause should be monitored and there were reference so that we know we deviate from it. 
+- Rule out easy cause(s) firstly  
 
 
 
-## Part I Building up a system
+{{< mermaid >}}
+stateDiagram-v2
+    State1: Monitoring Parameters <br> (Establish baseline during method validation and <br> monitor the performance during routine analysis)<br>&emsp;1) Spiked blank at LOQ <br>&emsp;&emsp;- Peak Area and Action Limits <br>&emsp;&emsp;- Analyte-to-Internal Standard Ratio and Action Limits <br>&emsp;&emsp;- Qualifier-to-Quantifier Ratio and Action Limits <br>&emsp;2) Method Blank <br>&emsp;&emsp;- Contaminate Peak Area and Action Limits <br>&emsp;3) Key parameters on autotune reports <br>&emsp;&emsp;- Infusion analysis <br>&emsp;&emsp;- Vacuum readings <br>&emsp;&emsp;- Readbacks on airflow <br>&emsp;&emsp;- Temperature <br>&emsp;4) MS/MS <br>&emsp;&emsp;- EMV, ESI <br>&emsp;5) LC <br>&emsp;&emsp;- Pressure traces
+    State2: Troubleshooting Database/Logbooks <br>&emsp;- Symptoms and solutions <br>&emsp;- Searchable
+    State3: Maintenance Logbooks <br>&emsp;- Replacement of column, mobile phase <br>&emsp;- Preventive maintenace
+    State4: Breakdown the System <br>&emsp;1) Human Failures <br>&emsp;2) MS/MS <br>&emsp;3) LC <br>&emsp;4) Sample Preparation
+    State5: Troubleshooting Tips <br>&emsp;1) Make one change at a time <br>&emsp;2) Go backward from the end to the beginning <br>&emsp;3) Unscheduled method
+    State1 --> State4
+    State2 --> State4
+    State3 --> State4
+    State4 --> State5
+{{< /mermaid >}}
+
+
+
+
+## Part I Building up a monitoring system
 
 ### At the beginning
 The program starts at the very beginning when the instrument was commissioned.  Collect the following information at its best condition.
@@ -58,8 +78,10 @@ On top of the scheduled preventive maintenance, the program is executed on a reg
 &emsp;1. Verify acceptable separation of peaks most sensitive to column degradation (if applicable).  
 &emsp;2. 
 
+## Part II Build up a troublshooting database
+symptoms, solutions, searchable
 
-## Part II Troubleshooting
+## Part III Troubleshooting
 
 ### Level I: Easily-fixed problem
 rule out operator false, such as wrong injection,  
@@ -88,7 +110,7 @@ They are:
 
 Troubleshooting workflow:
 ) rule out simple problem.  
-) isolate area. [sample preparation, mass spectrometer, HPLC,  
+) isolate area. [sample preparation, mass spectrometer, HPLC]  
 ) 
 ) 
 
