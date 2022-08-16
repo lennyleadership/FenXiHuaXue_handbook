@@ -1,0 +1,110 @@
+---
+weight: 2
+title: "Fishbone Demo"
+author: "Lenny Lin"
+date: 2022-08-16
+categories: ["Troubleshooting Database"]
+tags: ["Fishbone Demo", "Troubleshooting Demo"]
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(collapse = TRUE)
+```
+
+# Fishbone diagram
+
+```{r, warning = F, echo= F }
+library(SixSigma)
+
+effect <- "Low Sensitivity"
+causes.gr <- c("MS", "LC", "Sample Preparation", "Human Failures")
+causes <- vector(mode = "list", length = length(causes.gr))
+causes[1] <- list(c("--- ESI", "--- EMV", "--- Ion Source"))
+causes[2] <- list(c("--- Column Degration", "--- Contamination", "--- Pressure Traces"))
+causes[3] <- list(c("--- Analyte Loss", "--- Washing solvent", "--- eluting solvent"))
+causes[4] <- list(c("--- Wrong Injection"))
+ss.ceDiag(effect, causes.gr, causes, main = "Sensitivity with LC-MS/MS", sub = "")
+```
+
+
+
+```{r Abnormal peak shape, echo= F }
+
+
+effect <- "Abnormal Peak Shape"
+causes.gr <- c("","")
+causes <- vector(mode = "list", length = length(causes.gr))
+causes[1] <- list(c(""))
+causes[2] <- list(c(""))
+causes[3] <- list(c(""))
+causes[4] <- list(c(""))
+causes[5] <- list(c(""))
+ss.ceDiag(effect, causes.gr, causes, main = "Abnormal Peak Shape: LC-MS/MS", sub = "")
+```
+
+
+```{r missing peak, echo= F }
+effect <- "Missing Peak"
+causes.gr <- c("","")
+causes <- vector(mode = "list", length = length(causes.gr))
+causes[1] <- list(c(""))
+causes[2] <- list(c(""))
+causes[3] <- list(c(""))
+causes[4] <- list(c(""))
+causes[5] <- list(c(""))
+ss.ceDiag(effect, causes.gr, causes, main = "Missing Peak: LC-MS/MS", sub = "")
+
+```
+
+
+```{r , echo= F }
+effect <- "Leak"
+causes.gr <- c("Column Hardware","Connections")
+causes <- vector(mode = "list", length = length(causes.gr))
+causes[1] <- list(c("Incorrect"))
+causes[2] <- list(c("b"))
+causes[3] <- list(c(""))
+causes[4] <- list(c(""))
+causes[5] <- list(c(""))
+ss.ceDiag(effect, causes.gr, causes, main = "Leak: LC-MS/MS", sub = "Pressure Traces")
+```
+
+
+```{r template, echo= F }
+effect <- ""
+causes.gr <- c("","")
+causes <- vector(mode = "list", length = length(causes.gr))
+causes[1] <- list(c(""))
+causes[2] <- list(c(""))
+causes[3] <- list(c(""))
+causes[4] <- list(c(""))
+causes[5] <- list(c(""))
+ss.ceDiag(effect, causes.gr, causes, main = "", sub = "")
+```
+
+
+# R Markdown
+
+This is an R Markdown document. Markdown is a simple formatting syntax for authoring HTML, PDF, and MS Word documents. For more details on using R Markdown see <http://rmarkdown.rstudio.com>.
+
+You can embed an R code chunk like this:
+
+```{r cars}
+summary(cars)
+fit <- lm(dist ~ speed, data = cars)
+fit
+```
+
+# Including Plots
+
+You can also embed plots. See Figure \@ref(fig:pie) for example:
+
+```{r pie, fig.cap='A fancy pie chart.', tidy=FALSE}
+par(mar = c(0, 1, 0, 1))
+pie(
+  c(280, 60, 20),
+  c('Sky', 'Sunny side of pyramid', 'Shady side of pyramid'),
+  col = c('#0292D8', '#F7EA39', '#C4B632'),
+  init.angle = -50, border = NA
+)
+```

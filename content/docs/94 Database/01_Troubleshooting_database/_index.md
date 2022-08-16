@@ -1,8 +1,8 @@
 ---
-weight: 
-title: Template
+weight: 1
+title: LCMS Troubleshooting Database
 authors: Lenny Lin
-categories: category
+categories: [Troubleshooting Database]
 tags: null
 date: "2022-08-16"
 description: Used as a template.

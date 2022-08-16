@@ -1,13 +1,14 @@
 ---
+weight: 5
+title: Columns
 authors: Lenny Lin
 categories: null
+tags: null
 date: "2022-01-03"
 description: Columns
 draft: false
 lastmod: "2022-01-03"
 series: null
-tags: null
-title: Part 01 Columns
 toc: true
 bookCollapseSection: true
 ---

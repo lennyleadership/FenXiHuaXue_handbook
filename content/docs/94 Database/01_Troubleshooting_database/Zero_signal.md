@@ -1,8 +1,8 @@
 ---
-weight: 
-title: Template
+weight: 1
+title: Zero Signal
 authors: edited by Lenny Lin
-categories: Category
+categories: [Troubleshooting Database]
 tags: []
 date: "2022-01-03"
 description: null
