@@ -63,6 +63,6 @@ If you look at the fragmentation spectrum, you can see that Fragment B is four t
 All molecules will behave differently, but basic chemistry rules governing bond energies will always remain the same. 
 <div class ="row">
 <img width ="360" height= "200" src = "/docs/images/Screenshot 2022-06-23 183417.png" style ="float: left" HSPACE="10" VSPACE="10"/>  
-So it is possible to predict what `the fragmentation spectrum` may look like. For example, peptides or linear chains of amino acids linked by amide bonds. Under CID, most of these amide bonds will fragment equally.   So typically you get a ladder like fragmentation spectra like this. 
+So it is possible to predict what <u>the fragmentation spectrum</u> may look like. For example, peptides or linear chains of amino acids linked by amide bonds. Under CID, most of these amide bonds will fragment equally.   So typically you get a ladder like <u>fragmentation spectra</u> like this. 
 </div>
-By using simple rules and chemistry knowledge, we can use `fragmentation spectra` to help us identify unknown compounds or increased confidence in the identification when screening. A basic understanding of the rules is important but like many things in mass spectrometry, many software packages help with data interpretation.
+By using simple rules and chemistry knowledge, we can use <u>fragmentation spectra</u> to help us identify unknown compounds or increased confidence in the identification when screening. A basic understanding of the rules is important but like many things in mass spectrometry, many software packages help with data interpretation.

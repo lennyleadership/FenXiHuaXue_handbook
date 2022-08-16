@@ -3,7 +3,7 @@ weight: 1
 title: Troubleshooting strategy
 authors: Lenny Lin
 categories:
-tags: [Troubleshooting Strategy]
+tags: [Troubleshooting Strategy, Diagram demo]
 date: "2022-07-07"
 description: null
 draft: false
@@ -34,15 +34,21 @@ stateDiagram-v2
     State1: Monitoring Parameters <br> (Establish baseline during method validation and <br> monitor the performance during routine analysis)<br>&emsp;1) Spiked blank at LOQ <br>&emsp;&emsp;- Peak Area and Action Limits <br>&emsp;&emsp;- Analyte-to-Internal Standard Ratio and Action Limits <br>&emsp;&emsp;- Qualifier-to-Quantifier Ratio and Action Limits <br>&emsp;2) Method Blank <br>&emsp;&emsp;- Contaminate Peak Area and Action Limits <br>&emsp;3) Key parameters on autotune reports <br>&emsp;&emsp;- Infusion analysis <br>&emsp;&emsp;- Vacuum readings <br>&emsp;&emsp;- Readbacks on airflow <br>&emsp;&emsp;- Temperature <br>&emsp;4) MS/MS <br>&emsp;&emsp;- EMV, ESI <br>&emsp;5) LC <br>&emsp;&emsp;- Pressure traces
     State2: Troubleshooting Database/Logbooks <br>&emsp;- Symptoms and solutions <br>&emsp;- Searchable
     State3: Maintenance Logbooks <br>&emsp;- Replacement of column, mobile phase <br>&emsp;- Preventive maintenace
-    State4: Breakdown the System <br>&emsp;1) Human Failures <br>&emsp;2) MS/MS <br>&emsp;3) LC <br>&emsp;4) Sample Preparation
-    State5: Troubleshooting Tips <br>&emsp;1) Make one change at a time <br>&emsp;2) Go backward from the end to the beginning <br>&emsp;3) Unscheduled method
-    State1 --> State4
-    State2 --> State4
-    State3 --> State4
+    State4: The error log
+    State5: Breakdown the System <br>&emsp;1) Human Failures <br>&emsp;2) MS/MS <br>&emsp;3) LC <br>&emsp;4) Sample Preparation
+    State6: Troubleshooting Tips <br>&emsp;1) Make one change at a time <br>&emsp;2) Go backward from the end to the beginning
+    State1 --> State5
+    State2 --> State5
+    State3 --> State5
     State4 --> State5
+    State5 --> State6
 {{< /mermaid >}}
 
 
+{{< mermaid >}}
+stateDiagram-v2
+State1: Troubleshooting Tools <br>&emsp;1) Unscheduled method<br>&emsp;2) Visual inspection of charts,<br>&emsp;&emsp; chromatographs, spectra<br>&emsp;3) Run standard.
+{{< /mermaid >}}
 
 
 ## Part I Building up a monitoring system
