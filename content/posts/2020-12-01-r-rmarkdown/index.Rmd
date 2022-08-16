@@ -57,15 +57,15 @@ ss.ceDiag(effect, causes.gr, causes, main = "Missing Peak: LC-MS/MS", sub = "")
 
 
 ```{r , echo= F }
-effect <- ""
-causes.gr <- c("","")
+effect <- "Leak"
+causes.gr <- c("Column Hardware","Connections")
 causes <- vector(mode = "list", length = length(causes.gr))
-causes[1] <- list(c(""))
-causes[2] <- list(c(""))
+causes[1] <- list(c("Incorrect"))
+causes[2] <- list(c("b"))
 causes[3] <- list(c(""))
 causes[4] <- list(c(""))
 causes[5] <- list(c(""))
-ss.ceDiag(effect, causes.gr, causes, main = "Leak: LC-MS/MS", sub = "")
+ss.ceDiag(effect, causes.gr, causes, main = "Leak: LC-MS/MS", sub = "Pressure Traces")
 ```
 
 
@@ -78,7 +78,7 @@ causes[2] <- list(c(""))
 causes[3] <- list(c(""))
 causes[4] <- list(c(""))
 causes[5] <- list(c(""))
-ss.ceDiag(effect, causes.gr, causes, main = "Leak: LC-MS/MS", sub = "")
+ss.ceDiag(effect, causes.gr, causes, main = "", sub = "")
 ```
 
 

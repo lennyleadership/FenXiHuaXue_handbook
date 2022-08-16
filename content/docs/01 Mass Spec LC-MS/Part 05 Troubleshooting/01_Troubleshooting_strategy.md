@@ -31,7 +31,7 @@ How do I know where I look into?
 
 {{< mermaid >}}
 stateDiagram-v2
-    State1: Monitoring Parameters <br> (Establish baseline during method validation and <br> monitor the performance during routine analysis)<br>&emsp;1) Spiked blank at LOQ <br>&emsp;&emsp;- Peak Area and Action Limits <br>&emsp;&emsp;- Analyte-to-Internal Standard Ratio and Action Limits <br>&emsp;&emsp;- Qualifier-to-Quantifier Ratio and Action Limits <br>&emsp;2) Method Blank <br>&emsp;&emsp;- Contaminate Peak Area and Action Limits <br>&emsp;3) Key parameters on autotune reports <br>&emsp;&emsp;- Infusion analysis <br>&emsp;&emsp;- Vacuum readings <br>&emsp;&emsp;- Readbacks on airflow <br>&emsp;&emsp;- Temperature <br>&emsp;4) MS/MS <br>&emsp;&emsp;- EMV, ESI <br>&emsp;5) LC <br>&emsp;&emsp;- Pressure traces
+    State1: Monitoring Parameters <br> (Establish baseline during method validation and <br> monitor the performance during routine analysis)<br>&emsp;1) Spiked blank at LOQ <br>&emsp;&emsp;- Peak Area and Action Limits <br>&emsp;&emsp;- Analyte-to-Internal Standard Ratio and Action Limits <br>&emsp;&emsp;- Qualifier-to-Quantifier Ratio and Action Limits <br>&emsp;2) Method Blank <br>&emsp;&emsp;- Contaminate Peak Area and Action Limits <br>&emsp;3) Key parameters on autotune reports <br>&emsp;&emsp;- Infusion analysis <br>&emsp;&emsp;- Vacuum readings <br>&emsp;&emsp;- Readbacks on airflow <br>&emsp;&emsp;- Temperature <br>&emsp;4) MS/MS <br>&emsp;&emsp;- EMV, ESI, vaccum gauge, mass accuracy <br>&emsp;5) LC <br>&emsp;&emsp;- Pressure traces
     State2: Troubleshooting Database/Logbooks <br>&emsp;- Symptoms and solutions <br>&emsp;- Searchable
     State3: Maintenance Logbooks <br>&emsp;- Replacement of column, mobile phase <br>&emsp;- Preventive maintenace
     State4: The error log
@@ -47,7 +47,7 @@ stateDiagram-v2
 
 {{< mermaid >}}
 stateDiagram-v2
-State1: Troubleshooting Tools <br>&emsp;1) Unscheduled method<br>&emsp;2) Visual inspection of charts,<br>&emsp;&emsp; chromatographs, spectra<br>&emsp;3) Run standard.
+State1: Troubleshooting Tools <br>&emsp;1) Unscheduled method<br>&emsp;2) Visual inspection of charts,<br>&emsp;&emsp; chromatographs, spectra<br>&emsp;3) Run standard<br>&emsp;4) Flow measurement
 {{< /mermaid >}}
 
 
