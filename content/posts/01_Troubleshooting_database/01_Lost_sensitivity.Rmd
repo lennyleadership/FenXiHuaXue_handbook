@@ -1,0 +1,39 @@
+---
+weight: 1
+title: "Lost Sensitivity"
+author: "Lenny Lin"
+categories: ["Troubleshooting Database"]
+tags: ["Fishbone Demo"]
+toc: true
+date: "2022-08-16"
+lastmod: "2022-08-16"
+---
+
+
+<!--more-->
+
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(collapse = TRUE)
+```
+
+```{r, warning = F, include=F}
+library(SixSigma)
+```
+
+
+
+```{r, echo= F }
+
+
+effect <- "Lost Sensitivity"
+causes.gr <- c("MS", "LC", "Sample Preparation", "Human Failures")
+causes <- vector(mode = "list", length = length(causes.gr))
+causes[1] <- list(c("--- ESI", "--- EMV", "--- Ion Source"))
+causes[2] <- list(c("--- Column Degration", "--- Contamination", "--- Pressure Traces"))
+causes[3] <- list(c("--- Analyte Loss", "--- Washing solvent", "--- eluting solvent"))
+causes[4] <- list(c("--- Wrong Injection"))
+ss.ceDiag(effect, causes.gr, causes, main = "Sensitivity with LC-MS/MS", sub = "")
+```
+

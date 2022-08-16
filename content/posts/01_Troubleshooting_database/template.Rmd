@@ -1,0 +1,41 @@
+---
+weight: 
+title: ""
+author: "Lenny Lin"
+categories: ["Troubleshooting Database"]
+tags: ["Fishbone Demo"]
+toc: true
+date: "2022-08-16"
+lastmod: "2022-08-16"
+---
+
+
+<!--more-->
+
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(collapse = TRUE)
+```
+
+```{r, warning = F, include=F}
+library(SixSigma)
+```
+
+
+
+
+
+```{r template, echo= F }
+effect <- ""
+causes.gr <- c("","")
+causes <- vector(mode = "list", length = length(causes.gr))
+causes[1] <- list(c(""))
+causes[2] <- list(c(""))
+causes[3] <- list(c(""))
+causes[4] <- list(c(""))
+causes[5] <- list(c(""))
+ss.ceDiag(effect, causes.gr, causes, main = "", sub = "")
+```
+
+

@@ -1,0 +1,35 @@
+---
+weight: 2
+title: "Leak"
+author: "Lenny Lin"
+categories: ["Troubleshooting Database"]
+tags: ["Fishbone Demo", "Troubleshooting Demo"]
+toc: true
+date: "2022-08-16"
+lastmod: "2022-08-16"
+---
+
+<!--more-->
+
+---
+```{r, warning = F, include=F}
+library(SixSigma)
+```
+
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(collapse = TRUE)
+```
+
+
+```{r , echo= F }
+effect <- "Leak"
+causes.gr <- c("Column Hardware","Connections")
+causes <- vector(mode = "list", length = length(causes.gr))
+causes[1] <- list(c("Incorrect"))
+causes[2] <- list(c("b"))
+causes[3] <- list(c(""))
+causes[4] <- list(c(""))
+causes[5] <- list(c(""))
+ss.ceDiag(effect, causes.gr, causes, main = "Leak: LC-MS/MS", sub = "Pressure Traces")
+```
