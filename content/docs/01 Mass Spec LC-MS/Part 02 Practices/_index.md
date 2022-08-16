@@ -1,6 +1,6 @@
 ---
 weight: 2
-title: Part II Practices
+title: Practices
 authors: Lenny Lin
 categories: null
 tags: null

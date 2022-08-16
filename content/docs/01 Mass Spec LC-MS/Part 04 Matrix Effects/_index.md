@@ -1,6 +1,6 @@
 ---
 weight: 4
-title: Part IV Matrix Effects
+title: Matrix Effects
 authors: null
 categories: null
 tags: null
