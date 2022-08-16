@@ -1,5 +1,4 @@
 +++
-weight: 102
 title = "(Hu)go Template Primer"
 description = ""
 tags = [

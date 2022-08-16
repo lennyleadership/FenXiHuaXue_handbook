@@ -1,5 +1,4 @@
 +++
-weight: 100
 title = "Diagram demo"
 description = ""
 tags = [
