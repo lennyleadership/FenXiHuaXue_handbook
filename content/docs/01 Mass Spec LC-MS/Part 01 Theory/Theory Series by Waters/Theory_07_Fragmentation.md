@@ -1,7 +1,7 @@
 ---
-weight：7
+weight: 7
 title: Fragmentation
-authors: Nick Tomczyk, edited by Lenny Lin
+authors: "Nick Tomczyk, edited by Lenny Lin"
 categories: null
 tags: [Waters]
 date: "2022-06-20"
@@ -42,7 +42,9 @@ In this example, the verapamil molecule with m/z of 455, had been fragmented in 
 
 As you can see, the molecule is very simplistically, two aromatic rings joined together by a chain containing carbon and nitrogen atoms. The most obvious sites that you would expect this molecule to break along this connecting chain. However, not all bonds are equal, we can estimate the strength of each bond in this molecule, and therefore how easy or likely it is for it to break by looking at <b>a bond energy table</b> like this. 
 
-<img width ="720" height= "400" src = "/docs/images/Screenshot 2022-08-16 111308.png"/>
+<div class ="row">
+<img width ="720" height= "400" src = "/docs/images/Screenshot 2022-08-16 111308.png"/>  
+</div>
 By comparing the energies of the various bonds, we can suggest that the bond most likely to break is the **N-C** bond here, followed by the **C-C** bond and then the **C-O** bond. The energy required to break aromatic ring is normally too high for CID. If you apply this idea in the future, remember this simplistic model only the actual bond energies are affected by other adjacent groups of atoms. So don't be surprised at the results you obtained from real molecule definitely your prediction. 
 
 <div class = "row">
@@ -52,9 +54,10 @@ By comparing the energies of the various bonds, we can suggest that the bond mos
 
 By using this idea, we can predict that we might see fragment ions at 165, 300, 194 and 289. Fragmentation spectrum actually looks like this. And we can see that we did predict both Fragment A and B as shown. But we see no evidence of the others in this spectrum. As I mentioned before, many other factors come into play when fragmenting molecules, including but not limited to the location of bonds within the whole molecule and the specific location of the adduct. The relative intensity of fragments is linked to the likelihood of a bond or bonds in breaking and in turn is linked to bond energy. Bond energies for **C-N** bond is in the order of 293 kilojoules per mole. And for a **C-C** bond around 347 kilojoules per mole.   
 
-
+<div class ="row">
 <img width ="360" height= "200" src = "/docs/images/Screenshot 2022-06-23 183104.png" style ="float: left" HSPACE="10" VSPACE="10"/>
 If you look at the fragmentation spectrum, you can see that Fragment B is four to five times less intense than Fragment A. And this is because more energy required to break that **C-C** bond and so it just happens less often. 
+</div>
 
 ## Fragmentation of Peptides
 All molecules will behave differently, but basic chemistry rules governing bond energies will always remain the same. So it is possible to predict what the fragmentation spectrum may look like. For example, peptides or linear chains of amino acids linked by amide bonds. Under CID, most of these amide bonds will fragment equally.   
