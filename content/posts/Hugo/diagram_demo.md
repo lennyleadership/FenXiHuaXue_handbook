@@ -1,4 +1,4 @@
-+++
+---
 title = "Diagram demo"
 description = ""
 tags = [
@@ -8,7 +8,7 @@ date = "2022.08.09"
 categories = [
 ]
 menu = "main"
-+++
+---
 
 {{< mermaid >}}
 stateDiagram-v2
