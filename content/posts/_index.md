@@ -3,5 +3,5 @@ menu:
   after:
     name: blog
     weight: 5
-title: Categories & Tags
+title: Posts, Categories & Tags
 ---
