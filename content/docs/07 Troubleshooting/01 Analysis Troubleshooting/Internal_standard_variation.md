@@ -16,9 +16,9 @@ toc: true
 <!--more-->
 
 **Situation**:  
-I got consistent response of internal standard in Method Validation.But during study sample analysis, I got variation more than 40% of mean response of calibration curve standards. And I was observed that in some samples ISTD response exactly double than that of preceeding and succeeding samples, even after taking care during sample processing.  
+I got consistent response of internal standard in Method Validation.But during study sample analysis, I got variation more than 40% of mean response of calibration curve standards. And I was observed that in some samples ISTD response exactly double than that of preceding and succeeding samples, even after taking care during sample processing.  
 
-Response of ISTD in CC's and QC's almost same, but in subject samples response was differed.  
+Response of ISTD in CC's and QC's almost same, but in `subject samples` response was differed.  
 
 
 1.what might be the reason for internal standard variation?  
