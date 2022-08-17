@@ -38,4 +38,4 @@ ss.ceDiag(effect, causes.gr, causes, main = "Sensitivity with LC-MS/MS", sub = "
 ```
 
 
-[Reference](docs/01 Mass Spec LC-MS/Part 01 Theory/APCI_general_review.md)
+[Reference](https://fenxihuaxue.netlify.app/docs/01-mass-spec-lc-ms/part-05-troubleshooting/02_lcmsms_clinical_troubleshooting/)
