@@ -1,5 +1,4 @@
 ---
-weight: 3
 title: Chromatographic Performance Evaluation
 authors: edited by Lenny Lin
 categories: 

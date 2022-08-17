@@ -1,5 +1,4 @@
 ---
-weight：1
 title: Chromatography
 authors: edited by Lenny Lin
 categories: 

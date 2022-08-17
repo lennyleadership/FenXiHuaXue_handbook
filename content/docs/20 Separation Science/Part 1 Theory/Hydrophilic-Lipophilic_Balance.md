@@ -1,6 +1,5 @@
 ---
-weight: 30
-title:  "Hydrophilic-Lipophilic Balance" 
+title: "Hydrophilic-Lipophilic Balance" 
 authors: edited by Lenny Lin
 categories: 
 tags: []

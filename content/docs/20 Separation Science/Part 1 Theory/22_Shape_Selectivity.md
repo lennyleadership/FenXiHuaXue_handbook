@@ -1,5 +1,4 @@
 ---
-weight: 22
 title: Shape Selectivity
 authors: edited by Lenny Lin
 categories: 

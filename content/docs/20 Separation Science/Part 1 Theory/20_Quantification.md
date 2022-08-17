@@ -1,5 +1,4 @@
 ---
-weight: 20
 title: Quantification
 authors: edited by Lenny Lin
 categories:
