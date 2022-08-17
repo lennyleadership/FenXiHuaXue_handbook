@@ -1,11 +1,11 @@
 ---
-weight: 1
 title: "Lost Sensitivity"
 author: "Lenny Lin"
-categories: ["Troubleshooting Database"]
-tags: ["Fishbone Demo"]
-toc: true
 date: "2022-08-16"
+categories: Troubleshooting Database
+tags: Fishbone Demo
+toc: yes
+weight: 1
 lastmod: "2022-08-16"
 ---
 
@@ -31,17 +31,34 @@ library(qcc)
 
 
 ```{r, echo = F }
+cause.and.effect(cause=list('MS/MS' = c("ESI", "EMV", "Tuning Report"),
+                            LC = c("Pump", "Flow", "Mobile Phase"),
+                            "Human Errors" = c("Wrong vial"),
+                            "Sample Preparation" = c("Lost in Elute"),
+                            Methods = c("ratio 1", "ratio 2")),
+                 effect = "Low Sensitivity",
+                 title = "Low Sensitivity with LC-MS/MS",
+                 font = c(1, 3, 2), 
+                 cex = c(1, 0.7, 1))
+                 
+
+```
+
+
+```{r, echp = F}
 cause.and.effect(cause=list(Measurements=c("Micrometers", "Microscopes", "Inspectors"),
                             Materials=c("Alloys", "Lubricants", "Suppliers"),
                             Personnel=c("Shifts", "Supervisors", "Training", "Operators"),
                             Environment=c("Condensation", "Moisture"),
                             Methods=c("Brake", "Engager", "Angle"),
                             Machines=c("Speed", "Lathes", "Bits", "Sockets")),
-                 effect="Low Sensitivity",
+                 effect="Surface Flaws",
                  title = "Low Sensitivity with LC-MS/MS",
                  font = c(1, 3, 2), 
-                 cex = c(1, 0.7, 1)) 
+                 cex = c(1, 0.7, 1))
+
 ```
+
 
 [Reference](https://fenxihuaxue.netlify.app/docs/01-mass-spec-lc-ms/part-05-troubleshooting/02_lcmsms_clinical_troubleshooting/)
 
