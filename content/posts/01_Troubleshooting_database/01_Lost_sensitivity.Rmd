@@ -37,3 +37,5 @@ causes[4] <- list(c("--- Wrong Injection"))
 ss.ceDiag(effect, causes.gr, causes, main = "Sensitivity with LC-MS/MS", sub = "")
 ```
 
+
+[Reference](docs/01 Mass Spec LC-MS/Part 01 Theory/APCI_general_review.md)
