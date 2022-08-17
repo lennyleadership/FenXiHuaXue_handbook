@@ -1,4 +1,5 @@
 ---
+weight: 3
 authors: edited by Lenny Lin
 categories: 
 date: "2022-01-03"
@@ -7,7 +8,7 @@ draft: false
 lastmod: "2022-01-03"
 series:
 tags: []
-title: Chapter 03 Chromatographic Performance Evaluation
+title: Chromatographic Performance Evaluation
 toc: true
 ---
 

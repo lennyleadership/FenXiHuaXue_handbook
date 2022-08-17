@@ -1,4 +1,5 @@
 ---
+weight: 20
 authors: edited by Lenny Lin
 categories: 
 date: "2022-01-03"
@@ -7,7 +8,7 @@ draft: false
 lastmod: "2022-01-15"
 series: 
 tags: [Quantification]
-title: Chapter 20 Quantification
+title: Quantification
 toc: true
 ---
 

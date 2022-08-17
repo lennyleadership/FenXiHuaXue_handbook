@@ -1,4 +1,5 @@
 ---
+weight: 2
 authors: Rick Lake, edited by Lenny Lin
 categories: 
 date: "2022-01-03"
@@ -7,7 +8,7 @@ draft: false
 lastmod: "2021-12-27"
 series:
 tags: [particle size, columns, Band broadening, Van Deemter equation, resolution]
-title: Chapter 02 Van Deemter Equation - Small Particle Size Column 
+title: Van Deemter Equation - Small Particle Size Column 
 toc: true
 ---
 

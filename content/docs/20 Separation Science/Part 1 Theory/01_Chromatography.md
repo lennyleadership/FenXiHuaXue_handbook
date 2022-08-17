@@ -8,7 +8,7 @@ draft: false
 lastmod: "2022-01-20"
 series: 
 tags: []
-title: Chapter 01 Chromatography
+title: Chromatography
 toc: true
 ---
 

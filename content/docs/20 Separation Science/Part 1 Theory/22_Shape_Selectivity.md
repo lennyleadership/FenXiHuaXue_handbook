@@ -1,4 +1,5 @@
 ---
+weight: 22
 authors: edited by Lenny Lin
 categories: 
 date: "2022-01-03"
@@ -7,7 +8,7 @@ draft: false
 lastmod: "2022-01-03"
 series: 
 tags: [Shape Selectivity]
-title: Chapter 22 Shape Selectivity
+title: Shape Selectivity
 toc: true
 ---
 
