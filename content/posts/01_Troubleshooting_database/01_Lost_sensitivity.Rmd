@@ -20,10 +20,11 @@ knitr::opts_chunk$set(collapse = TRUE)
 
 ```{r, warning = F, include=F}
 library(SixSigma)
+library(qcc)
 ```
 
 
-
+## SixSigma package
 ```{r, echo= F }
 
 
@@ -38,6 +39,18 @@ ss.ceDiag(effect, causes.gr, causes, main = "Sensitivity with LC-MS/MS", sub = "
 ```
 
 
+
+## QCC package
+```{r}
+cause.and.effect(cause=list(Measurements=c("Micrometers", "Microscopes", "Inspectors"),
+                            Materials=c("Alloys", "Lubricants", "Suppliers"),
+                            Personnel=c("Shifts", "Supervisors", "Training", "Operators"),
+                            Environment=c("Condensation", "Moisture"),
+                            Methods=c("Brake", "Engager", "Angle"),
+                            Machines=c("Speed", "Lathes", "Bits", "Sockets")),
+                 effect="Surface Flaws")
+
+```
+
 [Reference](https://fenxihuaxue.netlify.app/docs/01-mass-spec-lc-ms/part-05-troubleshooting/02_lcmsms_clinical_troubleshooting/)
 
-[Reference2](/content/docs/01 Mass Spec LC-MS/Part 01 Theory/APCI_general_review.md)
