@@ -1,4 +1,5 @@
 ---
+weight: 1
 authors: Lenny Lin
 categories: 
 date: "2021-12-27"
@@ -7,7 +8,7 @@ draft: false
 lastmod: "2021-12-27"
 series:
 tags: 
-title: Part 01 Theory
+title: Theory
 toc: true
 bookCollapseSection: true
 ---

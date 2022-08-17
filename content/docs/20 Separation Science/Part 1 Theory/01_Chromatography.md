@@ -1,4 +1,5 @@
 ---
+weight: 1
 authors: edited by Lenny Lin
 categories: 
 date: "2022-01-03"
@@ -11,12 +12,9 @@ title: Chapter 01 Chromatography
 toc: true
 ---
 
-<figcaption><b>Figure </b>: </figcaption>
-<img src = "/docs/images/"/>
-
-
 
 <!--more-->
+---
 
 <iframe width="360" height="200" src="https://www.youtube.com/embed/2QVCxK0QPeg" title="Tosoh Basics - What is chromatography?" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
