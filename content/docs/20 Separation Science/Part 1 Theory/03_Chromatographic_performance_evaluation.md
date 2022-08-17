@@ -1,22 +1,20 @@
 ---
+weight: 3
+title: Chromatographic Performance Evaluation
 authors: edited by Lenny Lin
-categories: Category
+categories: 
+tags: []
 date: "2022-01-03"
 description: Chromatographic Performance Evaluation
 draft: false
 lastmod: "2022-01-03"
 series:
-tags: []
-title: Chapter 03 Chromatographic Performance Evaluation
 toc: true
 ---
 
-<figcaption><b>Figure </b>: </figcaption>
-<img src = "/docs/images/"/>
-
-
 
 <!--more-->
+---
 
 ## Resolution
 

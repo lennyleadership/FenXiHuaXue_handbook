@@ -1,13 +1,14 @@
 ---
+weight: 30
+title:  Hydrophilic-Lipophilic Balance 
 authors: edited by Lenny Lin
-categories: Category
+categories: 
+tags: []
 date: "2022-01-03"
 description: null
 draft: false
 lastmod: "2022-01-30"
 series: 
-tags: []
-title:  Hydrophilic-Lipophilic Balance 
 toc: true
 ---
 

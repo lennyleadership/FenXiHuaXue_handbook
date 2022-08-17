@@ -1,13 +1,14 @@
 ---
+weight: 20
+title: Quantification
 authors: edited by Lenny Lin
-categories: Category
+categories:
+tags: [Quantification]
 date: "2022-01-03"
 description: Quantification
 draft: false
 lastmod: "2022-01-15"
 series: 
-tags: [Quantification]
-title: Chapter 20 Quantification
 toc: true
 ---
 
