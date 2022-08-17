@@ -1,5 +1,5 @@
 ---
-weight： 1
+weight：1
 title: Theory
 authors: Lenny Lin
 categories:

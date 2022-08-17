@@ -1,5 +1,5 @@
 ---
-weight： 1
+weight：1
 title: Chromatography
 authors: edited by Lenny Lin
 categories: 
@@ -11,10 +11,6 @@ lastmod: "2022-01-20"
 series: 
 toc: true
 ---
-
-<figcaption><b>Figure </b>: </figcaption>
-<img src = "/docs/images/"/>
-
 
 
 <!--more-->

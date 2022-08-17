@@ -1,6 +1,6 @@
 ---
-weight： 2
-title: Van Deemter Equation - Small Particle Size Column 
+weight：2
+title: "Van Deemter Equation - Small Particle Size Column" 
 authors: Rick Lake, edited by Lenny Lin
 categories: 
 tags: [particle size, columns, Band broadening, Van Deemter equation, resolution]

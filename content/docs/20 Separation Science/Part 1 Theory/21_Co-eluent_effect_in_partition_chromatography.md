@@ -1,6 +1,6 @@
 ---
 weight: 21
-title: Co-eluent effect in partition chromatography
+title: "Co-eluent effect in partition chromatography"
 authors: edited by Lenny Lin
 categories: 
 tags: []
@@ -12,8 +12,7 @@ series:
 toc: true
 ---
 
-<figcaption><b>Figure </b>: </figcaption>
-<img src = "/docs/images/"/>
+
 
 
 
