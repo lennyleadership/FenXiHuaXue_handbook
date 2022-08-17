@@ -20,6 +20,7 @@ knitr::opts_chunk$set(collapse = TRUE)
 
 ```{r, warning = F, include=F}
 library(SixSigma)
+library(qcc)
 ```
 
 
@@ -38,4 +39,19 @@ causes[5] <- list(c(""))
 ss.ceDiag(effect, causes.gr, causes, main = "", sub = "")
 ```
 
+
+## QCC package
+```{r, echo = F }
+cause.and.effect(cause=list(Measurements=c("Micrometers", "Microscopes", "Inspectors"),
+                            Materials=c("Alloys", "Lubricants", "Suppliers"),
+                            Personnel=c("Shifts", "Supervisors", "Training", "Operators"),
+                            Environment=c("Condensation", "Moisture"),
+                            Methods=c("Brake", "Engager", "Angle"),
+                            Machines=c("Speed", "Lathes", "Bits", "Sockets")),
+                 effect="Low Sensitivity",
+                 title = "Low Sensitivity with LC-MS/MS",
+                 font = c(1, 3, 2), # values for the font to use. The values refer, in order, to branches, causes and effect.
+                 cex = c(1, 0.7, 1)) # cex, values for the graphical character expansion. The values refer, in order, to branches, causes and effect
+
+```
 

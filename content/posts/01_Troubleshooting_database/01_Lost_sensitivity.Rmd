@@ -19,37 +19,28 @@ knitr::opts_chunk$set(collapse = TRUE)
 ```
 
 ```{r, warning = F, include=F}
-library(SixSigma)
+#library(SixSigma)
 library(qcc)
-```
 
-
-## SixSigma package
-```{r, echo= F }
-
-
-effect <- "Lost Sensitivity"
-causes.gr <- c("MS", "LC", "Sample Preparation", "Human Failures")
-causes <- vector(mode = "list", length = length(causes.gr))
-causes[1] <- list(c("--- ESI", "--- EMV", "--- Ion Source"))
-causes[2] <- list(c("--- Column Degration", "--- Contamination", "--- Pressure Traces"))
-causes[3] <- list(c("--- Analyte Loss", "--- Washing solvent", "--- eluting solvent"))
-causes[4] <- list(c("--- Wrong Injection"))
-ss.ceDiag(effect, causes.gr, causes, main = "Sensitivity with LC-MS/MS", sub = "")
+#font = c(1, 2, 3), values for the font to use. The values refer, in order, to branches, causes and effect.
+# 1: normal, 2: bold, 3: italic
+#cex = c(1, 0.8, 1)) # cex, values for the graphical character expansion. The values refer, in order, to branches, causes and effect
+# they are the size.
 ```
 
 
 
-## QCC package
-```{r}
+```{r, echo = F }
 cause.and.effect(cause=list(Measurements=c("Micrometers", "Microscopes", "Inspectors"),
                             Materials=c("Alloys", "Lubricants", "Suppliers"),
                             Personnel=c("Shifts", "Supervisors", "Training", "Operators"),
                             Environment=c("Condensation", "Moisture"),
                             Methods=c("Brake", "Engager", "Angle"),
                             Machines=c("Speed", "Lathes", "Bits", "Sockets")),
-                 effect="Surface Flaws")
-
+                 effect="Low Sensitivity",
+                 title = "Low Sensitivity with LC-MS/MS",
+                 font = c(1, 3, 2), 
+                 cex = c(1, 0.7, 1)) 
 ```
 
 [Reference](https://fenxihuaxue.netlify.app/docs/01-mass-spec-lc-ms/part-05-troubleshooting/02_lcmsms_clinical_troubleshooting/)
