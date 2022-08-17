@@ -1,18 +1,18 @@
 ---
-weight: 21
-title: "Co-eluent effect in partition chromatography"
 authors: edited by Lenny Lin
-categories: 
-tags: []
+categories: Category
 date: "2022-01-03"
 description: null
 draft: false
 lastmod: "2022-01-24"
 series: 
+tags: []
+title: Chapter 21 Co-eluent effect in partition chromatography
 toc: true
 ---
 
-
+<figcaption><b>Figure </b>: </figcaption>
+<img src = "/docs/images/"/>
 
 
 

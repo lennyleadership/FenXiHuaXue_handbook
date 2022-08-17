@@ -1,15 +1,19 @@
 ---
-title: Chromatography
 authors: edited by Lenny Lin
-categories: 
-tags: []
+categories: Category
 date: "2022-01-03"
 description: null
 draft: false
 lastmod: "2022-01-20"
 series: 
+tags: []
+title: Chapter 01 Chromatography
 toc: true
 ---
+
+<figcaption><b>Figure </b>: </figcaption>
+<img src = "/docs/images/"/>
+
 
 
 <!--more-->
