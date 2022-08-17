@@ -12,7 +12,10 @@ series: null
 toc: true
 ---
 
-## Summary
+**My Comments**  
+It seems to me that the speaker took proactive approach to troubleshoot a problem before the problem arose.  He overlaid the current one with the reference, and see if there is any deviation.  
+
+**Summary**  
 The Goal of troubleshooting LC-MS/MS in this training:  
 - Isolate the specific, most likely cause of a problem  
 - Reduce downtime  
@@ -26,14 +29,6 @@ General Troubleshooting tips:
 &ensp;- Logbooks to track problems and solutions  
 &ensp;- Reference values for instrument readbacks  
 &ensp;- System suitability   
-
-
-
-
-
-keywords: use visual inspection to identify causes of the problem.  
-
-
 
 
 <!--more-->
@@ -77,10 +72,10 @@ Okay, so here's how the rest of this time today is gonna go. We're gonna play a 
 
 ### Utilize the Pressure Trace
 So the first thing we're gonna go through some details on how to utilize this pressure trace. Like we call it the HPLC heart monitor. Okay, so for doing reverse phase HPLC, or UPLC.  
-<img width ="360" height= "200" src = "/docs/images/Screenshot 2022-08-16 132644.png" style ="float: left" HSPACE="10" VSPACE="10"/>
+<img width ="720" height= "400" src = "/docs/images/Screenshot 2022-08-16 132644.png" style ="float: left" HSPACE="10" VSPACE="10"/>
 This is a trap loop configuration. So we have a slight additional complexity you may not see. So what we're doing is we're, we're doing a D salting here through a shorter column. And then when we switch the analytical column in line, we see a pressure increase. So that's the number two. Then as we're performing our analytical gradient, we go through some maximum are talking a slider to about why we see this maximum. And then we're going up in our to do our column wash, we have down and a decrease in pressure because of a decrease in viscosity. And then we're going to reequilibrate. Okay, so for the purposes of my examples today, because the time I'm going to stick with reverse phase chromatography, obviously, if you're doing HILIC chromatography, things look completely different because of the composition and mobile phase.  
 
-<img width ="360" height= "200" src = "/docs/images/Screenshot 2022-08-16 132841.png" style ="float: left" HSPACE="10" VSPACE="10"/>  
+<img width ="720" height= "400" src = "/docs/images/Screenshot 2022-08-16 132841.png" style ="float: left" HSPACE="10" VSPACE="10"/>  
 All right, we can also do some things you might see some pressure traces in here that are a little more complicated. So In this situation, this is something from Ross grants lab provided by Chris Shuford. So basically, we can do a similar thing where we're injecting and focusing on the column, then we step up the flow, right, then we are performing our gradient separation over this period. And the pressure goes up again, because what they're doing there is they have a post column valve, which switches in line with the mass spectrometer, so using their very narrow inner diameter tubing, so that causes a pressure increase during just during the detection, then what they do is they ramp the flow up again, in order to wash the column and perform the reequilibration. So this is the stepping the flow up, this is the column wash show a decrease in solvent viscosity at the same flow rate causes a pressure decrease and then they reequilibrate back to recondition. And at this point, they drop the flow down, and it would start with this injection focus, okay, so sometimes when you're looking at these pressure traces, that are going to look a little more a little more complicated, depending on what kind of valve switching and configuration and flow ramping you're doing in your method. The important thing is that you should be able to identify what is good and what is bad. So you have a situation here where you have the reference trace, essentially in white, and then a run simply in red. And so they overlay each other for that for that method.  
 
 
