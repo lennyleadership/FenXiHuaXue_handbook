@@ -1,6 +1,6 @@
 ---
 authors: edited by Lenny Lin
-categories: Category
+categories: 
 date: "2022-01-03"
 description: null
 draft: false
@@ -11,8 +11,6 @@ title:  Hydrophilic-Lipophilic Balance
 toc: true
 ---
 
-<figcaption><b>Figure </b>: </figcaption>
-<img src = "/docs/images/"/>
 
 
 The hydrophilic-lipophilic balance is a measure of the degree to which it is hydrophilic or lipophilic (or hydrophobic), determined by calculating values for the different regions of the molecule, as described by Griffin in 1949 and 1954. Other methods have been suggested, notably in 1957 by Davies. [source: wiki](https://en.wikipedia.org/wiki/Hydrophilic-lipophilic_balance)

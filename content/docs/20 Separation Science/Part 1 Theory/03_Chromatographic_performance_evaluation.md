@@ -1,6 +1,6 @@
 ---
 authors: edited by Lenny Lin
-categories: Category
+categories: 
 date: "2022-01-03"
 description: Chromatographic Performance Evaluation
 draft: false
@@ -10,10 +10,6 @@ tags: []
 title: Chapter 03 Chromatographic Performance Evaluation
 toc: true
 ---
-
-<figcaption><b>Figure </b>: </figcaption>
-<img src = "/docs/images/"/>
-
 
 
 <!--more-->

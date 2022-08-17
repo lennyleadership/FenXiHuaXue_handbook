@@ -1,6 +1,6 @@
 ---
 authors: Rick Lake, edited by Lenny Lin
-categories: category-01
+categories: 
 date: "2022-01-03"
 description: Van Deemter Equation
 draft: false
@@ -14,6 +14,7 @@ toc: true
 How do small particle size columns increase sample throughput?
 
 <!--more-->
+---
 
 The Van Deemter equation is an empirical formula describing the relationship between plate height (H, the length needed for one theoretical plate) and linear velocity (µ) (Figure 1).  The Van Deemter equation is governed by three cumulative terms: (<b>A</b>) eddy diffusion, (<b>B</b>) longitudinal diffusion, and (<b>C</b>) mass transfer. 
 

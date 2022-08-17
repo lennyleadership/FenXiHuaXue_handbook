@@ -1,12 +1,12 @@
 ---
 authors: Lenny Lin
-categories: Chromatography
+categories: 
 date: "2021-12-27"
 description: Talks about Chromatography
 draft: false
 lastmod: "2021-12-27"
 series:
-tags: [Band broading]
+tags: 
 title: Part 01 Theory
 toc: true
 bookCollapseSection: true
