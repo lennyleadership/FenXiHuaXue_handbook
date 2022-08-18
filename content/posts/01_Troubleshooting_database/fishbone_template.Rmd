@@ -1,0 +1,82 @@
+---
+weight: 
+title: ""
+author: "Lenny Lin"
+categories: ["Troubleshooting Database"]
+tags: ["Fishbone Demo"]
+toc: true
+date: "2022-08-16"
+lastmod: "2022-08-16"
+---
+
+
+<!--more-->
+
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(collapse = TRUE)
+```
+
+```{r, warning = F, include=F}
+library(SixSigma)
+library(qcc)
+
+#font = c(1, 2, 3), values for the font to use. The values refer, in order, to branches, causes and effect.
+# 1: normal, 2: bold, 3: italic
+#cex = c(1, 0.8, 1)) # cex, values for the graphical character expansion. The values refer, in order, to branches, causes and effect
+# they are the size.
+```
+
+
+
+
+
+```{r template, echo= F }
+effect <- "Low Sensitivity"
+causes.gr <- c("MS","LC", "Sample Prep", "Human Errors")
+causes <- vector(mode = "list", length = length(causes.gr))
+causes[1] <- list(c("1", "2"))
+causes[2] <- list(c("a", "b"))
+causes[3] <- list(c("A", "B"))
+causes[4] <- list(c("10", "20"))
+ss.ceDiag(effect, causes.gr, causes, main = "Low Sensitivity", sub = "",
+          ss.col = c("#8ad472", "#8ad472", "#8ad472", "#8ad472","#8ad472"))
+```
+
+
+```{r SixSigma package, echo= F }
+effect <- "Low Sensitivity"
+causes.gr <- c("ESI","MS/MS","Infusion Analysis","Sys. S. Test", "Human Errors", "Method", "Sample Prep")
+causes <- vector(mode = "list", length = length(causes.gr))
+causes[1] <- list(c("---ESI probe adjustment"))
+causes[2] <- list(c("---EMV", "---Mass resolution", " ", ("---Ion source \n manitenance")))
+causes[3] <- list(c("---Analyte-to-Internal Standard Ratio", "","---Qualifier-to-Quantifier Ratio"))
+causes[4] <- list(c("---Monitoring \n i.e. Peak area, Pressure trace"))
+causes[5] <- list(c("---Repeat run", "", "---Re-injection", "", "---Check & Replacement\n i.e. mobile phases, parts"))
+causes[6] <- list(c("---Calibration curve"))
+causes[7] <- list(c("---review"))
+ss.ceDiag(effect, causes.gr, causes, main = "Low Sensitivity", sub = "",
+          ss.col = c("#8ad472", "#8ad472", "#8ad472", "#8ad472","#8ad472"))
+```
+
+
+## QCC package
+
+
+```{r qcc package, echo = F }
+cause.and.effect(cause=list("ESI" = c("---ESI probe adjustment"),
+                            "MS/MS Health Check" = c("---EMV", "---Mass resolution", paste("---Ion source manitenance", "\n i.e. new capillary electrode")),
+                            "Method" = c("---Calibration curve"),
+                            "System Suitability Test" = c(paste("---Monitoring", "\n i.e. Peak area, Pressure trace", "\n  XIC overlays")),
+                            "Sample Prep" = c("---Lost in Elute", "---Review"),
+                            "Human Errors" = c("---Repeat run", "---Re-injection", paste("---Check & Replacement","\n i.e. mobile phases, parts")),
+                            "Infusion Analysis - MS/MS" = c("---Analyte-to-Internal Standard Ratio", "---Qualifier-to-Quantifier Ratio")
+                            ),
+                 effect=paste("Low", "\nSensitivity"),
+                 title = "Low Sensitivity with LC-MS/MS",
+                 font = c(1, 3, 2), 
+                 cex = c(0.7, 0.6, .9))
+```
+
+
