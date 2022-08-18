@@ -1,9 +1,9 @@
 ---
 weight: 2
-title: "Leak"
+title: "Leak Diagram"
 author: "Lenny Lin"
-categories: ["Troubleshooting Database"]
-tags: ["Fishbone Demo"]
+categories: [Troubleshooting Logbook]
+tags: [Leak]
 toc: true
 date: "2022-08-16"
 lastmod: "2022-08-16"

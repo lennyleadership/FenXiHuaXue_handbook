@@ -1,9 +1,9 @@
 ---
-weight: 3
-title: "Abnormal Peak Shape"
+weight: 4
+title: "Missing Peak Diagram"
 author: "Lenny Lin"
-categories: ["Troubleshooting Database"]
-tags: ["Fishbone Demo"]
+categories: [Troubleshooting Logbook]
+tags: [Peak]
 toc: true
 date: "2022-08-16"
 lastmod: "2022-08-16"
@@ -23,10 +23,9 @@ library(SixSigma)
 ```
 
 
-```{r Abnormal peak shape, echo= F }
 
-
-effect <- "Abnormal Peak Shape"
+```{r missing peak, echo= F }
+effect <- "Missing Peak"
 causes.gr <- c("","")
 causes <- vector(mode = "list", length = length(causes.gr))
 causes[1] <- list(c(""))
@@ -34,6 +33,10 @@ causes[2] <- list(c(""))
 causes[3] <- list(c(""))
 causes[4] <- list(c(""))
 causes[5] <- list(c(""))
-ss.ceDiag(effect, causes.gr, causes, main = "Abnormal Peak Shape: LC-MS/MS", sub = "")
+ss.ceDiag(effect, causes.gr, causes, main = "Missing Peak: LC-MS/MS", sub = "")
+
 ```
+
+
+
 

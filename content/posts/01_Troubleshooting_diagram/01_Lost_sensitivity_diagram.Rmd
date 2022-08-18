@@ -1,0 +1,53 @@
+---
+weight: 1
+title: "Lost Sensitivity Diagram"
+author: "Lenny Lin"
+date: "2022-08-16"
+categories: [Troubleshooting Logbook]
+tags: [Sensitivity]
+toc: yes
+lastmod: "2022-08-16"
+---
+
+
+<!--more-->
+
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(collapse = TRUE)
+```
+
+```{r, warning = F, include=F}
+library(qcc)
+library(SixSigma)
+```
+
+
+
+
+```{r SixSigma package, echo= F }
+effect <- "Low Sensitivity"
+causes.gr <- c("MS/MS", "Human Errors", "Method", "Sample Prep", "Gas")
+causes <- vector(mode = "list", length = length(causes.gr))
+causes[1] <- list(c("---ESI probe adjustment", "---EMV", "---Mass resolution", " ", ("---Ion source \n manitenance")))
+causes[2] <- list(c("Wrong sample position"))
+causes[3] <- list(c("---Calibration curve"))
+causes[4] <- list(c("---sample lost"))
+causes[5] <- list(c("---Low gas"))
+ss.ceDiag(effect, causes.gr, causes, main = "Low Sensitivity", sub = "",
+          ss.col = c("#8ad472", "#8ad472", "#8ad472", "#8ad472","#8ad472"))
+```
+
+"Infusion Analysis" : "---Analyte-to-Internal Standard Ratio", "","---Qualifier-to-Quantifier Ratio"
+
+"Sys. S. Test" : "---Monitoring \n i.e. Peak area, Pressure trace"
+
+"human error" : "---Repeat run", "", "---Re-injection", "", "---Check & Replacement\n i.e. mobile phases, parts"
+
+
+
+**Reference**  
+[MSACL: LC-MSMS Troubleshooting 101: Tips and Tricks for Getting Started : PART 1](https://www.msacl.org/index.php?header=Learning_Center&tab=Video_Library&subtab=Search_Video_Library)
+
+[LC-MS/MS Troubleshooting in Clinic Lab](https://fenxihuaxue.netlify.app/docs/01-mass-spec-lc-ms/part-05-troubleshooting/02_lcmsms_clinical_troubleshooting/)

@@ -2,8 +2,8 @@
 weight: 
 title: ""
 author: "Lenny Lin"
-categories: ["Troubleshooting Database"]
-tags: ["Fishbone Demo"]
+categories: [Troubleshooting Logbook]
+tags: []
 toc: true
 date: "2022-08-16"
 lastmod: "2022-08-16"
