@@ -1,0 +1,49 @@
+---
+weight: 5
+title: "Abnormal Peak Diagram"
+author: "Lenny Lin"
+categories: [Troubleshooting Logbook]
+tags: [Peak]
+toc: true
+date: "2022-08-18"
+lastmod: "2022-08-18"
+---
+
+
+<!--more-->
+
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(collapse = TRUE)
+```
+
+```{r, warning = F, include=F}
+library(SixSigma)
+library(qcc)
+
+#font = c(1, 2, 3), values for the font to use. The values refer, in order, to branches, causes and effect.
+# 1: normal, 2: bold, 3: italic
+#cex = c(1, 0.8, 1)) # cex, values for the graphical character expansion. The values refer, in order, to branches, causes and effect
+# they are the size.
+```
+
+
+
+
+
+```{r, echo= F }
+effect <- "Abnormal Peak"
+causes.gr <- c("MS","LC-Column", "LC-Mobile Phase","LC-Plumbing","Sample Prep", "Service")
+causes <- vector(mode = "list", length = length(causes.gr))
+causes[1] <- list(c("---Dwell time", "---Interscan delay", "---Ion Supression"))
+causes[2] <- list(c("---Column", "---Guard column", "---Injection volume", "---Injection solution", "---Composition"))
+causes[3] <- list(c("---Mobile phase"))
+causes[4] <- list(c("---Fitting"))
+causes[5] <- list(c("---human failure"))
+causes[6] <- list(c("---Validation"))
+
+ss.ceDiag(effect, causes.gr, causes, main = "Abnormal Peak", sub = "",
+          ss.col = c("#8ad472", "#8ad472", "#8ad472", "#8ad472","#8ad472"))
+```
+
