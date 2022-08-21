@@ -24,6 +24,23 @@ library(SixSigma)
 ```
 
 
+```{r, echo= F }
+effect <- "Abnormal Peak"
+causes.gr <- c("MS","LC-Column", "LC-Mobile Phase","LC-Plumbing","Sample Prep", "Service")
+causes <- vector(mode = "list", length = length(causes.gr))
+causes[1] <- list(c("---Dwell time", "---Interscan delay", "---Ion Supression"))
+causes[2] <- list(c("---Column", "---Guard column", "---Injection volume", "---Injection solution", "---Composition"))
+causes[3] <- list(c("---Mobile phase"))
+causes[4] <- list(c("---Fitting"))
+causes[5] <- list(c("---human failure"))
+causes[6] <- list(c("---Validation"))
+
+ss.ceDiag(effect, causes.gr, causes, main = "Abnormal Peak", sub = "",
+          ss.col = c("#8ad472", "#8ad472", "#8ad472", "#8ad472","#8ad472"))
+```
+
+
+
 ```{r Abnormal peak shape, echo= F }
 
 
