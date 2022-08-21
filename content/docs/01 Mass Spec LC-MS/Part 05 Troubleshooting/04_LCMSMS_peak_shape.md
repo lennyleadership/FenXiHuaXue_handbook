@@ -68,10 +68,11 @@ If you've never had this happen in your lab, I would be amazed. So I'm going to 
 Okay, so if we're talking about symptoms, we've now switched, obviously, to LC problems, we're talking about symptoms of a degradation. One of the things that I like I like Russ Graham, all it says in his course, is the column is a consumable. And so we might think, I can't throw it away. And it has to be said, I have to make it last for 10,000 injections, we have to balance that with how it's affecting the rest of our assay. So we if you have a peak asymmetry increase, if you have a peak increase with the loss of resolution that's going to happen when you have aging of your consumables, same thing, I would say consent to retention time shift. And I've actually seen for us often we'll see things come off a little sooner, the retention time is a little shorter as the column or `the guard column` ages, presumably, to me, because at the head of the column, you have all this matrix residue deposited. I've also seen this scenario where an early eluding peak might be affected, and other peaks in the chromatogram might not be affected. And that can be a little confusing, right, because you wouldn't think it would affect the whole run. But it kind of makes sense, because the early eluting stuff doesn't necessarily comes up sooner to the con because it's not retained as well, right. So it kind of makes sense that it would be that one might be affected first. And the other thing I think that's useful to know is look at the time course of the degradation. 
 
 ### Frit or column aging
-
+<div class = "row">
 <img width ="360" height= "200" src = "/docs/images/Screenshot 2022-08-18 160413.png" style ="float: left" HSPACE="10" VSPACE="10"/>
 <img width ="360" height= "200" src = "/docs/images/Screenshot 2022-08-18 160534.png" style ="float: left" HSPACE="10" VSPACE="10"/>
 So this is how I think of it is to what's going on, which is you're getting some matrix residue deposited on the frit. And this is an electron micrograph for the silica particles at the head of the column. And so you have both uneven flow and uneven partitioning into that stationary phase instead of that tight, narrow band that you want in order to get a good peek. 
+</div>
 
 ### Slide
 <img width ="360" height= "200" src = "/docs/images/Screenshot 2022-08-18 161657.png" style ="float: left" HSPACE="10" VSPACE="10"/>
