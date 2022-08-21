@@ -97,9 +97,10 @@ So this is `the guard column`. And when we took it off, this distance between th
 And then the chromatogram, it was like it was a misplaced ferrule and a chromatogram went back to what it was supposed to be. So I think that's one of the lessons I've taken away from working with a UPLC system, it can literally be microliters of difference or millimeters of difference. And you can have bad chromatography. So this is this is the inlet that I was talking about. This is horrible thing where you stick this non wrench there to hold it. And it has a peak ferrule on stainless steel. And so the position of that ferrule makes a big difference. And that one is too short, right, there's a space between the ferrule and the nut. And this one is correct. And that I've seen that much difference really make a smear on the baseline become a peak when you correct it. 
 
 ### Slide
-
+<div class = "row">
 <img width ="360" height= "200" src = "/docs/images/Screenshot 2022-08-18 211706.png" style ="float: left" HSPACE="10" VSPACE="10"/>
 So this is my personal favorite photograph. This is the one we talked about. It's from sepscience website. If you Google it, you can find it. So this is what you want to peak connection or in fact a stainless steel connection to look like right the tubing should be butted up right against, they call this the meeting port it's in as far as it can go, it's pretty easy to get it like that it's the first the this hard part is making sure it stays like that while you tighten the fitting down. And here there's a gap, you're never gonna see this gap. But this gap will cause you those kinds of problems that we're seeing, right? That's why it's important to learn how to do fittings correctly. 
+</div>
 
 ### Slide  
 
