@@ -1,7 +1,7 @@
 ---
 weight: 7
 title: Pressure Trace as Diagnostic Tools
-authors: null
+authors: B.A. Bidlingmeyer
 categories: null
 tags: null
 date: "2022-08-16"
