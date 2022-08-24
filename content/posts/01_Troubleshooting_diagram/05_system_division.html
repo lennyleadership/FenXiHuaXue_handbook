@@ -1,0 +1,35 @@
+---
+weight: 5
+title: "Division workflow Diagram"
+author: "Lenny Lin"
+categories: [Troubleshooting Logbook]
+tags: [Peak]
+toc: true
+date: "2022-08-18"
+lastmod: "2022-08-18"
+draft: true
+---
+
+<script src="/rmarkdown-libs/htmlwidgets/htmlwidgets.js"></script>
+<script src="/rmarkdown-libs/d3/d3.min.js"></script>
+<script src="/rmarkdown-libs/dagre/dagre-d3.min.js"></script>
+<link href="/rmarkdown-libs/mermaid/dist/mermaid.css" rel="stylesheet" />
+<script src="/rmarkdown-libs/mermaid/dist/mermaid.slim.min.js"></script>
+<link href="/rmarkdown-libs/DiagrammeR-styles/styles.css" rel="stylesheet" />
+<script src="/rmarkdown-libs/chromatography/chromatography.js"></script>
+<script src="/rmarkdown-libs/DiagrammeR-binding/DiagrammeR.js"></script>
+
+<div id="TOC">
+
+</div>
+
+<!--more-->
+<hr />
+<div id="htmlwidget-1" style="width:672px;height:480px;" class="DiagrammeR html-widget"></div>
+<script type="application/json" data-for="htmlwidget-1">{"x":{"diagram":"\ngraph TD\nA[Problem arose] -->B{System Suitability Test}\nB --> |Outside of acceptable range| C[LC-MS/MS]\nB --> |Within acceptable range| D[Sample Preparation]\nC -->E{After-column infusion}\nE -->|Within acceptable range| F[LC]\nE -->|Outside of acceptable range| G[MS/MS]\n"},"evals":[],"jsHooks":[]}</script>
+<div class="mermaid">
+<p>graph TD
+A{System suitability test} –&gt;|“Within Acceptable Range”|B[LC-MS/MS]
+A –&gt;C[Sample Preparation]</p>
+</div>
+<p>test</p>

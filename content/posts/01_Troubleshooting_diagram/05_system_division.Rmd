@@ -1,0 +1,48 @@
+---
+weight: 5
+title: "Division workflow Diagram"
+author: "Lenny Lin"
+categories: [Troubleshooting Logbook]
+tags: [Peak]
+toc: true
+date: "2022-08-18"
+lastmod: "2022-08-18"
+draft: true
+---
+
+
+<!--more-->
+
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(collapse = TRUE)
+```
+
+```{r, warning = F, include=F}
+library(DiagrammeR)
+
+#font = c(1, 2, 3), values for the font to use. The values refer, in order, to branches, causes and effect.
+# 1: normal, 2: bold, 3: italic
+#cex = c(1, 0.8, 1)) # cex, values for the graphical character expansion. The values refer, in order, to branches, causes and effect
+# they are the size.
+```
+
+
+```{r, echo= F}
+
+mermaid("
+graph TD
+A[Problem arose] -->B{Maintenance Log}
+B --> |No Human Error|C{System Suitability Test}
+B --> |Yes Human Error|I[Fix it]
+C --> |Outside of acceptable range| D[LC-MS/MS]
+C --> |Within acceptable range| E[Sample Preparation]
+D -->F{After-column infusion}
+F -->|Within acceptable range| G[LC]
+F -->|Outside of acceptable range| H[MS/MS]
+")
+```
+
+
+

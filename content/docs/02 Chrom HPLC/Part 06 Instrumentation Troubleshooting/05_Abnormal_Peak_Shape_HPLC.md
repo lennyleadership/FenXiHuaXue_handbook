@@ -11,10 +11,6 @@ title: Chapter 05 LC Abnormal Peak Shape
 toc: true
 ---
 
-<figcaption><b>Figure </b>: </figcaption>
-
-<img src = "/docs/images/"/>
-
 <!--more-->
 
 Abnormal peak shape encompasses a range of possible peak shape problems.
