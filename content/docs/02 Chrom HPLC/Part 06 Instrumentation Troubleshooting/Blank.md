@@ -1,18 +1,17 @@
 ---
+weight: 99
+title: 
 authors: edited by Lenny Lin
-categories: Category
-date: "2022-01-12"
+categories: 
+date: "2022-08-26"
 description: 
 draft: false
-lastmod: "2022-01-12"
+lastmod: "2022-08-26"
 series: 
 tags: []
-title: 
+
 toc: true
 ---
-
-<figcaption><b>Figure </b>: </figcaption>
-<img src = "/docs/images/"/>
 
 
 
