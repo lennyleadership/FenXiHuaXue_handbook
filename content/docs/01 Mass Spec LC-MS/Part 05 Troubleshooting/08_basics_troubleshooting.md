@@ -160,7 +160,7 @@ And for case number three, we don't use a guard column. There were 850 injection
 
 
 ### Case #1
-So here's case number one, and it was indeed an age guard column. Put on a new one injected the same vial and the peaks went back to normal. That's a pretty slim For one.  
+So here's case number one, and it was indeed an aged guard column. Put on a new one injected the same vial and the peaks went back to normal. That's a pretty slim For one.  
 
 
 ### Case #2
