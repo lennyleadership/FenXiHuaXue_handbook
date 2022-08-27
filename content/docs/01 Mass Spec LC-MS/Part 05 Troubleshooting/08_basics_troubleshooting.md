@@ -144,9 +144,11 @@ First of all, was anything changed on the system from the last good run? Did som
 
 
 <img width ="360" height= "200" src = "/docs/images/Screenshot 2022-08-23 225503.png" style ="float: right" HSPACE="10" VSPACE="10"/>
-So let's apply these to our cases, one, two, and three, there was no problems with mobile phase or needle wash or any method changes. 
+So let's apply these to our cases, one, two, and three, there was no problems with mobile phase or needle wash or any method changes.  
+
+
 ### Case #1
-For case one, we had 615 injections on the guard column And it should have been changed at 500 injections. And when you look at the run, there was a gradual degradation of peak shape. So I would say that that's a pretty good example of aging chromatographic consumables and the guard cotton just needed to be changed.  
+For case one, we had 615 injections on the guard column And it should have been changed at 500 injections. And when you look at the run, there was a gradual degradation of peak shape. So I would say that that's a pretty good example of aging chromatographic consumables and the guard column just needed to be changed.  
 
 
 ### Case #2
