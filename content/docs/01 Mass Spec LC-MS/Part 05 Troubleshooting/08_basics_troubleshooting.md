@@ -144,16 +144,28 @@ First of all, was anything changed on the system from the last good run? Did som
 
 
 <img width ="360" height= "200" src = "/docs/images/Screenshot 2022-08-23 225503.png" style ="float: right" HSPACE="10" VSPACE="10"/>
-So let's apply these to our cases, one, two, and three, there was no problems with mobile phase or needle wash or any method changes. For case one, we had 615 injections on the guard column And it should have been changed at 500 injections. And when you look at the run, there was a gradual degradation of peak shape. So I would say that that's a pretty good example of aging chromatographic consumables and the guard cotton just needed to be changed.  
+So let's apply these to our cases, one, two, and three, there was no problems with mobile phase or needle wash or any method changes. 
+### Case #1
+For case one, we had 615 injections on the guard column And it should have been changed at 500 injections. And when you look at the run, there was a gradual degradation of peak shape. So I would say that that's a pretty good example of aging chromatographic consumables and the guard cotton just needed to be changed.  
 
+
+### Case #2
 For case number two, there was zero injections on the guard column, because got changed that morning. The last one had good peak shape. And there was `a sudden loss of degradation of peak shape`. Starting with this run, and the morphine peaks in the entire batch were bad. So I would say that's a good example that some type of error was created in the column connection when the new guard column was put on.  
 
 
+### Case #3 
 And for case number three, we don't use a guard column. There were 850 injections and we normally change it at 2500. So it doesn't really look like column degradation. The right volume was injected, and the system suitability tests like normal for this kind of makes you suspicious of the sample itself. 
 
 
-So here's case number one, and it was indeed an age guard column. Put on a new one injected the same vial and the peaks went back to normal. That's a pretty slim For one, case number two was a bad LC connection. This is where only the morphine peak was really distorted. And although we couldn't really see that a gap had been created, sometimes that's the problem, when you take it off, we could see that the ferrule looked worn, tend to be a little bit hard to see. But what happens is the tip of the ferrule narrows, the walls get narrower, and it flares a little bit. And you can see that there's that dark ring, that's just indicating that it's been in contact with the stainless steel. But my colleague did replace the PEEK ferrule. And in fact, we got the good morphine peak, I think something that's important to take away from this case is that after fixing the connection to peak height almost doubled. So even if you only had a subtle distortion in peak shape, you might get a much higher signal when you have good plumbing and good, good connections. So that's important to remember. 
+### Case #1
+So here's case number one, and it was indeed an age guard column. Put on a new one injected the same vial and the peaks went back to normal. That's a pretty slim For one.  
 
+
+### Case #2
+case number two was a bad LC connection. This is where only the morphine peak was really distorted. And although we couldn't really see that a gap had been created, sometimes that's the problem, when you take it off, we could see that the ferrule looked worn, tend to be a little bit hard to see. But what happens is the tip of the ferrule narrows, the walls get narrower, and it flares a little bit. And you can see that there's that dark ring, that's just indicating that it's been in contact with the stainless steel. But my colleague did replace the PEEK ferrule. And in fact, we got the good morphine peak, I think something that's important to take away from this case is that after fixing the connection to peak height almost doubled. So even if you only had a subtle distortion in peak shape, you might get a much higher signal when you have good plumbing and good, good connections. So that's important to remember. 
+
+
+### Case #3
 And finally, case number three was the wrong injection matrix. So this THC method, normally our injection matrix is 70% of acetonitrile. 
 <img width ="360" height= "200" src = "/docs/images/Screenshot 2022-08-23 230131.png" style ="float: right" HSPACE="10" VSPACE="10"/>
 And this sample was this batch rather, was reconstituted with 100% acetonitrile. And so it caused that subtle shouldering or fronting of the peaks. Unfortunately, in this case, the whole batch had to be re extracted. But when it did, we had normal picture.  
