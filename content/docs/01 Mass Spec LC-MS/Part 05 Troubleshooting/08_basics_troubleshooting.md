@@ -232,6 +232,7 @@ So that's a lesson for you that you have to be careful how you design your syste
 
 <img width ="360" height= "200" src = "/docs/images/Screenshot 2022-08-24 100049.png" style ="float: right" HSPACE="10" VSPACE="10"/>
 So we record the main vitamin D to internal standard peak area. This is for instrument number one, you're seeing it running from February 11, down to march 31. You can see back at the beginning of February, where we're getting peak areas in the 80 to 90,000 range, and then it's gradually decreasing over time, down to the problem batch today, where we have a peak area of 50,000, almost a 50% drop. And we did have that basket highlighted on March 17, at 40,000. I don't know how that one got through, but seemingly everything was okay with that batch. However, I think it's safe to say that we have a degradation over this six weeks or so. signal that to me is consistent with a mass spec problem. And that's particularly true if I tell you that our other mass spec instrument instrument number two has D2 IS mean peak areas that are around 90,000, about where we started out in February with instrument number one. So we took the samples from one and injected them on two that's a luxury that we have. And we did see those higher peak areas again suggesting that there's problem with the Mass Spec of number one.  
+
 <br>  
 
 
@@ -243,6 +244,7 @@ So let's drill down on that a little bit. What could be wrong with the mass spec
 
 <img width ="360" height= "200" src = "/docs/images/Screenshot 2022-08-24 131629.png" style ="float: right" HSPACE="10" VSPACE="10"/>
 So my polling question number seven for you do you have at your site, even one person, it could be a key operator or maybe everybody is trained on how to perform even one of these mass spec maintenance steps that I've described. So ESI capillary replacement? checking math calibration? detector voltage? or finally cleaning the interface? So that's kind of good news. For me to see, I see that the vast majority of people are saying that at least there's one person who can do some of it. Because often new users are intimidated about touching the mass spectrometer, and it's appropriate to make sure that you don't break anything. But believe me, anybody can, if you're careful, and you're following procedures, your service rep can teach you how to do all of these maintenance steps. I'm a collector and I can do them. So I'm sure that you can. Alright, that's good news to see that. Thanks, Chris.  
+
 <br>  
 
 
