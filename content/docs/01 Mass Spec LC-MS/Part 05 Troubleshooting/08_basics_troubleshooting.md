@@ -221,8 +221,9 @@ So when everything's working normally with solid phase extraction, you have stat
 
 ## Case #2
 <img width ="360" height= "200" src = "/docs/images/Screenshot 2022-08-24 092430.png" style ="float: right" HSPACE="10" VSPACE="10"/>
-Okay, let's move on to case number two. Once again, the system suitability tests pass. We still have the question is the auto sampler. Okay, so we injected a benzodiazepine calibrator from a previous batch. once again with an established stability for an extracted sample. And we did see despite the system suitability test result, we saw those same low peak areas. So this starts to make us suspicious of the instrument. And without going on to check anything further, we looked for a leak. This is a column oven and where you have to pull the columns out and look behind it at the post column switching valve, and there was a pool in the tray underneath the post column switching. So that was the problem. It didn't take that long to find it. But one of the questions is why did the system suitability test pass if there was a leak present? Well, we had set the threshold too low. 
-<img width ="360" height= "200" src = "/docs/images/Screenshot 2022-08-24 093107.png" style ="float: right" HSPACE="10" VSPACE="10"/>
+Okay, let's move on to case number two. Once again, the system suitability tests pass. We still have the question is the auto sampler. Okay, so we injected a benzodiazepine calibrator from a previous batch. once again with an established stability for an extracted sample. And we did see despite the system suitability test result, we saw those same low peak areas. So this starts to make us suspicious of the instrument. And without going on to check anything further, we looked for a leak. This is a column oven and where you have to pull the columns out and look behind it at the post column switching valve, and there was a pool in the tray underneath the post column switching. So that was the problem. It didn't take that long to find it. But one of the questions is why did the system suitability test pass if there was a leak present? Well, we had set the threshold too low.  
+<br>
+<br><img width ="360" height= "200" src = "/docs/images/Screenshot 2022-08-24 093107.png" style ="float: right" HSPACE="10" VSPACE="10"/>
 So that's a lesson for you that you have to be careful how you design your system suitability tests, you really want it to be fairly sensitive if it's going to be useful for you. The reason that chromatography was normal is that the leak was post column, the separation had already occurred. And the nature of this leak I guess, was such that 90% of the flow ended up in the tray beneath the valve and 10% of the flow went to the mass spec without any distortion in the peak. So Signal to Noise case number three (should be number two) was a post column leak. Once the leak was fixed, we could reinject the batch. 
 
 
@@ -230,30 +231,24 @@ So that's a lesson for you that you have to be careful how you design your syste
 <img width ="360" height= "200" src = "/docs/images/Screenshot 2022-08-24 093715.png" style ="float: right" HSPACE="10" VSPACE="10"/>
 [39:58] Case number three. The system suitability test was borderline 10 pin low peak area barely acceptable. When we reinjected yesterday's calibrator, it was also low. We couldn't identify anything wrong with the extraction. Then(??) had an injected an opiate low calibrator. And that had a normal peak area. So we kind of thought the auto sampler was okay, no leaks. But at this stage of the game, we're thinking it's a mass spec problem. So we wanted to look at the trend of the system suitability test results, as I said, sometimes that's more helpful than the absolute value. 
 
-<img width ="360" height= "200" src = "/docs/images/Screenshot 2022-08-24 100049.png" style ="float: right" HSPACE="10" VSPACE="10"/>
+<br><img width ="360" height= "200" src = "/docs/images/Screenshot 2022-08-24 100049.png" style ="float: right" HSPACE="10" VSPACE="10"/>
 So we record the main vitamin D to internal standard peak area. This is for instrument number one, you're seeing it running from February 11, down to march 31. You can see back at the beginning of February, where we're getting peak areas in the 80 to 90,000 range, and then it's gradually decreasing over time, down to the problem batch today, where we have a peak area of 50,000, almost a 50% drop. And we did have that basket highlighted on March 17, at 40,000. I don't know how that one got through, but seemingly everything was okay with that batch. However, I think it's safe to say that we have a degradation over this six weeks or so. signal that to me is consistent with a mass spec problem. And that's particularly true if I tell you that our other mass spec instrument instrument number two has D2 IS mean peak areas that are around 90,000, about where we started out in February with instrument number one. So we took the samples from one and injected them on two that's a luxury that we have. And we did see those higher peak areas again suggesting that there's problem with the Mass Spec of number one.  
 
-<br>  
-
-
-<div class="row">
+<br><div class="row">
 <img width ="360" height= "200" src = "/docs/images/Screenshot 2022-08-24 131225.png" style ="float: right" HSPACE="10" VSPACE="10"/>
 So let's drill down on that a little bit. What could be wrong with the mass spec? Well, we could have an aged electrospray ionization capillary needed to be replaced, the mass calibration or resolution could have drifted. So we can check that as we can check the detector voltage to see if it's too low. Or finally, the mass spec Interface Region could be dirty and need to be cleaned. 
 </div>
 
 
-<img width ="360" height= "200" src = "/docs/images/Screenshot 2022-08-24 131629.png" style ="float: right" HSPACE="10" VSPACE="10"/>
+<br><img width ="360" height= "200" src = "/docs/images/Screenshot 2022-08-24 131629.png" style ="float: right" HSPACE="10" VSPACE="10"/>
 So my polling question number seven for you do you have at your site, even one person, it could be a key operator or maybe everybody is trained on how to perform even one of these mass spec maintenance steps that I've described. So ESI capillary replacement? checking math calibration? detector voltage? or finally cleaning the interface? So that's kind of good news. For me to see, I see that the vast majority of people are saying that at least there's one person who can do some of it. Because often new users are intimidated about touching the mass spectrometer, and it's appropriate to make sure that you don't break anything. But believe me, anybody can, if you're careful, and you're following procedures, your service rep can teach you how to do all of these maintenance steps. I'm a collector and I can do them. So I'm sure that you can. Alright, that's good news to see that. Thanks, Chris.  
 
-<br>  
-
-
-<div class = "row">
+<br><div class = "row">
 <img width ="360" height= "200" src = "/docs/images/Screenshot 2022-08-24 131923.png" style ="float: right" HSPACE="10" VSPACE="10"/>
 So for the ESI capillary, this is a nice image from the Waters website. Essentially, you need to think of it as a consumable even though it's a pricey consumable, it's exposed to a lot of things that could degraded over time, then we're going to have decreased ionization and decreased signal just needs to be changed. The best thing about it is no venting required. 
 </div>
 
-<div class = "row">
+<br><div class = "row">
 <img width ="360" height= "200" src = "/docs/images/Screenshot 2022-08-24 132103.png" style ="float: right" HSPACE="10" VSPACE="10"/>
 It's the same thing with math calibration resolution, it doesn't go bad very often, it's rare. But if you do, you would do an infusion of the vendor's calibration solution using that same infusion setup, I'm showing you the schematic down there at the bottom. And if you see something like this here, where either the mass calibration or resolution is out of spec, then that could account for your low signal, and you need to recalibrate redo resolution and calibration. Once again, no venting required. That's the strength. 
 </div>
@@ -267,50 +262,55 @@ So I'm going to ask you quickly before we go on, because we're running out of ti
 Detector voltage once again, this is like any other type of detector, we need to it ages with time and you may need to perform a test to see are you using the lowest potential voltage that you can to get the right signal or you need to increase it. I do want to point out that cranking up the voltage on the detector is not a substitute for solving the problem because you get increase noise as well as signal and so you're not actually getting anywhere by doing that. Once again, the best thing about it is no venting required. 
 </div>  
 
-<br>  
-
-<div class = "row">
+<br><div class = "row">
 <img width ="360" height= "200" src = "/docs/images/Screenshot 2022-08-24 135005.png" style ="float: right" HSPACE="10" VSPACE="10"/>  
 Why do I say that? Well, the final step is that you need to clean the interface region, which I'm showing you in schematic here. And in order to do that, you need to break the vacuum on the instruments invented, change out those parts or clean them and then put the clean parts back in, and then pump it down. The first few steps are quick, it's the pumping it down, it takes a long time, maybe as much as 24 hours if you have a high end instrument. So What this showing you is that the blue arrow is the ion path, I don't know if you can see my mouse, this first metal surfaces the cone or curtain plate or skimmer, that's what your ions in the gas phase encounter first, they move through the orifice. And then they hit the Interface Region. And if you have residual matrix in your samples, which basically all of us do, no matter how much we clean it up, that's the first place that is going to be deposited. And as it gets deposited on those stainless steel or possibly ceramic surfaces, no surprise, it's going to change how the applied voltages interact. And so you're going to lose signal over time.  
-</div>
-
+</div>  
 
 <div class = "row">
 <img width ="360" height= "200" src = "/docs/images/Screenshot 2022-08-24 135215.png" style ="float: right" HSPACE="10" VSPACE="10"/>  
 So in my experience, this is not a question of "is this going to happen?" as a question of "when?" We're injecting extracted samples of biological matrix. And so the interface is going to get dirty, we clean it, and we get our signal back. And so the interval in between cleaning is only a matter of how many samples we inject? how well we program the diver valve? and and how much we've cleaned them up? And so the advantage of cleaning up samples more is potentially if you length that interval, you have less downtime on your instrument.   
-</div>  
+</div>   
 
-
-<div class = "row">
+<br><div class = "row">
 <img width ="360" height= "200" src = "/docs/images/Screenshot 2022-08-24 135843.png" style ="float: right" HSPACE="10" VSPACE="10"/>
 So our low signal to noise. Case number three. the ESI capillary had been changed fairly recently, we didn't think that was the problem. The resolution, calibration and detector were all fine. 
-</div>
-So we thought it was the interface, we've entered the mass spec, we have spare clean interface components that we keep on hand. So we were able to put them in and started pumping down right away after 24 hours. But we saw was this almost a doubling and signal with the clean interface components. 
+</div>  
+
+<br><div class = "row">
 <img width ="360" height= "200" src = "/docs/images/Screenshot 2022-08-24 140005.png" style ="float: right" HSPACE="10" VSPACE="10"/>
+So we thought it was the interface, we've entered the mass spec, we have spare clean interface components that we keep on hand. So we were able to put them in and started pumping down right away after 24 hours. But we saw was this almost a doubling and signal with the clean interface components. 
 And you can see that visually on the right. So that seemed pretty convincing to us that that was the problem.   
+</div>
 
+<br><div class = "row">
 So my point here with these three Signal to Noise cases, is that they all look the same, but they all actually had quite different etiologies. And so by applying some type of structure, we're trying to figure out the nature of the problem. And then determining how you could test that or use your available data, you can actually move to a logical conclusion that doesn't have to be swanning around in the dark. 
+</div> 
 
-
+### Retention time
+<div class = "row">
 <img width ="360" height= "200" src = "/docs/images/Screenshot 2022-08-24 140318.png" style ="float: right" HSPACE="10" VSPACE="10"/>
 
 <img width ="360" height= "200" src = "/docs/images/Screenshot 2022-08-24 140355.png" style ="float: right" HSPACE="10" VSPACE="10"/>
 So I want to finish up with this retention time shift case. This is for vitamin D. And what you can see is as we go through subsequent injections in the batch, that the peak appears to be moving to the left. So the retention time is shifting. 
+</div>
 
-
-<img width ="360" height= "200" src = "/docs/images/Screenshot 2022-08-24 140646.png" style ="float: right" HSPACE="10" VSPACE="10"/>
-And it's getting progressively shorter. Now often when we think of a leak, we think of a later retention time. But I do want to point out that if you have a failing A pump that is that your mobile phase A is the aqueous phase, if you're doing a reverse phase separation, or if you had a leak in that pump before the mixer, you could potentially have an earlier retention time because let's say you think you're delivering 75% B but in fact, you're delivering 80 or 85% B and pushing the analyte off earlier. I think though that the first thing I'd like to do is check the pressure trace. And that's what I'm showing you here. And what you can see is very reproducible pattern, but the pressure is gradually increasing across the run. And we saw that several times that as the pressure increased, we had shorter retention time. 
+<br>  
 
 <div class = "row">
+<img width ="360" height= "200" src = "/docs/images/Screenshot 2022-08-24 140646.png" style ="float: right" HSPACE="10" VSPACE="10"/>
+And it's getting progressively shorter. Now often when we think of a leak, we think of a later retention time. But I do want to point out that if you have a failing A pump that is that your mobile phase A is the aqueous phase, if you're doing a reverse phase separation, or if you had a leak in that pump before the mixer, you could potentially have an earlier retention time because let's say you think you're delivering 75% B but in fact, you're delivering 80 or 85% B and pushing the analyte off earlier. I think though that the first thing I'd like to do is check the pressure trace. And that's what I'm showing you here. And what you can see is very reproducible pattern, but the pressure is gradually increasing across the run. And we saw that several times that as the pressure increased, we had shorter retention time. 
+</div>  
+
+<br><div class = "row">
 <img width ="360" height= "200" src = "/docs/images/Screenshot 2022-08-24 140822.png" style ="float: right" HSPACE="10" VSPACE="10"/>
 So we looked at the history of our pressure. We've been running this method for several years with no problems. And then all of a sudden, we're having several of these retention time shifts per week on both instruments, and sometimes it over pressures and shuts down on the overnight run very irritating. 
 </div>
 
-<img width ="360" height= "200" src = "/docs/images/Screenshot 2022-08-24 141115.png" style ="float: right" HSPACE="10" VSPACE="10"/>
-So our question was what changed. This is a protein crash it directly in the auto sampler, while I'm showing you there in the lower right hand corner what the vial looks like. And that's the precipitation of serum proteins in zinc sulfate where the red bracket is, we put it out in the multi mixer for multiple vials at one time and then centrifuge it. We checked the speeds on both of those thinking maybe there was still protein suspended in the liquid that was being injected, those were okay, we couldn't find anything wrong with the extraction. And it happened across multiple batches. So we figured it wasn't one analyst. So then we looked at the needle height for the autosampler. Because we're thinking I'm showing you the representation of the needle here that maybe what was happening is going down too far into the sample and picking up some of that particulate and injecting it onto the column each time where it was depositing and the increase in the pressure. Well, the needle heights were normal, but nonetheless, we raised the needle by two millimeters, and then we haven't had any further overpressure problems. So this was one of those cases which frankly, to me happen all too often where we had a solution but We don't really have an explanation for why it happened. 
+<br><img width ="360" height= "200" src = "/docs/images/Screenshot 2022-08-24 141115.png" style ="float: right" HSPACE="10" VSPACE="10"/>
+<br>So our question was what changed. This is a protein crash it directly in the auto sampler, while I'm showing you there in the lower right hand corner what the vial looks like. And that's the precipitation of serum proteins in zinc sulfate where the red bracket is, we put it out in the multi mixer for multiple vials at one time and then centrifuge it. We checked the speeds on both of those thinking maybe there was still protein suspended in the liquid that was being injected, those were okay, we couldn't find anything wrong with the extraction. And it happened across multiple batches. So we figured it wasn't one analyst. So then we looked at the needle height for the autosampler. Because we're thinking I'm showing you the representation of the needle here that maybe what was happening is going down too far into the sample and picking up some of that particulate and injecting it onto the column each time where it was depositing and the increase in the pressure. Well, the needle heights were normal, but nonetheless, we raised the needle by two millimeters, and then we haven't had any further overpressure problems. So this was one of those cases which frankly, to me happen all too often where we had a solution but We don't really have an explanation for why it happened.  
 
-
-<img width ="360" height= "200" src = "/docs/images/Screenshot 2022-08-24 141255.png" style ="float: right" HSPACE="10" VSPACE="10"/>
+<br> <img width ="360" height= "200" src = "/docs/images/Screenshot 2022-08-24 141255.png" style ="float: right" HSPACE="10" VSPACE="10"/>
 So in my view, the approach to successful troubleshooting is you need to know your instrument. We didn't talk about that in too much detail. But I have some recommendations for that, in the appendix, use troubleshooting tools, we talked about that, and divide and conquer principle, we covered that, in our cases, the good production infrastructure. Once again, I have some information in the handout. And so I'd like to finish up by just saying, these were a lot of fairly simple cases, my colleagues who are going to follow in the next three weeks, are really talking about some more interesting things having to do with method development or proficiency testing problems. But we wanted to start out with this. If you do these kinds of things every day, then this wasn't too helpful for you. But if you're just starting out, it can be a black box. And so we thought we wanted to cover some of these basic things. So for us to know, what would be the best thing to to help you out, it looks like so far, people are saying, yes, they might want to see some more of these basic case presentations. I hate to say this, but I have all too many of them. So no shortage of cases. And we'll see what we can do to deliver some more of them to you. So I'm going to stop now. And I think that leaves us five minutes for questions. Thank you so much for your attention. 
 
 
