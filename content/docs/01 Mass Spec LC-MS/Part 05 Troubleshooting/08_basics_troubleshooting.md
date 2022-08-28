@@ -234,14 +234,17 @@ So that's a lesson for you that you have to be careful how you design your syste
 So we record the main vitamin D to internal standard peak area. This is for instrument number one, you're seeing it running from February 11, down to march 31. You can see back at the beginning of February, where we're getting peak areas in the 80 to 90,000 range, and then it's gradually decreasing over time, down to the problem batch today, where we have a peak area of 50,000, almost a 50% drop. And we did have that basket highlighted on March 17, at 40,000. I don't know how that one got through, but seemingly everything was okay with that batch. However, I think it's safe to say that we have a degradation over this six weeks or so. signal that to me is consistent with a mass spec problem. And that's particularly true if I tell you that our other mass spec instrument instrument number two has D2 IS mean peak areas that are around 90,000, about where we started out in February with instrument number one. So we took the samples from one and injected them on two that's a luxury that we have. And we did see those higher peak areas again suggesting that there's problem with the Mass Spec of number one.  
 <br>  
 
+
 <div class="row">
 <img width ="360" height= "200" src = "/docs/images/Screenshot 2022-08-24 131225.png" style ="float: right" HSPACE="10" VSPACE="10"/>
 So let's drill down on that a little bit. What could be wrong with the mass spec? Well, we could have an aged electrospray ionization capillary needed to be replaced, the mass calibration or resolution could have drifted. So we can check that as we can check the detector voltage to see if it's too low. Or finally, the mass spec Interface Region could be dirty and need to be cleaned. 
 </div>
 
+
 <img width ="360" height= "200" src = "/docs/images/Screenshot 2022-08-24 131629.png" style ="float: right" HSPACE="10" VSPACE="10"/>
 So my polling question number seven for you do you have at your site, even one person, it could be a key operator or maybe everybody is trained on how to perform even one of these mass spec maintenance steps that I've described. So ESI capillary replacement? checking math calibration? detector voltage? or finally cleaning the interface? So that's kind of good news. For me to see, I see that the vast majority of people are saying that at least there's one person who can do some of it. Because often new users are intimidated about touching the mass spectrometer, and it's appropriate to make sure that you don't break anything. But believe me, anybody can, if you're careful, and you're following procedures, your service rep can teach you how to do all of these maintenance steps. I'm a collector and I can do them. So I'm sure that you can. Alright, that's good news to see that. Thanks, Chris.  
 <br>  
+
 
 <div class = "row">
 <img width ="360" height= "200" src = "/docs/images/Screenshot 2022-08-24 131923.png" style ="float: right" HSPACE="10" VSPACE="10"/>
@@ -257,8 +260,10 @@ It's the same thing with math calibration resolution, it doesn't go bad very oft
 So I'm going to ask you quickly before we go on, because we're running out of time for do you know with quadrupole mass analyzers, if you set the system to have a higher mass resolution, which you have the capability to do that gives you a narrow peak width. Would you expect to have lower signal abundance? If you think that higher resolution means lower signal than previous answer? Yes. If you don't know, or you think that's false an answer? No. So it looks like the vast majority of people are familiar with the fact that <u>it's a trade off like so much in life in mass spec, between resolution and sensitivity. Higher resolution means lower sensitivity</u>. Okay, great. Thanks. We'll move on. So true. 
 
 
+<div class = "row">
 <img width ="360" height= "200" src = "/docs/images/Screenshot 2022-08-24 132739.png" style ="float: right" HSPACE="10" VSPACE="10"/>
 Detector voltage once again, this is like any other type of detector, we need to it ages with time and you may need to perform a test to see are you using the lowest potential voltage that you can to get the right signal or you need to increase it. I do want to point out that cranking up the voltage on the detector is not a substitute for solving the problem because you get increase noise as well as signal and so you're not actually getting anywhere by doing that. Once again, the best thing about it is no venting required. 
+</div>
 
 
 <img width ="360" height= "200" src = "/docs/images/Screenshot 2022-08-24 135005.png" style ="float: right" HSPACE="10" VSPACE="10"/>
