@@ -241,7 +241,7 @@ So let's drill down on that a little bit. What could be wrong with the mass spec
 
 <img width ="360" height= "200" src = "/docs/images/Screenshot 2022-08-24 131629.png" style ="float: right" HSPACE="10" VSPACE="10"/>
 So my polling question number seven for you do you have at your site, even one person, it could be a key operator or maybe everybody is trained on how to perform even one of these mass spec maintenance steps that I've described. So ESI capillary replacement? checking math calibration? detector voltage? or finally cleaning the interface? So that's kind of good news. For me to see, I see that the vast majority of people are saying that at least there's one person who can do some of it. Because often new users are intimidated about touching the mass spectrometer, and it's appropriate to make sure that you don't break anything. But believe me, anybody can, if you're careful, and you're following procedures, your service rep can teach you how to do all of these maintenance steps. I'm a collector and I can do them. So I'm sure that you can. Alright, that's good news to see that. Thanks, Chris.  
-<br>
+<br>  
 
 <div class = "row">
 <img width ="360" height= "200" src = "/docs/images/Screenshot 2022-08-24 131923.png" style ="float: right" HSPACE="10" VSPACE="10"/>
