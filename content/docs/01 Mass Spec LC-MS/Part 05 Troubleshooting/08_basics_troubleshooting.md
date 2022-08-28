@@ -274,6 +274,7 @@ Why do I say that? Well, the final step is that you need to clean the interface 
 <img width ="360" height= "200" src = "/docs/images/Screenshot 2022-08-24 135215.png" style ="float: right" HSPACE="10" VSPACE="10"/>
 So in my experience, this is not a question of is this going to happen, as a question of when we're injecting extracted samples of biological matrix. And so the interface is going to get dirty, we clean it, and we get our signal back. And so the interval in between cleaning is only a matter of how many samples we inject? how well we program the diver valve? and and how much we've cleaned them up? And so the advantage of cleaning up samples more is potentially if you length that interval, you have less downtime on your instrument. 
 
+
 ## Case #3
 <div class = "row">
 <img width ="360" height= "200" src = "/docs/images/Screenshot 2022-08-24 135843.png" style ="float: right" HSPACE="10" VSPACE="10"/>
