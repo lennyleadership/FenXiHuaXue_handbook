@@ -270,14 +270,16 @@ Detector voltage once again, this is like any other type of detector, we need to
 <br>  
 
 
-<img width ="360" height= "200" src = "/docs/images/Screenshot 2022-08-24 135005.png" style ="float: right" HSPACE="10" VSPACE="10"/>
+<img width ="360" height= "200" src = "/docs/images/Screenshot 2022-08-24 135005.png" style ="float: right" HSPACE="10" VSPACE="10"/>  
 Why do I say that? Well, the final step is that you need to clean the interface region, which I'm showing you in schematic here. And in order to do that, you need to break the vacuum on the instruments invented, change out those parts or clean them and then put the clean parts back in, and then pump it down. The first few steps are quick, it's the pumping it down, it takes a long time, maybe as much as 24 hours if you have a high end instrument. So What this showing you is that the blue arrow is the ion path, I don't know if you can see my mouse, this first metal surfaces the cone or curtain plate or skimmer, that's what your ions in the gas phase encounter first, they move through the orifice. And then they hit the Interface Region. And if you have residual matrix in your samples, which basically all of us do, no matter how much we clean it up, that's the first place that is going to be deposited. And as it gets deposited on those stainless steel or possibly ceramic surfaces, no surprise, it's going to change how the applied voltages interact. And so you're going to lose signal over time.  
 
 
+<div class = "row">
+<img width ="360" height= "200" src = "/docs/images/Screenshot 2022-08-24 135215.png" style ="float: right" HSPACE="10" VSPACE="10"/>  
+So in my experience, this is not a question of "is this going to happen?" as a question of "when?" We're injecting extracted samples of biological matrix. And so the interface is going to get dirty, we clean it, and we get our signal back. And so the interval in between cleaning is only a matter of how many samples we inject? how well we program the diver valve? and and how much we've cleaned them up? And so the advantage of cleaning up samples more is potentially if you length that interval, you have less downtime on your instrument.   
+</div>  
 
-<img width ="360" height= "200" src = "/docs/images/Screenshot 2022-08-24 135215.png" style ="float: right" HSPACE="10" VSPACE="10"/>
-So in my experience, this is not a question of "is this going to happen?" as a question of "when?" We're injecting extracted samples of biological matrix. And so the interface is going to get dirty, we clean it, and we get our signal back. And so the interval in between cleaning is only a matter of how many samples we inject? how well we program the diver valve? and and how much we've cleaned them up? And so the advantage of cleaning up samples more is potentially if you length that interval, you have less downtime on your instrument. 
-
+<br>  
 
 
 <div class = "row">
