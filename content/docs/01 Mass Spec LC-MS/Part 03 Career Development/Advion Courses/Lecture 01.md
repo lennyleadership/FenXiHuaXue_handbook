@@ -59,8 +59,8 @@ Advantage of LC/MS comparing to GC/MS: you can see real molecule.
 ... let me get started on the first lecture. So understanding atmospheric pressure ionization API can stand for the American Petroleum Institute, or active pharmaceutical ingredient. In this class, it stands for `atmospheric pressure ionization`.  And 30 or 40 years ago, that was unheard of term, we never made ions at atmospheric pressure, we made ions in the vacuum system, if you have any experience with electron ionization, or chemical ionization and GCMS ions are made in inside the vacuum not in the in the atmosphere. So that's what's unique about what we're doing. So some of this is pretty basic for someone like yourself, but let's start this all out in the same plane by understanding what a mass spectrum is.  
 
 A mass spectrometer has several components, we'll talk about each of them in some detail. We have to make ions in the first place, `gaseous ions`, and that therefore, we have a source for those ions and ions sources. We have those ions go into the vacuum system after they're formed at atmospheric pressure into the mass analyzer. The ions are detected the at the end the exit of the mass analyzed by a detector, electron multiplier.   
-<a class = "hovertip" tooltip_text ="test">`mean free path`</a>  
-And of course, a vacuum is important. Why is the vacuum important in mass spectrometry? if you remember your organic chemistry, ions need to have a `mean free path` [^1], a long mean free path. If we have ions that atmospheric or they run into gas molecules, they run into nitrogen and oxygen, whatever other gases in the system. In a slide going through some of these carnival experiences for kids go through and they hit bags and so forth, it's not a clean path for the (xxxxx, not clear) is a vacuum. So we need to mean free path of several meters, by having a vacuum 10 to the minus six tore (atmospheric pressure being 760 Tore), then we can have a mean free path of several meters on our ions don't hit anything. They can go where we want them to go. So a UV detector does not have to have a vacuum, a gas chromatograph FID detector, you don't have to have a vacuum. But mass spectrometry must have a vacuum for the ions to get where we want them to go.  
+  
+And of course, a vacuum is important. Why is the vacuum important in mass spectrometry? if you remember your organic chemistry, ions need to have a <a class = "hovertip" tooltip_text ="The mean free path is the average distance traveled by a moving molecule between collisions.">`[mean free path](https://chem.libretexts.org/Bookshelves/Physical_and_Theoretical_Chemistry_Textbook_Maps/Supplemental_Modules_%28Physical_and_Theoretical_Chemistry%29/Kinetics/03%3A_Rate_Laws/3.01%3A_Gas_Phase_Kinetics/3.1.03%3A_Mean_Free_Path#:~:text=The%20mean%20free%20path%20is,a%20moving%20molecule%20between%20collisions.)`</a> [^1], a long mean free path. If we have ions that atmospheric or they run into gas molecules, they run into nitrogen and oxygen, whatever other gases in the system. In a slide going through some of these carnival experiences for kids go through and they hit bags and so forth, it's not a clean path for the (xxxxx, not clear) is a vacuum. So we need to mean free path of several meters, by having a vacuum 10 to the minus six tore (atmospheric pressure being 760 Tore), then we can have a mean free path of several meters on our ions don't hit anything. They can go where we want them to go. So a UV detector does not have to have a vacuum, a gas chromatograph FID detector, you don't have to have a vacuum. But mass spectrometry must have a vacuum for the ions to get where we want them to go.  
 
 And so if we have that, we have to vacuum pumps, and we'll talk about each of that. The mass spectrum is shown in the bottom here, it's an XY plot, x is the mass to charge ratio, the mass x and the ordinate or y axis is the percent abundance. So a mass spectrum has a base peak, there should be only one base peak. If you have more than one base peak, you have saturated the detector, and everything's off scale. And by the way, mass spectrometers, including ours are very sensitive. And I am on <mark>my favorites comments is the solution to pollution is dilution</mark>. We don't inject micrograms of a sample, these things are really sensitive, 50 nanograms of almost anything injected is plenty for ours and other mass spectrometer systems to use.   
 
@@ -194,48 +194,4 @@ Imagine a ball traveling in a box ; the ball represents a moving molecule. Every
 
 
 
-.hovertip {
-  position: relative;
-  border-bottom: 1px dotted black;
-}
-
-.hovertip:before {
-  content: attr(tooltip_text);
-  visibility: hidden;
-  
-  overflow-y: inherit; /*new*/
-
-  width: 250px; /*250px;*/
-  background-color: #bbade6;
-  color: black;
-  text-align: left;
-  border-radius: 5px;
-  padding: 5px 10px;
-  /* fade-in*/
-  opacity: 0;  
-  transition: opacity 1s ease-in-out;
-
-  /* top tooltip*/
-  position: absolute; /*let tooltip wrap instead of overflow*/
-  z-index: 1;
-  left: 50%; /*auto;*/
-  bottom: 110%; /*auto;*/
-  margin-left: -60px;
-}
-
-.hovertip.hovertiptext::before {
-  content: " ";
-  position: absolute;
-  top: 100%; /* At the bottom of the tooltip */
-  left: 50%;
-  margin-left: -5px;
-  border-width: 5px;
-  border-style: solid;
-  border-color: black transparent transparent transparent;
-}
-
-.hovertip:hover:before {
-  opacity: 1;
-  visibility: visible;
-}
 
