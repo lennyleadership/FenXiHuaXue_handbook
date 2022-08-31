@@ -17,6 +17,8 @@ Ion source parameters that can be optimized are:
 3) Source voltage offset  
 
 <!--more-->
+---
+<iframe title="vimeo-player" src="https://player.vimeo.com/video/354240581?h=3d7bd0ad3f" width="360" height="200" frameborder="0" allowfullscreen></iframe>
 
 ## Sample Preparation
 Let's continue then with lecture three, which is sample preparation. 

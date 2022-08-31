@@ -53,6 +53,8 @@ Advantage of LC/MS comparing to GC/MS: you can see real molecule.
 <!--more-->
 ---
 
+<iframe title="vimeo-player" src="https://player.vimeo.com/video/354237371?h=5cf58cd5a0" width="360" height="200" frameborder="0" allowfullscreen></iframe>
+
 # Transcripts
 ... let me get started on the first lecture. So understanding atmospheric pressure ionization API can stand for the American Petroleum Institute, or active pharmaceutical ingredient. In this class, it stands for `atmospheric pressure ionization`.  And 30 or 40 years ago, that was unheard of term, we never made ions at atmospheric pressure, we made ions in the vacuum system, if you have any experience with electron ionization, or chemical ionization and GCMS ions are made in inside the vacuum not in the in the atmosphere. So that's what's unique about what we're doing. So some of this is pretty basic for someone like yourself, but let's start this all out in the same plane by understanding what a mass spectrum is.  
 
