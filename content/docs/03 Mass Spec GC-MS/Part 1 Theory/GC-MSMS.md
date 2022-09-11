@@ -1,13 +1,14 @@
 ---
+weight: 1
+title: GC-MS/MS
 authors: edited by Lenny Lin
 categories:
-date: "2022-07-01"
+tags: []
 description:
 draft: false
-lastmod: "2022-07-01"
+date: "2022-07-01"
+lastmod: "2022-09-11"
 series:
-tags: []
-title: GC-Ms/MS
 toc: true
 ---
 

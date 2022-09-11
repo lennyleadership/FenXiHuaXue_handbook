@@ -1,13 +1,14 @@
 ---
+weight: 2
+title: Part II Application
 authors: Lenny Lin
-categories: GC MS/MS
-date: "2021-12-27"
+categories: ["GC-MS/MS"]
+tags: null
 description: GC MS/MS
 draft: false
-lastmod: "2021-12-27"
+date: "2021-12-27"
+lastmod: "2022-09-11"
 series: 
-tags: null
-title: Part II
 toc: true
 bookCollapseSection: true
 ---

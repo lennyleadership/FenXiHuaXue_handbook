@@ -1,13 +1,14 @@
 ---
+weight: 1
+title: Part I Theory
 authors: Lenny Lin
-categories: GC MS/MS
-date: "2021-12-27"
+categories: ["GC-MS/MS"]
+tags:
 description: GC-MS Theory
 draft: false
+date: "2021-12-27"
 lastmod: "2021-12-27"
 series:
-tags: [GC-QMS]
-title: Part I Theory
 toc: true
 bookCollapseSection: true
 ---
