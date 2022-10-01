@@ -11,6 +11,7 @@ lastmod: "2022-07-29"
 series: null
 toc: true
 ---
+This is the narrative.  
 
 **My Comments**  
 It seems to me that the speaker took proactive approach to troubleshoot a problem before the problem arose.  He overlaid the current one with the reference, and see if there is any deviation.  

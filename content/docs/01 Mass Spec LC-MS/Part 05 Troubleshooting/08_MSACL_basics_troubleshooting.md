@@ -12,13 +12,13 @@ series: null
 toc: true
 ---
 
-
+This is the narrative.  
 
 <!--more-->
 
 ---
 
-**Transcript**  
+**Narrative**  
 
 Well, thank you for that introduction. And I'd like to thank MSACL for the opportunity to speak to you today about troubleshooting. I owe most of what I know about troubleshooting to Larry McAndrew, who works for AB Sciex. And so I'm very grateful to him. Anything I get right today is really, to his credit, anything I get wrong is certainly only coming from me. I'd also like to thank Judy Chang, Camilla Otten, Kathy Chen at Kaiser Regional Laboratories, my former colleagues, I learned so much from them. And also my current colleagues at UC San Diego, our director, Rob Fitzgerald, I've learned a tremendous amount here as well. And in particular, my colleagues, Heather Hochrein, Josh Akin, and Krista Pratico, who have taken time out from their busy day, to document a lot of the cases that I'll be talking about today, so that I can show them to you. 
 
@@ -331,5 +331,5 @@ So we can take care of that afterwards. There's also a question, how can I get a
 <b>A</b>: So I would have said that I'd heard about this theoretically, but never encountered it until the last few years. And I actually have two examples for you. One was a case where the mobile phase was prepared. Normally, it did involve some human interaction, like some pH, ng checking of the buffer. And when the mobile phase was put on to the mass spec, we had a jump up in the baseline from less than 1000 cows to like 20, or 30,000 cows. And so the low abundance peaks like in the lower limit of quantitation calibrator, were just swapped out by that increase in noise. Now, we did not know what caused the contamination in the mobile phase. But we were suspicious because it happened just after putting that mobile phase onto the system. So we swapped it out washed, everything made a new mobile phase, and then everything was fine. At a separate problem more recently, where we ran out of LCMS grade methanol, we used HPLC grade methanol, which believe me I have used and not had problems with, but we saw an immediate decrease in our vitamin D to signal with the HPLC math and I want to say maybe a 30 or 40% signal, which might not be that much with other athletes, but vitamin D, we don't have a lot of margin. So we had to get we were immediately suspicious. That was the problem, we had to remove it wash everything out extensively. And then when we went back to the higher grade of methanol, everything was fine. So I had in fact have seen the problem of the mat of the mobile phase being essentially an ionization reagent and having you fail having a sale.  
 Okay, so thank you very much for that. Basically coming in at a time, just wanted to get one of the upcoming webinars are coming the rest of this month, January 12. Next week, we have omiyo pesky with monitoring, monitoring truck compliance and urine. The week after that on Tuesday as well is Alan Rockwood with LC-MSMS. Troubleshooting had a large reference lab. And to close off this group of webinars, we have Dr. William Clark, translating from troubleshooting to quality improvement LC-MS/MS. case histories from an academic medical center. So thank you all just one thing. We've got the MSACL 2016. US conference coming up this February. I think most of you know about it. Some registrations open early bird registration tomorrow deadline January 6, poster you want to submit we still have some slots. The final deadline for that to make the printed program is January 20. And also we have the EU conference in 2016. As well, this September, with the deadline for the podium abstracts on May 11. Again, I'd like to thank Judy stone and all of you have attended we had 160 participants, participants today, which was more than we expected for our first webinar. Great students great city interest. And we'll look forward to seeing you all or most of you next week and the rest of this month. So thank you. Have a great day. Bye  
 
-**Reference**  
-[MSACL: The Basics of LC-MSMS Troubleshooting: Tools, Strategy, Cases](https://www.msacl.org/index.php?header=Learning_Center&tab=Video_Library&subtab=Search_Video_Library)
+  
+[**Reference**: MSACL. The Basics of LC-MSMS Troubleshooting: Tools, Strategy, Cases](https://www.msacl.org/index.php?header=Learning_Center&tab=Video_Library&subtab=Search_Video_Library)
