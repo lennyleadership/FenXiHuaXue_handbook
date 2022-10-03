@@ -69,7 +69,7 @@ Error ratio: 1
 
  
 
-<table style="width:100%;">
+<table style="width:100%; font-size: 60%">
   <caption style="text-align:left", align = "top"><b>Deming regression (analytic CI): </b></caption>
   <colgroup>
     <col style="width: 20%" /><col style="width: 20%" /><col style="width: 20%" /><col style="width: 20%" /><col style="width: 20%" />
@@ -117,6 +117,6 @@ Error ratio: 1
 
 
 
-<img width ="360" height= "200" src = "/docs/images/deming_regression.png" style ="float: left" HSPACE="10" VSPACE="10"/>
+<img width ="360" height= "200" src = "/docs/images/deming_regression.png" />  
 
 [**Reference**: statsdirect. Method Comparison Regression](https://www.statsdirect.com/help/agreement/mcr.htm)

@@ -1,7 +1,7 @@
 ---
 weight: 9
 authors: Lenny Lin
-title: Design of Experiments
+title: Statistical Analysis
 categories: 
 date: "2022-01-01"
 description:
