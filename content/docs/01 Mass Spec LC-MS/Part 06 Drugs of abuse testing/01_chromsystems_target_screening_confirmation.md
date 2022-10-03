@@ -27,10 +27,10 @@ In contrast, **LC-MS is ideal for polar and non-volatile molecules** such as tho
 ## LC-MS/MS – From Theory to Practice
 
 <div class = "row">
-<table class = "column_right" style="width:65%;">
-  <caption style="text-align:left", align = "top"><i>Table 1: Comparison of GC-MS with LC-MS/MS</i></caption>
+<table class = "column_right" style="width:73%;">
+  <caption style="text-align:left" align = "bottom"><i>Table 1: Comparison of GC-MS with LC-MS/MS</i></caption>
   <colgroup>
-    <col style="width: 25%" /><col style="width: 20%" /><col style="width: 20%" />
+    <col style="width: 25%" /><col style="width: 24%" /><col style="width: 24%" />
   </colgroup>
   <thead>
   <tr style="text-align:left" class="header">
@@ -70,6 +70,8 @@ In contrast, **LC-MS is ideal for polar and non-volatile molecules** such as tho
     </tr>
   </tbody>
 </table>
+
+
 A laboratory tested a commercial LC-MS/MS assay ([MassTox® Drugs of Abuse Testing](https://chromsystems.com/en/products/drugs-of-abuse.html), Chromsystems) and compared it with GC-MS, with a focus on routine analysis [1]. The sample prep for the amount they routinely deal with usually takes 6 hours (excluding hydrolysis), but by using the commercial assay, the lab was able to reduce the time down to 2 hours. The **switch from GC-MS to LC-MS reduced the resources** required for the sample prep, and the sample volume required for the sample preparation was also significantly lower (see Table 1).
 </div>
 
@@ -77,7 +79,7 @@ A laboratory tested a commercial LC-MS/MS assay ([MassTox® Drugs of Abuse Testi
 <div class = "row">
   <div class= "column_right" style="width:360px;">
 <img src = "/docs/images/Drugs-of-Abuse-Article-Comparison.jpg" style ="float: left" HSPACE="10" VSPACE="10"/>  
-<figure class = "caption">
+<figure class = "caption_display">
 Fig. 1: Comparison of a commercial assay with an in-house method. Both assays provide similar data
 </figure>
   </div>
