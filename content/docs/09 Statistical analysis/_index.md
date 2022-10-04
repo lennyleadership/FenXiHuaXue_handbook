@@ -32,5 +32,5 @@ Randomization is the cornerstone underlying the use of statistical methods in th
 **Blocking**:  It is used to eliminate the variability transmitted by nuisance factors.  A block is a set of relatively homogeneous experimental conditions.   
 
 <!--more-->
-
+---
 

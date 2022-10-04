@@ -1,8 +1,8 @@
 ---
-weight: 3
-title: Part III DoE Applications
+weight: 11
+title: Part I Method Validation
 authors: Lenny Lin
-categories: 
+categories: category
 date: "2022-04-05"
 description: 
 draft: false
@@ -13,7 +13,7 @@ toc: true
 bookCollapseSection: true
 ---
 
-It is about DoE application.
+It is about template.
 
 <!--more-->
 

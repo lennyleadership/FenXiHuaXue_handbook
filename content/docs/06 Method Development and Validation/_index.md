@@ -1,16 +1,17 @@
 ---
 weight: 6
+title: Method Development and Validation
 authors: null
 categories: null
-date: "2022-04-05"
+tags: null
 description: Method development and validation
 draft: false
+date: "2022-04-05"
 lastmod: "2022-04-05"
 series: null
-tags: null
-title: Method Development and Validation
 toc: true
 bookCollapseSection: true
 ---
 
-.
+<!--more-->
+---
