@@ -23,17 +23,17 @@ What do you think happens when someone sees the below statements on a CV or appl
   
 Yes – they ask questions to substantiate them. All too often the responses are disappointing and certainly don’t help the applicant to <u>secure</u> the grant, bursary, job, or promotion they are seeking.  
   
-Here’s a little advice on what questions may be asked under these circumstances and how to go about answering them. Of course, if you can’t answer them, or if you don’t really have as much method development experience as you claim, you might want to think about tempering the words you use on your application, or getting more experience if possible.  
+Here’s a little advice on what questions may be asked under these circumstances and how to go about answering them. Of course, if you can’t answer them, or if you don’t really have as much method development experience as you claim, you might want to think about <u>tempering the words</u> you use on your application, or getting more experience if possible.  
   
-**Method Development Philosophy**  
+## Method Development Philosophy  
   
-Different application areas, different development stages within a process, differing throughput requirements, and different company cultures all influence the way in which chromatographic and mass spectrometric methods are developed and, if necessary, validated. Some development approaches involve a general screening platform with several column and eluent combinations in a shotgun approach to screen for likely conditions. Others spend a great deal of time studying the properties of the sample and the matrix to make a series of informed decisions regarding sample preparation or sampling, sample introduction, column choice, and detection type. Some folks will employ surveying techniques to explore the range of analyte and matrix component behaviour if the nature of the sample is unknown – a fundamentally different approach to the platform technique. I know several leading method development groups who define very clear and tight specifications for their desired method features and aim to meet these criteria with each decision. Obviously, your level of development experience and time served in a particular application area will greatly inform your own method development philosophy.  
+Different application areas, different development stages within a process, differing throughput requirements, and different company cultures all influence the way in which chromatographic and mass spectrometric methods are developed and, if necessary, validated. Some development approaches involve a general screening platform with several column and eluent combinations in a shotgun approach to screen for likely conditions. Others spend a great deal of time studying the properties of the sample and the matrix to make a series of informed decisions regarding sample preparation or sampling, sample introduction, column choice, and detection type. Some folks will employ surveying techniques to explore the range of analyte and matrix component behaviour if the nature of the sample is unknown – a fundamentally different approach to the platform technique. I know several leading method development groups who <u>define very clear and tight specifications</u> for their desired method features and aim to meet these criteria with each decision. Obviously, your level of development experience and time served in a particular application area will greatly inform your own method development philosophy.  
   
 So – what is your personal or company development philosophy? Can you describe it succinctly along with supporting reasons? Does it vary, and if so under what circumstances?  
   
 Someone with “extensive method development experience” should be able to clearly describe their philosophy; those who have had experience troubleshooting methods, adapting methods, and transferring methods may not. These latter experiences and the associated skills are no less valuable to an employer, but should not be categorized as method development.  
   
-**Sampling / Sample Preparation / Sample Introduction**  
+## Sampling / Sample Preparation / Sample Introduction
   
 The ability to consider a sample type and match this to a set of desired analytical outcomes (trace analysis of isocyanates in foams at the parts per billion [ppb] level) should lead to well defined thought processes around the requirements for specialist sampling techniques (especially when considering gas chromatography [GC]), as well as the need for sample preparation depending upon the nature of the analyte or matrix.  
   
@@ -41,7 +41,7 @@ You should be prepared to discuss the nature of the sample preparation you belie
   
 If you are not ready to discuss sample preparation in granular detail – why a particular counter ion is chosen for the equilibration step of a mixed mode solid phase extraction protocol or for example why a particular QuEChERS salt is used – then you probably want to think about the way in which you describe your level of experience.  
   
-**Column Choice**  
+## Column Choice
   
 You would be expected to know the factors that drive selectivity mechanisms for high performance liquid chromatography (HPLC) stationary phases – both for the bonded phase and the material substrate. This would include factors such as acidity, basicity, shape selectivity, and hydrophobicity and how to recognize if a column is predominant in any of these factors. For GC columns you should know the chemical nature of the stationary phase and how one might choose and then adjust the chemistry and column dimensions.  
   
@@ -53,7 +53,7 @@ Again, you should be able to choose a column type (and probably name!), based on
   
 There is no definitive right or wrong answer; it’s more about the thought process used to justify your responses and the knowledge of columns for both HPLC and GC separations.  
   
-**Eluent Design and Operating Mode**  
+## Eluent Design and Operating Mode  
   
 This really is the key to demonstrating your ability and the level of method developer you are. From a description of the sample, the analyte properties, and the desired method goals, an experienced method developer should be able to justify a starting eluent composition or set of GC conditions and talk about how one might go about optimizing the system based on initial results.  
   
@@ -67,13 +67,13 @@ You may also want to discuss your experience using computer-based optimization s
   
 Optimizing an HPLC gradient or GC temperature programme profile via trial and error or “tweaking” an existing method would not make you, in my opinion, a method developer. Again, I’m not decrying these skills, they can be more useful to an employer than ab initio method development skills, but describe them accurately on your personal documentation.  
   
-**Detector Choice and Optimization**  
+## Detector Choice and Optimization  
   
 You would be expected to take physical or physico-chemical attributes of an analyte and its matrix to give a commentary on what type of detection may or may not be suitable: Is the analyte chromophoric?; Does it have any features that may indicate fluorescence?; Does it contain halogenated groups?; Is the analyte ionizable?; What is the pKa?; Is it likely to form anions or cations?; Is it within the molecular range of available MS detectors?; What is the expected concentration range? All of these questions are relevant to choosing a detector and I would expect an experienced method developer to be able to make an initial detection choice and support those choices alongside possible alternatives should the initial choice not prove suitable. You should also be able to discuss the major operating variables of the detector type you choose and say how one might go about optimizing these variables depending upon the experimental outcomes during method development. Of course, if moving within a discipline this discussion may be much more straightforward; for example, in bioanalysis triple quadrupole LC coupled to mass spectrometry (MS) detectors are used extensively with multiple reaction monitoring (MRM) type spectrometric experiments. But you should know how to justify the choice of ions, the dwell time settings, how to avoid crosstalk effects, and what new detectors may be available that would offer even greater sensitivity should it be required. Even in areas where you may feel comfortable, you should expect to be asked probing questions to assess your knowledge of the important variables and their effects.  
   
 If you have optimized detector settings or undertaken detector troubleshooting then that is great, but it does not represent extensive method development experience. These things do not make you a method developer.  
   
-**QbD and Method Validation**  
+## QbD and Method Validation 
   
 I’ve not touched upon these two topics yet – although I do think it is fair to say that they seem to hold some type of “magic key” status at the moment. I’m always interested in seeing these phrases in applications or on CV’s, but do expect to be quizzed if you note them as something you are familiar with.  
   
@@ -97,3 +97,5 @@ So the next time you are completing an application consider the following types 
   
 I honestly believe you will be more respected. They set a tone that helps to define your abilities and will help you to be taken more seriously by the reader.    
 
+
+[**Reference**: LCGC. Highly Experienced Method Developer – Really?](https://www.chromatographyonline.com/view/highly-experienced-method-developer-really)
