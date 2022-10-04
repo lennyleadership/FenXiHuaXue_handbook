@@ -3,7 +3,7 @@ weight: 1
 title: Highly Experienced Method Developer
 authors: null
 categories: null
-tags: null
+tags: [hover tip]
 description: 
 draft: false
 date: "2022-10-04"
@@ -29,7 +29,8 @@ Here’s a little advice on what questions may be asked under these circumstance
   
 Different application areas, different development stages within a process, differing throughput requirements, and different company cultures all influence the way in which chromatographic and mass spectrometric methods are developed and, if necessary, validated. Some development approaches involve a general screening platform with several column and eluent combinations in a shotgun approach to screen for likely conditions. Others spend a great deal of time studying the properties of the sample and the matrix to make a series of informed decisions regarding sample preparation or sampling, sample introduction, column choice, and detection type. Some folks will employ surveying techniques to explore the range of analyte and matrix component behaviour if the nature of the sample is unknown – a fundamentally different approach to the platform technique. I know several leading method development groups who <u>define very clear and tight specifications</u> for their desired method features and aim to meet these criteria with each decision. Obviously, your level of development experience and time served in a particular application area will greatly inform your own method development philosophy.  
   
-So – what is your personal or company development philosophy? Can you describe it succinctly along with supporting reasons? Does it vary, and if so under what circumstances?  
+So – what is your personal or company development philosophy? Can you describe it <a class = "hovertip" tooltip_text ="concisely"><u>succinctly</u></a> along with supporting reasons? Does it vary, and if so under what circumstances?  
+
   
 Someone with “extensive method development experience” should be able to clearly describe their philosophy; those who have had experience troubleshooting methods, adapting methods, and transferring methods may not. These latter experiences and the associated skills are no less valuable to an employer, but should not be categorized as method development.  
   
