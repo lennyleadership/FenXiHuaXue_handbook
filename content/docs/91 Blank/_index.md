@@ -1,19 +1,15 @@
 ---
-weight: 99
-title: Template
+weight: 91
+title: Blank
 authors: Lenny Lin
 categories: 
 tags: null
 description: 
 draft: false
-date: "2022-02-26"
-lastmod: "2022-02-26"
+date: "2022-10-11"
+lastmod: "2022-10-11"
 series: null
 toc: true
 bookCollapseSection: true
 ---
-
-It is about template.
-
-<!--more-->
 
