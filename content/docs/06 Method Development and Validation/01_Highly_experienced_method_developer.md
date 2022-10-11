@@ -106,7 +106,7 @@ I also haven’t written this column to be a “<a class = "hovertip" tooltip_te
   
 So the next time you are completing an application consider the following types of statement:  
   
-- Some experience with optimizing sample introduction variables for sample introduction in GC  
+- <u>Some</u> experience with <u>optimizing</u> sample introduction variables for sample introduction in GC  
 - Experience using SPE and a good understanding of the basic mechanisms  
 - Troubleshooting separation issues during method transfer of HPLC applications  
 - Experience advising analysts on the reasons for poor robustness in HPLC methods  

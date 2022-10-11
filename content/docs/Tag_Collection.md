@@ -1,10 +1,11 @@
 ---
+weight: 1
 title: Tag Index
 description:
 toc: true
 authors: Lenny Lin
 date: 2022-06-27
-lastmod: 2022-06-27
+lastmod: 2022-10-11
 draft: false
 series: 
 categories: 
@@ -18,6 +19,5 @@ the charge residue mechanism,
 three MS major parameters, five ion source parameters, 
 Sensitivity,
 Clinical, Toxicology, Forensic, Bioanalysis]
-weight: 1
 ---
 

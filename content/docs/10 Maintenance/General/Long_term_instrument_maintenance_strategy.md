@@ -1,18 +1,17 @@
 ---
+weight: 1
+title: Long-Term Instrument Maintenance Strategy
 authors: edited by Lenny Lin
-categories: Category
-date: "2022-02-26"
+categories: 
+tags: []
 description: null
 draft: false
+date: "2022-02-26"
 lastmod: "2022-02-26"
 series: 
-tags: []
-title: Long-Term Instrument Maintenance Strategy
 toc: true
 ---
 
-<figcaption><b>Figure </b>: </figcaption>
-<img width ="360" height= "200" src = "/docs/images/"/>
 
 <!--more-->
 

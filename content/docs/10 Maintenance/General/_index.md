@@ -1,18 +1,19 @@
 ---
+weight: 1
+title: Maintenance Strategy
 authors: Lenny Lin
-categories: category
-date: "2022-02-26"
+categories: 
 description: .
 draft: true
+date: "2022-02-26"
 lastmod: "2022-02-26"
 series: null
 tags: null
-title: Template
 toc: true
 bookCollapseSection: true
 ---
 
-It is about template.
+
 
 <!--more-->
 
