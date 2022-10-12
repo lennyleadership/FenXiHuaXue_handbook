@@ -96,6 +96,8 @@ m/z 3rd Highest	42
 
 ### MS-MS
 
+Ionization Mode:	Positive  
+
 Top 5 Peaks  
 
 119.0859 100  
@@ -110,8 +112,12 @@ Top 5 Peaks
 
 ### LC-MS
 
+MS Level	MS2  
+Precursor Type	[M+H]+  
+Precursor m/z	136.1121  
+
 <img width ="360" height= "200" src = "/docs/images/" style ="float: left" HSPACE="10" VSPACE="10"/> 
 
 
 ## Reference
-[Pubchem: Amphetamine](https://pubchem.ncbi.nlm.nih.gov/compound/Amphetamine target="_blank" rel="noopener noreferrer")
+<a href = "https://pubchem.ncbi.nlm.nih.gov/compound/Amphetamine" target="_blank" rel="noopener noreferrer">Pubchem: Amphetamine</a>
