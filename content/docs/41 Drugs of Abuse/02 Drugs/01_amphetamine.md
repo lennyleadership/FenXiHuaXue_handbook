@@ -16,9 +16,9 @@ toc: true
 ---
 
 ## Structure
-
+<div class = "row">
 <img width ="360" height= "200" src = "/docs/images/Amphetamine_500.png" style ="float: left" HSPACE="10" VSPACE="10"/>  
-
+</div>
 
 ## Chemical and Physical Properties
 
@@ -54,8 +54,8 @@ toc: true
   <tr class="even">
     <td><p>Dissociation Constants
     </p></td>
-    <td><p> pKa 9.9 (ADDERALL XR (amphetamine) FDA label)<br>
-    pKa = 10.13 (conjugate acid) (Dissociation constants of organic bases in aqueous solution) <br>
+    <td><p> pKa 9.9 (ADDERALL XR (amphetamine) FDA label)
+    pKa = 10.13 (conjugate acid) (Dissociation constants of organic bases in aqueous solution) 
     A pKa of 10.13(1) indicates amphetamine will exist almost entirely in the cation form at pH values of 5 to 9.
     </p></td>
   </tr>
@@ -78,24 +78,42 @@ toc: true
 
 ### GC-MS
 
-Main Library  
+<div class = "row">
+  <div class= "column_right" style="width:360px;">
+  <img src = "/docs/images/21785_1.png" HSPACE="10" VSPACE="10"/>  
+</div>
+       Main Library  
+       
 m/z Top Peak	44  
+
 m/z 2nd Highest	91  
-m/z 3rd Highest	65  
 
-<img width ="360" height= "200" src = "/docs/images/21785_1.png" style ="float: left" HSPACE="10" VSPACE="10"/>   
+m/z 3rd Highest	65   
+</div>  
 
-
+ 
+<div class = "row">
+  <div class= "column_right" style="width:360px;">
+  <img src = "/docs/images/251428_1.png" HSPACE="10" VSPACE="10"/>  
+</div>
 Replicate Library  
-m/z Top Peak	44  
-m/z 2nd Highest	91  
-m/z 3rd Highest	42  
 
-<img width ="360" height= "200" src = "/docs/images/251428_1.png" style ="float: left" HSPACE="10" VSPACE="10"/>   
+m/z Top Peak	44  
+
+m/z 2nd Highest	91  
+
+m/z 3rd Highest	42  
+</div>  
+
+
 
 
 ### MS-MS
 
+<div class = "row">
+  <div class= "column_right" style="width:360px;">
+  <img src = "/docs/images/ms.svg" HSPACE="10" VSPACE="10"/>  
+</div>
 Ionization Mode:	Positive  
 
 Top 5 Peaks  
@@ -107,16 +125,38 @@ Top 5 Peaks
 120.0892 12.35  
 
 137.1161 8.38  
+</div>  
 
-<img width ="360" height= "200" src = "/docs/images/ms.svg" style ="float: left" HSPACE="10" VSPACE="10"/>  
 
 ### LC-MS
 
+<div class = "row">
+  <div class= "column_right" style="width:360px;">
+  <img src = "/docs/images/ms.svg" HSPACE="10" VSPACE="10"/>  
+</div>
 MS Level	MS2  
-Precursor Type	[M+H]+  
-Precursor m/z	136.1121  
 
-<img width ="360" height= "200" src = "/docs/images/" style ="float: left" HSPACE="10" VSPACE="10"/> 
+Precursor Type	[M+H]+  
+
+Precursor m/z	136.1121    
+
+Ionization	ESI
+
+Ionization Mode	positive
+
+Collision Energy	10 eV
+
+Top 5 Peaks	
+
+119.0859 100
+
+136.1124 77.34
+
+120.0892 12.35
+
+137.1161 8.38
+</div>  
+
 
 
 ## Reference

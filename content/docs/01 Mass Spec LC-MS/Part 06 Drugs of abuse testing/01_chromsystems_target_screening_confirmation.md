@@ -78,11 +78,11 @@ A laboratory tested a commercial LC-MS/MS assay ([MassTox® Drugs of Abuse Testi
 <br>
 <div class = "row">
   <div class= "column_right" style="width:360px;">
-<img src = "/docs/images/Drugs-of-Abuse-Article-Comparison.jpg" style ="float: left" HSPACE="10" VSPACE="10"/>  
-<figure class = "caption_display">
-Fig. 1: Comparison of a commercial assay with an in-house method. Both assays provide similar data
-</figure>
-  </div>
+  <img src = "/docs/images/Drugs-of-Abuse-Article-Comparison.jpg" HSPACE="10" VSPACE="10"/>  
+    <figure>
+      Fig. 1: Comparison of a commercial assay with an in-house method. Both assays provide similar data
+    </figure>
+</div>
   The lab also conducted comparative analysis between the commercial assay and an in-house LC-MS assay used by an external accredited laboratory. The values obtained correlate very well with each other across a range of concentrations demonstrating a high accuracy, as showcased by the linear results. Therefore, **the commercial assay (Chromsystems) is suitable for replacing LC-MS/MS in-house methods** and allows for the **target screening and/or quantitative confirmation of 106 drugs** in a single run (Fig. 1). Proficiency testing schemes from GTFCh and RfB, in which the assay has been used, also confirmed its accuracy [1].  
 </div>  
 
@@ -91,10 +91,10 @@ Fig. 1: Comparison of a commercial assay with an in-house method. Both assays pr
 
 <div class ="row">
   <div class= "column_right" style="width:360px;">
-<img width ="360" height= "200" src = "/docs/images/Drugs-of-Abuse-Article-Hydrolysis.jpg" style ="float: left" HSPACE="10" VSPACE="10"/>
-<figure class = "caption">
-Fig. 2: After 2 hrs, hydrolysis is complete, including difficult to hydrolyse drugs such as codeine.
-</figure>
+    <img width ="360" height= "200" src = "/docs/images/Drugs-of-Abuse-Article-Hydrolysis.jpg" HSPACE="10" VSPACE="10"/>
+    <figure>
+      Fig. 2: After 2 hrs, hydrolysis is complete, including difficult to hydrolyse drugs such as codeine.
+    </figure>
 </div>
 
 In the human body, many drugs undergo glucuronidation, which requires an enzymatic or acidic hydrolysis prior to the analysis – a challenge for many assays. Enzymatic hydrolysis varies in its effectiveness depending on the drug and the enzyme [2]. Erratic quality assurance results for codeine – one of the more difficult to hydrolyse compounds – are considered to be based on an incomplete hydrolysis [3]. Consequently, some papers recommend the use of an acidic hydrolysis, however, this can degrade both opioids and other substances [4]. Furthermore, this approach can convert oxycodone to oxymorphone, and codeine to morphine by demethylation, which increases the risk of false-negative or false-positive results. To overcome this drawback, our lab has developed an **enzymatic hydrolysis process that is effective for hydrolysing all glucuronides within 2 hours**. This has been achieved by using a carefully selected enzyme that ensures a complete and selective hydrolysis of all 106 drugs that are covered in the assay, including codeine. The effectiveness has been demonstrated by measuring the hydrolysis of several substances over time: **Easy-to-hydrolyse glucuronides become fully hydrolysed quickly**, while others, such as codeine, require longer. After 2 hours, the hydrolysis is complete for all the compounds (Fig. 2).
@@ -105,7 +105,7 @@ In the human body, many drugs undergo glucuronidation, which requires an enzymat
 
 <div class = "row">
   <div class = "column_left" style = "width: 360px;">
-  <img width ="360" height= "200" src = "/docs/images/Drugs-of-Abuse-Article-Chromatogram.jpg" style ="float: left" HSPACE="10" VSPACE="10"/>
+  <img width ="360" height= "200" src = "/docs/images/Drugs-of-Abuse-Article-Chromatogram.jpg" HSPACE="10" VSPACE="10"/>
   <figure class = "caption">
   Fig. 3: Chromatogram of the commercial assay – more than 100 drugs can be tested within a single run
   <figure>
