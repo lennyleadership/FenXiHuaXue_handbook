@@ -1,0 +1,73 @@
+---
+weight: 1
+title: Amphetamine
+authors: edited by Lenny Lin
+categories: 
+tags: []
+description: null
+draft: false
+date: "2022-10-12"
+lastmod: "2022-10-12"
+series: 
+toc: true
+---
+
+<!--more-->
+---
+
+## Structure
+
+<img width ="360" height= "200" src = "/docs/images/Amphetamine_500.png" style ="float: left" HSPACE="10" VSPACE="10"/>
+
+## Chemical and Physical Properties
+
+<table style="width:100%; font-size: 60%">
+<caption style="text-align:left", align = "top"><b></b></caption>
+<colgroup><col style="width: 40%" /><col style="width: 60%" />
+</colgroup>
+<thead>
+  <tr VALIGN=TOP style="text-align:left"  class="header">
+    <th><p>Property Name</p></th>
+    <th><p>Property Value</p></th>
+  </tr>
+</thead>
+<tbody VALIGN=TOP>
+  <tr class="odd">
+    <td><p>Molecular Weight
+    </p></td>
+    <td><p>
+    </p></td>
+  </tr>
+  <tr class="even">
+    <td><p>Exact Mass
+    </p></td>
+    <td><p>
+    </p></td>
+  </tr>
+  <tr class="odd">
+    <td><p>Monoisotopic Mass
+    </p></td>
+    <td><p>sentence right.
+    </p></td>
+  </tr>
+  <tr class="even">
+    <td><p>pKa
+    </p></td>
+    <td><p> sentence right.
+    </p></td>
+  </tr>
+  <tr class="odd">
+    <td><p>sentence left
+    </p></td>
+    <td><p>sentence right.
+    </p></td>
+  </tr>
+  <tr class="even">
+    <td><p>sentence left
+    </p></td>
+    <td><p> sentence right.
+    </p></td>
+  </tr>
+</tbody>
+</table>
+
