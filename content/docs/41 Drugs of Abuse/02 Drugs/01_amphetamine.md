@@ -17,11 +17,12 @@ toc: true
 
 ## Structure
 
-<img width ="360" height= "200" src = "/docs/images/Amphetamine_500.png" style ="float: left" HSPACE="10" VSPACE="10"/>
+<img width ="360" height= "200" src = "/docs/images/Amphetamine_500.png" style ="float: left" HSPACE="10" VSPACE="10"/>  
+
 
 ## Chemical and Physical Properties
 
-<table style="width:100%; font-size: 60%">
+<table style="width:100%; font-size: 100%">
 <caption style="text-align:left", align = "top"><b></b></caption>
 <colgroup><col style="width: 40%" /><col style="width: 60%" />
 </colgroup>
@@ -35,25 +36,27 @@ toc: true
   <tr class="odd">
     <td><p>Molecular Weight
     </p></td>
-    <td><p>
+    <td><p>135.21
     </p></td>
   </tr>
   <tr class="even">
     <td><p>Exact Mass
     </p></td>
-    <td><p>
+    <td><p>135.104799419
     </p></td>
   </tr>
   <tr class="odd">
     <td><p>Monoisotopic Mass
     </p></td>
-    <td><p>sentence right.
+    <td><p>135.104799419
     </p></td>
   </tr>
   <tr class="even">
-    <td><p>pKa
+    <td><p>Dissociation Constants
     </p></td>
-    <td><p> sentence right.
+    <td><p> pKa 9.9 (ADDERALL XR (amphetamine) FDA label)<br>
+    pKa = 10.13 (conjugate acid) (Dissociation constants of organic bases in aqueous solution) <br>
+    A pKa of 10.13(1) indicates amphetamine will exist almost entirely in the cation form at pH values of 5 to 9.
     </p></td>
   </tr>
   <tr class="odd">
@@ -71,3 +74,5 @@ toc: true
 </tbody>
 </table>
 
+## Reference
+[Pubchem: Amphetamine](https://pubchem.ncbi.nlm.nih.gov/compound/Amphetamine)
