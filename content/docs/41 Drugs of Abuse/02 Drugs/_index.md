@@ -1,6 +1,6 @@
 ---
 weight: 2
-title: Drugs Chemical and Physical Properties
+title: Drugs
 authors: Lenny Lin
 categories: 
 tags: null
