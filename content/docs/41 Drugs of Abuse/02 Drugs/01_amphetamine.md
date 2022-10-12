@@ -74,5 +74,44 @@ toc: true
 </tbody>
 </table>
 
+## Spectral Information
+
+### GC-MS
+
+Main Library  
+m/z Top Peak	44  
+m/z 2nd Highest	91  
+m/z 3rd Highest	65  
+
+<img width ="360" height= "200" src = "/docs/images/21785_1.png" style ="float: left" HSPACE="10" VSPACE="10"/>   
+
+
+Replicate Library  
+m/z Top Peak	44  
+m/z 2nd Highest	91  
+m/z 3rd Highest	42  
+
+<img width ="360" height= "200" src = "/docs/images/251428_1.png" style ="float: left" HSPACE="10" VSPACE="10"/>   
+
+
+### MS-MS
+
+Top 5 Peaks  
+
+119.0859 100  
+
+136.1124 77.34  
+
+120.0892 12.35  
+
+137.1161 8.38  
+
+<img width ="360" height= "200" src = "/docs/images/ms.svg" style ="float: left" HSPACE="10" VSPACE="10"/>  
+
+### LC-MS
+
+<img width ="360" height= "200" src = "/docs/images/" style ="float: left" HSPACE="10" VSPACE="10"/> 
+
+
 ## Reference
-[Pubchem: Amphetamine](https://pubchem.ncbi.nlm.nih.gov/compound/Amphetamine)
+[Pubchem: Amphetamine](https://pubchem.ncbi.nlm.nih.gov/compound/Amphetamine target="_blank" rel="noopener noreferrer")
