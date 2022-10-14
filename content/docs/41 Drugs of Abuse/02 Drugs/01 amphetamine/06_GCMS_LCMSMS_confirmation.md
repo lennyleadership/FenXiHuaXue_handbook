@@ -1,5 +1,5 @@
 ---
-weight:6
+weight: 6
 title: GC-MS and LC-MS/MS Confirmation Procedures
 authors: edited by Lenny Lin
 categories: 

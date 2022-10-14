@@ -1,5 +1,5 @@
 ---
-weight:7
+weight: 7
 title: Isomer Resolution
 authors: edited by Lenny Lin
 categories: 
