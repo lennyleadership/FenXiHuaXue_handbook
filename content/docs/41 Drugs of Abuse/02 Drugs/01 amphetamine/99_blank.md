@@ -1,5 +1,5 @@
 ---
-weight:99
+weight: 99
 title: 
 authors: edited by Lenny Lin
 categories: 
