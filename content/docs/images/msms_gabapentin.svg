@@ -1,0 +1,40 @@
+<svg width="1000" height="600" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" overflow="hidden">
+<style>text{font-family:Calibri,sans-serif,Helvetica,arial;font-weight:400}</style>
+<g>
+<rect x="770" y="50" width="120" height="29" stroke="#7DCEA0" stroke-linejoin="round" stroke-miterlimit="10" fill="#A9DFBF" />
+<a xlink:href="ms.cgi?pl=f&amp;peaks=172.132889:100,154.122528:87.05,137.095108:31.91,173.135452:9.78,109.100273:6.93">
+<text font-size="15" transform="translate(776 70)">Hide Peak Labels</text>
+</a><path d="M100 40 900 40" stroke="#111" stroke-width="1" />
+<path d="M900 40 900 500" stroke="#111" stroke-width="1" />
+<path d="M900 500 100 500" stroke="#111" stroke-width="1" />
+<path d="M100 40 100 500" stroke="#111" stroke-width="1" />
+<path d="M94 500 100 500" stroke="#444" stroke-width="1" />
+<path d="M94 320 100 320" stroke="#444" stroke-width="1" />
+<path d="M94 140 100 140" stroke="#444" stroke-width="1" />
+<path d="M100 500 100 506" stroke="#444" stroke-width="1" />
+<path d="M300 500 300 506" stroke="#444" stroke-width="1" />
+<path d="M500 500 500 506" stroke="#444" stroke-width="1" />
+<path d="M700 500 700 506" stroke="#444" stroke-width="1" />
+<path d="M900 500 900 506" stroke="#444" stroke-width="1" />
+<text font-size="28" transform="matrix(0 -1 1 0 48 320)">Intensity</text>
+<text font-style="italic" font-size="28" transform="translate(470 570)">m/z</text>
+<text font-size="20" transform="translate(60 144)">100</text>
+<text font-size="20" transform="translate(70 324)">50</text>
+<text font-size="20" transform="translate(80 504)">0</text>
+<text font-size="20" transform="translate(885 525)">250</text>
+<text font-size="20" transform="translate(675 525)">187.5</text>
+<text font-size="20" transform="translate(485 525)">125</text>
+<text font-size="20" transform="translate(280 525)">62.5</text>
+<text font-size="20" transform="translate(95 525)">0</text>
+<text font-size="18" transform="matrix( 0.906249 -0.422744 0.422744 0.906249 650.825 140)">172.132889</text>
+<path d="M650.825 140 650.825 500" stroke="#0000ff" stroke-width="1" />
+<text font-size="18" transform="matrix( 0.906249 -0.422744 0.422744 0.906249 593.192 186.62)">154.122528</text>
+<path d="M593.192 186.62 593.192 500" stroke="#0000ff" stroke-width="1" />
+<text font-size="18" transform="matrix( 0.906249 -0.422744 0.422744 0.906249 538.704 385.124)">137.095108</text>
+<path d="M538.704 385.124 538.704 500" stroke="#0000ff" stroke-width="1" />
+<text font-size="18" transform="matrix( 0.906249 -0.422744 0.422744 0.906249 654.033 464.792)">173.135452</text>
+<path d="M654.033 464.792 654.033 500" stroke="#0000ff" stroke-width="1" />
+<text font-size="18" transform="matrix( 0.906249 -0.422744 0.422744 0.906249 449.121 475.052)">109.100273</text>
+<path d="M449.121 475.052 449.121 500" stroke="#0000ff" stroke-width="1" />
+</g></svg>
+
