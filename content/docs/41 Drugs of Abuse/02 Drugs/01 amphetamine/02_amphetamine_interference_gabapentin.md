@@ -1,6 +1,6 @@
 ---
 weight: 2
-title: amphetamine interference
+title: amphetamine interference - Gabapentin
 authors: edited by Lenny Lin
 categories: 
 tags: []

@@ -13,23 +13,19 @@ toc: true
 ---
 
 <!--more-->
+---
 
-## What are stimulants?
-Two stimulants: amphetamine and methamphetamine  
+Immunoassays detect substances above a set threshold using antibodies[1] [2].  While a useful tool, immunoassays have poor specificity that may lead to false-positive results [1-3].  
 
-Designer amphetamines: 3,4-methylenedioxymethamphetamine (MDMA; Ecstasy), 3,4-methylenedioxyamphetamine (MDA), and 3-4-methylenedioxyethylamphetamine (MDEA)
+Reference:
+1. Standridge JB, Adams SM, Zotos AP. Urine drug screening: a valuable office procedure. Am Fam Physician. 2010;81(5):635-640.
+2. Moeller KE, Lee KC, Kissack JC. Urine drug screening: practical guide for clinicians. Mayo Clin Proc. 2008;83(1):66-76.
+3. Saitman A, Park HD, Fitzgerald RL. False-positive interferences of common urine drug screen immunoassays: a review. J Anal Toxicol. 2014;38(7):387-396.
 
-Other sympathomimetic amines (see Fig. 16.1) with similar structures include compounds such as ephedrine and pseudoephedrine.   
+**Reference**: <a href = "https://www.uspharmacist.com/article/urine-drug-screening-minimizing-false-positives-and-false-negatives-to-optimize-patient-care" target="_blank" rel="noopener noreferrer">Urine Drug Screening: Minimizing False-Positives and False-Negatives to Optimize Patient Care</a>
 
-Additional designer amphetamines are: methiopropamine, 4-fluoroamphetamine, 4-fluoromethamphetamine, 4-methylamphetamine, and cathinones.
+---
 
-<center><img width ="360" height= "200" src = "/docs/images/Screenshot 2022-10-12 162837.png" /></center>
-<figure><center>Figure 16.1: Chemical structures of amphetamines and sympathomimetic amines</center></figure>
-
-## Issues
-Because of the structural similarity of the other sympathomimetic amines, cross-reactivity of antibodies is a primary concern when interpreting results of immunoassay screening for amphetamines.  
-
-Current immunoassays are extremely effective for the detection of the intended compounds such as amphetamine/methamphetamine or MDMA/MDA, but are typically ineffective for use in detecting new amphetamine designer drugs [5].
-
+Structure similarity to amphetamine or methanphetamine creates potential problems due to cross-reactivity of the antibodies in immunoassays.
 
 **Reference**: <a href = "https://www.sciencedirect.com/book/9780128156070/critical-issues-in-alcohol-and-drugs-of-abuse-testing" target="_blank" rel="noopener noreferrer">[Chapter 16 - Critical Issues When Testing for Amphetamine-Type Stimulants: Pitfalls of Immunoassay Screening and Mass Spectrometric Confirmation for Amphetamines, Methamphetamines, and Designer Amphetamines, p206-213]</a>
