@@ -1,9 +1,10 @@
 ---
+weight: 7
 authors: Lenny Lin
-categories: category
-date: "2022-01-03"
+categories: 
 description: Analysis troubleshooting.
 draft: false
+date: "2022-01-03"
 lastmod: "2022-01-24"
 series: null
 tags: null
