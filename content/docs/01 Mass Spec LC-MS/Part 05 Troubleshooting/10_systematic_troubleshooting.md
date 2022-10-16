@@ -44,7 +44,17 @@ Recovery is determined by comparing the peak areas of extracted samples with tho
 
 The matrix effect[^1] is determined by comparing peak areas of neat solutions spiked (postextraction) into blank matrix with those of other neat solutions. Because the analytes are not extracted, the analyte should have the same response in postextraction spiked samples and in neat solutions. The matrix ingredients, therefore, cause whatever differences are noted in the responses. A useful method to assess matrix suppression is postcolumn infusion of an analyte into the MS detector. The extracted blank matrix is injected by an autosampler onto the analytical column. The setup is shown in Figure 3. The purpose of postcolumn infusion with analyte is to raise the background level so that the suppression matrix will show as negative peaks. This setup has been successfully used to identify and troubleshoot matrix suppression peaks.  
 
-[^1]: According to the determination process, it seems there is no matrix effect on GC-MS/MS.  
+<figure>
+  <img width = "540" src = "/docs/images/Screenshot 2022-10-15 214516.png"/>
+  <figcaption><b>Figure 3</b>. General set-up for identifying matrix effect: postcolumn infusion of compound while injecting extracted blank</figcaption>
+</figure>
+
+<figure>
+  <img width = "540" src = "/docs/images/Screenshot 2022-10-15 214722.png"/>
+  <figcaption><b>Figure 4</b>. Postcolumn infusion to determine the matrix suppression profiles of original extraction and modified extraction: matrix suppression was eliminated by diluting the extracted samples five fold</figcaption>
+</figure>
+
+[^1]: According to the determination process, it seems there is no matrix effect on GC-MS/MS, because I can't apply this process on a GC-MS/MS.    
 
 
 **Reference**:  
