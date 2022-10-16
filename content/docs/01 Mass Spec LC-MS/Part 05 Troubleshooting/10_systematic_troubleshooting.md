@@ -30,9 +30,9 @@ Part 2 discusses further troubleshooting techniques and presents an automation s
 ### Carry-over
 Carry-over is probably one of the most commonly encountered problems of LC/MS/MS method development. Sources of problems range from instrument hardware and the selection of appropriate rinse solvents to challenges with chromatography. Frequently, resolving the problem requires a combination of individual experimental solutions and systematic and logical investigation.   
 
-<u>**The gradient elution** was actually determined to be the cause of the carry-over effect</u>. To address the issue, <u>an isocratic elution with a mobile phase that contained 45% acetonitrile was used to eliminate the carryover</u>. A new problem surfaced when the original internal standard was not retained on the column in the mobile phase, so a new one had to be used. The new standard had retention properties similar to those of the analyte. Figure 2 depicts the resolution of the carry-over problem. The method was validated and successfully used for sample analysis.  chromatographic condition and internal standard were changed as a result of the problem and its solution. Occasionally, carry-over problems have simpler solutions. In another example, simply raising the needle height solved the carry-over effect. <u>Carry-over is often avoided by merely minimizing the contact surface between analyte and needle</u>.
+<u>**The gradient elution** was actually determined to be the cause of the carry-over effect</u>. To address the issue, <u> (1) an isocratic elution with a mobile phase that contained 45% acetonitrile was used to eliminate the carryover</u>. A new problem surfaced when the original internal standard was not retained on the column in the mobile phase, so a new one had to be used. The new standard had retention properties similar to those of the analyte. Figure 2 depicts the resolution of the carry-over problem. The method was validated and successfully used for sample analysis.  chromatographic condition and internal standard were changed as a result of the problem and its solution. Occasionally, carry-over problems have simpler solutions. In another example, simply raising the needle height solved the carry-over effect. <u> (2) Carry-over is often avoided by merely minimizing the contact surface between analyte and needle</u>.
 
-Occasionally, carry-over problems have simpler solutions. In another example, simply raising the needle height solved the carry-over effect. Carry-over is often avoided by merely minimizing the contact surface between analyte and needle.  
+Occasionally, carry-over problems have simpler solutions. In another example, simply raising the needle height solved the carry-over effect. <u> (3) Carry-over is often avoided by merely minimizing the contact surface between analyte and needle</u>.  
 
 
 ### Recovery and matrix effects
@@ -41,7 +41,11 @@ For an LC/MS/MS method, it is important to identify whether the loss of sensitiv
 
 Recovery is determined by comparing the peak areas of extracted samples with those of neat solutions spiked (postextraction) into a blank matrix. Because both samples have the matrix ingredients present, the matrix effects can be considered the same for extracted samples and postextraction spiked samples. Any differences in response can now be considered to be due to extraction recovery.   
 
-The matrix effect[^1] is determined by comparing peak areas of neat solutions spiked (postextraction) into blank matrix with those of other neat solutions. Because the analytes are not extracted, the analyte should have the same response in postextraction spiked samples and in neat solutions. The matrix ingredients, therefore, cause whatever differences are noted in the responses. A useful method to assess matrix suppression is postcolumn infusion of an analyte into the MS detector. The extracted blank matrix is injected by an autosampler onto the analytical column. The setup is shown in Figure 3. The purpose of postcolumn infusion with analyte is to raise the background level so that the suppression matrix will show as negative peaks. This setup has been successfully used to identify and troubleshoot matrix suppression peaks.  
+The matrix effect[^1] is determined by comparing peak areas of neat solutions spiked (postextraction) into `blank matrix` with those of other neat solutions. Because the analytes are not extracted, the analyte should have the same response in postextraction spiked samples and in neat solutions. The matrix ingredients, therefore, cause whatever differences are noted in the responses.  
+
+A useful method to assess matrix suppression is postcolumn infusion of an analyte into the MS detector. The extracted blank matrix is injected by an autosampler onto the analytical column. The setup is shown in Figure 3. The purpose of postcolumn infusion with analyte is to raise the background level so that the suppression matrix will show as negative peaks. This setup has been successfully used to identify and troubleshoot matrix suppression peaks.  
+
+During LC/MS/MS method development for analysis of a nucleoside compound and its metabolite, lower and inconsistent signals of the metabolite peak were observed. An aqueous–organic mobile phase and a silica column were used. The extraction method was a simple protein precipitation. The lower signal was due to matrix suppression, which was confirmed by postcolumn infusion portrayed in Figure 4. A broad suppression band was observed around the analyte peak. <u> (1) The problem was overcome by diluting the extracted sample five-fold with the weaker elution solvent, in this case, acetonitrile</u>. The suppression was no longer observed, and the method has since been validated and successfully used for routine sample analysis.
 
 <figure>
   <img width = "540" src = "/docs/images/Screenshot 2022-10-15 214516.png"/>
@@ -53,7 +57,7 @@ The matrix effect[^1] is determined by comparing peak areas of neat solutions sp
   <figcaption><b>Figure 4</b>. Postcolumn infusion to determine the matrix suppression profiles of original extraction and modified extraction: matrix suppression was eliminated by diluting the extracted samples five fold</figcaption>
 </figure>
 
+
+**Reference**: <a href = "https://cdn.sanity.io/files/0vv8moc6/biopharn/1a7e564988c4ca05949add7061339d9dadbe47ec.pdf/article-7275.pdf" target="_blank" rel="noopener noreferrer">Systematic Troubleshooting for LC/MS/MS - Part 2: Large-Scale LC/MS/MS and Automation</a>  
+
 [^1]: According to the determination process, it seems there is no matrix effect on GC-MS/MS, because I can't apply this process on a GC-MS/MS.    
-
-
-**Reference**: <a href = "https://cdn.sanity.io/files/0vv8moc6/biopharn/1a7e564988c4ca05949add7061339d9dadbe47ec.pdf/article-7275.pdf" target="_blank" rel="noopener noreferrer">Systematic Troubleshooting for LC/MS/MS - Part 2: Large-Scale LC/MS/MS and Automation</a>
