@@ -3,7 +3,7 @@ weight: 10
 title: Systematic Method Development and Troubleshooting 
 authors: Naidong Weng and Timothy D.J. Halls, edited by Lenny Lin
 categories: null
-tags: [Matrix Effects Determination]
+tags: [Matrix Effects Determination, Trifluoroacetic Acid, Buffer, Ion Pairs]
 description:  
 draft: false
 date: "2022-10-15"
@@ -48,18 +48,21 @@ A number of drugs have basic functional groups, and MS in the positive ion mode 
 
 <div class = "row">
   <div class= "column_right" style="width:360px;">
-  <img src = "/docs/images/Screenshot 2022-10-17 094851.png" HSPACE="10" VSPACE="10"/>  
+  <img src = "/docs/images/Screenshot 2022-10-17 110712.png" HSPACE="10" VSPACE="10"/>  
     <figure>
-<b>Figure 3</b>. Chromatograms of gradient elution of five protease inhibitors on silica column with aqueous–organic mobile phase; column: Betasil silica 50x 3 &mu;m; mobile phase: linear gradient elution of acetonitrile–water–formic acid from 95:5:0.2 to 30:70:0.2 in two minutes; flow rate: 0.5 mL/min; sample preparation: protein precipitation; AMP: amprenavir; RIT: ritonavir; NEL: nelfinavir; IS: internal standard; SAQ: saquinavir; IND: indinavir       
+<b>Figure 2</b>. Silica column stability for a LC/MS/MS method of analyzing ribavirin in human serum; column: Betasil silica 50 x 3 &mu;m; mobile phase:acetonitrile–water–trifluoroacetic acid (TFA) (95:5:0.05, v/v/v); sample preparation: protein precipitation       
     </figure>
+  </div>
+That problem can be overcome by capturing polar ionic compounds on a silica column (9). Depending on the conditions, sensitivity on silica columns can increase five- to eightfold. Figure 1 illustrates dual retention on a reversed-phase column through the use of silanol to retain polar analytes. Various compound analytes (Table 1) have been successfully eluted using a silica column (9–20). Basic compounds are eluted with an acidic mobile phase to create cations for electrospray and ion detection.   
+</div>
+
+<div class = "row">    
   <div class= "column_right" style="width:360px;">
   <img src = "/docs/images/Screenshot 2022-10-17 094851.png" HSPACE="10" VSPACE="10"/>  
     <figure>
 <b>Figure 3</b>. Chromatograms of gradient elution of five protease inhibitors on silica column with aqueous–organic mobile phase; column: Betasil silica 50x 3 &mu;m; mobile phase: linear gradient elution of acetonitrile–water–formic acid from 95:5:0.2 to 30:70:0.2 in two minutes; flow rate: 0.5 mL/min; sample preparation: protein precipitation; AMP: amprenavir; RIT: ritonavir; NEL: nelfinavir; IS: internal standard; SAQ: saquinavir; IND: indinavir       
     </figure>
 </div>
-That problem can be overcome by capturing polar ionic compounds on a silica column (9). Depending on the conditions, sensitivity on silica columns can increase five- to eightfold. Figure 1 illustrates dual retention on a reversed-phase column through the use of silanol to retain polar analytes. Various compound analytes (Table 1) have been successfully eluted using a silica column (9–20). Basic compounds are eluted with an acidic mobile phase to create cations for electrospray and ion detection.   
-
 Silica columns demonstrate excellent stability. Typically, one column can be used for at least 500 injections of extracted samples. Figure 2 shows column stability of the LC/MS/MS analysis of ribavirin in human plasma after 350 injections. Even with the protein precipitation extraction method, no retention-time changes were observed. The combination of an aqueousorganic mobile phase and a silica column also demonstrated an excellent, reproducible gradient elution. Reequilibration time was comparable with that of the reversed-phase column. Table 2 lists retention times for four consecutive injections of five different protease inhibitors. The resulting chromatograms demonstrate excellent peak shape and resolution, shown in Figure 3.   
 </div> 
 
@@ -79,7 +82,7 @@ A trend toward faster, more efficient LC/MS/MS has prompted the use of columns w
 Choosing a reconstitution solvent compatible with the mobile phase can increase sensitivity. When the injection solution has a weaker eluting strength than the mobile phase, the effects of the injection solution on peak shape and chromatography efficiency can be enriched. Figure 4 shows a typical enrichment profile. Maximum chromatography efficiency can be achieved using injection solution at the weakest elution strength. From a practical point of view, better chromatography efficiency can be obtained by diluting the sample with the weaker component in the mobile phase and increasing the injection volume. 
 </div> 
    
-
+<br>
 <div class = "row">
   <div class= "column_right" style="width:360px;">
   <img src = "/docs/images/Screenshot 2022-10-17 095225.png" HSPACE="10" VSPACE="10"/>  
@@ -91,11 +94,6 @@ Figure 5. A common mistake: assuming that C18 columns are always reversed-phase;
 
 If an analyte is unstable in the mobile phase but stable in a weaker component of it, the mobile phase can still be used, as long as the weaker solvent is used for reconstitution. For example, omeprazole is unstable in acidic solution. To obtain good peak shape and sensitivity, an acidic mobile phase can be used. After extraction, omeprazole can be reconstituted in acetonitrile and injected onto a silica column with an acidic aqueous–organic mobile phase (13). Because of the short run time (three minutes), on-column degradation of omeprazole is not observed. In that situation, both analyte stability and on-column stacking are achieved because acetonitrile is a weaker solvent for the silica column (see the “Injection Solution Selection Criteria” box).  
 </div> 
-
-
-
-
-
 
 **Reference**: <a href = "http://alfresco-static-files.s3.amazonaws.com/alfresco_images/pharma/2014/08/26/ede58aca-c91e-462c-a41b-42355e3be017/article-2140.pdf" target="_blank" rel="noopener noreferrer">Systematic Troubleshooting for LC/MS/MS - Part 1: Sample Preparation and Chromatography</a>
 

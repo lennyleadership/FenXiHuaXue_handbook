@@ -1,5 +1,6 @@
 ---
 weight: 3
+title: Buffers for Analyzing Ionizable Compounds
 authors: Dr. Egidijus Machtejevas, edited by Lenny Lin
 categories: 
 date: "2022-01-03"
@@ -7,8 +8,7 @@ description:
 draft: false
 lastmod: "2022-02-02"
 series: 
-tags: [Sensitivity]
-title: Buffers for Analyzing Ionizable Compounds
+tags: [Sensitivity, Trifluoroacetic Acid, Buffer, Ion Pairs]
 toc: true
 ---
 

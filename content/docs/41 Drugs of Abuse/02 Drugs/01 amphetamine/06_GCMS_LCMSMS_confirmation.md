@@ -3,7 +3,7 @@ weight: 6
 title: GC-MS and LC-MS/MS Confirmation Procedures
 authors: edited by Lenny Lin
 categories: 
-tags: []
+tags: [Trifluoroacetic Acid, Buffer, Ion Pairs]
 description: null
 draft: false
 date: "2022-10-13"

@@ -6,7 +6,7 @@ description:
 draft: false
 lastmod: "2022-06-20"
 series: null
-tags: [Waters]
+tags: [Waters, Trifluoroacetic Acid, Buffer, Ion Pairs]
 title: 2/7 Adduct Ions
 toc: true
 ---

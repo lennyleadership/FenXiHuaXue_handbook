@@ -7,7 +7,7 @@ description: Factors Affecting Peak Shape
 draft: false
 lastmod: "2022-01-10"
 series: 
-tags: [Peak Shape, Sensitivity]
+tags: [Peak Shape, Sensitivity, Trifluoroacetic Acid, Buffer, Ion Pairs]
 title: Chapter 07 Choosing Columns and Conditions for the Best Peak Shape
 toc: true
 ---

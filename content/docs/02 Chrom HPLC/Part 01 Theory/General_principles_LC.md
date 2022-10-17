@@ -1,19 +1,17 @@
 ---
+title: General Principles of Liquid Chromatography
 authors: edited by Lenny Lin
 categories: 
-date: "2022-01-03"
 description: null
 draft: false
-lastmod: "2022-01-22"
+date: "2022-01-03"
+lastmod: "2022-10-17"
 series: 
-tags: [Sensitivity]
-title: General Principles of Liquid Chromatography
+tags: [Sensitivity, Trifluoroacetic Acid, Buffer, Ion Pairs]
 toc: true
 ---
 
-<figcaption><b>Figure </b>: </figcaption>
 
-<img src = "/docs/images/"/>
 
 <!--more-->
 

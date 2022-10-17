@@ -6,7 +6,7 @@ description:
 draft: false
 lastmod: "2022-07-16"
 series: null
-tags: [Ion Pair]
+tags: [Ion Pair, Trifluoroacetic Acid, Buffer, Ion Pairs]
 title: Avoid Ion Pair Reagents in LC-MS
 toc: true
 ---
@@ -144,7 +144,7 @@ The most commonly utilized ion-pair reagents are formic or acetic acids. TFA wil
 ## Opposite opinions
 **[Marcos Steola](https://faqs.tips/profile/Marcos_Steola)**  
 
-Hi Ana. For LC-MS you must use only volatile reagents. For ion pair you could use trifluoroacetic acid, perfluoropropionic acid or perfluorobutanoic acid. These compounds will work as a ion pair, but take care about trifluoroacetic acid, it is could supress ionization in your source.
+Hi Ana. For LC-MS you must use only volatile reagents. For ion pair you could use trifluoroacetic acid, perfluoropropionic acid or perfluorobutanoic acid. These compounds will work as a ion pair, but take care about trifluoroacetic acid, it is could suppress ionization in your source.
 
 **[Isam Eldin Hussein Elgailani](https://faqs.tips/profile/Isam_Eldin_Elgailani2)** 
 
@@ -152,7 +152,7 @@ Dear Sir. Concerning your issue about the ion pair chromatography reagents that 
 
 For LC-MS:
 
-(Trifluoroacetic Acid) (ca. 0.5mol/L in Water) ………………… 10mL
+(Trifluoroacetic Acid, Buffer, Ion Pairs) (ca. 0.5mol/L in Water) ………………… 10mL
 
 (Pentafluoropropionic Acid) (ca. 0.5mol/L in Water) ………… 10mL   
 (Heptafluorobutyric Acid) (ca. 0.5mol/L in Water) …………… 10mL   

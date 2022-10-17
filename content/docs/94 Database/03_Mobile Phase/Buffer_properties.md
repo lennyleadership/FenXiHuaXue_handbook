@@ -6,15 +6,14 @@ description: Buffer Properties
 draft: false
 lastmod: "2022-01-16"
 series: 
-tags: []
+tags: [Trifluoroacetic Acid, Buffer, Ion Pairs]
 title: Chapter 02 Buffer Properties
 toc: true
 ---
 
-<figcaption><b>Figure </b>: </figcaption>
-<img src = "/docs/images/"/>
 
 <!--more-->
+---
 
 Buffer choice will be very dependent on the analyte and the instrumentation used. Ideally, LC/MS applications should use a volatile buffer as this will not form a contaminating deposit on the cone and source. Inorganic acids, involatile buffers and ion-pair reagents should all be avoided. Typical LC/MS buffers include:  
 • Ammonium acetate/formate/hydrogen carbonate (<50mM)  
