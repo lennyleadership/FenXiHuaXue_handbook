@@ -73,10 +73,12 @@ Figure 5. A common mistake: assuming that C18 columns are always reversed-phase;
     </figure>
 </div>
 <b>C18 columns</b>. Before choosing a diluting solvent, you should determine the retention mechanism. Retention mechanisms dictate whether water or organic solvent will be stronger for elution. For reversed-phase LC, water is weaker than organic solvents, such as acetonitrile, are stronger. For normalphase LC, the solvent strengths are reversed: Water is the stronger elution solvent, and organics the weaker. Even the name “reversed-phase C18 column” can be misleading. The retention mechanism on a C18 column can be complicated by the dualretention mechanism, as shown in Figure 1. The actual retention mechanism depends on the analyte itself, the mobile phase composition, and the stationary phase. If retention on the C18 column were blindly assumed to be reversed-phase, water would be used as the weaker elution solvent and, therefore, the injection solution. Very poor peak shapes would result. The influence of injection solvents on chromatography is demonstrated in Figure 5.    
+
+If an analyte is unstable in the mobile phase but stable in a weaker component of it, the mobile phase can still be used, as long as the weaker solvent is used for reconstitution. For example, omeprazole is unstable in acidic solution. To obtain good peak shape and sensitivity, an acidic mobile phase can be used. After extraction, omeprazole can be reconstituted in acetonitrile and injected onto a silica column with an acidic aqueous–organic mobile phase (13). Because of the short run time (three minutes), on-column degradation of omeprazole is not observed. In that situation, both analyte stability and on-column stacking are achieved because acetonitrile is a weaker solvent for the silica column (see the “Injection Solution Selection Criteria” box).  
 </div> 
 
 
-If an analyte is unstable in the mobile phase but stable in a weaker component of it, the mobile phase can still be used, as long as the weaker solvent is used for reconstitution. For example, omeprazole is unstable in acidic solution. To obtain good peak shape and sensitivity, an acidic mobile phase can be used. After extraction, omeprazole can be reconstituted in acetonitrile and injected onto a silica column with an acidic aqueous–organic mobile phase (13). Because of the short run time (three minutes), on-column degradation of omeprazole is not observed. In that situation, both analyte stability and on-column stacking are achieved because acetonitrile is a weaker solvent for the silica column (see the “Injection Solution Selection Criteria” box).  
+
 
 
 
