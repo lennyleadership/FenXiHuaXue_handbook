@@ -33,13 +33,12 @@ Certain drug product analytes are subject to degradation. Endogenous enzymes fou
 
 ### Chromatographic Conditions
 
-On-column retention. Reversed-phase columns do not always behave in a “reversed-phase” way. The characteristics of the analyte, the column, and the mobile phase can interact with unexpected results.
 <div class = "row">
   <div class = "column_right" style="width:360px;">
   <img src = "/docs/images/Screenshot 2022-10-17 092028.png"/>
   <figure><b>Figure 1</b>. Unexpected results from reversed-phase chromatography: retention (capacity factor) of ketoconazole and its internal standard R51012 on Hypersil BDS C18 column (50 x 3 &mu;m) using a mobile phase of acetonitrile–water–formic acid (x:(100- x):1, v/v/v) where x is the percentage of acetonitrile in the mobile phase) at a flow rate of 0.5 mL/min</figure>
   </div>
-For example, Figure 1 shows that when organic content of the mobile phase composition was increased (a desirable characteristic for improving sensitivity), the capacity factor (k') decreased initially but increased after the deflection point. That system demonstrated an initial reversed-phase mode with primary retention because of hydrophobic interaction between the analytes and the alkyl chains. It reverted to normal-phase where the primary retention was because of hydrophilic interaction between the analyte and the residual silanol groups. That kind of dual retention behavior was observed for various analytes on different brands of reversed-phase columns. Even the extensively end-capped reversed-phase column had at least 30% nonendcapped residual silanol groups. Analyte on-column retention, therefore, depends on the characteristics and interactions of the analyte, the column, and the mobile phase. 
+<b>On-column retention</b>. Reversed-phase columns do not always behave in a “reversed-phase” way. The characteristics of the analyte, the column, and the mobile phase can interact with unexpected results. For example, Figure 1 shows that when organic content of the mobile phase composition was increased (a desirable characteristic for improving sensitivity), the capacity factor (k') decreased initially but increased after the deflection point. That system demonstrated an initial reversed-phase mode with primary retention because of hydrophobic interaction between the analytes and the alkyl chains. It reverted to normal-phase where the primary retention was because of hydrophilic interaction between the analyte and the residual silanol groups. That kind of dual retention behavior was observed for various analytes on different brands of reversed-phase columns. Even the extensively end-capped reversed-phase column had at least 30% nonendcapped residual silanol groups. Analyte on-column retention, therefore, depends on the characteristics and interactions of the analyte, the column, and the mobile phase. 
 </div>
  
 
