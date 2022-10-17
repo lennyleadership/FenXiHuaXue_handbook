@@ -3,7 +3,7 @@ weight: 10
 title: Systematic Method Development and Troubleshooting 
 authors: Naidong Weng and Timothy D.J. Halls, edited by Lenny Lin
 categories: null
-tags: [Matrix Effects Determination, Trifluoroacetic Acid, Buffer, Ion Pairs]
+tags: [Method Development, Sensitivity, Matrix Effects Determination, Trifluoroacetic Acid, Buffer, Ion Pairs]
 description:  
 draft: false
 date: "2022-10-15"
@@ -26,11 +26,12 @@ Part 2 discusses further troubleshooting techniques and presents an automation s
 ### Sample Preparation
 
 (1) <u>The first step</u> in sample clean-up is to remove as many of the unwanted compounds (including macromolecules and other compounds such as proteins, endogenous and exogenous compounds, and coadministered pharmaceuticals) as possible without significant loss of the analytes of interest. Solid-phase extraction (SPE), liquid–liquid (LL) extraction, and protein precipitation (PP) are often the techniques of choice. Unwanted compounds can be present still in higher concentrations than the analytes of interest after the first clean-up. (2) <u>A second stage</u> of clean-up, typically involving LC separation further separates analytes of interest from the unwanted compounds. (3) MS/MS offers <u>a third stage</u> of separation through selection of appropriate precursor and product ion pairs so that unwanted compounds are not registered (unseen) by the detector.   
+
 However, those unwanted and MS/MS unseen compounds present significant challenges for LC/MS/MS practitioners. In the LC/MS interface, unwanted compounds compete with analytes for ionization and can cause inconsistent matrix effects that are detrimental to quantitative LC/MS/MS. If not separated from the analytes, some conjugated metabolites break down in the interface so that analyte concentration is overestimated. LC/MS/MS practitioners must use caution in their analyses and envision that behind every analyte peak, “unseen” MS peaks from contaminants may cause or contribute to potential problems in the assessment.
 
 ### Analyte stability
 
-Certain drug product analytes are subject to degradation. Endogenous enzymes found within biological matrices can accelerate analyte degradation. Information about degraded analytes should be obtained during method development. A general troubleshooting approach to address that problem would be stabilizing analytes by choosing an appropriate anticoagulant, pH, or enzyme inhibitor. If analytes cannot be stabilized, then in situ derivatization of the analytes to more stable forms in biological matrices should be attempted.  
+Certain drug product analytes are subject to degradation. Endogenous enzymes found within biological matrices can accelerate analyte degradation. Information about degraded analytes should be obtained during method development. <u>A general troubleshooting approach to address that problem would be stabilizing analytes by choosing an appropriate anticoagulant, pH, or enzyme inhibitor</u>. If analytes cannot be stabilized, then <u>in situ derivatization</u> of the analytes to more stable forms in biological matrices should be attempted.  
 
 ### Chromatographic Conditions
 
@@ -70,7 +71,7 @@ Silica columns demonstrate excellent stability. Typically, one column can be use
 
 ### Injection Solvents 
 
-A trend toward faster, more efficient LC/MS/MS has prompted the use of columns with smaller dimensions (50 &mu;m x 2 &mu;m). In contrast to conventional columns (250 &mu;m x 4.6 &mu;m), a one column offers advantages that include faster analysis time, better concentration sensitivity, and lower solvent consumption.  However, when smaller quantities of packing material are used, the chromatography can be more easily disturbed. Mismatches between the injection solution and the mobile phase are a common problem in compounds that demonstrate early elution peaks (21).   
+A trend toward faster, more efficient LC/MS/MS has prompted the use of columns with smaller dimensions (50 &mu;m x 2 &mu;m). In contrast to conventional columns (250 &mu;m x 4.6 &mu;m), one column offers advantages that include faster analysis time, better concentration sensitivity, and lower solvent consumption.  However, when smaller quantities of packing material are used, the chromatography can be more easily disturbed. Mismatches between the injection solution and the mobile phase are a common problem in compounds that demonstrate early elution peaks (21).   
 
 <div class = "row">
   <div class= "column_right" style="width:360px;">
