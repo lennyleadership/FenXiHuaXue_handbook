@@ -1,13 +1,14 @@
 ---
+weight: 1
+title: phenomenex - Method Development for Underivatized MMA from Serum
 authors: Edited by Lenny Lin
 categories: 
-date: "2022-04-05"
+tags: [clinical application, Method Development]
 description:
 draft: false
-lastmod: "2022-05-03"
+date: "2022-04-05"
+lastmod: "2022-10-17"
 series: 
-tags: [clinical application]
-title: phenomenex - Method Development for Underivatized MMA from Serum
 toc: true
 ---
 

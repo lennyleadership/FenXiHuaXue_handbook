@@ -1,5 +1,5 @@
 ---
-weight: 12
+weight: 52
 title: Part II Case Studies
 authors: Lenny Lin
 categories: 

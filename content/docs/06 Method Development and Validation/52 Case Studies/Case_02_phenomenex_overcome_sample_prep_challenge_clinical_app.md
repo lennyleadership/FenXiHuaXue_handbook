@@ -1,13 +1,14 @@
 ---
+weight: 2
+title: phenomenex - Overcoming the Challenges of Sample Preparation and LC/MS/MS Method Development for Clinical Applications
 authors: Edited by Lenny Lin
 categories:
-date: "2022-04-05"
+tags: [clinical application, Method Development]
 description: 
 draft: false
-lastmod: "2022-05-03"
+date: "2022-04-05"
+lastmod: "2022-10-17"
 series: 
-tags: [clinical application]
-title: phenomenex - Overcoming the Challenges of Sample Preparation and LC/MS/MS Method Development for Clinical Applications
 toc: true
 ---
 

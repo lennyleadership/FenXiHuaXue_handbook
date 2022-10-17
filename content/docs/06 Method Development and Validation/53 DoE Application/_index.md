@@ -1,5 +1,5 @@
 ---
-weight: 13
+weight: 53
 title: Part III DoE Applications
 authors: Lenny Lin
 categories: 
