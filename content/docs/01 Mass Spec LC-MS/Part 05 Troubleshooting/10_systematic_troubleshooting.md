@@ -47,7 +47,7 @@ A number of drugs have basic functional groups, and MS in the positive ion mode 
 
 <div class = "row">
   <div class= "column_right" style="width:360px;">
-  <img src = "/docs/images/" HSPACE="10" VSPACE="10"/>  
+  <img src = "/docs/images/Screenshot 2022-10-17 094851.png" HSPACE="10" VSPACE="10"/>  
     <figure>
 <b>Figure 3</b>. Chromatograms of gradient elution of five protease inhibitors on silica column with aqueous–organic mobile phase; column: Betasil silica 50x 3 &mu;m; mobile phase: linear gradient elution of acetonitrile–water–formic acid from 95:5:0.2 to 30:70:0.2 in two minutes; flow rate: 0.5 mL/min; sample preparation: protein precipitation; AMP: amprenavir; RIT: ritonavir; NEL: nelfinavir; IS: internal standard; SAQ: saquinavir; IND: indinavir       
     </figure>
