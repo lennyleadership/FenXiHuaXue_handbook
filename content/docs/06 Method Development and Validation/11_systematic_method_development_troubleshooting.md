@@ -1,5 +1,5 @@
 ---
-weight: 10
+weight: 11
 title: Systematic Method Development and Troubleshooting 
 authors: Naidong Weng and Timothy D.J. Halls, edited by Lenny Lin
 categories: null
