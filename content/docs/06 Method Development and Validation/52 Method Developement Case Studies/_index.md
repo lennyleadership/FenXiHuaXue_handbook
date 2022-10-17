@@ -1,12 +1,12 @@
 ---
 weight: 52
-title: Part II Case Studies
+title: Part II Method Development Case Studies
 authors: Lenny Lin
 categories: 
-date: "2022-04-05"
 description: 
 draft: false
-lastmod: "2022-05-02"
+date: "2022-04-05"
+lastmod: "2022-10-17"
 series: null
 tags: null
 toc: true

@@ -1,18 +1,18 @@
 ---
-weight: 2
-title: Method Validation Experience
+weight: 99
+title: 
 authors: Edited by Lenny Lin
 categories: 
-date: "2022-04-05"
+tags: []
 description: 
 draft: false
+date: "2022-04-05"
 lastmod: "2022-07-07"
 series: 
-tags: []
 toc: true
 ---
 
 
 
 <!--more-->
-
+---

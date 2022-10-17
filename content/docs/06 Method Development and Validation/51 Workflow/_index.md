@@ -1,6 +1,6 @@
 ---
 weight: 51
-title: Part I Method Validation
+title: Part I Workflow
 authors: Lenny Lin
 categories: 
 date: "2022-04-05"
