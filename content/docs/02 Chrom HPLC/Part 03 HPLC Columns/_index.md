@@ -2,7 +2,7 @@
 weight: 3
 title: Part III HPLC Columns
 authors: Lenny Lin
-categories: category
+categories: 
 date: "2022-01-03"
 description: It talks about HPLC Columns.
 draft: false

@@ -1,6 +1,6 @@
 ---
 authors: Rick Lake, edited by Lenny Lin
-categories: Category
+categories: 
 date: "2021-12-27"
 description: null
 draft: false

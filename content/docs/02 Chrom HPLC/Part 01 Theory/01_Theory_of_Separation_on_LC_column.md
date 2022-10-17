@@ -1,6 +1,6 @@
 ---
 authors: Shodex.com, edited by Lenny Lin
-categories: Category
+categories: 
 date: "2022-01-03"
 description: Theory of Separation on LC Column
 draft: false

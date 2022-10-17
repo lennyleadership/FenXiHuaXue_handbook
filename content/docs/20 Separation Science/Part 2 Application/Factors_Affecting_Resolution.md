@@ -1,6 +1,6 @@
 ---
 authors: David Reckhow, edited by Lenny Lin
-categories: Category
+categories: 
 date: "2021-12-27"
 description: Resolution
 draft: false

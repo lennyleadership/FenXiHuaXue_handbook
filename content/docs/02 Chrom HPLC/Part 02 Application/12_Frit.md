@@ -1,7 +1,7 @@
 ---
 weight: 12
 authors: edited by Lenny Lin
-categories: Category
+categories: 
 date: "2022-01-03"
 description: null
 draft: false

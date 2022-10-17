@@ -1,7 +1,7 @@
 ---
 weight: 99
 authors: Lenny Lin
-categories: category
+categories: 
 date: "2022-04-05"
 description: 
 draft: false

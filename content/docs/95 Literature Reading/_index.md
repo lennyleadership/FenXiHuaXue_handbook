@@ -1,7 +1,7 @@
 ---
 weight: 95
 authors: Lenny Lin
-categories: category
+categories: 
 date: "2021-12-26"
 description: Literature reading.
 draft: false

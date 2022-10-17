@@ -2,7 +2,7 @@
 weight: 
 title: Template
 authors: Lenny Lin
-categories: category
+categories: 
 tags: null
 date: "2022-08-16"
 description: Used as a template.

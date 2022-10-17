@@ -1,6 +1,6 @@
 ---
 authors: Doué, M., Et al., edited by Lenny Lin
-categories: Category
+categories: 
 date: "2021-12-30"
 description: BEH Column Application in Steroid Conjugates
 draft: false

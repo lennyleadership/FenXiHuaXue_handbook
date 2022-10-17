@@ -2,7 +2,7 @@
 weight: 7
 title: Part VII Problems
 authors: Lenny Lin
-categories: category
+categories: 
 date: "2022-01-03"
 description: It is about problems.
 draft: false

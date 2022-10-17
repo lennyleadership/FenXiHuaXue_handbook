@@ -2,7 +2,7 @@
 weight: 12
 title: Part II Case Studies
 authors: Lenny Lin
-categories: category
+categories: 
 date: "2022-04-05"
 description: 
 draft: false

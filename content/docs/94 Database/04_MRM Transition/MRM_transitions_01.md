@@ -1,6 +1,6 @@
 ---
 authors: edited by Lenny Lin
-categories: Category
+categories: 
 date: "2022-01-03"
 description: MRM Transitions -01
 draft: false

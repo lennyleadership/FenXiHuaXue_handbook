@@ -1,6 +1,6 @@
 ---
 authors: Jufang Wu Ludvigsson, et al., Edited by Lenny Lin
-categories: Category
+categories: 
 date: "2021-12-30"
 description: Core-shell Column Comparison
 draft: false

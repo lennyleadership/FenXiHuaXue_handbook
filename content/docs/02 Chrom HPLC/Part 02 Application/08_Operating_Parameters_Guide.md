@@ -1,7 +1,7 @@
 ---
 weight: 8
 authors: Michael Dong, edited by Lenny Lin
-categories: Category
+categories: 
 date: "2022-01-03"
 description: Operating parameters
 draft: false

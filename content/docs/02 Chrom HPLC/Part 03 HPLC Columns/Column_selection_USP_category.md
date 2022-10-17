@@ -1,6 +1,6 @@
 ---
 authors: edited by Lenny Lin
-categories: Category
+categories: 
 date: "2022-01-03"
 description: HPLC Column Selection By USP Specification  (USP 35)
 draft: false

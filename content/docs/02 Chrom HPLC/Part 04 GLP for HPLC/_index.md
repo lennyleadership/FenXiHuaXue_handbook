@@ -2,7 +2,7 @@
 weight: 4
 title: Part IV Good Lab Practice for HPLC
 authors: Lenny Lin
-categories: category
+categories: 
 date: "2022-01-03"
 description: Good Lab Practice for HPLC.
 draft: false

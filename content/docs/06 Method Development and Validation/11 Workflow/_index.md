@@ -2,7 +2,7 @@
 weight: 11
 title: Part I Method Validation
 authors: Lenny Lin
-categories: category
+categories: 
 date: "2022-04-05"
 description: 
 draft: false

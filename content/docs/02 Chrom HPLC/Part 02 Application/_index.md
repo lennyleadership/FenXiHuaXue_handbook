@@ -2,7 +2,7 @@
 weight: 2
 title: Part II Application
 authors: Lenny Lin
-categories: category
+categories: 
 date: "2022-01-03"
 description: It talks about application.
 draft: false

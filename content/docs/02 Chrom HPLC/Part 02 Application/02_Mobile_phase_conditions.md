@@ -1,7 +1,7 @@
 ---
 weight: 2
 authors: Edited by Lenny Lin
-categories: Category
+categories: 
 date: "2022-01-03"
 description: mobile phase conditions
 draft: false

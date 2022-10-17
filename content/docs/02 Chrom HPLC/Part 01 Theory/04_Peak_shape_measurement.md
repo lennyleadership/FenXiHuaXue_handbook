@@ -1,6 +1,6 @@
 ---
 authors: John Dolan, Edited by Lenny Lin
-categories: Category
+categories: 
 date: "2022-01-03"
 description: Chromatogram Peak Shape Measurement
 draft: false
