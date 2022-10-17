@@ -1,15 +1,17 @@
 ---
+weight: 1
+title: Quadrupoles
 authors: David Gordon, edited by Lenny Lin
 categories: null
-date: "2022-06-20"
+tags: [Waters]
 description: 
 draft: false
+date: "2022-06-20"
 lastmod: "2022-06-20"
 series: null
-tags: [Waters]
-title: 4/7 Quadrupoles
 toc: true
 ---
+
 Fundamentals of Mass Spectrometry provided by Waters (4 of 7)  
 
 A quadruploe consists of four parallel rods arranged around the central axis.  
@@ -24,6 +26,7 @@ This is a transcript of the following video.
 <iframe width="360" height="200" src="https://www.youtube.com/embed/6_mavZ_WKoU?list=PL6yA4jv5tA-k9_2NVxm5jlzpZV_aW59DT" title="Fundamentals of MS (4 of 7) - Quadrupoles" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 <!--more-->
+---
 
 Hello, my name is Dave, I work at Waters corporation as a development scientist, I'm going to give a brief overview of what a quadrupole is and how it works.  
 

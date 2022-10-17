@@ -1,15 +1,17 @@
 ---
+weight: 5
+title: Resolution
 authors: David Gordon, edited by Lenny Lin
 categories: null
-date: "2022-06-20"
+tags: [Waters]
 description: 
 draft: false
+date: "2022-06-20"
 lastmod: "2022-06-20"
 series: null
-tags: [Waters]
-title: 5/7 Resolution
 toc: true
 ---
+
 Fundamentals of Mass Spectrometry provided by Waters (5 of 7)  
 
 The definition of resolution is different for mass spectrometry with low resolution and for mass spectrometry with high resolution. 
@@ -20,6 +22,7 @@ This is a transcript of the following video.
 <iframe width="360" height="200" src="https://www.youtube.com/embed/qUhi98o1qUU?list=PL6yA4jv5tA-k9_2NVxm5jlzpZV_aW59DT" title="Fundamentals of MS (5 of 7) - Resolution" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 <!--more-->
+---
 
 Hello, my name is Dave, I work at Waters Corporation as a development scientist. I'm going to give a brief description of what is meant by the term resolution when it comes to mass spectrometry.  
 

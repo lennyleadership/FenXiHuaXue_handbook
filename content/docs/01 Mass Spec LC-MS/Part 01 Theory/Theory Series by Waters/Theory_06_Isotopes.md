@@ -1,15 +1,18 @@
 ---
+weight: 6
+title: Isotopes
 authors: Nick Tomczyk, edited by Lenny Lin
 categories: null
-date: "2022-06-20"
+tags: [Waters]
 description: 
 draft: false
+date: "2022-06-20"
 lastmod: "2022-06-20"
 series: null
-tags: [Waters]
-title: 6/7 Isotopes
 toc: true
 ---
+
+
 Fundamentals of Mass Spectrometry provided by Waters (6 of 7)  
 
 This is a transcript of the following video.  
@@ -18,7 +21,7 @@ This is a transcript of the following video.
 <iframe width="360" height="200" src="https://www.youtube.com/embed/om0BfIHXD0s?list=PL6yA4jv5tA-k9_2NVxm5jlzpZV_aW59DT" title="Fundamentals of MS (6 of 7) - Isotopes" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 <!--more-->
-
+---
 Hello, my name is Nick and I work at waters Corporation as a principal analytical scientist. In this short video, we're going to talk about isotopes.  
 
 ## Isotope Definition

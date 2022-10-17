@@ -1,17 +1,16 @@
 ---
+weight: 35
+title: The influence of electrospray ion source design on matrix effects
 authors: Lenny Lin
 categories: null
-date: "2022-03-17"
+tags: [Sensitivity]
 description: 
 draft: false
-lastmod: "2022-07-13"
+date: "2022-03-17"
+lastmod: "2022-10-17"
 series: null
-tags: [Sensitivity]
-title: The influence of electrospray ion source design on matrix effects
 toc: true
 ---
-
-
 
 <!--more-->
 

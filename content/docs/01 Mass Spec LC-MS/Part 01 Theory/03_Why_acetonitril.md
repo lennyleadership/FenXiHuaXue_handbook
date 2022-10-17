@@ -1,15 +1,18 @@
 ---
+weight: 3
+title: Why Acetonitril
 authors: J. Will Thompson, edited by Lenny Lin
 categories: null
-date: "2022-03-17"
+tags: 
 description: 
 draft: false
-lastmod: "2022-07-29"
+date: "2022-03-17"
+lastmod: "2022-10-17"
 series: null
-tags: null
-title: null
 toc: true
 ---
+
+
 
 
 

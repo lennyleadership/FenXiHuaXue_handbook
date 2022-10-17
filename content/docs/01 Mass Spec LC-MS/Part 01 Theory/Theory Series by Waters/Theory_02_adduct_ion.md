@@ -1,15 +1,17 @@
 ---
+weight: 2
+title: Adduct Ions
 authors: Helen Yates, edited by Lenny Lin
 categories: null
-date: "2022-06-20"
+tags: [Waters, Trifluoroacetic Acid, Buffer, Ion Pairs]
 description: 
 draft: false
+date: "2022-06-20"
 lastmod: "2022-06-20"
 series: null
-tags: [Waters, Trifluoroacetic Acid, Buffer, Ion Pairs]
-title: 2/7 Adduct Ions
 toc: true
 ---
+
 Fundamentals of Mass Spectrometry provided by Waters (2 of 7)
 
 Adduct ions are formed by the interaction of a precursor ion with one or more atoms or molecules, such as hydrogen ions, sodium ions, potassium ions, ammonium ions, hydride ions, chloride ions, bromide ions, acetate ions to form an ion.  
@@ -24,6 +26,7 @@ This is a transcript of the following video.
 
 <iframe width="360" height="200" src="https://www.youtube.com/embed/WusWNAb0IRM?list=PL6yA4jv5tA-k9_2NVxm5jlzpZV_aW59DT" title="Fundamentals of MS (2 of 7) - Adduct Ions" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 <!--more-->
+---
 
 Hello, my name is Helen, I work at Waters Corporation as an analytical scientist. So I'm going to give a short presentation about adduct ions.   
 

@@ -1,20 +1,19 @@
 ---
+weight: 31
+title: Ionization General Review
 authors: Lenny Lin
-categories: null
-date: "2022-03-17"
+categories: ["Analysis of Pesticides in Food and Environmental Samples, edited by Jose L. Tadeo"]
+tags: []
 description: 
 draft: false
+date: "2022-03-17"
 lastmod: "2022-06-28"
-series:
-tags: null
-title: Ionization General Review
+series: null
 toc: true
 ---
 
-series: [Analysis of Pesticides in Food and Environmental Samples, edited by Jose L. Tadeo]
-
 <!--more-->
-
+---
 The use of `thermospray` (TSP) for small molecule LC-MS applications also facilitated familiarity with the concept of generation of ions through cation attachment (e.g.,[M + NH4]<sup>+</sup>) and the use of negative ion mode for acidic compounds. TSP found tremendous use as an interface for higher flow-rate LC/MS, including for pesticide residue analysis.  
 
 `ES ionization` and `APCI` (atmospheric pressure) are now among the most commonly used techniques for creating ions from pesticides in solution.  

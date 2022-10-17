@@ -1,13 +1,27 @@
 ---
+weight: 34
+title: ESI General Review
 authors: Lenny Lin
 categories: [Analysis of Pesticides in Food and Environmental Samples edited by Jose L. Tadeo]
+tags: [Sensitivity, the ion evaporation mechanism, the charge residue mechanism]
+description: 
+draft: false
+date: "2022-03-17"
+lastmod: "2022-10-17"
+series: null
+toc: true
+---
+
+---
+authors: Lenny Lin
+categories: 
 date: "2022-03-17"
 description: 
 draft: false
 lastmod: "2022-07-16"
 series:
-tags: [Sensitivity, the ion evaporation mechanism, the charge residue mechanism]
-title: ESI General Review
+tags: 
+title: 
 toc: true
 ---
 

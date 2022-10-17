@@ -1,19 +1,20 @@
 ---
-authors: null
-categories: null
-date: ""
-description: Increase LC-MS/MS sensitivity and detection limits  
-draft: false
-lastmod: "2022-03-17"
-series: null
-tags: [one-line SPE]
+weight: 52
 title: Increase of the LC-MS/MS sensitivity and detection limits using on-line sample preparation with large volume plasma injection
+authors: Lenny Lin
+categories: null
+tags: [on-line SPE]
+description: Increase LC-MS/MS sensitivity and detection limits
+draft: false
+date: "2022-03-17"
+lastmod: "2022-10-17"
+series: null
 toc: true
 ---
 
 
-
 <!--more-->
+---
 
 This is a paper.  This page could be moved to literature reading.
 

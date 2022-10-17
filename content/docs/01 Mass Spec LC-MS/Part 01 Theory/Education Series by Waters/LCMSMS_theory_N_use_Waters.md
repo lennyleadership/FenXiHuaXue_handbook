@@ -1,15 +1,17 @@
 ---
-authors: Scott Fredo, edited by Lenny Lin
+weight: 1
+title: Quadrupole Theory and Use
+authors: Scott Freeto, edited by Lenny Lin
 categories: null
-date: ""
+tags: [Waters]
 description: 
 draft: false
-lastmod: "2022-06-19"
+date: "2022-06-20"
+lastmod: "2022-06-20"
 series: null
-tags: [Waters]
-title: Quadrupole Theory and Use
 toc: true
 ---
+
 LC-MS/MS Education Series 1/3 by Waters  
 
 Operation modes: static mode, and scanning mode.
@@ -18,6 +20,7 @@ Acquisition modes: full scan, MRM, precursor ion scan, product ion scan, and neu
 
 <iframe width="360" height="200" src="https://www.youtube.com/embed/iZH-oxP-OJ0" title="LC-MS/MS Education Series: Quadrupole Theory and Use" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 <!--more-->
+---
 
 Hi, I'm Scott Freeto, and I'm a mass spec application specialist here at waters corporation. In today's video Quadrupole Theory and Use, I'm going to share some basic information about quadrupole mass spectrometers and their <mark>modes of operation</mark>.   
 

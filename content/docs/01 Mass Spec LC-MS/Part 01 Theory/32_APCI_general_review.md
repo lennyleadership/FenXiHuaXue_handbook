@@ -1,16 +1,16 @@
 ---
+weight: 32
+title: APCI General Review
 authors: Lenny Lin
-categories: Analysis of Pesticides in Food and Environmental Samples edited by Jose L. Tadeo
-date: "2022-03-17"
+categories: "Analysis of Pesticides in Food and Environmental Samples edited by Jose L. Tadeo"
+tags: [Sensitivity]
 description: 
 draft: false
-lastmod: "2022-06-28"
-series:
-tags: [Sensitivity]
-title: APCI General Review
+date: "2022-03-17"
+lastmod: "2022-10-17"
+series: null
 toc: true
 ---
-
 
 
 The LC elute passing through a nebulizing needle, creates a fine spray.  The spray passes through a heated ceramic tube, where the droplets are fully vaporized.  The resulting gas/vapor mixture is then passed over a corona discharge needle, where the solvent vapor is ionized to create reagent gas ions. 

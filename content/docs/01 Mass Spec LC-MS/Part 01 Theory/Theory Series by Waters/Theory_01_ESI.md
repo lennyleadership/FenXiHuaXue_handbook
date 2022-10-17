@@ -1,13 +1,14 @@
 ---
+weight: 1
+title: Electrospray Ionization
 authors: Helen Yates, edited by Lenny Lin
 categories: null
-date: "2022-06-20"
+tags: [Waters]
 description: 
 draft: false
+date: "2022-06-20"
 lastmod: "2022-06-20"
 series: null
-tags: [Waters]
-title: 1/7 Electrospray Ionization 
 toc: true
 ---
 Fundamentals of Mass Spectrometry provided by Waters (1 of 7)  

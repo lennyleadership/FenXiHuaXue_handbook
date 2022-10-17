@@ -31,9 +31,7 @@ blogdown::find_hugo()
 
 #----
 # To upload a batch of files
-# in the 'Terminal' tab next to the 'Console' tabe
-# copy and paste: git config --global user.name "lennyleadership"
-# copy and paste: git config --global user.email "lenny.leadership@hotmail.com"
+# in the 'Terminal' tab next to the 'Console' tab
 # copy and paste: git add -A
 # then 'Commit', and 'push'
 

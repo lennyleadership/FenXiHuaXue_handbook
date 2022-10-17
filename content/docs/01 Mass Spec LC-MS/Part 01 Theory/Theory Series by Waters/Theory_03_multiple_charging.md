@@ -1,15 +1,18 @@
 ---
+weight: 3
+title: Multiple Charging
 authors: Nick Tomczyk, edited by Lenny Lin
 categories: null
-date: "2022-06-20"
+tags: [Waters]
 description: 
 draft: false
+date: "2022-06-20"
 lastmod: "2022-06-20"
 series: null
-tags: [Waters]
-title: 3/7 Multiple Charging
 toc: true
 ---
+
+
 Fundamentals of Mass Spectrometry provided by Waters (3 of 7)  
 
 In positive ion mode, cations will form bonds with lone pairs of electrons that are located on atoms in the analyte molecule.  These atoms are typically nitrogen, oxygen or sulfur.   
@@ -26,7 +29,7 @@ This is a transcript of the following video.
 
 <iframe width="360" height="200" src="https://www.youtube.com/embed/CuJRTHvy64k?list=PL6yA4jv5tA-k9_2NVxm5jlzpZV_aW59DT" title="Fundamentals of MS (3 of 7)  - Multiple Charging" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 <!--more-->
-
+---
 Hello, my name is Nick and I work at Waters Corporation as a principal analytical scientist. In this short video we're going to talk about multiple charging.  
 
 We learned about the process of ion formation in the Electrospray Ionization or ESI in the electrospray video. In this video, we're going to look at **how ions can be formed with more than one charge**.  We're going to look at multiple charged ions.  

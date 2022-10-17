@@ -1,40 +1,16 @@
 ---
+weight: 1
+title: The M+ peak and the base peak
 authors: Matthew Tomney, edited by Lenny Lin
 categories: null
-date: ""
+tags: [MS]
 description: 
 draft: false
-lastmod: "2022-06-09"
+date: "2022-06-09"
+lastmod: "2022-10-17"
 series: null
-tags: [MS]
-title: The M+ peak and the base peak
 toc: true
 ---
-<style type = "text/css">
-/* image and text side-by-side */
-* {
-  box-sizing: border-box;
-}
-
-.row {
-  margin-left:-5px;
-  margin-right:-5px;
-}
-  
-.column {
-  float: left;
-  padding: 5px; /* space between two tables*/
-}
-
-/* Clearfix (clear floats) */
-.row::after {
-  content: "";
-  clear: both;
-  display: table;
-}
-
-/* end of the setting for two tables side-by-side */
-</style>
 
 
 The M+ peak (signal) is the parent peak.  It represents the cation molecule. Its m/z is associated with the molar mass of compound.  
@@ -42,6 +18,7 @@ The base peak represents the most stable cation fragment.  It is a stable interm
 
 
 <!--more-->
+---
 
 **Transcript**:  
 
@@ -56,7 +33,7 @@ Here's an example of a mass spec. And you can see this is for benzyl chloride. A
 
 The M plus peak known as the parent peak, is going to be the peak associated with the molar mass of the compound. The way that mass spectroscopy works is that it takes your compound, it puts it into an area where it's going to be bombarded with high level energy, and you end up removing electrons from the compound and forming radicals, now when you form these radicals, you can also form cations. It is the cations that end up getting detected. So when we talk about m/Z (mass to charge) ratio, when you form a cation, usually you have +1. And so anything divided by one is itself. So this means that m/z (m over z) is just represented by m, which is the mass here. So when we get ready to look at an organic compound, we have removed two electrons somewhere from the structure, and we have created the cation. sometimes it can really be associated anywhere with this compound. But that is the M+ (M plus). And that's going to be the structure itself, because electrons are negligible when they contribute to mass. So that is the molar mass. 
 
-Now what is the base peak? the base peak, which is the tallest peak that you're going to see. is sometimes it could be the M+ (M plus) peak, but usually it's not going to be usually the base peak is going to be the result of the most stable cat ion that can be formed. So in the case of benzyl chloride, when we get a benzylic cation, so the removal of chlorine and you have the CH2 with the plus, this is incredibly stable because you have resonance positioning all over the ring here, so there's three other locations besides the CH2, that this plus charge can be delocalized over. And that makes it a very stable, I don't want to say it's a stable structure, but it's a stable intermediate when compared to a lot of the other intermediate cations. And because of that, it means that this fragment is going to be probably the most prevalent fragment because it's the most stable fragment and therefore the one with the highest probability of being produced. And so the base peak is really representative of your most stable cation. 
+Now what is the base peak? The base peak, which is the tallest peak that you're going to see. is sometimes it could be the M+ (M plus) peak, but usually it's not going to be usually the base peak is going to be the result of the most stable cat ion that can be formed. So in the case of benzyl chloride, when we get a benzylic cation, so the removal of chlorine and you have the CH<sub>2</sub> with the plus, this is incredibly stable because you have resonance positioning all over the ring here, so there's three other locations besides the CH<sub>2</sub>, that this plus charge can be delocalized over. And that makes it a very stable, I don't want to say it's a stable structure, but it's a stable intermediate when compared to a lot of the other intermediate cations. And because of that, it means that this fragment is going to be probably the most prevalent fragment because it's the most stable fragment and therefore the one with the highest probability of being produced. And so the base peak is really representative of your most stable cation. 
 
 <img width ="360" height= "200" src = "/docs/images/Tertiary-Carbocation-more-Stable-than-Secondary.png" style ="float: left" HSPACE="50" VSPACE="50"/>
   
