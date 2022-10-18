@@ -17,13 +17,19 @@ toc: true
 
 ## L-isomer
 
+Because mass spectrometric procedures using nonchiral derivatives and columns do not differentiate the D (+) or L (-) isomers of amphetamine and methamphetamine, it is necessary to perform isomer resolution to determine that a positive result is due to the presence of the D-isomer. Primary examples are the presence of L-methamphetamine in Vicks inhaler, which cannot be distinguished from the use of illicit methamphetamine (D-isomer or racemic mixture depending on method of production) and the excretion of L-methamphetamine and L-amphetamine by patients taking selegiline for Parkinson’s disease. Isomer resolution can be accomplished using a chiral, optically active column, or chiral derivatizing reagents [9]. Use of chiral derivatizing reagents allows analysis on instrument/column systems used for other routine analyses but has the potential disadvantage of possibly obtaining four isomers instead of two if the derivatizing agent is not optically pure. The generally accepted interpretation of isomer resolution results is that >80% of the L-isomer is considered consistent with the use of legitimate medication or conversely >20% of the D-isomer (and total concentration above the cutoff) is considered evidence of illicit use [8,18].
+
+**Reference**: <a href = "https://www.sciencedirect.com/book/9780128156070/critical-issues-in-alcohol-and-drugs-of-abuse-testing" target="_blank" rel="noopener noreferrer">[Chapter 16 - Critical Issues When Testing for Amphetamine-Type Stimulants: Pitfalls of Immunoassay Screening and Mass Spectrometric Confirmation for Amphetamines, Methamphetamines, and Designer Amphetamines, p206-213]</a>
+
+---
+
 Amphetamine and methamphetamine have optical isomers designated D (or +) for dextrorotatory and L (or -) for levorotatory and the D-isomers, the more physiologically active compounds, are the intended targets of immunoassays. Ingestion of medications containing the L-isomer can cause false-positive results. For example, Vicks inhaler contains the active ingredient L-methamphetamine [17] and extensive use of this product may cause false-positive results for immunoassay screening. Specific isomer resolution procedures must be performed to differentiate the D- and L-isomers.
 
 **Reference**: <a href = "https://www.sciencedirect.com/book/9780128156070/critical-issues-in-alcohol-and-drugs-of-abuse-testing" target="_blank" rel="noopener noreferrer">[Chapter 16 - Critical Issues When Testing for Amphetamine-Type Stimulants: Pitfalls of Immunoassay Screening and Mass Spectrometric Confirmation for Amphetamines, Methamphetamines, and Designer Amphetamines, p206-213]</a>
 
 ---
 
-<u>The dextromethamphetamine (d-isomer) form is highly abused and typically found in illicit preparations</u>.
+The dextromethamphetamine (d-isomer) form is highly abused and typically found in illicit preparations.
 
 **Reference**: <a href = "https://www.restek.com/globalassets/pdfs/literature/cfan3052a-unv.pdf" target="_blank" rel="noopener noreferrer">[Restek: Analysis of Amphetamines by LC-MS/MS for High-Throughput Urine Drug Testing Labs]</a>
 
@@ -47,6 +53,13 @@ Positive amphetamines results may be also be observed due to ingestion of medica
 <img width ="720" height= auto src = "/docs/images/Screenshot 2022-10-13 223026.png" />
 
 **Reference**: <a href = "https://www.sciencedirect.com/book/9780128156070/critical-issues-in-alcohol-and-drugs-of-abuse-testing" target="_blank" rel="noopener noreferrer">[Chapter 16 - Critical Issues When Testing for Amphetamine-Type Stimulants: Pitfalls of Immunoassay Screening and Mass Spectrometric Confirmation for Amphetamines, Methamphetamines, and Designer Amphetamines, p206-213]</a>
+
+### Fenproporex  
+
+The Federal Drug Administration (FDA) warned consumers in January 2006 that the Brazilian dietary supplements Emagrece Sim and Herbathin contain several active drug ingredients including fenproporex, which is metabolized to amphetamine. Use of other weight loss or nutritional supplements containing fenproporex has resulted in detection of D-amphetamine in the urines of users. 
+
+**Reference**: <a href = "https://www.sciencedirect.com/book/9780128156070/critical-issues-in-alcohol-and-drugs-of-abuse-testing" target="_blank" rel="noopener noreferrer">[Chapter 16 - Critical Issues When Testing for Amphetamine-Type Stimulants: Pitfalls of Immunoassay Screening and Mass Spectrometric Confirmation for Amphetamines, Methamphetamines, and Designer Amphetamines, p206-213]</a>
+
 
 ---
 
@@ -91,8 +104,3 @@ Top 5 Peaks
 
 ---
 
-## Fenproporex  
-
-The Federal Drug Administration (FDA) warned consumers in January 2006 that the Brazilian dietary supplements Emagrece Sim and Herbathin contain several active drug ingredients including fenproporex, which is metabolized to amphetamine. Use of other weight loss or nutritional supplements containing fenproporex has resulted in detection of D-amphetamine in the urines of users. 
-
-**Reference**: <a href = "https://www.sciencedirect.com/book/9780128156070/critical-issues-in-alcohol-and-drugs-of-abuse-testing" target="_blank" rel="noopener noreferrer">[Chapter 16 - Critical Issues When Testing for Amphetamine-Type Stimulants: Pitfalls of Immunoassay Screening and Mass Spectrometric Confirmation for Amphetamines, Methamphetamines, and Designer Amphetamines, p206-213]</a>
