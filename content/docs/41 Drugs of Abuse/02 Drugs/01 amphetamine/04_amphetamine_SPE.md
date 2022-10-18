@@ -54,7 +54,7 @@ When compared to a recently published conventional hydrophilic polymer SPE metho
 <br><b>SPE Procedure</b>
     </p></td>
     <td><p>Human urine samples were spiked with internal standard. Spiked and blank urine acidified with 100 µl 5 M HCI per 10 mL urine.
-SPE Procedure
+<br><b>SPE Procedure</b>
     </p></td>
   </tr>
   <tr class="odd">
@@ -201,7 +201,7 @@ SPE Procedure
          </p></td>
     </tr>
     <tr class="even">
-      <td><p>Methamphetamine D<sub>8</sub> 
+      <td><p>Methamphetamine D<sub>3</sub> 
     </p></td>
     <td><p>8.3
     </p></td>
@@ -233,7 +233,7 @@ SPE Procedure
          </p></td>
     </tr>
     <tr class="even">
-      <td><p>MDMA D<sub>6</sub>
+      <td><p>MDMA D<sub>5</sub>
     </p></td>
     <td><p>8.5
     </p></td>
