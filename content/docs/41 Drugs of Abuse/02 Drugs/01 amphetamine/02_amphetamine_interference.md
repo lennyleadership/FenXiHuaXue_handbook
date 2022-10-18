@@ -45,6 +45,13 @@ The dextromethamphetamine (d-isomer) form is highly abused and typically found i
 **Reference**: Woźniak, M. K., Wiergowski, M., Aszyk, J., Kubica, P., Namieśnik, J., & Biziuk, M. (2018). Application of gas chromatography–tandem mass spectrometry for the determination of amphetamine-type stimulants in blood and urine. Journal of Pharmaceutical and Biomedical Analysis, 148, 58–64. doi:10.1016/j.jpba.2017.09.020
 
 ---
+The DEA/FDA to classify amphetamine & methamphetamine as Schedule II controlled substances.  Phentermine is a schedule IV drug that is not heavily
+abused but is known to exert effects that are similar to Amphetamine.  
+Designer drugs metylenedioxymethamphetamine (MDMA) and methylenedioxyamphetamine (MDA) are methylenedioxy derivatives of methamphetamine and amphetamine respectively. <a href = "https://www.unitedchem.com/wp-content/uploads/2020/05/0204-01-01-Amphetamines-Using-CSDAU.pdf" target="_blank" rel="noopener noreferrer">UCT: AMPHETAMINES IN BLOOD, PLASMA/SERUM, URINE, OR TISSUE USING CLEAN SCREEN® DAU SPE AND LC-MS/MS ANALYSIS</a>
+
+
+
+---
 
 ## List of interference compounds
 

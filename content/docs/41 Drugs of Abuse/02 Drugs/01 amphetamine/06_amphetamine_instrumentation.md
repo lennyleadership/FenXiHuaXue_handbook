@@ -1,5 +1,5 @@
 ---
-weight: 4
+weight: 6
 title: Amphetamine Testing - Instrumentation
 authors: edited by Lenny Lin
 categories: 
