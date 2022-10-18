@@ -1,6 +1,6 @@
 ---
 weight: 3
-title: "Amphetamine: Pitfalls of Immunoassay Screening and MS Confirmation"
+title: "Challenges in amphetamine testing"
 authors: edited by Lenny Lin
 categories: 
 tags: []

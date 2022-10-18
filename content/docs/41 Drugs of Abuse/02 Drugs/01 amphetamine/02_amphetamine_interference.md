@@ -1,6 +1,6 @@
 ---
 weight: 2
-title: amphetamine interference
+title: Amphetamine interference
 authors: edited by Lenny Lin
 categories: 
 tags: []
