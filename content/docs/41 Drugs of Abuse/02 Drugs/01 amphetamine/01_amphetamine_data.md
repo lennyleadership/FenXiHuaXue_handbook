@@ -16,9 +16,44 @@ toc: true
 ---
 
 ## Structure
-<div class = "row">
-<img width ="360" height= "200" src = "/docs/images/Amphetamine_500.png" style ="float: left" HSPACE="10" VSPACE="10"/>  
-</div>
+
+<center><img width ="180" src = "/docs/images/Racemic_amphetamine_2.svg.png"/></center>
+
+<table style="width:100%; font-size: 60%">
+<caption style="text-align:left", align = "top"><b>L-amphetamine and D-amphetamine</b></caption>
+<colgroup><col style="width: 40%" /><col style="width: 60%" />
+</colgroup>
+<thead>
+  <tr VALIGN=TOP style="text-align:left"  class="header">
+    <th><p>Name</p></th>
+    <th><p>Structure</p></th>
+  </tr>
+</thead>
+<tbody VALIGN=TOP>
+  <tr class="odd">
+    <td><p>L-amphetamine
+    <br>Levo-amphetamine
+    <br> (-)-amphetamine
+    <br>(<i>R</i>)-amphetamine
+    <br>左旋
+    </p></td>
+    <td><p><img width ="180" src = "/docs/images/244px-L-amphetamine.svg.png"/>
+    </p></td>
+  </tr>
+  <tr class="even">
+    <td><p>D-amphetamine
+    <br>Dextro-amphetamine
+    <br>(+)-amphetamine
+    <br>(<i>S</i>)-amphetamine
+    <br>右旋
+    </p></td>
+    <td><p><img width ="180" src = "/docs/images/200px-D-amphetamine.svg.png"/>
+    </p></td>
+  </tr>
+</tbody>
+</table>
+
+
 
 ## Chemical and Physical Properties
 

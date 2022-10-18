@@ -14,11 +14,11 @@ toc: true
 
 Tips: Frequently, resolving the problem requires a combination of individual experimental solutions and systematic and logical investigation.  
 
-Part 1 presents troubleshooting techniques related to sample preparation and chromatography.  
-Part 2 discusses further troubleshooting techniques and presents an automation strategy that improves method robustness and performance.
+Part 1 highlights rational method development and validation and includes troubleshooting tips for sound sample preparation, for analyte stability in biological matrices, and for chromatographic conditions and injection solvents.  
+
+Part 2 further discusses development strategies for LC/MS/MS analysis of biopharmaceutical products including proteins and peptides. It will present troubleshooting tips for carryover, recovery and matrix effects, and selectivity; and for automation where possible to improve the overall reliability and efficiency of LC/MS/MS.
 
 <!--more-->
-
 ---
 
 ## Part 1
