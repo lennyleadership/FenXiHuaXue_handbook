@@ -45,9 +45,9 @@ What tools could we use?
     </p></td>
   </tr>
   <tr class="odd">
-    <td><p>sentence left
+    <td><p>chemical purity
     </p></td>
-    <td><p>sentence right.
+    <td><p>HPLC Tips & Tricks, <a href = "https://www.sigmaaldrich.com/CA/en/collections/analytix-reporter#archives" target="_blank" rel="noopener noreferrer">Analytix Reporter</a>, issue 11 | 2022, page 34.
     </p></td>
   </tr>
   <tr class="even">

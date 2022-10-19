@@ -3,16 +3,16 @@ weight: 3
 title: Buffers for Analyzing Ionizable Compounds
 authors: Dr. Egidijus Machtejevas, edited by Lenny Lin
 categories: 
-date: "2022-01-03"
+tags: [Sensitivity, Trifluoroacetic Acid, Buffer, Ion Pairs]
 description: 
 draft: false
+date: "2022-01-03"
 lastmod: "2022-02-02"
 series: 
-tags: [Sensitivity, Trifluoroacetic Acid, Buffer, Ion Pairs]
 toc: true
 ---
 
-This note was copied from Dr. Egidijus Machtejevas' blog on Analytix Reporter, issue 11 | 2021, page 34.
+This note was copied from Dr. Egidijus Machtejevas' blog on <a href = "https://www.sigmaaldrich.com/CA/en/collections/analytix-reporter#archives" target="_blank" rel="noopener noreferrer">Analytix Reporter</a>, issue 11 | 2022, page 34.
 
 <!--more-->
 

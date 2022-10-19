@@ -1,14 +1,14 @@
 ---
 weight: 6
+title: HPLC Band Broadening Diagnosis
 authors: edited by Lenny Lin
 categories: 
-date: "2022-01-03"
+tags: [Sensitivity for HPLC]
 description: Band broadening for HPLC
 draft: false
+date: "2022-01-03"
 lastmod: "2022-01-12"
 series: 
-tags: [Sensitivity]
-title: Chapter 06 HPLC Band Broadening Diagnosis
 toc: true
 ---
 
@@ -21,7 +21,7 @@ Broad peaks, often accompanied by a change in retention time, indicate band spre
 
 2. Configure the HPLC system with the following parameters;  
 Flow Rate: 1 mL/min  
-Detector Sensitivity: 0.5 to 1.0 AUFS  
+Detector Sensitivity: 0.5 to 1.0 AUFS (ABSORBANCE UNITS FULL SCALE)  
 Detector Time Constant: 0.2 or less   
 Chart Speed (if req’d): 20 cm/min  
 
@@ -52,25 +52,3 @@ The table below shows details of the volume of solvent per unit length contained
 <figcaption><b>Figure </b>: </figcaption>
 <img src = "/docs/images/Screenshot 2022-01-15 154140.png"/>
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-____
-<figcaption><b>Figure </b>: </figcaption>
-<img src = "/docs/images/"/>
