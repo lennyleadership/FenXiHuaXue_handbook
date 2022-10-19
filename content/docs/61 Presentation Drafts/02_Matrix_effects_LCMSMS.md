@@ -1,6 +1,6 @@
 ---
 weight: 2
-title: Overcome Matrix Effects for Lc-MS/MS
+title: Overcome Matrix Effects for LC-MS/MS
 authors: Lenny Lin
 categories: 
 tags: []
@@ -14,3 +14,5 @@ toc: true
 
 <!--more-->
 
+**During the method development**  
+&emsp;1) dilute the sample
