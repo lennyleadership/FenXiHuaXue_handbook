@@ -21,7 +21,7 @@ The troubleshooting strategy. What cause the dropped sensitivity?
 
 What tools could we use?
 
-<table style="width:100%; font-size: 60%">
+<table style="width:100%; font-size: 80%">
 <caption style="text-align:left", align = "top"><b>Increase sensitivity for LC-MS/MS During the Routine Analysis</b></caption>
 <colgroup><col style="width: 40%" /><col style="width: 60%" />
 </colgroup>
@@ -39,9 +39,9 @@ What tools could we use?
     </p></td>
   </tr>
   <tr class="even">
-    <td><p>
+    <td><p>The interface region of the mass spectrometer becomes contaminated
     </p></td>
-    <td><p> sentence right.
+    <td><p><a href = "https://www.aacc.org/cln/articles/2015/august/troubleshooting-liquid-chromatography-tandem-mass-spectrometry-in-the-clinical-laboratory" target="_blank" rel="noopener noreferrer">AACC: Troubleshooting Liquid Chromatography-Tandem Mass Spectrometry in the Clinical Laboratory</a>
     </p></td>
   </tr>
   <tr class="odd">

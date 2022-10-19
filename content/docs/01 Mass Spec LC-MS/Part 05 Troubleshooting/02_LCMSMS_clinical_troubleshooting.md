@@ -103,19 +103,16 @@ I recommend the following steps to enhance your troubleshooting abilities, outli
 &emsp;&emsp;&emsp;c) Verify that the vial or plate cap was pierced by the autosampler needle and confirm that the liquid contents appear as expected.   
 &emsp;&emsp;&emsp;d) Re-inject a stable extracted sample from a previous batch to confirm acceptable instrument performance.   
 &emsp;&emsp;&emsp;e) Also, check for lot changes.   
-&emsp;&emsp;&emsp;f) Finally, a step-by-step review with the analyst who performed the sample preparation may be the only remaining option before repeating the extractions (See Table 5 [^7] for a list of common mistakes categorized by type of sample preparation).  
+&emsp;&emsp;&emsp;f) Finally, a step-by-step review with the analyst who performed the sample preparation may be the only remaining option before repeating the extractions (See Table 5 for a list of common mistakes categorized by type of sample preparation).  
 &emsp;&emsp;ii) MS/MS:  
 &emsp;&emsp;If infusion of standards or calibration solutions indicates the MS/MS signal is decreased, first rule out interventions that do not require venting. For example, confirm that the MS/MS detector voltage is appropriate, mass resolution and calibration are correct, and no ion source maintenance (e.g. new capillary electrode) is needed. Consulting the pattern of MS/MS maintenance-free intervals for the instrument may be helpful (SST records), although one bad sample or a change in the assays performed on the instrument can cause a dramatic loss of response. Most clinical laboratories consult vendor technical support and request onsite service at this stage, although competent end users can change interface components followed by mass resolution and calibration.  
 &emsp;&emsp;iii) LC:   
 &emsp;&emsp;LC-related problems are the most common reason for SST and batch failures. Review of the SST report, XIC overlays, and pressure traces are the best tools to detect and solve an LC problem. If you suspect a leak, look at and touch every tubing connection from the pump to the MS/MS source while the instrument is pumping, and look for buffer deposits below a connection or discoloration of metal fittings (green) as indication of a slow leak. Leaks often occur following over pressure.  
 
-&emsp;3) Selected distortions in peak shape and pressure traces are diagnostic for specific injection matrix, LC plumbing, LC pump, and column problems (Table 6 [^8]). 
+&emsp;3) Selected distortions in peak shape and pressure traces are diagnostic for specific injection matrix, LC plumbing, LC pump, and column problems (Table 6 [^7]). 
 
 Even if you can’t solve the problem, taking the first steps and sharing your troubleshooting data with the vendor service representative can get the instrument back in to service more quickly. Discussions with and learning from the service representative also boosts your troubleshooting skills, although nothing is more rewarding than finding the root cause of an obscure LC problem on your own. Grab your wrenches and troubleshoot!
 
-**Reference**: <a href = "https://www.aacc.org/cln/articles/2015/august/troubleshooting-liquid-chromatography-tandem-mass-spectrometry-in-the-clinical-laboratory" target="_blank" rel="noopener noreferrer">AACC: Troubleshooting Liquid Chromatography-Tandem Mass Spectrometry in the Clinical Laboratory</a>
-
----
 Table 5 Some common sample preparation problems by extraction type  
 <table style="width:100%;">
 <colgroup><col style="width: 40%" /><col style="width: 60%" />
@@ -171,6 +168,9 @@ Table 5 Some common sample preparation problems by extraction type
   </tr>
 </tbody>
 </table>
+
+
+**Reference**: <a href = "https://www.aacc.org/cln/articles/2015/august/troubleshooting-liquid-chromatography-tandem-mass-spectrometry-in-the-clinical-laboratory" target="_blank" rel="noopener noreferrer">AACC: Troubleshooting Liquid Chromatography-Tandem Mass Spectrometry in the Clinical Laboratory</a>
 
 ---
 [^1]: <a href = "https://www.aacc.org/-/media/Files/CLN/2015/Judy-Stone-article-August/Stone-Figure-1-CLNAug15.pdf?la=en&hash=3D56664D6DE62E79A18EBB97B5B4D72A125CF97A" target="_blank" rel="noopener noreferrer"><b>Figure 1</b></a>   
@@ -241,8 +241,6 @@ The MS/MS “interface” is defined generically as the hardware components unde
 &emsp;8. Wrong acquisition method used for SST – no or wrong peaks  
 &emsp;9. Wrong data analysis method used for SST – no peaks, selected peaks are missing  
 &emsp;10. Data files stored in wrong project for SST – no peaks, no baseline  
-[^7]: <a href = "https://www.aacc.org/-/media/Files/CLN/2015/Judy-Stone-article-August/Stone-Table-5-CLNAug15.pdf?la=en&hash=811F7D8999745CA959BD0E459929A8EE4F8C693B" target="_blank" rel="noopener noreferrer">**Table 5 Some common sample preparation problems by extraction type**</a>  
-<img width ="720" height= auto src = "/docs/images/Screenshot 2022-10-19 134435.png" />
-[^8]: <a href = "https://www.aacc.org/-/media/Files/CLN/2015/Judy-Stone-article-August/Stone-Figure-6-CLNAug15.pdf?la=en&hash=83D9C9944A637FF211D927F7E7613ECA5265C180" target="_blank" rel="noopener noreferrer">**Table 6 Examples of LC problems diagnosed from peak shape and pressure traces**</a>
+[^7]: <a href = "https://www.aacc.org/-/media/Files/CLN/2015/Judy-Stone-article-August/Stone-Figure-6-CLNAug15.pdf?la=en&hash=83D9C9944A637FF211D927F7E7613ECA5265C180" target="_blank" rel="noopener noreferrer">**Table 6 Examples of LC problems diagnosed from peak shape and pressure traces**</a>
 <img width ="720" height= "400" src = "/docs/images/Screenshot 2022-08-09 200845.png"/>
 
