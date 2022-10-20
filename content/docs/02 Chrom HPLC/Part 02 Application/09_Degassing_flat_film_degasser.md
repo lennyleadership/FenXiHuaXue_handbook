@@ -7,7 +7,7 @@ description: Advances in Liquid Chromatography Degassing - A next-generation tec
 draft: false
 lastmod: "2022-01-03"
 series: 
-tags: Sensitivity
+tags: [Sensitivity, Resolution]
 title: Flat Film Degasser
 toc: true
 ---
@@ -27,8 +27,14 @@ Today’s HPLC systems have one of two mobile phase mixing arrangements - either
 In 1975, Tokunaga published the data set that has formed the foundation for degassing for HPLC solvent mixtures [1]. He determined the Ostwald coefficients for the solubility of oxygen in various alcohol-water mixtures and demonstrated the degree to which mixtures needed to be degassed to prevent bubble formation. This seminal paper has underpinned the development of the tubing-based degassing systems in routine use in most labs today.  
 
 
-<figcaption><b>Figure 1</b>: Air Solubility in Various Water and Menthanol Mixtures</figcaption>
-<img src = "/docs/images/Screenshot 2022-01-14 101303.png"/>
+<br>
+<figure>
+  <img width = "540" src = "/docs/images/Screenshot 2022-01-14 101303.png"/>
+  <figcaption><b>Figure 1</b>: Air Solubility in Various Water and Menthanol Mixtures</figcaption>
+</figure>
+
+
+
 Note: Adapted from Tokunaga, J Chem & Eng Data Vol 20 No 1 1975 with percentage of remaining air in both solvents shown.  
 
 Figure 1 plots Tokunaga’s data, recalculated in the way HPLC systems mix mobile phases as volumetric percentages. The difference between the upper solid red line and the Ostwald coefficient data lines represents the supersaturation of the mixtures with dissolved air. Three example lines where the amount of air is reduced by degassing are also shown.  
@@ -59,13 +65,18 @@ In addition, a degasser that could be universally applied
 
 There is now a patented flat film membrane, together with a dedicated vacuum pump control algorithm (patent pending), which addresses these goals. Figure 2 shows a schematic of the new flat membrane degasser. It is a simple design that is straightforward to implement into both low pressure and high pressure mixing HPLC systems (Figure 3). The design results in a product with minimal fittings and connections. Its highly efficient membrane has been specified with sufficient surface area to degas solvents for analytical scale HPLC systems (up to 10 mL/min flow rate). The unique flow channel layout delivers a low fluid resistance before the inlet check valve of the pump.  
 
+<br>
+<figure>
+  <img width = "540" src = "/docs/images/Screenshot 2022-01-14 101705.png"/>
+  <figcaption><b>Figure 2</b>: Unique patented flow channel design. Thin liquid film flows over degassing membrane</figcaption>
+</figure>
 
-<figcaption><b>Figure 2</b>: Unique patented flow channel design. Thin liquid film flows over degassing membrane.</figcaption>
-<img src = "/docs/images/Screenshot 2022-01-14 101705.png"/>
 
-
-<figcaption><b>Figure 3</b>: New degasser integrated into generic low- (left) and high- (right) pressure HPLC systems</figcaption>
-<img src = "/docs/images/Screenshot 2022-01-14 101835.png"/>
+<br>
+<figure>
+  <img width = "540" src = "/docs/images/Screenshot 2022-01-14 101835.png"/>
+  <figcaption><b>Figure 3</b>: New degasser integrated into generic low- (left) and high- (right) pressure HPLC systems</figcaption>
+</figure>
 
 
 The companion vacuum control algorithm provides the integration into the separation method control protocol and allows selection of a given degassing efficiency for any HPLC system. Vacuum pressure can be dialled up or down to reach the exact HPLC method specification needed. A simplified interface accepts the flow rate and desired efficiency of degassing for the individual separation method from the HPLC and adjusts the vacuum to the highest pressure possible for efficient degassing. This method prevents dissolved atmospheric supersaturation while suppressing pervaporation and mobile phase concentration changes. The flow restriction is constant, regardless of the applied vacuum.
@@ -78,17 +89,22 @@ In order to characterise the degasser, a mathematical model of performance vs. a
 Figure 4 illustrates efficiency vs. flow rate at four different vacuum pressures. Note that the maximum flow rate at which 30% residual air (70% efficiency) at 50 mmHg is approximately 2.5 mL/min. This is sufficient to degas a gradient or any isocratic mobile phase up to 5 mL/min, and because an efficiency of 62% (38% residual air, Figure 1) is required to prevent outgassing, an HPLC system equipped with this degasser, operated at 50 mmHg, could be expected to use method flow rates up to 7 mL/min without exhibiting bubble formation.  
 
 
-<figcaption><b>Figure 4</b>: Characterisation curves showing efficiency vs flow rate of the film degasser at four different vacuum levels.</figcaption>
-<img src = "/docs/images/Screenshot 2022-01-14 102342.png"/>
+<br>
+<figure>
+  <img width = "360" src = "/docs/images/Screenshot 2022-01-14 102342.png"/>
+  <figcaption><b>Figure 4</b>: Characterisation curves showing efficiency vs flow rate of the film degasser at four different vacuum levels.</figcaption>
+</figure>
 
 
 Subsequent steps plot efficiency vs. vacuum levels for each flow rate and solve the efficiency-vacuum curve equations using the desired efficiency and flow rate. The formula of each curve links flow rate to output vacuum level such that once a degassing chamber is characterised, the vacuum level applied to the degasser is a function of the desired efficiency and the flow rate of the method. Degassing performance can then be tuned using vacuum control to cover the entire performance range of an HPLC system. Target degassing efficiency can therefore be constantly assured at any flow rate with minimum concentration changes, or pervaporation, in the mobile phase.
 
 Figure 5 shows data from an experiment to compare the degassing efficiency of flat film vs. tubing-based systems. It is important to note that the vacuum levels are dramatically different but that the performance of the new film degasser matches that of the tube degasser at the desired flow rate (1 mL/min) and efficiency (70%).  
 
-
-<figcaption><b>Figure </b>: Comparing a predicted vacuum level efficiency of 70% at 1 mL/min against a standard 18-inch tube degasser at 50 mmHg vacuum.</figcaption>
-<img src = "/docs/images/Screenshot 2022-01-14 102704.png"/>
+<br>
+<figure>
+  <img width = "360" src = "/docs/images/Screenshot 2022-01-14 102704.png"/>
+  <figcaption><b>Figure </b>: Comparing a predicted vacuum level efficiency of 70% at 1 mL/min against a standard 18-inch tube degasser at 50 mmHg vacuum.</figcaption>
+</figure>
 
 
 This demonstrates that any degasser can be characterised, and the resulting sets of data can then be used to control the vacuum degassing system from the inputs of efficiency and method flow rate.
@@ -96,7 +112,7 @@ This demonstrates that any degasser can be characterised, and the resulting sets
 ## Looking ahead
 
 In summary, the development of the flat film degasser and its companion control algorithm described here provides chromatographers with an improved degassing performance when compared to degassing at constant vacuum. The benefits will not only result in improved degassing efficiency, but most importantly, in method reproducibility, lab proficiency and productivity.
-For further information, visit https://www.idex-hs.com/store/fluidics/degassers/film-degasser.html
+For further information, visit <a href = "https://www.idex-hs.com/store/fluidics/degassers/film-degasser.html" target="_blank" rel="noopener noreferrer">https://www.idex-hs.com/store/fluidics/degassers/film-degasser.html</a>
 
 ## References
 
