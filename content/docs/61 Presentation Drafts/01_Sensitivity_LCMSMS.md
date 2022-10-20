@@ -45,13 +45,13 @@ What tools could we use?
     </p></td>
   </tr>
   <tr class="odd">
-    <td><p>chemical purity
+    <td><p>Purity of chemical buffer
     </p></td>
-    <td><p>HPLC Tips & Tricks, <a href = "https://www.sigmaaldrich.com/CA/en/collections/analytix-reporter#archives" target="_blank" rel="noopener noreferrer">Analytix Reporter</a>, issue 11 | 2022, page 34.
+    <td><p><a href = "https://www.sigmaaldrich.com/CA/en/collections/analytix-reporter#archives" target="_blank" rel="noopener noreferrer">HPLC Tips & Tricks, Analytix Reporter, issue 11 | 2022, page 34.</a>
     </p></td>
   </tr>
   <tr class="even">
-    <td><p>sentence left
+    <td><p>Addition of buffer which can increase protonation.
     </p></td>
     <td><p> sentence right.
     </p></td>
@@ -142,21 +142,21 @@ What tools could we use?
     </p></td>
   </tr>
   <tr class="even">
-    <td><p>
+    <td><p>A suitable LC column (a silica column was used in the reference)
     </p></td>
-    <td><p> sentence right.
+    <td><p><a href = "http://alfresco-static-files.s3.amazonaws.com/alfresco_images/pharma/2014/08/26/ede58aca-c91e-462c-a41b-42355e3be017/article-2140.pdf" target="_blank" rel="noopener noreferrer">Systematic Troubleshooting for LC/MS/MS - Part 1: Sample Preparation and Chromatography</a>
     </p></td>
   </tr>
   <tr class="odd">
-    <td><p>sentence left
+    <td><p>Column with smaller dimention
     </p></td>
-    <td><p>sentence right.
+    <td><p><a href = "http://alfresco-static-files.s3.amazonaws.com/alfresco_images/pharma/2014/08/26/ede58aca-c91e-462c-a41b-42355e3be017/article-2140.pdf" target="_blank" rel="noopener noreferrer">Systematic Troubleshooting for LC/MS/MS - Part 1: Sample Preparation and Chromatography</a>
     </p></td>
   </tr>
   <tr class="even">
-    <td><p>sentence left
+    <td><p>Choosing a reconstitution solvent compatible with the mobile phase
     </p></td>
-    <td><p> sentence right.
+    <td><p><a href = "http://alfresco-static-files.s3.amazonaws.com/alfresco_images/pharma/2014/08/26/ede58aca-c91e-462c-a41b-42355e3be017/article-2140.pdf" target="_blank" rel="noopener noreferrer">Systematic Troubleshooting for LC/MS/MS - Part 1: Sample Preparation and Chromatography</a>
     </p></td>
   </tr>
   <tr class="odd">

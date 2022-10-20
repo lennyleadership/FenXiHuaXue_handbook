@@ -135,3 +135,6 @@ During LC/MS/MS method development for analysis of a nucleoside compound and its
 **Reference**: <a href = "https://cdn.sanity.io/files/0vv8moc6/biopharn/1a7e564988c4ca05949add7061339d9dadbe47ec.pdf/article-7275.pdf" target="_blank" rel="noopener noreferrer">Systematic Troubleshooting for LC/MS/MS - Part 2: Large-Scale LC/MS/MS and Automation</a>  
 
 [^1]: According to the determination process, it seems there is no matrix effect on GC-MS/MS, because I can't apply this process on a GC-MS/MS.    
+
+
+

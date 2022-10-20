@@ -112,7 +112,8 @@ This demonstrates that any degasser can be characterised, and the resulting sets
 ## Looking ahead
 
 In summary, the development of the flat film degasser and its companion control algorithm described here provides chromatographers with an improved degassing performance when compared to degassing at constant vacuum. The benefits will not only result in improved degassing efficiency, but most importantly, in method reproducibility, lab proficiency and productivity.
-For further information, visit <a href = "https://www.idex-hs.com/store/fluidics/degassers/film-degasser.html" target="_blank" rel="noopener noreferrer">https://www.idex-hs.com/store/fluidics/degassers/film-degasser.html</a>
+For further information, visit <a href = "https://www.idex-hs.com/store/fluidics/degassers/film-degasser.html" target="_blank" rel="noopener noreferrer">IDEX: Film Degasser</a>
+
 
 ## References
 
