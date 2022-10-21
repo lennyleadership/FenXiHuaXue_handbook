@@ -19,5 +19,5 @@ toc: true
 
 
 ## Paid training courses
-<a href = "https://www.analytical-training-solutions.com/" target="_blank" rel="noopener noreferrer">Analytical Training Solutions</a>
+<a href = "https://www.analytical-training-solutions.com/" target="_blank" rel="noopener noreferrer">Analytical Training Solutions</a>   
 <a href = "https://www.analytical-training-solutions.com/courses/lc-ms-ms-for-chromatographers/" target="_blank" rel="noopener noreferrer">LC-MS/MS FOR CHROMATOGRAPHERS</a>
