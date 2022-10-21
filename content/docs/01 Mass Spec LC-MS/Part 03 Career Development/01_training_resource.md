@@ -3,7 +3,7 @@ weight: 1
 title: Training Resources
 authors: null
 categories: null
-tags: null
+tags: [Training Courses]
 description:  
 draft: false
 date: "2022-10-21"
