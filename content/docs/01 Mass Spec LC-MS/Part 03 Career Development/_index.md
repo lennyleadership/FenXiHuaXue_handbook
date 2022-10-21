@@ -4,10 +4,10 @@ title: Career Development
 authors: null
 categories: null
 tags: null
-date: "2022-03-17"
-description: 
+description:  
 draft: false
-lastmod: "2022-07-13"
+date: "2022-10-21"
+lastmod: "2022-10-21"
 series: null
 toc: true
 bookCollapseSection: true
@@ -16,4 +16,5 @@ bookCollapseSection: true
 
 
 <!--more-->
+---
 

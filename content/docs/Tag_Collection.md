@@ -18,6 +18,11 @@ Mobile Phase,  ESI APCI chart, the ion evaporation mechanism,
 the charge residue mechanism, 
 three MS major parameters, five ion source parameters, 
 Sensitivity,
-Clinical, Toxicology, Forensic, Bioanalysis]
+Clinical, Toxicology, Forensic, Bioanalysis,
+Resources]
 ---
 
+<!--more-->
+---
+
+<a href = "http://www.lcresources.com/training/LCR-resources.html" target="_blank" rel="noopener noreferrer">Resources for Chromatographers</a>

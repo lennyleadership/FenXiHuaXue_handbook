@@ -1,13 +1,14 @@
 ---
+weight: 151
 authors: null
 categories: null
-date: "2022-07-13"
+date: "2022-03-17"
 description: 
 draft: false
-lastmod: "2022-07-15"
+lastmod: "2022-03-17"
 series: null
 tags: null
-title: Sciex LC-MS/MS 101
+title: Other Courses
 toc: true
 bookCollapseSection: true
 ---

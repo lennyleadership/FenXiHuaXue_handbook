@@ -53,11 +53,11 @@ What tools could we use?
   <tr class="even">
     <td><p>Addition of buffer which can increase protonation.
     </p></td>
-    <td><p> sentence right.
+    <td><p><to be found>.
     </p></td>
   </tr>
   <tr class="odd">
-    <td><p>sentence left
+    <td><p>Adjustment of pH of mobile phase A to stabilize analyte in the mobile phase.
     </p></td>
     <td><p>sentence right.
     </p></td>
