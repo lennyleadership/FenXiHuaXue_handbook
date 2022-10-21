@@ -7,12 +7,11 @@ draft: false
 lastmod: "2022-01-16"
 series: null
 tags: null
-title: Chapter 02 USP Specifications for LC Columns
+title: USP Specifications for LC Columns
 toc: true
 ---
 
-<figcaption><b>Figure </b>: </figcaption>
-<img src = "/docs/images/"/>
+
 
 
 <!--more-->

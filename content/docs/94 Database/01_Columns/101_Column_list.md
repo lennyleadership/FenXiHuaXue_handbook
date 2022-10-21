@@ -1,17 +1,17 @@
 ---
+weight: 101
+title: List of Columns
 authors: Lenny Lin
 categories: null
-date: "2022-01-03"
 description: List of Columns
 draft: false
+date: "2022-01-03"
 lastmod: "2022-01-03"
 series: null
 tags: null
-title: Chapter 01 List of Columns
 toc: true
 ---
 
-I list columns.
 
 <!--more-->
 

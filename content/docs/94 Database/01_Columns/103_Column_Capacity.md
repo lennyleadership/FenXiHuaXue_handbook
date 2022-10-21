@@ -1,19 +1,21 @@
 ---
+weight: 103
+title: Column Capacity
 authors: edited by Lenny Lin
 categories: 
-date: "2022-01-03"
+tags: []
 description: Column Capacity
 draft: false
+date: "2022-01-03"
 lastmod: "2022-01-17"
 series:
-tags: []
-title: Column Capacity
 toc: true
 ---
 
 
 
 <!--more-->
+---
 
 ## Sigma-Aldrich Guide
 
