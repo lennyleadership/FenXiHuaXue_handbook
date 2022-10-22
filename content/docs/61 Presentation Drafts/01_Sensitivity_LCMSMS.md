@@ -63,9 +63,9 @@ What tools could we use?
     </p></td>
   </tr>
   <tr class="even">
-    <td><p>sentence left
+    <td><p>
     </p></td>
-    <td><p> sentence right.
+    <td><p>  
     </p></td>
   </tr>
   <tr class="odd">
@@ -242,9 +242,9 @@ What tools could we use?
     </p></td>
   </tr>
   <tr class="even">
-    <td><p>
+    <td><p>to identify whether the loss of sensitivity is due to poor recovery or to matrix suppression
     </p></td>
-    <td><p> sentence right.
+    <td><p><a href = "https://cdn.sanity.io/files/0vv8moc6/biopharn/1a7e564988c4ca05949add7061339d9dadbe47ec.pdf/article-7275.pdf" target="_blank" rel="noopener noreferrer">Systematic Troubleshooting for LC/MS/MS - Part 2: Large-Scale LC/MS/MS and Automation</a>
     </p></td>
   </tr>
   <tr class="odd">

@@ -3,7 +3,7 @@ weight: 32
 title: APCI General Review
 authors: Lenny Lin
 categories: "Analysis of Pesticides in Food and Environmental Samples edited by Jose L. Tadeo"
-tags: [Sensitivity]
+tags: [Sensitivity, Modifier]
 description: 
 draft: false
 date: "2022-03-17"
@@ -35,7 +35,7 @@ The desolvated analyte molecules are then ionized via chemical ionization; the t
 
 For successful APCI, the analyte must be volatile and thermally stable and the mobile phase must be suitable for gas-phase acid–base reactions. For example, when working in positive ion mode, the proton affinity of the analyte must be higher than the proton affinity of the eluent: that is, the analyte can acquire a proton from the protonated solvent.   
 
-Since water cluster ions are a major source of reagent ions, the proton affinity of these clusters relative to analyte ions will have a profound effect on sensitivity. Similarly, the use of certain modifiers added to the mobile phase to enhance LC separation (e.g., triethylamine) can be the source of considerable ion suppression in APCI. A strong base will receive protons from the reactant ions to form their protonated forms. Subsequent proton transfer will occur only if the analyte is more basic than the modifier. Although the choice of the most appropriate interface as well as detection polarity are based on analyte polarity and LC operating conditions, many classes of compounds perform well using either technique and sometimes in both ion modes, whereas, for other compounds, the choice is more restricted. Interfaces are selected based on individual preference derived from experience and available techniques as well as the magnitude of any matrix effects.   
+Since water cluster ions are a major source of reagent ions, the proton affinity of these clusters relative to analyte ions will have a profound effect on sensitivity. Similarly, <a class = "hovertip" tooltip_text ="This is the art.  Need to get the balance between LC separation and ion suppression.">the use of certain modifiers</a> added to the mobile phase to enhance LC separation (e.g., triethylamine) can be the source of considerable ion suppression in APCI. <u>A strong base will receive protons from the reactant ions to form their protonated forms</u>. Subsequent proton transfer will occur only if the analyte is more basic than the modifier. Although the choice of the most appropriate interface as well as detection polarity are based on analyte polarity and LC operating conditions, many classes of compounds perform well using either technique and sometimes in both ion modes, whereas, for other compounds, the choice is more restricted. Interfaces are selected based on individual preference derived from experience and available techniques as well as the magnitude of any matrix effects.   
 
 Although there are a great number of examples of the use of APCI for pesticide residue analysis for both environmental and food applications, including some pioneering early work, more recently the technique appears to be left in the wake of ES ionization’s overwhelming popularity. This may be related to the increasing number and wider range of pesticides currently sought but perhaps also reflects the improvements in source and probe design for ES not yet paralleled with APCI.  
 
