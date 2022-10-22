@@ -12,20 +12,6 @@ series: null
 toc: true
 ---
 
----
-authors: Lenny Lin
-categories: 
-date: "2022-03-17"
-description: 
-draft: false
-lastmod: "2022-07-16"
-series:
-tags: 
-title: 
-toc: true
----
-
-
 
 The LC eluate is sprayed into a spray chamber at atmospheric pressure in the presence of a strong electrostatic field and heated drying gas.  
 

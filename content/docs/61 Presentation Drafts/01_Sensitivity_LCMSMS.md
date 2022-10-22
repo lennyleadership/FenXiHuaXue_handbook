@@ -63,9 +63,9 @@ What tools could we use?
     </p></td>
   </tr>
   <tr class="even">
-    <td><p>
+    <td><p>to identify whether the loss of sensitivity is due to poor recovery or to matrix suppression
     </p></td>
-    <td><p>  
+    <td><p><a href = "https://cdn.sanity.io/files/0vv8moc6/biopharn/1a7e564988c4ca05949add7061339d9dadbe47ec.pdf/article-7275.pdf" target="_blank" rel="noopener noreferrer">Systematic Troubleshooting for LC/MS/MS - Part 2: Large-Scale LC/MS/MS and Automation</a>
     </p></td>
   </tr>
   <tr class="odd">
@@ -160,9 +160,9 @@ What tools could we use?
     </p></td>
   </tr>
   <tr class="odd">
-    <td><p>sentence left
+    <td><p>The role of pH of mobile phase. 1) enhance the ionization of the analytes; 2) stabilize the analytes;  
     </p></td>
-    <td><p>sentence right.
+    <td><p>1) p79, Analysis of Pesticides in Food and Environmental Samples, CRC Press, 2008, edited by José L. Tadeo
     </p></td>
   </tr>
   <tr class="even">
@@ -248,9 +248,9 @@ What tools could we use?
     </p></td>
   </tr>
   <tr class="odd">
-    <td><p>sentence left
+    <td><p>Think about the balance between LC separation and ion suppression when considering modifier addition.
     </p></td>
-    <td><p>sentence right.
+    <td><p>p79, Analysis of Pesticides in Food and Environmental Samples, CRC Press, 2008, edited by José L. Tadeo
     </p></td>
   </tr>
   <tr class="even">
