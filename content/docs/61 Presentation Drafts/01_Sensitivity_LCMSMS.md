@@ -237,6 +237,38 @@ What tools could we use?
 </thead>
 <tbody VALIGN=TOP>
   <tr class="odd">
+    <td><p>Sample Pretreatment: 
+    <br>Goal: Remove matrix compounds
+    <br>1) Simple filtration and dilution
+    <br>2) Endogenous matrix compounds in the sample (proteins, lipids, pigments, ...)
+    <br>3) Exogenous matrix compounds leached from plastic centrifuge tubes, well plates, and pipette tips, ...
+    <br>
+    <br>
+    </p></td>
+    <td><p><a href = "https://www.chromatographyonline.com/view/lc-ms-sensitivity-practical-strategies-boost-your-signal-and-lower-your-noise" target="_blank" rel="noopener noreferrer">LC-GC: LC–MS Sensitivity: Practical Strategies to Boost Your Signal and Lower Your Noise</a>
+    </p></td>
+  </tr>
+  <tr class="even">
+    <td><p>Mobile-Phase Composition:
+    <br>1) The use of high-purity solvents and additives
+    <br>2) The use of volatile buffers, acid modifier, or basic modifier.  They can control over the ionization state of the target analytes
+    </p></td>
+    <td><p><a href = "https://www.chromatographyonline.com/view/lc-ms-sensitivity-practical-strategies-boost-your-signal-and-lower-your-noise" target="_blank" rel="noopener noreferrer">LC-GC: LC–MS Sensitivity: Practical Strategies to Boost Your Signal and Lower Your Noise</a>
+    </p></td>
+  </tr>
+  <tr class="odd">
+    <td><p>LC Column Characteristics
+    </p></td>
+    <td><p><a href = "https://www.chromatographyonline.com/view/lc-ms-sensitivity-practical-strategies-boost-your-signal-and-lower-your-noise" target="_blank" rel="noopener noreferrer">LC-GC: LC–MS Sensitivity: Practical Strategies to Boost Your Signal and Lower Your Noise</a>
+    </p></td>
+  </tr>
+  <tr class="even">
+    <td><p>sentence left
+    </p></td>
+    <td><p> sentence right.
+    </p></td>
+  </tr>
+  <tr class="odd">
     <td><p>MS Optimization:
     <br>1) Choose the appropriate polarity
     <br>2) Capillary voltage (The applied potential difference between the capillary tip and sampling plate)
@@ -263,7 +295,7 @@ What tools could we use?
     </p></td>
   </tr>
   <tr class="even">
-    <td><p>to identify whether the loss of sensitivity is due to poor recovery or to matrix suppression
+    <td><p>poor recovery or matrix suppression can result in the loss of sensitivity
     </p></td>
     <td><p><a href = "https://cdn.sanity.io/files/0vv8moc6/biopharn/1a7e564988c4ca05949add7061339d9dadbe47ec.pdf/article-7275.pdf" target="_blank" rel="noopener noreferrer">Systematic Troubleshooting for LC/MS/MS - Part 2: Large-Scale LC/MS/MS and Automation</a>
     </p></td>
@@ -293,9 +325,21 @@ What tools could we use?
     </p></td>
   </tr>
   <tr class="odd">
-    <td><p>Choosing the appropriate polarity to match the charge of the analytes of interest.
+    <td><p>
     </p></td>
-    <td><p><a href = "https://www.chromatographyonline.com/view/lc-ms-sensitivity-practical-strategies-boost-your-signal-and-lower-your-noise" target="_blank" rel="noopener noreferrer">LC-GC: LC–MS Sensitivity: Practical Strategies to Boost Your Signal and Lower Your Noise</a>.
+    <td><p>
+    </p></td>
+  </tr>
+  <tr class="even">
+    <td><p>sentence left
+    </p></td>
+    <td><p> sentence right.
+    </p></td>
+  </tr>
+  <tr class="odd">
+    <td><p>sentence left
+    </p></td>
+    <td><p>sentence right.
     </p></td>
   </tr>
   <tr class="even">
@@ -317,18 +361,6 @@ What tools could we use?
     </p></td>
   </tr>
   <tr class="odd">
-    <td><p>sentence left
-    </p></td>
-    <td><p>sentence right.
-    </p></td>
-  </tr>
-  <tr class="even">
-    <td><p>sentence left
-    </p></td>
-    <td><p> sentence right.
-    </p></td>
-  </tr>
-  <tr class="odd"> --add new rows
     <td><p>sentence left
     </p></td>
     <td><p>sentence right.
