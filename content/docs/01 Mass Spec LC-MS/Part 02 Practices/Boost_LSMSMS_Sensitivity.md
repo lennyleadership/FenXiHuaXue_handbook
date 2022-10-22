@@ -1,13 +1,13 @@
 ---
+title: Boost Your Signal and Lower Your Noise
 authors: null
 categories: null
-date: "2022-03-17"
+tags: [Sensitivity]
 description:  
 draft: false
+date: "2022-03-17"
 lastmod: "2022-07-12"
 series: null
-tags: [Sensitivity]
-title: Boost Your Signal and Lower Your Noise
 toc: true
 ---
 
@@ -28,14 +28,14 @@ Liquid chromatography–mass spectrometry (LC–MS) has become the preferred ana
 
 In mass spectrometry (MS), the term *sensitivity* can have several meanings that are often used interchangeably. *Sensitivity* may be defined as the change in signal per unit change in concentration of an analyte (such as the slope of the calibration curve) <a href="#ref">(1)</a>. More commonly, it is used to reference the magnitude of the signal produced by the analyte in the MS detector. In this latter usage, MS sensitivity is often used to compare detectors.
 
-Fundamentally, the ability of a detector to provide quantitative data is a function of the signal-to-noise ratio (S/N) for an analyte. The limit of detection (LOD) is determined from the analyte S/N and is the lowest concentration of a substance where its signal can be distinguished from system noise <a href="#ref">(2)</a>. As shown in Figure 1, the higher the sensitivity of the MS, the greater the value of S/N for a given method LOD if background noise remains constant. Therefore, improvements in sensitivity can occur through manipulation of S/N. MS optimization, sample pretreatment strategies, mobile-phase composition, and LC column characteristics are all integral to ionization efficiency and will improve analyte signal when optimized. Likewise, limiting contaminants that contribute to signal suppression or adduct formation may also enhance response.
+Fundamentally, the ability of a detector to provide quantitative data is a function of the signal-to-noise ratio (S/N) for an analyte. The limit of detection (LOD) is determined from the analyte S/N and is the lowest concentration of a substance where its signal can be distinguished from system noise <a href="#ref">(2)</a>. As shown in <b>Figure 1</b>, <u>the higher the sensitivity of the MS, the greater the value of S/N for a given method LOD if background noise remains constant</u>. Therefore, improvements in sensitivity can occur through <u>manipulation of S/N</u>. <u>MS optimization</u>, <u>sample pretreatment strategies</u>, <u>mobile-phase composition</u>, and <u>LC column characteristics</u> are all integral to ionization efficiency and will improve analyte signal when optimized. Likewise, <u>limiting contaminants</u> that contribute to signal suppression or adduct formation may also enhance response.
 
-<div class = "row">
+
 <figure>
 <img width ="360" height= "200" src = "/docs/images/LCGC1_i1.jpg" style ="float: left" HSPACE="10" VSPACE="10"/>
 <figcaption><b>Figure 1</b>: A hypothetical demonstration of the effect of increased sensitivity on limits of detection (LOD) assuming linear calibration and fixed background noise</figcaption>
 </figure>
-</div>
+
 
 
 ### MS Optimization
