@@ -242,18 +242,21 @@ What tools could we use?
     <br>1) Simple filtration and dilution
     <br>2) Endogenous matrix compounds in the sample (proteins, lipids, pigments, ...)
     <br>3) Exogenous matrix compounds leached from plastic centrifuge tubes, well plates, and pipette tips, ...
-    <br>
+    <br>4) poor recovery or matrix suppression can result in the loss of sensitivity
     <br>
     </p></td>
-    <td><p><a href = "https://www.chromatographyonline.com/view/lc-ms-sensitivity-practical-strategies-boost-your-signal-and-lower-your-noise" target="_blank" rel="noopener noreferrer">LC-GC: LC–MS Sensitivity: Practical Strategies to Boost Your Signal and Lower Your Noise</a>
+    <td><p>1-3) <a href = "https://www.chromatographyonline.com/view/lc-ms-sensitivity-practical-strategies-boost-your-signal-and-lower-your-noise" target="_blank" rel="noopener noreferrer">LC-GC: LC–MS Sensitivity: Practical Strategies to Boost Your Signal and Lower Your Noise</a>
+    <br>4) <a href = "https://cdn.sanity.io/files/0vv8moc6/biopharn/1a7e564988c4ca05949add7061339d9dadbe47ec.pdf/article-7275.pdf" target="_blank" rel="noopener noreferrer">Systematic Troubleshooting for LC/MS/MS - Part 2: Large-Scale LC/MS/MS and Automation</a>
     </p></td>
   </tr>
   <tr class="even">
     <td><p>Mobile-Phase Composition:
     <br>1) The use of high-purity solvents and additives
     <br>2) The use of volatile buffers, acid modifier, or basic modifier.  They can control over the ionization state of the target analytes
+    <br>3) Think about the balance between LC separation and ion suppression when considering modifier addition.
     </p></td>
-    <td><p><a href = "https://www.chromatographyonline.com/view/lc-ms-sensitivity-practical-strategies-boost-your-signal-and-lower-your-noise" target="_blank" rel="noopener noreferrer">LC-GC: LC–MS Sensitivity: Practical Strategies to Boost Your Signal and Lower Your Noise</a>
+    <td><p>1-2)<a href = "https://www.chromatographyonline.com/view/lc-ms-sensitivity-practical-strategies-boost-your-signal-and-lower-your-noise" target="_blank" rel="noopener noreferrer">LC-GC: LC–MS Sensitivity: Practical Strategies to Boost Your Signal and Lower Your Noise</a>
+    <br>3) p79, Analysis of Pesticides in Food and Environmental Samples, CRC Press, 2008, edited by José L. Tadeo
     </p></td>
   </tr>
   <tr class="odd">
@@ -263,7 +266,7 @@ What tools could we use?
     </p></td>
   </tr>
   <tr class="even">
-    <td><p>sentence left
+    <td><p>Online cartridge to remove phospholipids
     </p></td>
     <td><p> sentence right.
     </p></td>
@@ -289,15 +292,15 @@ What tools could we use?
     </p></td>
   </tr>
   <tr class="odd">
-    <td><p>Online cartridge to remove phospholipids
+    <td><p>
     </p></td>
     <td><p>
     </p></td>
   </tr>
   <tr class="even">
-    <td><p>poor recovery or matrix suppression can result in the loss of sensitivity
+    <td><p>
     </p></td>
-    <td><p><a href = "https://cdn.sanity.io/files/0vv8moc6/biopharn/1a7e564988c4ca05949add7061339d9dadbe47ec.pdf/article-7275.pdf" target="_blank" rel="noopener noreferrer">Systematic Troubleshooting for LC/MS/MS - Part 2: Large-Scale LC/MS/MS and Automation</a>
+    <td><p>
     </p></td>
   </tr>
   <tr class="odd">
