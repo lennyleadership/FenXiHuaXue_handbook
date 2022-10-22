@@ -266,9 +266,9 @@ What tools could we use?
     </p></td>
   </tr>
   <tr class="even">
-    <td><p>sentence left
+    <td><p>The optimization of ionization and transmission efficiency
     </p></td>
-    <td><p> sentence right.
+    <td><p><a href = "https://www.chromatographyonline.com/view/lc-ms-sensitivity-practical-strategies-boost-your-signal-and-lower-your-noise" target="_blank" rel="noopener noreferrer">LC-GC: LC–MS Sensitivity: Practical Strategies to Boost Your Signal and Lower Your Noise</a>.
     </p></td>
   </tr>
   <tr class="odd">
