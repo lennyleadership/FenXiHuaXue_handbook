@@ -224,9 +224,10 @@ What tools could we use?
 
 
 <br>
+
 <table style="width:100%; font-size: 60%">
 <caption style="text-align:left", align = "top"><b>Increase sensitivity for LC-MS/MS During the Method Development</b></caption>
-<colgroup><col style="width: 40%" /><col style="width: 60%" />
+<colgroup><col style="width: 50%" /><col style="width: 50%" />
 </colgroup>
 <thead>
   <tr VALIGN=TOP style="text-align:left"  class="header">
@@ -242,7 +243,7 @@ What tools could we use?
     <br>3) Nebulizing gas flow and temperature
     <br>4) Temperature
     <br>5) Drying gas flow and temperature
-    <br>6) The position of the capillary tip in relation to the orifice
+    <br>6) The distance between the capillary tip and the sampling orifice 
     <br>
     <br>
     </p></td>
