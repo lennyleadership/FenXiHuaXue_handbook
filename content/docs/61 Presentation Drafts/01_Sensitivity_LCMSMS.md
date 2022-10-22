@@ -236,6 +236,26 @@ What tools could we use?
 </thead>
 <tbody VALIGN=TOP>
   <tr class="odd">
+    <td><p>MS Optimization:
+    <br>1) Choose the appropriate polarity
+    <br>2) Capillary voltage (The applied potential difference between the capillary tip and sampling plate)
+    <br>3) Nebulizing gas flow and temperature
+    <br>4) Temperature
+    <br>5) Drying gas flow and temperature
+    <br>6) The position of the capillary tip in relation to the orifice
+    <br>
+    <br>
+    </p></td>
+    <td><p><a href = "https://www.chromatographyonline.com/view/lc-ms-sensitivity-practical-strategies-boost-your-signal-and-lower-your-noise" target="_blank" rel="noopener noreferrer">LC-GC: LC–MS Sensitivity: Practical Strategies to Boost Your Signal and Lower Your Noise</a>
+    </p></td>
+  </tr>
+  <tr class="even">
+    <td><p>sentence left
+    </p></td>
+    <td><p> sentence right.
+    </p></td>
+  </tr>
+  <tr class="odd">
     <td><p>Online cartridge to remove phospholipids
     </p></td>
     <td><p>
@@ -266,9 +286,9 @@ What tools could we use?
     </p></td>
   </tr>
   <tr class="even">
-    <td><p>Optimization of the ionization source parameters
+    <td><p>
     </p></td>
-    <td><p><a href = "https://www.chromatographyonline.com/view/lc-ms-sensitivity-practical-strategies-boost-your-signal-and-lower-your-noise" target="_blank" rel="noopener noreferrer">LC-GC: LC–MS Sensitivity: Practical Strategies to Boost Your Signal and Lower Your Noise</a>.
+    <td><p>.
     </p></td>
   </tr>
   <tr class="odd">
