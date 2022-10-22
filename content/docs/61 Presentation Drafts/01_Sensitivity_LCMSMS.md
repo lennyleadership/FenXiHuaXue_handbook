@@ -122,109 +122,6 @@ What tools could we use?
 
 ## During the method development   
 
-### Sample preparation
-
-<table style="width:100%; font-size: 60%">
-<caption style="text-align:left", align = "top"><b>Increase sensitivity for LC-MS/MS During the Method Development</b></caption>
-<colgroup><col style="width: 40%" /><col style="width: 60%" />
-</colgroup>
-<thead>
-  <tr VALIGN=TOP style="text-align:left"  class="header">
-    <th><p>Suggestions</p></th>
-    <th><p>References</p></th>
-  </tr>
-</thead>
-<tbody VALIGN=TOP>
-  <tr class="odd">
-    <td><p>Better SPE
-    </p></td>
-    <td><p><a href = "https://www.sigmaaldrich.com/CA/en/technical-documents/technical-article/analytical-chemistry/solid-phase-extraction/the-extraction-of" target="_blank" rel="noopener noreferrer">Sigma Aldrich: The Extraction of Amphetamine and Related Drugs using Molecularly Imprinted Polymer SPE. </a>
-    </p></td>
-  </tr>
-  <tr class="even">
-    <td><p>A suitable LC column (a silica column was used in the reference)
-    </p></td>
-    <td><p><a href = "http://alfresco-static-files.s3.amazonaws.com/alfresco_images/pharma/2014/08/26/ede58aca-c91e-462c-a41b-42355e3be017/article-2140.pdf" target="_blank" rel="noopener noreferrer">Systematic Troubleshooting for LC/MS/MS - Part 1: Sample Preparation and Chromatography</a>
-    </p></td>
-  </tr>
-  <tr class="odd">
-    <td><p>Column with smaller dimention
-    </p></td>
-    <td><p><a href = "http://alfresco-static-files.s3.amazonaws.com/alfresco_images/pharma/2014/08/26/ede58aca-c91e-462c-a41b-42355e3be017/article-2140.pdf" target="_blank" rel="noopener noreferrer">Systematic Troubleshooting for LC/MS/MS - Part 1: Sample Preparation and Chromatography</a>
-    </p></td>
-  </tr>
-  <tr class="even">
-    <td><p>Choosing a reconstitution solvent compatible with the mobile phase
-    </p></td>
-    <td><p><a href = "http://alfresco-static-files.s3.amazonaws.com/alfresco_images/pharma/2014/08/26/ede58aca-c91e-462c-a41b-42355e3be017/article-2140.pdf" target="_blank" rel="noopener noreferrer">Systematic Troubleshooting for LC/MS/MS - Part 1: Sample Preparation and Chromatography</a>
-    </p></td>
-  </tr>
-  <tr class="odd">
-    <td><p>The role of pH of mobile phase. 1) enhance the ionization of the analytes; 2) stabilize the analytes;  
-    </p></td>
-    <td><p>1) p79, Analysis of Pesticides in Food and Environmental Samples, CRC Press, 2008, edited by José L. Tadeo
-    </p></td>
-  </tr>
-  <tr class="even">
-    <td><p>sentence left
-    </p></td>
-    <td><p> sentence right.
-    </p></td>
-  </tr>
-  <tr class="odd">
-    <td><p>sentence left
-    </p></td>
-    <td><p>sentence right.
-    </p></td>
-  </tr>
-  <tr class="even">
-    <td><p>sentence left
-    </p></td>
-    <td><p> sentence right.
-    </p></td>
-  </tr>
-  <tr class="odd">
-    <td><p>sentence left
-    </p></td>
-    <td><p>sentence right.
-    </p></td>
-  </tr>
-  <tr class="even">
-    <td><p>sentence left
-    </p></td>
-    <td><p> sentence right.
-    </p></td>
-  </tr>
-  <tr class="odd">
-    <td><p>sentence left
-    </p></td>
-    <td><p>sentence right.
-    </p></td>
-  </tr>
-  <tr class="even">
-    <td><p>sentence left
-    </p></td>
-    <td><p> sentence right.
-    </p></td>
-  </tr>
-  <tr class="odd">
-    <td><p>sentence left
-    </p></td>
-    <td><p>sentence right.
-    </p></td>
-  </tr>
-  <tr class="even">
-    <td><p>sentence left
-    </p></td>
-    <td><p> sentence right.
-    </p></td>
-  </tr>
-</tbody>
-</table>
-
-
-<br>
-
 <table style="width:100%; font-size: 60%">
 <caption style="text-align:left", align = "top"><b>Increase sensitivity for LC-MS/MS During the Method Development</b></caption>
 <colgroup><col style="width: 50%" /><col style="width: 50%" />
@@ -243,10 +140,13 @@ What tools could we use?
     <br>2) Endogenous matrix compounds in the sample (proteins, lipids, pigments, ...)
     <br>3) Exogenous matrix compounds leached from plastic centrifuge tubes, well plates, and pipette tips, ...
     <br>4) poor recovery or matrix suppression can result in the loss of sensitivity
-    <br>
+    <br>5) Better SPE
+    <br>6) Choosing a reconstitution solvent compatible with the mobile phase
     </p></td>
     <td><p>1-3) <a href = "https://www.chromatographyonline.com/view/lc-ms-sensitivity-practical-strategies-boost-your-signal-and-lower-your-noise" target="_blank" rel="noopener noreferrer">LC-GC: LC–MS Sensitivity: Practical Strategies to Boost Your Signal and Lower Your Noise</a>
     <br>4) <a href = "https://cdn.sanity.io/files/0vv8moc6/biopharn/1a7e564988c4ca05949add7061339d9dadbe47ec.pdf/article-7275.pdf" target="_blank" rel="noopener noreferrer">Systematic Troubleshooting for LC/MS/MS - Part 2: Large-Scale LC/MS/MS and Automation</a>
+    <br>5) <a href = "https://www.sigmaaldrich.com/CA/en/technical-documents/technical-article/analytical-chemistry/solid-phase-extraction/the-extraction-of" target="_blank" rel="noopener noreferrer">Sigma Aldrich: The Extraction of Amphetamine and Related Drugs using Molecularly Imprinted Polymer SPE. </a>
+    <br>6) <a href = "http://alfresco-static-files.s3.amazonaws.com/alfresco_images/pharma/2014/08/26/ede58aca-c91e-462c-a41b-42355e3be017/article-2140.pdf" target="_blank" rel="noopener noreferrer">Systematic Troubleshooting for LC/MS/MS - Part 1: Sample Preparation and Chromatography</a>
     </p></td>
   </tr>
   <tr class="even">
@@ -254,15 +154,21 @@ What tools could we use?
     <br>1) The use of high-purity solvents and additives
     <br>2) The use of volatile buffers, acid modifier, or basic modifier.  They can control over the ionization state of the target analytes
     <br>3) Think about the balance between LC separation and ion suppression when considering modifier addition.
+    <br>4) The role of pH of mobile phase. 1) enhance the ionization of the analytes; 2) stabilize the analytes;  
     </p></td>
     <td><p>1-2)<a href = "https://www.chromatographyonline.com/view/lc-ms-sensitivity-practical-strategies-boost-your-signal-and-lower-your-noise" target="_blank" rel="noopener noreferrer">LC-GC: LC–MS Sensitivity: Practical Strategies to Boost Your Signal and Lower Your Noise</a>
-    <br>3) p79, Analysis of Pesticides in Food and Environmental Samples, CRC Press, 2008, edited by José L. Tadeo
+    <br>3-4) p79, Analysis of Pesticides in Food and Environmental Samples, CRC Press, 2008, edited by José L. Tadeo
     </p></td>
   </tr>
   <tr class="odd">
     <td><p>LC Column Characteristics
+    <br>1)
+    <br>2) A suitable LC column (a silica column was used in the reference)
+    <br>3) Column with smaller dimention
     </p></td>
-    <td><p><a href = "https://www.chromatographyonline.com/view/lc-ms-sensitivity-practical-strategies-boost-your-signal-and-lower-your-noise" target="_blank" rel="noopener noreferrer">LC-GC: LC–MS Sensitivity: Practical Strategies to Boost Your Signal and Lower Your Noise</a>
+    <td><p>1) <a href = "https://www.chromatographyonline.com/view/lc-ms-sensitivity-practical-strategies-boost-your-signal-and-lower-your-noise" target="_blank" rel="noopener noreferrer">LC-GC: LC–MS Sensitivity: Practical Strategies to Boost Your Signal and Lower Your Noise</a>
+    <br>2) <a href = "http://alfresco-static-files.s3.amazonaws.com/alfresco_images/pharma/2014/08/26/ede58aca-c91e-462c-a41b-42355e3be017/article-2140.pdf" target="_blank" rel="noopener noreferrer">Systematic Troubleshooting for LC/MS/MS - Part 1: Sample Preparation and Chromatography</a>
+    <br>3) <a href = "http://alfresco-static-files.s3.amazonaws.com/alfresco_images/pharma/2014/08/26/ede58aca-c91e-462c-a41b-42355e3be017/article-2140.pdf" target="_blank" rel="noopener noreferrer">Systematic Troubleshooting for LC/MS/MS - Part 1: Sample Preparation and Chromatography</a>
     </p></td>
   </tr>
   <tr class="even">
