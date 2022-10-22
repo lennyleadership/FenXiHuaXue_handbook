@@ -34,7 +34,7 @@ Fundamentally, the ability of a detector to provide quantitative data is a funct
 
 <figure>
 <img width ="360" height= "200" src = "/docs/images/LCGC1_i1.jpg"/>
-<figcaption><b>Figure 1</b>: A hypothetical demonstration of the effect of increased <u>sensitivity</u> on limits of detection (LOD) assuming linear calibration and fixed background noise</figcaption>
+<figcaption><b>Figure 1</b>: A hypothetical demonstration of the effect of increased sensitivity on limits of detection (LOD) assuming linear calibration and fixed background noise</figcaption>
 </figure>
 
 
