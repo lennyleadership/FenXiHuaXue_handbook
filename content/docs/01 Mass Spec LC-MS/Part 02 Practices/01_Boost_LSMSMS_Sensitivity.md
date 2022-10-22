@@ -124,7 +124,7 @@ There are several implications when coupling high-efficiency, narrow-bore column
 Smaller peak volumes also imply that a fast acquisition rate is required to collect the minimum 15–20 data points across a peak needed for quantitative data. Time-related band broadening effects can result from insufficient dwell times and excessive data smoothing. In <b>Figure 6</b>, morphine and hydromorphone were analyzed using three scan rates (300 ms, 50 ms, and 5 ms). Artificial broadening is apparent for the 300-ms data whereas the 5-ms data show excessive noise that is characteristic of over sampling. Improper dwell time settings can have a profound impact on data quality and S/N ratios. When analyzing a large number of compounds, increased cycle times can be achieved by collecting data in selected-ion monitoring (SIM) or multiple reaction monitoring (MRM) mode to reduce the occurrence of time related band broadening effects. In addition, most software allows for timed data collection, enabling data to be collected for a particular compound over a predefined window of time, extending the cycle time of a system.
 
 <figure>
-  <img width = "540" src = "/docs/images/LCGC1_i7-1.webp"/>
+  <img width = "720" src = "/docs/images/LCGC1_i7-1.webp"/>
   <figcaption><b>Figure 6</b>: Comparison of data collected with dwell times of (a) 300 ms, (b) 50 ms, and (c) 5 ms, and their contribution to time-related band broadening. System: LC–MS/MS; polarity: ESI+. Peaks: 1 = morphine, 2 = hydromorphone.</figcaption>
 </figure>
 
