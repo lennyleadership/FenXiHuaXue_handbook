@@ -1,13 +1,14 @@
 ---
+weight: 1
+title: Increase HPLC/UHPLC Method Sensitivity
 authors: null
 categories: null
-date: "2020-10-16"
+tags: [Sensitivity, TEA, TFA]
 description: 
 draft: false
+date: "2020-10-16"
 lastmod: "2020-10-16"
 series: null
-tags: [Sensitivity]
-title: Increase HPLC/UHPLC Method Sensitivity
 toc: true
 ---
 
@@ -37,11 +38,10 @@ In many cases, the type of solvent and additives used and their purity in the el
 
 **<font style="text-transform:uppercase;">Peak tailing</font>**. Select best column and chromatographic conditions to obtain symmetrical peaks. Optimization of method conditions must be performed to select the most suited buffer, pH, and if necessary, additives. For example, optimal pH value should be +/- 2 pH units of the analytes pKa value, in order to work with the nonionized form. Use of a steep gradient can often yield a sharper peak than isocratic mode alone. 
 
-Conclusions: 
+**Conclusions**: 
 
 In order to increase your chromatographic method sensitivity, chose one or few options to reduce baseline noise and/or make suggested improvements to increase signal intensity.  
 
 
-Reference:  
-
-[Dr. Egidijus Machtejevas, Analytix Reporter | Sigma Aldrich vol 9, 2021 ](https://www.sigmaaldrich.com/deepweb/assets/sigmaaldrich/marketing/global/documents/802/240/analytix-reporter-v9-nl7012en-ms.pdf#page=30)
+**Reference**:  
+<a href = "https://www.sigmaaldrich.com/deepweb/assets/sigmaaldrich/marketing/global/documents/802/240/analytix-reporter-v9-nl7012en-ms.pdf#page=30" target="_blank" rel="noopener noreferrer">Dr. Egidijus Machtejevas, Analytix Reporter | Sigma Aldrich vol 9, 2021</a>

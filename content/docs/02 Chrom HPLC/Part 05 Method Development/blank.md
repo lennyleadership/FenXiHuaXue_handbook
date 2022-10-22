@@ -1,17 +1,17 @@
 ---
+weight: 99
+title: blank
 authors: null
 categories: null
-date: "2020-10-16"
+tags: null
 description: of example doc
 draft: false
-lastmod: "2020-10-16"
+date: "2022-10-22"
+lastmod: "2022-10-22"
 series: null
-tags: null
-title: Chapter 2
 toc: true
 ---
 
-This is of nested chapter.
 
 <!--more-->
-
+---
