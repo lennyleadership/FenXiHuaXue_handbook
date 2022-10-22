@@ -33,7 +33,7 @@ Fundamentally, the ability of a detector to provide quantitative data is a funct
 
 
 <figure>
-<img width ="360" height= "200" src = "/docs/images/LCGC1_i1.jpg" style ="float: left" HSPACE="10" VSPACE="10"/>
+<img width ="360" height= "200" src = "/docs/images/LCGC1_i1.jpg"/>
 <figcaption><b>Figure 1</b>: A hypothetical demonstration of the effect of increased <u>sensitivity</u> on limits of detection (LOD) assuming linear calibration and fixed background noise</figcaption>
 </figure>
 
@@ -117,41 +117,41 @@ Developing a sensitive and robust LC–MS method is a difficult task. Equipped w
 
 <p id="ref">(3) J.S. Page, R.T. Kelly, K. Tang, and R.D. Smith, <i>J. Am. Soc. Mass Spectrom.</i> <b>18</b>, 1582–1590 (2007).</p>
 
-(4) G.I. Taylor, <i>Proc. R. Soc. Lond. A.</i> <b>280</b>, 383 (1964).
+<p id="ref">(4) G.I. Taylor, <i>Proc. R. Soc. Lond. A.</i> <b>280</b>, 383 (1964).</p>
 
-(5) M. Wilm, <i>Mol Cell Proteomics</i> <b>10</b>, 1–8 (2011).
+<p id="ref">(5) M. Wilm, <i>Mol Cell Proteomics</i> <b>10</b>, 1–8 (2011).</p>
 
-(6) A. Kiontke, A. Oliveira-Birkmeier, A. Opitz, and C. Birkemeyer, <i>PLoS One</i> <b>11</b>, 1–16 (2016).
+<p id="ref">(6) A. Kiontke, A. Oliveira-Birkmeier, A. Opitz, and C. Birkemeyer, <i>PLoS One</i> <b>11</b>, 1–16 (2016).</p>
 
-(7) T. Taylor, LCGC Blog (7 November, 2017).
+<p id="ref">(7) T. Taylor, LCGC Blog (7 November, 2017).</p>
 
-(8) O. Szerkus, A.Y. Mpanga, M.J. Markuszewski, R. Kaliszan, and D. Siluk, <i>Spectroscopy</i> <b>14</b>, 8–16 (2016).
+<p id="ref">(8) O. Szerkus, A.Y. Mpanga, M.J. Markuszewski, R. Kaliszan, and D. Siluk, <i>Spectroscopy</i> <b>14</b>, 8–16 (2016).</p>
 
-(9) R. Dams, M.A. Huestis, W.E. Lambert, and C.M. Murphy, <i>J. Am. Soc. Mass Spectrom.</i> <b>14</b>, 190–1294 (2003).
+<p id="ref">(9) R. Dams, M.A. Huestis, W.E. Lambert, and C.M. Murphy, <i>J. Am. Soc. Mass Spectrom.</i> <b>14</b>, 190–1294 (2003).</p>
 
-(10) Y. Hua and D. Jenke, <i>J. of Chromatogr. Sci.</i> <b>50</b>, 213-227 (2012).
+<p id="ref">(10) Y. Hua and D. Jenke, <i>J. of Chromatogr. Sci.</i> <b>50</b>, 213-227 (2012).</p>
 
-(11) S.R. Needham, P.R. Brown, K. Duff, and D. Bell, <i>J. Chromatogr. A</i> <b>869</b>, 159-170 (2000).
+<p id="ref">(11) S.R. Needham, P.R. Brown, K. Duff, and D. Bell, <i>J. Chromatogr. A</i> <b>869</b>, 159-170 (2000).</p>
 
-(12) R. Bonfiglio, R.C. King, T.V. Olah, and K. Merkle, <i>Rapid Commun. Mass Spectrom.</i> <b>13</b>, 1175–1185 (1999).
+<p id="ref">(12) R. Bonfiglio, R.C. King, T.V. Olah, and K. Merkle, <i>Rapid Commun. Mass Spectrom.</i> <b>13</b>, 1175–1185 (1999).</p>
 
-(13) F. Klink, MS Solutions #3, [Sepscience.com/Information/Archive/MS-Solutions](http://www.sepscience.com/Information/Archive/MS-Solutions).
+<p id="ref">(13) F. Klink, MS Solutions #3, <a href = "http://www.sepscience.com/Information/Archive/MS-Solutions" target="_blank" rel="noopener noreferrer">Sepscience.com/Information/Archive/MS-Solutions</a>.</p>
 
-(14) S. Lupo and T. Kahler, <i>LCGC North America</i> <b>35</b>, 424–433 (2017).
+<p id="ref">(14) S. Lupo and T. Kahler, <i>LCGC North America</i> <b>35</b>, 424–433 (2017).</p>
 
-(15) J. Boertz, X. Lu, H. Brandes, S. Squillario, D. Bell, and W. Way, Poster Session presented at the Annual Meeting of the German Society for Mass Spectrometry (DGMS), Wuppertal, Germany (2015).
+<p id="ref">(15) J. Boertz, X. Lu, H. Brandes, S. Squillario, D. Bell, and W. Way, Poster Session presented at the Annual Meeting of the German Society for Mass Spectrometry (DGMS), Wuppertal, Germany (2015).</p>
 
-(16) S. Buckenmaier, C.A. Miller, T. van de Goor, and M.M. Dittman, <i>J. Chromatogr. A</i> <b>1377</b>, 64–74 (2015).
+<p id="ref">(16) S. Buckenmaier, C.A. Miller, T. van de Goor, and M.M. Dittman, <i>J. Chromatogr. A</i> <b>1377</b>, 64–74 (2015).</p>
 
-(17) G. Guiochon and F. Gritti, <i>J. Chromatogr. A</i> <b>1218</b>, 1915–1938 (2011).
+<p id="ref">(17) G. Guiochon and F. Gritti, <i>J. Chromatogr. A</i> <b>1218</b>, 1915–1938 (2011).</p>
 
-(18) J.P.C. Vissers, H.A. Classens, and C.A. Cramers, <i>J. Chromatogr. A</i> <b>779</b>, 1–28 (1997).
+<p id="ref">(18) J.P.C. Vissers, H.A. Classens, and C.A. Cramers, <i>J. Chromatogr. A</i> <b>779</b>, 1–28 (1997).</p>
 
-(19) J. Abian, A.J. Oosterkamp and E. Gelpi, <i>J. Mass. Spectrom.</i>* <b>34</b>, 244–254 (1999).
+<p id="ref">(19) J. Abian, A.J. Oosterkamp and E. Gelpi, <i>J. Mass. Spectrom.</i>* <b>34</b>, 244–254 (1999).</p>
 
-(20) D. Spaggiari, S. Fekete, P.J. Eugster, J. Veuthey, L. Geiser, S. Rudaz, and D. Guillarme, <i>J. Chromatogr. A</i> <b>1310</b>, 45–55 (2013).
+<p id="ref">(20) D. Spaggiari, S. Fekete, P.J. Eugster, J. Veuthey, L. Geiser, S. Rudaz, and D. Guillarme, <i>J. Chromatogr. A</i> <b>1310</b>, 45–55 (2013).</p>
 
-(21) A.J. Alexander, T.J. Waeghe, K.W. Himes, F.P. Tomasella, and T.F. Hooker, <i>J. Chromatogr. A</i> <b>1218</b>, 5456–5469 (2011).
+<p id="ref">(21) A.J. Alexander, T.J. Waeghe, K.W. Himes, F.P. Tomasella, and T.F. Hooker, <i>J. Chromatogr. A</i> <b>1218</b>, 5456–5469 (2011).</p>
 
 **ABOUT THE AUTHOR**
 
