@@ -113,45 +113,45 @@ Developing a sensitive and robust LC–MS method is a difficult task. Equipped w
 
 <p id="ref">(1) R.K. Boyd, C. Basic, and R.A. Bethem, <em>Trace Quantitative Analysis by Mass Spectrometry, 1st Edition</em> (John Wiley & Sons Ltd, West Sussex, England, 2008), pp. 242, 249.</p>
 
-<p id="ref">(2) L.R. Snyder, J.J. Kirkland, and J.W. Dolan, *Introduction to Modern Liquid Chromatography, 3rd Edition*  (John Wiley & Sons, Hoboken, New Jersey, 2010), pp. 39–45, 157.</p>
+<p id="ref">(2) L.R. Snyder, J.J. Kirkland, and J.W. Dolan, <i>Introduction to Modern Liquid Chromatography, 3rd Edition</i>  (John Wiley & Sons, Hoboken, New Jersey, 2010), pp. 39–45, 157.</p>
 
-<p id="ref">(3) J.S. Page, R.T. Kelly, K. Tang, and R.D. Smith, *J. Am. Soc. Mass Spectrom.* **18,** 1582–1590 (2007).</p>
+<p id="ref">(3) J.S. Page, R.T. Kelly, K. Tang, and R.D. Smith, <i>J. Am. Soc. Mass Spectrom.</i> <b>18</b>, 1582–1590 (2007).</p>
 
-(4) G.I. Taylor, *Proc. R. Soc. Lond. A.* **280,** 383 (1964).
+(4) G.I. Taylor, <i>Proc. R. Soc. Lond. A.</i> <b>280</b>, 383 (1964).
 
-(5) M. Wilm, *Mol Cell Proteomics* **10,** 1–8 (2011).
+(5) M. Wilm, <i>Mol Cell Proteomics</i> <b>10</b>, 1–8 (2011).
 
-(6) A. Kiontke, A. Oliveira-Birkmeier, A. Opitz, and C. Birkemeyer, *PLoS One* **11,** 1–16 (2016).
+(6) A. Kiontke, A. Oliveira-Birkmeier, A. Opitz, and C. Birkemeyer, <i>PLoS One</i> <b>11</b>, 1–16 (2016).
 
 (7) T. Taylor, LCGC Blog (7 November, 2017).
 
-(8) O. Szerkus, A.Y. Mpanga, M.J. Markuszewski, R. Kaliszan, and D. Siluk, *Spectroscopy* **14,** 8–16 (2016).
+(8) O. Szerkus, A.Y. Mpanga, M.J. Markuszewski, R. Kaliszan, and D. Siluk, <i>Spectroscopy</i> <b>14</b>, 8–16 (2016).
 
-(9) R. Dams, M.A. Huestis, W.E. Lambert, and C.M. Murphy, *J. Am. Soc. Mass Spectrom.* **14,** 190–1294 (2003).
+(9) R. Dams, M.A. Huestis, W.E. Lambert, and C.M. Murphy, <i>J. Am. Soc. Mass Spectrom.</i> <b>14</b>, 190–1294 (2003).
 
-(10) Y. Hua and D. Jenke, *J. of Chromatogr. Sci.* **50,** 213-227 (2012).
+(10) Y. Hua and D. Jenke, <i>J. of Chromatogr. Sci.</i> <b>50</b>, 213-227 (2012).
 
-(11) S.R. Needham, P.R. Brown, K. Duff, and D. Bell, *J. Chromatogr. A* **869,** 159-170 (2000).
+(11) S.R. Needham, P.R. Brown, K. Duff, and D. Bell, <i>J. Chromatogr. A</i> <b>869</b>, 159-170 (2000).
 
-(12) R. Bonfiglio, R.C. King, T.V. Olah, and K. Merkle, *Rapid Commun. Mass Spectrom.* **13,** 1175–1185 (1999).
+(12) R. Bonfiglio, R.C. King, T.V. Olah, and K. Merkle, <i>Rapid Commun. Mass Spectrom.</i> <b>13</b>, 1175–1185 (1999).
 
 (13) F. Klink, MS Solutions #3, [Sepscience.com/Information/Archive/MS-Solutions](http://www.sepscience.com/Information/Archive/MS-Solutions).
 
-(14) S. Lupo and T. Kahler, *LCGC North America* **35,** 424–433 (2017).
+(14) S. Lupo and T. Kahler, <i>LCGC North America</i> <b>35</b>, 424–433 (2017).
 
 (15) J. Boertz, X. Lu, H. Brandes, S. Squillario, D. Bell, and W. Way, Poster Session presented at the Annual Meeting of the German Society for Mass Spectrometry (DGMS), Wuppertal, Germany (2015).
 
-(16) S. Buckenmaier, C.A. Miller, T. van de Goor, and M.M. Dittman, *J. Chromatogr. A* **1377,** 64–74 (2015).
+(16) S. Buckenmaier, C.A. Miller, T. van de Goor, and M.M. Dittman, <i>J. Chromatogr. A</i> <b>1377</b>, 64–74 (2015).
 
-(17) G. Guiochon and F. Gritti, *J. Chromatogr. A* **1218,** 1915–1938 (2011).
+(17) G. Guiochon and F. Gritti, <i>J. Chromatogr. A</i> <b>1218</b>, 1915–1938 (2011).
 
-(18) J.P.C. Vissers, H.A. Classens, and C.A. Cramers, *J. Chromatogr. A* **779,** 1–28 (1997).
+(18) J.P.C. Vissers, H.A. Classens, and C.A. Cramers, <i>J. Chromatogr. A</i> <b>779</b>, 1–28 (1997).
 
-(19) J. Abian, A.J. Oosterkamp and E. Gelpi, *J. Mass. Spectrom.* **34,** 244–254 (1999).
+(19) J. Abian, A.J. Oosterkamp and E. Gelpi, <i>J. Mass. Spectrom.</i>* <b>34</b>, 244–254 (1999).
 
-(20) D. Spaggiari, S. Fekete, P.J. Eugster, J. Veuthey, L. Geiser, S. Rudaz, and D. Guillarme, *J. Chromatogr. A* **1310,** 45–55 (2013).
+(20) D. Spaggiari, S. Fekete, P.J. Eugster, J. Veuthey, L. Geiser, S. Rudaz, and D. Guillarme, <i>J. Chromatogr. A</i> <b>1310</b>, 45–55 (2013).
 
-(21) A.J. Alexander, T.J. Waeghe, K.W. Himes, F.P. Tomasella, and T.F. Hooker, *J. Chromatogr. A* **1218,** 5456–5469 (2011).
+(21) A.J. Alexander, T.J. Waeghe, K.W. Himes, F.P. Tomasella, and T.F. Hooker, <i>J. Chromatogr. A</i> <b>1218</b>, 5456–5469 (2011).
 
 **ABOUT THE AUTHOR**
 
