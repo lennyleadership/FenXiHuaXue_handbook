@@ -11,8 +11,8 @@ title: Mobile Phase pH
 toc: true
 ---
 
-<figcaption><b>Figure </b>: </figcaption>
-<img src = "/docs/images/"/>
+
+
 
 <!--more-->
 

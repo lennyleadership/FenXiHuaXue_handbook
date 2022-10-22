@@ -11,7 +11,7 @@ title: Chapter  No Flow
 toc: true
 ---
 
-<figcaption><b>Figure </b>: </figcaption>
+
 <img width="320" height="200" src = "/docs/images/"/>
 
 

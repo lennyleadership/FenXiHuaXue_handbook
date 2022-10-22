@@ -11,8 +11,8 @@ title: Chapter 01 Solvent Properties
 toc: true
 ---
 
-<figcaption><b>Figure </b>: </figcaption>
-<img src = "/docs/images/"/>
+
+
 
 
 

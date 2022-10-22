@@ -49,6 +49,6 @@ If the problem persists, contact your instrument supplier for technical advice.
 The table below shows details of the volume of solvent per unit length contained in tubing of varying volumes. For ease of use, both metric and imperial measurements are shown.  
 
 
-<figcaption><b>Figure </b>: </figcaption>
+
 <img src = "/docs/images/Screenshot 2022-01-15 154140.png"/>
 

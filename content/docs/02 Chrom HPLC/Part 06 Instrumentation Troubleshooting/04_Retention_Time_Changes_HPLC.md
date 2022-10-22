@@ -11,8 +11,8 @@ title: Chapter 04 HPLC Retention Time Changes
 toc: true
 ---
 
-<figcaption><b>Figure </b>: </figcaption>
-<img src = "/docs/images/"/>
+
+
 
 
 
@@ -59,7 +59,7 @@ Where solvents are mixed manually prior to pumping, ensure that the solvent flow
 The last most common cause of retention time change is a leak in the system or build up of contaminants.  
 
 
-<figcaption><b>Figure </b>: </figcaption>
+
 <img src = "/docs/images/Screenshot 2022-01-12 130359.png"/>
 
 
@@ -117,5 +117,5 @@ The last most common cause of retention time change is a leak in the system or b
 
 
 ***
-<figcaption><b>Figure </b>: </figcaption>
-<img src = "/docs/images/"/>
+
+

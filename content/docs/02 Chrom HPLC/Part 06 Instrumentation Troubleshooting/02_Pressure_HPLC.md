@@ -11,8 +11,8 @@ title: Chapter 02 LC Pressure Issue
 toc: true
 ---
 
-<figcaption><b>Figure </b>: </figcaption>
-<img src = "/docs/images/"/>
+
+
 
 
 System pressure is affected by a number of variables including:

@@ -11,8 +11,8 @@ title: Column Performance Test
 toc: true
 ---
 
-<figcaption><b>Figure </b>: </figcaption>
-<img src = "/docs/images/"/>
+
+
 <!--more-->
 
 ## Shodex Column Test Conditions (Reversed Phase, Hydrophilic Interaction and Normal Phase Chromatography Columns)
@@ -21,7 +21,7 @@ To check the deterioration of column performance, measure the column plate numbe
 When you first use a column, we recommend you to measure its plate number before use. Plate number (N) can be calculated by the formula in the following figure.  
 
 
-<figcaption><b>Figure </b>: </figcaption>
+
 <img src = "/docs/images/Screenshot 2022-01-17 095125.png"/>
 
 

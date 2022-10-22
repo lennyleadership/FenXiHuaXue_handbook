@@ -21,6 +21,7 @@ Ionization takes place as a result of imparting the strong electrical field and 
 
 
 <!--more-->
+---
 
 > Understanding how ions are liberated from the liquid mobile phase in the gas-phase transition helps us understand and diagnose issues such as lack of expected sensitivity and ion suppression.  
 > By Balogh

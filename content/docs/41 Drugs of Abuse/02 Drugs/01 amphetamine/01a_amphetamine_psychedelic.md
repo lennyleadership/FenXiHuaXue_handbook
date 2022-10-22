@@ -34,7 +34,7 @@ toc: true
          <td VALIGN=TOP><p>2C-B
          </p></td>
          <td VALIGN=TOP><p>
-         <img src = "/docs/images/"/>
+         
          </p></td>
     </tr>
     <tr class="even">
@@ -43,7 +43,7 @@ toc: true
     <td><p>2C-C
     </p></td>
     <td><p>
-    <img src = "/docs/images/"/>
+    
     </p></td>
     </tr>
     <tr class="odd">
@@ -52,7 +52,7 @@ toc: true
          <td VALIGN=TOP><p>2C-D
          </p></td>
          <td VALIGN=TOP><p>
-         <img src = "/docs/images/"/>
+         
          </p></td>
     </tr>
     <tr class="even">
@@ -61,7 +61,7 @@ toc: true
     <td><p>2C-E
     </p></td>
     <td><p>
-    <img src = "/docs/images/"/>
+    
     </p></td>
     </tr>
     <tr class="odd">
@@ -70,7 +70,7 @@ toc: true
          <td VALIGN=TOP><p>2C-H
          </p></td>
          <td VALIGN=TOP><p>
-         <img src = "/docs/images/"/>
+         
          </p></td>
     </tr>
     <tr class="even">
@@ -79,7 +79,7 @@ toc: true
     <td><p>2C-I
     </p></td>
     <td><p>
-    <img src = "/docs/images/"/>
+    
     </p></td>
     </tr>
     <tr class="odd">
@@ -88,7 +88,7 @@ toc: true
          <td VALIGN=TOP><p>2C-T-2
          </p></td>
          <td VALIGN=TOP><p>
-         <img src = "/docs/images/"/>
+         
          </p></td>
     </tr>
     <tr class="even">
@@ -97,7 +97,7 @@ toc: true
     <td><p>2C-T-4
     </p></td>
     <td><p>
-    <img src = "/docs/images/"/>
+    
     </p></td>
     </tr>
     <tr class="odd">
@@ -106,7 +106,7 @@ toc: true
          <td VALIGN=TOP><p>2C-T-7
          </p></td>
          <td VALIGN=TOP><p>
-         <img src = "/docs/images/"/>
+         
          </p></td>
     </tr>
     <tr class="even">
@@ -115,7 +115,7 @@ toc: true
     <td><p>DOB
     </p></td>
     <td><p>
-    <img src = "/docs/images/"/>
+    
     </p></td>
     </tr>
     <tr class="odd">
@@ -124,7 +124,7 @@ toc: true
          <td VALIGN=TOP><p>DOC
          </p></td>
          <td VALIGN=TOP><p>
-         <img src = "/docs/images/"/>
+         
          </p></td>
     </tr>
     <tr class="even">
@@ -133,7 +133,7 @@ toc: true
     <td><p>DOET
     </p></td>
     <td><p>
-    <img src = "/docs/images/"/>
+    
     </p></td>
     </tr>
     <tr class="odd">
@@ -142,7 +142,7 @@ toc: true
          <td VALIGN=TOP><p>DOI
          </p></td>
          <td VALIGN=TOP><p>
-         <img src = "/docs/images/"/>
+         
          </p></td>
     </tr>
     <tr class="even">
@@ -151,7 +151,7 @@ toc: true
     <td><p>DOM
     </p></td>
     <td><p>
-    <img src = "/docs/images/"/>
+    
     </p></td>
     </tr>
     <tr class="odd">
@@ -160,7 +160,7 @@ toc: true
          <td VALIGN=TOP><p>4-MTA
          </p></td>
          <td VALIGN=TOP><p>
-         <img src = "/docs/images/"/>
+         
          </p></td>
     </tr>
   </tbody>

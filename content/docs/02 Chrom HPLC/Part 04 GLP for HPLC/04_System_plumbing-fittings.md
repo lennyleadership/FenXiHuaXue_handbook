@@ -275,5 +275,5 @@ LC practitioners are faced with an overwhelming number of choices for fittings t
 [Source: LCGC](https://www.chromatographyonline.com/view/fittings-and-connections-liquid-chromatography-so-many-choices)
 
 -----
-<figcaption><b>Figure </b>: </figcaption>
+
 <img width="360" height="200"  src = "/docs/images/"/>

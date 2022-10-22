@@ -3,7 +3,7 @@ weight: 35
 title: The influence of electrospray ion source design on matrix effects
 authors: Lenny Lin
 categories: null
-tags: [Sensitivity]
+tags: [Sensitivity, Matrix Effects]
 description: 
 draft: false
 date: "2022-03-17"
@@ -14,7 +14,7 @@ toc: true
 
 <!--more-->
 
-This study investigates to which extent the design of electrospray ion sources influences the susceptibility to matrix effects (MEs) in liquid chromatography–tandem mass spectrometry (LC–MS/MS). For this purpose, MEs were measured under comparable conditions (identical sample extracts, identical LC column, same chromatographic method and always positive ion mode) on four LC–MS/MS instrument platforms. The instruments were combined with five electrospray ion sources, viz. Turbo Ion Spray, Turbo VTM Source, Standard ESI, Jet Stream ESI and Standard Z-Spray Source. The comparison of MEs could be made at all retention times because the method of permanent postcolumn infusion was applied. The MEs ascertained for 45 pesticides showed for each electrospray ion source the same pattern, i.e. the same number of characteristic signal suppressions at equivalent retention times in the chromatogram.   
+This study investigates to which extent the design of electrospray ion sources influences the susceptibility to matrix effects (MEs) in liquid chromatography–tandem mass spectrometry (LC–MS/MS). For this purpose, MEs were measured under comparable conditions (identical sample extracts, identical LC column, same chromatographic method and always <u>positive ion mode</u>) on four LC–MS/MS instrument platforms. The instruments were combined with five electrospray ion sources, viz. <u>Turbo Ion Spray</u>, <u>Turbo VTM Source</u>, <u>Standard ESI<u>, <u>Jet Stream ESI<u> and <u>Standard Z-Spray Source<u>. The comparison of MEs could be made at all retention times because the method of permanent postcolumn infusion was applied. The MEs ascertained for 45 pesticides showed for each electrospray ion source the same pattern, i.e. the same number of characteristic signal suppressions at equivalent retention times in the chromatogram.   
 
 The Turbo Ion Spray (off-axis geometry), Turbo VTM Source (orthogonal geometry) and the Standard Z-Spray Source (double orthogonal geometry) did not differ much in their susceptibility to MEs.   
 

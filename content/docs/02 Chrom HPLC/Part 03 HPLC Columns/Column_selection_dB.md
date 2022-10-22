@@ -11,8 +11,8 @@ title: HPLC Column Database
 toc: true
 ---
 
-<figcaption><b>Figure </b>: </figcaption>
-<img src = "/docs/images/"/>
+
+
 
 
 

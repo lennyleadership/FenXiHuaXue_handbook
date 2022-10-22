@@ -203,8 +203,8 @@ The guard column is effective preventing the analytical column from being altern
 ## Source
 https://www.shodex.com/en/kouza/
 ____
-<figcaption><b>Figure </b>: </figcaption>
-<img src = "/docs/images/"/>
+
+
 
 
 

@@ -11,8 +11,8 @@ title: Injector and Injection Solvents
 toc: true
 ---
 
-<figcaption><b>Figure </b>: </figcaption>
-<img src = "/docs/images/"/>
+
+
 <!--more-->
 
 The injector rapidly introduces the sample into the system with minimal disruption of the solvent flow. HPLC systems currently use variable loop, fixed loop, and syringe-type injectors. These are activated manually, pneumatically, or electrically.

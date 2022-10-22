@@ -124,7 +124,7 @@ When a column is deteriorated by the foreign substances remaining in the column 
 When cleaning a guard column, be sure to disconnect the main column before the cleaning. If a guard column and a main column are connected in series and the cleaning procedure is performed, foreign substances in the guard column may move to the main column and, as the consequence, the main column may be deteriorated.
 
 
-<figcaption><b>Figure </b>: </figcaption>
+
 <img src = "/docs/images/Screenshot 2022-01-17 092900.png"/>
 
 

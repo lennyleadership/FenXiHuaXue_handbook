@@ -11,8 +11,8 @@ title: Chapter  Loss of Accuracy
 toc: true
 ---
 
-<figcaption><b>Figure </b>: </figcaption>
-<img src = "/docs/images/"/>
+
+
 
 
 

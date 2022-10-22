@@ -94,7 +94,7 @@ toc: true
       限量标准为 1 mg/kg
       </p></td>
       <td VALIGN=TOP><p>
-      <img src = "/docs/images/"/>
+      
       </p></td>
     </tr>
     <tr class="odd">
@@ -107,7 +107,7 @@ toc: true
       限量标准为 60 μg/kg
       </p></td>
       <td VALIGN=TOP><p>
-      <img src = "/docs/images/"/>
+      
       </p></td>
     </tr>
   </tbody>

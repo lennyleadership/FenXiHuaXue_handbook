@@ -237,5 +237,5 @@ Replace column and clean system.
   </tbody>
 </table>
 ***
-<figcaption><b>Figure </b>: </figcaption>
-<img src = "/docs/images/"/>
+
+

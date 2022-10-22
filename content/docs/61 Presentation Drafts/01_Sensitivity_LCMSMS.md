@@ -254,15 +254,15 @@ What tools could we use?
     </p></td>
   </tr>
   <tr class="even">
-    <td><p>sentence left
+    <td><p>An additional heated sheath gas coupling with ESI can reach a higher sensitivity, such design can be found at the Jet Stream ESI, but it can suffer at the same time from significantly stronger signal suppressions.
     </p></td>
-    <td><p> sentence right.
+    <td><p> Stahnke, H., Kittlaus, S., Kempe, G., Hemmerling, C., & Alder, L. (2012). The influence of electrospray ion source design on matrix effects. Journal of Mass Spectrometry, 47(7), 875–884. doi:10.1002/jms.3047
     </p></td>
   </tr>
   <tr class="odd">
-    <td><p>sentence left
+    <td><p>A longer dwell time would result in better sensitivity with the reduced number of data points acquired across a single peak.
     </p></td>
-    <td><p>sentence right.
+    <td><p>p68, p70, Analysis of Pesticides in Food and Environmental Samples, CRC Press, 2008, edited by José L. Tadeo
     </p></td>
   </tr>
   <tr class="even">

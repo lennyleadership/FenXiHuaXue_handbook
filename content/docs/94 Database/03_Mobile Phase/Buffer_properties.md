@@ -30,5 +30,5 @@ Buffers should always be flushed from the analytical column and instrument after
 <b>Note</b>: There are LC/MS instruments available which incorporate a self-cleaning mechanism to reduce the build up of inorganic buffers etc. during routine use. Care should still be taken not to purposefully over-contaminate the instrument source as this will lead to operating difficulties.  
 
 
-<figcaption><b>Figure </b>: </figcaption>
+
 <img src = "/docs/images/Screenshot 2022-01-16 215059.png"/>

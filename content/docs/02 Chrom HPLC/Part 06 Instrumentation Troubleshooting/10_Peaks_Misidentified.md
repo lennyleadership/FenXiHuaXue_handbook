@@ -11,8 +11,8 @@ title: Chapter  Peaks Misidentified
 toc: true
 ---
 
-<figcaption><b>Figure </b>: </figcaption>
-<img src = "/docs/images/"/>
+
+
 
 
 

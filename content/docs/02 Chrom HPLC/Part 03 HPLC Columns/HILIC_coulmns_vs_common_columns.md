@@ -11,8 +11,8 @@ title: What is the difference between HILIC columns and common HPLC columns?
 toc: true
 ---
 
-<figcaption><b>Figure </b>: </figcaption>
-<img src = "/docs/images/"/>
+
+
 
 
 

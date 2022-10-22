@@ -138,5 +138,5 @@ Column capacity depends on many factors, but typical values for total amounts of
 </table>
 
 ____
-<figcaption><b>Figure </b>: </figcaption>
-<img src = "/docs/images/"/>
+
+

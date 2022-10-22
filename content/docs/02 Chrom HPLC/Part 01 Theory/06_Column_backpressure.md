@@ -11,8 +11,8 @@ title: Chapter 06 Column Backpressure
 toc: true
 ---
 
-<figcaption><b>Figure </b>: </figcaption>
-<img src = "/docs/images/"/>
+
+
 <!--more-->
 
 ## Thermo handbook
@@ -40,7 +40,7 @@ Mobile phase viscosity varies with composition. As an example, the following plo
 The typical solvent flow rate through a column is very dependent on it’s internal diameter and the particle size of the column packing material. The flow rates shown in the following table are intended as a guide only and, allowing for experimental differences, it is possible to use a range of flow rates around those quoted.  
 
 
-<figcaption><b>Figure </b>: </figcaption>
+
 <img src = "/docs/images/Screenshot 2022-01-15 193658.png"/>
 
 [source](https://assets.thermofisher.com/TFS-Assets/CMD/Product-Guides/TG-20421-HPLC-Troubleshooting-Guide-TG20421-EN.pdf)
@@ -69,7 +69,7 @@ Just to make sure that there is an understanding of pressure terms, Table I prov
 Now, let us look at the equation (equation 1) that governs back pressure in a packed bed.  
 
 
-<figcaption><b>Figure </b>: </figcaption>
+
 <img src = "/docs/images/Screenshot 2022-01-15 195417.png"/>
 
 

@@ -11,9 +11,9 @@ title: Combinations of possible solute-stationary phase interactions
 toc: true
 ---
 
-<figcaption><b>Figure </b>: </figcaption>
 
-<img src = "/docs/images/"/>
+
+
 
 <!--more-->
 
@@ -31,7 +31,7 @@ Different bonded phases for reversed-phase separations exhibit different combina
 
 -   Cation-exchange interactions may occur between a cationic solute and an ionised silanol within the stationary phase.
 
-<figcaption><b>Figure </b>: </figcaption>
+
 
 <img src = "/docs/images/Screenshot 2022-01-19 182739.png"/>
 
@@ -47,7 +47,7 @@ A general summary of these interactions for typical reversed-phase bonded phases
 |       PFP        |       L43       |    Moderate     |   Moderate    | Strong acceptor |  Moderate  |      Strong       |      Moderate       |
 |      Cyano       |       L10       |      Weak       |     Weak      |      Weak       |    Weak    |      Strong       |        Weak         |
 
-<figcaption><b>Figure </b>: </figcaption>
+
 
 <img src = "/docs/images/Screenshot 2022-01-19 183735.png"/>
 

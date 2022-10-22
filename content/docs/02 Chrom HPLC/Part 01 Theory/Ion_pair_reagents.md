@@ -6,7 +6,7 @@ description:
 draft: false
 lastmod: "2022-06-27"
 series: null
-tags: [paraquat, diquat, Ion Pair, Sensitivity]
+tags: [paraquat, diquat, Ion Pair Reagents, Sensitivity]
 title: Ion Pair Reagents
 toc: true
 ---
@@ -14,6 +14,7 @@ toc: true
 
 
 <!--more-->
+---
 
 Volatile ion pair reagents (e.g., heptafluorobutyric acid and tetrabutyl ammonium) have been added either to the sample vial or to the mobile phase to improve the chromatography of ionic species, such as `paraquat` and `diquat`.  The introduction of an ion pair reagent into the mobile phase increases the interactions between the quaternary ammonium compounds and the C18 stationary phase, providing the necessary retention and resolution.   
 
@@ -23,4 +24,4 @@ Hydrophilic interaction chromatography (HILIC) has been explored for the determi
 
 Although the chromatography behavior on HILIC is not as good as that observed using the ion pair systems, the MS sensitivity using the HILIC mobile phase was claimed to be significantly greater. 
 
-Analysis of Pesticides in Food and Environmental Samples, CRC Press, 2008, edited by Jos&eacute; L. Tadeo
+**Reference**: Analysis of Pesticides in Food and Environmental Samples, CRC Press, 2008, edited by Jos&eacute; L. Tadeo

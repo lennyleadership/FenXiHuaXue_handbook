@@ -22,7 +22,7 @@ Resolution is defined as the distance between two adjacent peak apexes, divided 
 $ R = \frac{(T_2 - T_1)}{0.5(W_1 + W_2)} $
 
 
-<figcaption><b>Figure </b>: </figcaption>
+
 <img width="320" height=auto src = "/docs/images/Screenshot 2022-01-14 223344.png"/>
 
 
@@ -55,7 +55,7 @@ Where $ W_{0.05} = $ peak width at 5% height
 f = distance from peak front to apex point at the baseline  
 
 
-<figcaption><b>Figure </b>: </figcaption>
+
 <img width="160" height=auto src = "/docs/images/Screenshot 2022-01-14 225106.png"/>
 
 
@@ -69,7 +69,7 @@ Where $V_0 =$ Column void volume
 $V_1 =$ Retention volume of peak
 
 
-<figcaption><b>Figure </b>: </figcaption>
+
 <img width="320" height=auto src = "/docs/images/Screenshot 2022-01-15 123928.png"/>
 
 
@@ -89,7 +89,7 @@ Capacity factor is affected by <font color = "blue">changes in mobile phase, ope
 Selectivity is a measure of the relative retention of two adjacent peaks in a chromatogram. It can be calculated using capacity factors or retention volumes:  
 
 
-<figcaption><b>Figure </b>: </figcaption>
+
 <img width="320" height=auto src = "/docs/images/Screenshot 2022-01-15 125917.png"/>
 
 
@@ -117,5 +117,5 @@ https://assets.thermofisher.com/TFS-Assets/CMD/Product-Guides/TG-20421-HPLC-Trou
 
 
 ____
-<figcaption><b>Figure </b>: </figcaption>
-<img src = "/docs/images/"/>
+
+

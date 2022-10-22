@@ -11,8 +11,8 @@ title: Preventing LC Column Clogs
 toc: true
 ---
 
-<figcaption><b>Figure </b>: </figcaption>
-<img src = "/docs/images/"/>
+
+
 
 
 

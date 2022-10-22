@@ -11,8 +11,8 @@ title: Notes
 toc: true
 ---
 
-<figcaption><b>Figure </b>: </figcaption>
-<img src = "/docs/images/"/>
+
+
 <!--more-->
 
 When loading xcms, the following packages are loaded.

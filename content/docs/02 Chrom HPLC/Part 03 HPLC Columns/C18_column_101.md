@@ -11,7 +11,7 @@ title: Choose a C18 Column
 toc: true
 ---
 
-<figcaption><b>Figure </b>: </figcaption>
+
 <img width ="360" height= "200" src = "/docs/images/"/>
 
 
@@ -123,5 +123,5 @@ For further reading on layer-by-layer process, here is a paper published in 2014
 
 
 ___
-<figcaption><b>Figure </b>: </figcaption>
+
 <img width ="360" height= "200" src = "/docs/images/"/>

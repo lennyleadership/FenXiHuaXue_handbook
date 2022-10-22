@@ -11,9 +11,9 @@ title: Column Classification System
 toc: true
 ---
 
-<figcaption><b>Figure </b>: </figcaption>
 
-<img src = "/docs/images/"/>
+
+
 
 Columns are characterized by 4 column parameters, which are determined with 3 simple, fast, repeatable and reproducible chromatographic methods. More information can be obtained in the test procedure manual (below), ranking procedure based on F-value (below) and freeware.  
 

@@ -12,7 +12,7 @@ title: Frit
 toc: true
 ---
 
-<figcaption><b>Figure </b>: </figcaption>
+
 <img width ="360" height= "200" src = "/docs/images/"/>
 
 

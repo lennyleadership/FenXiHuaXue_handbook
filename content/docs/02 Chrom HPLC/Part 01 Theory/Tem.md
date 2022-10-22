@@ -11,7 +11,7 @@ title:
 toc: true
 ---
 
-<figcaption><b>Figure </b>: </figcaption>
-<img src = "/docs/images/"/>
+
+
 <!--more-->
 

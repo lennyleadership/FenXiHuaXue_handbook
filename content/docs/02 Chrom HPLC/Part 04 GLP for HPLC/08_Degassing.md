@@ -11,8 +11,8 @@ title: Chapter 08 Degassing
 toc: true
 ---
 
-<figcaption><b>Figure </b>: </figcaption>
-<img src = "/docs/images/"/>
+
+
 
 
 <!--more-->

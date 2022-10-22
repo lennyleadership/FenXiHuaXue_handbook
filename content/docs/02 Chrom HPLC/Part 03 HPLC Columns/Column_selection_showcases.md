@@ -187,7 +187,7 @@ compounds • Compatible with 100% aqueous mobile phases and standard
 reversed phase mobile phases • Run with reduced buffer concentrations •
 C18 phase for reliability and high performance.
 
-<figcaption><b>Figure </b>: </figcaption>
+
 
 <img src = "/docs/images/Screenshot 2022-01-17 051448.png"/>
 
@@ -199,7 +199,7 @@ compounds with nitro, hydroxyl, carboxyl and other polar groups • Shape
 selective for structural isomers • Use typical reversed phase solvents
 and conditions
 
-<figcaption><b>Figure </b>: </figcaption>
+
 
 <img src = "/docs/images/Screenshot 2022-01-17 051618.png"/>
 
@@ -212,7 +212,7 @@ HyPURITY ADVANCE™ Columns: Polar embedded phase for reversed phase
 chromatography • Unique reversed phase selectivity • Ideal for the
 separation of polar compounds
 
-<figcaption><b>Figure </b>: </figcaption>
+
 
 <img src = "/docs/images/Screenshot 2022-01-17 051711.png"/>
 
@@ -222,7 +222,7 @@ guide](https://assets.thermofisher.com/TFS-Assets/CMD/Product-Guides/TG-20421-HP
 
 ## Shodex Column Selection Guide
 
-<figcaption><b>Figure </b>: </figcaption>
+
 
 <img src = "/docs/images/Screenshot 2022-01-17 090347.png"/>
 
@@ -231,6 +231,6 @@ guide](https://assets.thermofisher.com/TFS-Assets/CMD/Product-Guides/TG-20421-HP
 
 ------------------------------------------------------------------------
 
-<figcaption><b>Figure </b>: </figcaption>
 
-<img src = "/docs/images/"/>
+
+

@@ -16,8 +16,8 @@ toc: true
   * Special Column Chemistries  
 * Column Choices  
 
-<figcaption><b>Figure </b>: </figcaption>
-<img src = "/docs/images/"/>
+
+
 <!--more-->
 
 ## Agilent Column Chemistry
@@ -29,7 +29,7 @@ toc: true
 <img src = "/docs/images/Screenshot 2022-01-19 075415.png"/>
 
 
-<figcaption><b>Figure </b>: </figcaption>
+
 <img src = "/docs/images/Screenshot 2022-01-19 075811.png"/>
 
 
@@ -38,18 +38,18 @@ toc: true
 ### Column Selection
 
 
-<figcaption><b>Figure </b>: </figcaption>
+
 <img src = "/docs/images/Screenshot 2022-01-19 074648.png"/>
 
 
-<figcaption><b>Figure </b>: </figcaption>
+
 <img src = "/docs/images/Screenshot 2022-01-19 074911.png"/>
 
 
 ### Silica Column Characteristics  
 
 
-<figcaption><b>Figure </b>: </figcaption>
+
 <img src = "/docs/images/Screenshot 2022-01-17 123601.png"/>
 
 Note: Silica is stable at pH range 1.0 - 11.0.  
@@ -113,7 +113,7 @@ Use 95 or 300Å pore size columns for larger molecules like polypeptides ad prot
 * Agilent HC/TC  
 
 
-<figcaption><b>Figure </b>: </figcaption>
+
 <img src = "/docs/images/Screenshot 2022-01-19 065017.png"/>
 
 
@@ -124,7 +124,7 @@ Credit: VYDAC
 * Eclipse PAH  
 
 
-<figcaption><b>Figure </b>: </figcaption>
+
 <img src = "/docs/images/Screenshot 2022-01-19 065049.png"/>
 
 
@@ -143,7 +143,7 @@ A high carbon load does not necessarily provide the best resolution.
 ### The surface of silica supports
 
 
-<figcaption><b>Figure </b>: </figcaption>
+
 <img src = "/docs/images/Screenshot 2021-12-16 101449.png"/>
 
 
@@ -229,5 +229,5 @@ Diol bonded phases are a versatile alternative to unbonded silica for normal-pha
 
 
 ____
-<figcaption><b>Figure </b>: </figcaption>
-<img src = "/docs/images/"/>
+
+

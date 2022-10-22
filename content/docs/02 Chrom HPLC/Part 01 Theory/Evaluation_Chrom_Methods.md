@@ -13,7 +13,7 @@ toc: true
 
 Tony Taylor concentrates on the mobile phase and HPLC column combination when investigating mobile-phase conditions in a HPLC method.
 
-<figcaption><b>Figure </b>: </figcaption>
+
 <img width="320" height="200" src = "/docs/images/"/>
 <!--more-->
 
@@ -110,5 +110,5 @@ Let’s summarize some of the detective work that we have undertaken to start bu
 
 
 ____
-<figcaption><b>Figure </b>: </figcaption>
+
 <img width="320" height="200" src = "/docs/images/"/>

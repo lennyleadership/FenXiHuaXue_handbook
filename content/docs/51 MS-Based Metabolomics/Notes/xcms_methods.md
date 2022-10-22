@@ -11,8 +11,8 @@ title: xcms Methods and Parameters
 toc: true
 ---
 
-<figcaption><b>Figure </b>: </figcaption>
-<img src = "/docs/images/"/>
+
+
 <!--more-->
 
 The first 'xcmsSet'-method 'centWave' deals with peak picking. This is the method of choice for processing centroided data acquired with liquid chromatography (LC) coupled to high resolution mass spectrometry (HRMS).   

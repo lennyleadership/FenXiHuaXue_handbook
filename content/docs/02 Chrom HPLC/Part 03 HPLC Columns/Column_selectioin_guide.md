@@ -11,8 +11,8 @@ title: LC column Selection Guide
 toc: true
 ---
 
-<figcaption><b>Figure </b>: </figcaption>
-<img src = "/docs/images/"/>
+
+
 
 Here is some basic principle for HPLC column choice.
 

@@ -11,8 +11,8 @@ title: Change in Selectivity
 toc: true
 ---
 
-<figcaption><b>Figure </b>: </figcaption>
-<img src = "/docs/images/"/>
+
+
 
 
 

@@ -11,8 +11,8 @@ title: Preventing and solving common hardware problems
 toc: true
 ---
 
-<figcaption><b>Figure </b>: </figcaption>
-<img src = "/docs/images/"/>
+
+
 <!--more-->
 
 **Preventing Leaks**  

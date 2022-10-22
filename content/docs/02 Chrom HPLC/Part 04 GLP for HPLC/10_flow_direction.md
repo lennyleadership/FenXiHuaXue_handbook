@@ -11,8 +11,8 @@ title: Flow Direction
 toc: true
 ---
 
-<figcaption><b>Figure </b>: </figcaption>
-<img src = "/docs/images/"/>
+
+
 <!--more-->
 
 Why do we mark direction on the HPLC columns?
