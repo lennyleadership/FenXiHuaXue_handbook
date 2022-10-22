@@ -266,27 +266,15 @@ What tools could we use?
     </p></td>
   </tr>
   <tr class="even">
-    <td><p>The optimization of ionization and transmission efficiency
+    <td><p>Optimization of the ionization source parameters
     </p></td>
     <td><p><a href = "https://www.chromatographyonline.com/view/lc-ms-sensitivity-practical-strategies-boost-your-signal-and-lower-your-noise" target="_blank" rel="noopener noreferrer">LC-GC: LC–MS Sensitivity: Practical Strategies to Boost Your Signal and Lower Your Noise</a>.
     </p></td>
   </tr>
   <tr class="odd">
-    <td><p>sentence left
+    <td><p>Choosing the appropriate polarity to match the charge of the analytes of interest.
     </p></td>
-    <td><p>sentence right.
-    </p></td>
-  </tr>
-  <tr class="even">
-    <td><p>sentence left
-    </p></td>
-    <td><p> sentence right.
-    </p></td>
-  </tr>
-  <tr class="odd">
-    <td><p>sentence left
-    </p></td>
-    <td><p>sentence right.
+    <td><p><a href = "https://www.chromatographyonline.com/view/lc-ms-sensitivity-practical-strategies-boost-your-signal-and-lower-your-noise" target="_blank" rel="noopener noreferrer">LC-GC: LC–MS Sensitivity: Practical Strategies to Boost Your Signal and Lower Your Noise</a>.
     </p></td>
   </tr>
   <tr class="even">
@@ -308,6 +296,18 @@ What tools could we use?
     </p></td>
   </tr>
   <tr class="odd">
+    <td><p>sentence left
+    </p></td>
+    <td><p>sentence right.
+    </p></td>
+  </tr>
+  <tr class="even">
+    <td><p>sentence left
+    </p></td>
+    <td><p> sentence right.
+    </p></td>
+  </tr>
+  <tr class="odd"> --add new rows
     <td><p>sentence left
     </p></td>
     <td><p>sentence right.
