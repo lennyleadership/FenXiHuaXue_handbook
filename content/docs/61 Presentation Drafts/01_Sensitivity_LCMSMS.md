@@ -3,11 +3,11 @@ weight: 1
 title: Sensitivity of LC-MS/MS
 authors: Lenny Lin
 categories: 
-tags: []
+tags: [Sensitivity]
 description: null
 draft: false
 date: "2022-10-19"
-lastmod: "2022-10-19"
+lastmod: "2022-10-22"
 series: 
 toc: true
 ---
@@ -153,8 +153,9 @@ What tools could we use?
     <td><p>Mobile-Phase Composition:
     <br>1) The use of high-purity solvents and additives
     <br>2) The use of volatile buffers, acid modifier, or basic modifier.  They can control over the ionization state of the target analytes
-    <br>3) Think about the balance between LC separation and ion suppression when considering modifier addition.
-    <br>4) The role of pH of mobile phase. 1) enhance the ionization of the analytes; 2) stabilize the analytes;  
+    <br>3) Think about the balance between LC separation and ion suppression when considering modifier addition
+    <br>4) The role of pH of mobile phase. 1) enhance the ionization of the analytes; 2) stabilize the analytes
+    <br>5) 
     </p></td>
     <td><p>1-2)<a href = "https://www.chromatographyonline.com/view/lc-ms-sensitivity-practical-strategies-boost-your-signal-and-lower-your-noise" target="_blank" rel="noopener noreferrer">LC-GC: LC–MS Sensitivity: Practical Strategies to Boost Your Signal and Lower Your Noise</a>
     <br>3-4) p79, Analysis of Pesticides in Food and Environmental Samples, CRC Press, 2008, edited by José L. Tadeo
@@ -162,13 +163,13 @@ What tools could we use?
   </tr>
   <tr class="odd">
     <td><p>LC Column Characteristics
-    <br>1)
+    <br>1) Column with smaller dimention
     <br>2) A suitable LC column (a silica column was used in the reference)
-    <br>3) Column with smaller dimention
+    <br>
     </p></td>
     <td><p>1) <a href = "https://www.chromatographyonline.com/view/lc-ms-sensitivity-practical-strategies-boost-your-signal-and-lower-your-noise" target="_blank" rel="noopener noreferrer">LC-GC: LC–MS Sensitivity: Practical Strategies to Boost Your Signal and Lower Your Noise</a>
+    <br>1) <a href = "http://alfresco-static-files.s3.amazonaws.com/alfresco_images/pharma/2014/08/26/ede58aca-c91e-462c-a41b-42355e3be017/article-2140.pdf" target="_blank" rel="noopener noreferrer">Systematic Troubleshooting for LC/MS/MS - Part 1: Sample Preparation and Chromatography</a>
     <br>2) <a href = "http://alfresco-static-files.s3.amazonaws.com/alfresco_images/pharma/2014/08/26/ede58aca-c91e-462c-a41b-42355e3be017/article-2140.pdf" target="_blank" rel="noopener noreferrer">Systematic Troubleshooting for LC/MS/MS - Part 1: Sample Preparation and Chromatography</a>
-    <br>3) <a href = "http://alfresco-static-files.s3.amazonaws.com/alfresco_images/pharma/2014/08/26/ede58aca-c91e-462c-a41b-42355e3be017/article-2140.pdf" target="_blank" rel="noopener noreferrer">Systematic Troubleshooting for LC/MS/MS - Part 1: Sample Preparation and Chromatography</a>
     </p></td>
   </tr>
   <tr class="even">
@@ -185,58 +186,13 @@ What tools could we use?
     <br>4) Temperature
     <br>5) Drying gas flow and temperature
     <br>6) The distance between the capillary tip and the sampling orifice 
+    <br>7) An additional heated sheath gas coupling with ESI can reach a higher sensitivity, such design can be found at the Jet Stream ESI, but it can suffer at the same time from significantly stronger signal suppressions
+    <br>8) A longer dwell time would result in better sensitivity with the reduced number of data points acquired across a single peak
     <br>
-    <br>
     </p></td>
-    <td><p><a href = "https://www.chromatographyonline.com/view/lc-ms-sensitivity-practical-strategies-boost-your-signal-and-lower-your-noise" target="_blank" rel="noopener noreferrer">LC-GC: LC–MS Sensitivity: Practical Strategies to Boost Your Signal and Lower Your Noise</a>
-    </p></td>
-  </tr>
-  <tr class="even">
-    <td><p>sentence left
-    </p></td>
-    <td><p> sentence right.
-    </p></td>
-  </tr>
-  <tr class="odd">
-    <td><p>
-    </p></td>
-    <td><p>
-    </p></td>
-  </tr>
-  <tr class="even">
-    <td><p>
-    </p></td>
-    <td><p>
-    </p></td>
-  </tr>
-  <tr class="odd">
-    <td><p>Think about the balance between LC separation and ion suppression when considering modifier addition.
-    </p></td>
-    <td><p>p79, Analysis of Pesticides in Food and Environmental Samples, CRC Press, 2008, edited by José L. Tadeo
-    </p></td>
-  </tr>
-  <tr class="even">
-    <td><p>An additional heated sheath gas coupling with ESI can reach a higher sensitivity, such design can be found at the Jet Stream ESI, but it can suffer at the same time from significantly stronger signal suppressions.
-    </p></td>
-    <td><p> Stahnke, H., Kittlaus, S., Kempe, G., Hemmerling, C., & Alder, L. (2012). The influence of electrospray ion source design on matrix effects. Journal of Mass Spectrometry, 47(7), 875–884. doi:10.1002/jms.3047
-    </p></td>
-  </tr>
-  <tr class="odd">
-    <td><p>A longer dwell time would result in better sensitivity with the reduced number of data points acquired across a single peak.
-    </p></td>
-    <td><p>p68, p70, Analysis of Pesticides in Food and Environmental Samples, CRC Press, 2008, edited by José L. Tadeo
-    </p></td>
-  </tr>
-  <tr class="even">
-    <td><p>
-    </p></td>
-    <td><p>.
-    </p></td>
-  </tr>
-  <tr class="odd">
-    <td><p>
-    </p></td>
-    <td><p>
+    <td><p>1-6) <a href = "https://www.chromatographyonline.com/view/lc-ms-sensitivity-practical-strategies-boost-your-signal-and-lower-your-noise" target="_blank" rel="noopener noreferrer">LC-GC: LC–MS Sensitivity: Practical Strategies to Boost Your Signal and Lower Your Noise</a>
+    <br>7) Stahnke, H., Kittlaus, S., Kempe, G., Hemmerling, C., & Alder, L. (2012). The influence of electrospray ion source design on matrix effects. Journal of Mass Spectrometry, 47(7), 875–884. doi:10.1002/jms.3047
+    <br>8) p68, p70, Analysis of Pesticides in Food and Environmental Samples, CRC Press, 2008, edited by José L. Tadeo
     </p></td>
   </tr>
   <tr class="even">
