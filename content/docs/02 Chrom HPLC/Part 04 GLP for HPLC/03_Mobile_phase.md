@@ -7,7 +7,7 @@ draft: false
 lastmod: "2022-02-01"
 series: 
 tags: [Sensitivity]
-title: Chapter 03 Mobile Phase
+title: Mobile Phase
 toc: true
 ---
 

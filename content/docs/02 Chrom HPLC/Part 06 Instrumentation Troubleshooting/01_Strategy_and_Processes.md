@@ -7,7 +7,7 @@ draft: false
 lastmod: "2022-01-12"
 series: 
 tags: [troubleshooting, hplc, thermo]
-title: Chapter 01 Troubleshooting Strategy and Processes
+title:  Troubleshooting Strategy and Processes
 toc: true
 ---
 

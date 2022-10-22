@@ -7,7 +7,7 @@ draft: false
 lastmod: "2022-01-17"
 series:
 tags: []
-title: Chapter 01 Theory of Separation on LC Column
+title:  Theory of Separation on LC Column
 toc: true
 ---
 This section is copied from shodex.com.  

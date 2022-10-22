@@ -13,51 +13,51 @@ toc: true
 Summary of sensitivity reduction
 1. Simple potential causes:  
   1.1) sample preparation,   
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;abnormal storage temperature,   
-  &nbsp;&nbsp;storage time,  
-  &nbsp;&nbsp;abnormal extraction,  
-  &nbsp;&nbsp;abnormal clean-up,  
+  &emsp;abnormal storage temperature,   
+  &emsp;storage time,  
+  &emsp;abnormal extraction,  
+  &emsp;abnormal clean-up,  
   1.2) LC system,  
-  &nbsp;&nbsp;Dilution error,  
-  &nbsp;&nbsp;autosampler needle not reaching sample,  
-  &nbsp;&nbsp;incorrect injection volume,  
-  &nbsp;&nbsp;abnormal LC back pressure,  
-  &nbsp;&nbsp;Leak,  
-  &nbsp;&nbsp;mobile phase unstable (modifier, prepared date, )  
+  &emsp;Dilution error,  
+  &emsp;autosampler needle not reaching sample,  
+  &emsp;incorrect injection volume,  
+  &emsp;abnormal LC back pressure,  
+  &emsp;Leak,  
+  &emsp;mobile phase unstable (modifier, prepared date, )  
   1.3) Mass spectrometer system,  
-  &nbsp;&nbsp;non-asymmetric spray (due to clog)  
-  &nbsp;&nbsp;Electron multiplier voltage error,   
-  &nbsp;&nbsp;the declustering potential error,  
-  &nbsp;&nbsp;the collision energy error  
-  &nbsp;&nbsp;the collision exit cell potential error  
-  &nbsp;&nbsp;GS1 pressure - nebulizer gas error  
-  &nbsp;&nbsp;GS2 pressure - turbo gas error  
-  &nbsp;&nbsp;Curtain gas pressure error  
-  &nbsp;&nbsp;Ion spray voltage error  
-  &nbsp;&nbsp;test  
+  &emsp;non-asymmetric spray (due to clog)  
+  &emsp;Electron multiplier voltage error,   
+  &emsp;the declustering potential error,  
+  &emsp;the collision energy error  
+  &emsp;the collision exit cell potential error  
+  &emsp;GS1 pressure - nebulizer gas error  
+  &emsp;GS2 pressure - turbo gas error  
+  &emsp;Curtain gas pressure error  
+  &emsp;Ion spray voltage error  
+  &emsp;test  
   1.4) System monitoring,  
-  &nbsp;&nbsp; monitoring charts of internal standards, blank, calibrators,   
+  &emsp; monitoring charts of internal standards, blank, calibrators,   
   1.5) Data processing,  
-  &nbsp;&nbsp;Calculation error (dilution factor),  
-  &nbsp;&nbsp;Peak integration error (baseline issue, noise),  
-  &nbsp;&nbsp;Retention time shift,  
-  &nbsp;&nbsp;
-  &nbsp;&nbsp;
-  &nbsp;&nbsp;
+  &emsp;Calculation error (dilution factor),  
+  &emsp;Peak integration error (baseline issue, noise),  
+  &emsp;Retention time shift,  
+  &emsp;
+  &emsp;
+  &emsp;
   
 2. Complex potential causes:  
-  &nbsp;&nbsp;Analyze new known standard  
-  &nbsp;&nbsp;Analyze blank  
-  &nbsp;&nbsp;Infuse standard in 50-50 mobile phase solution to the mass spectrometer  
-  &nbsp;&nbsp;Dry run  
-  &nbsp;&nbsp;
-  &nbsp;&nbsp;
-  &nbsp;&nbsp;
+  &emsp;Analyze new known standard  
+  &emsp;Analyze blank  
+  &emsp;Infuse standard in 50-50 mobile phase solution to the mass spectrometer  
+  &emsp;Dry run  
+  &emsp;
+  &emsp;
+  &emsp;
   
-******* End ***************
 
 
 <!--more-->
+---
 
 - Tips for reestablishing a smooth baseline.
 - Guidance on diagnosing and solving common peak problems.
@@ -68,12 +68,12 @@ Every instrument and every method will at some point experience a deterioration 
 
 ## Reestablishing a Smooth Baseline
 
-<div class="row">
-  <figure>
-  <img width ="360" height= "200" src = "/docs/images/figure-article-gnar3485-01.webp" style ="float: left" HSPACE="10" VSPACE="10"/>
+
+<figure>
+  <img width ="360" src = "/docs/images/figure-article-gnar3485-01.webp"/>
   <figcaption><b>Figure 1</b>: Abnormal baselines that are commonly encountered in LC troubleshooting</figcaption>
-  </figure>
-</div>
+</figure>
+
 Encountering an inconsistent baseline is not unusual in LC laboratories. Variation can be caused by a number of factors, and determining if there is a pattern can help you establish the cause (Figure 1). <mark>If you are seeing an erratic baseline, it is likely caused by a leak or an air bubble, so checking all fittings, confirming the degasser is working, and purging your system with fresh mobile phase should stabilize the baseline</mark>. If you are using a UV detector, a noisy baseline can also indicate that it is time to change the detector lamp or flow cell. However, if there is regularity to the changes in the baseline, it may be a pump or piston issue, and routine maintenance of those parts should resolve the problem. Finally, if the baseline is looking bad overall, a thorough system cleaning is recommended. Note that ambient temperature changes can also cause baseline fluctuations, so using a column oven or insulating the column and tubing may also restore performance.
 
 
@@ -106,7 +106,7 @@ If poor response is seen only in the first few injections, it is possible that t
 
 ## Stabilizing Shifting Retention Times
 
-<img width ="270" height= "150" src = "/docs/images/figure-article-gnar3485-03.jpg" style ="float: left" HSPACE="10" VSPACE="10"/>
+<img width ="360" src = "/docs/images/figure-article-gnar3485-03.jpg" style ="float: left" HSPACE="10" VSPACE="10"/>
 For accurate identification and quantification, it is critical that analytes always elute at the same retention time. However, it is not uncommon to observe retention time shifts during routine analysis, and there are a number of possible causes. As a first step in LC troubleshooting, verify that all method settings are correct and that the mobile phase was properly prepared (particularly if you see a big change instead of a slight drift). Preparing fresh mobile phase is an easy way to eliminate problems caused by composition changes due to evaporation, reactions, contamination, or incomplete mixing. Also, if you are transferring an existing method to a new instrument, be sure to account for any difference in `dwell volume` between the instruments because that can significantly affect retention time. Other possible causes include the following:
 
 1. Incorrect or variable flow rate—manually confirm that the flow rate is correct and verify that there are no leaks in the system.
@@ -125,10 +125,10 @@ Occasionally, ghost peaks will appear at unexpected times during analysis. This 
 *Diagnosing the Cause of Increased Back Pressure*
 
 Increased back pressure is one of the most common of all LC troubleshooting issues, but it is important to remember that not all pressure changes indicate a problem. For example, pressure will change during gradient analysis as mobile phase viscosity increases (maximum viscosities are at ~50:50 for methanol:water and ~20:80 for acetonitrile:water). So, it is important to know what is normal for your setup in order to diagnose a problem. It is also important to work within the pressure limits of your LC (e.g., do not use <2.7 µm columns in instruments with a 400 bar limit). When abnormally high back pressure is observed, it indicates a blockage exists somewhere in the system, and the first step in resolving it is to identify the location by isolating one potential source at a time following the steps in Figure 2.
-
-<img width ="720" height= "400" src = "/docs/images/figure-article-gnar3485-04.jpg" style ="float: left" HSPACE="10" VSPACE="10"/>
+<figure>
+<img width ="720" src = "/docs/images/figure-article-gnar3485-04.jpg"/>
 <figcaption><b>Figure 2</b>: LC troubleshooting steps for locating system blockages that cause increased back pressure</figcaption>
-
+</figure>
 
 ## Removing Column Clogs and Contaminants
 
@@ -152,36 +152,17 @@ Table II: Solvent Sequence for Column Flushing
 - Use a guard column or precolumn filter to protect your analytical column. Always select a guard system and phase that matches the analytical column.
 - Regularly inspect and replace pump seals, auto-injector rotors, inline filters, and needle seats before normal wear and tear causes them to break down and shed particles into the flow stream.
 
-Although less common, it is also possible to encounter pressures that are too low. In this scenario, leaks are a usually the culprit, so check your fittings and pump carefully for signs of moisture or precipitates. If tightening or replacing the fittings does not solve the problem, it may be time to replace the pump seals. Trapped air bubbles or a stuck check valve can also cause pressure drops, but both issues can generally be fixed by flushing the system with degassed mobile phase or an appropriate solvent, such as isopropyl alcohol. If this does not resolve this problem, it may be time to replace the check valves. Some leaks could be due to scratches in the rotor seal in six-port valves. The leak may not be visible, but it will cause a drop in the pressure and flow. When looking for leaks or measuring flow rate accuracy, be sure to utilize an old column or a flow restrictor. In addition to pressure drops, leaks can cause other chromatographic problems, such as increased retention, decreased signal, or even automatic instrument shut down. To prevent this, make it a daily practice to inspect fittings for residue, and wipe tubing with a lab tissue to detect moisture. Gently retightening fittings and regularly replacing tubing, fittings, and seals as part of your routine maintenance plan is a good way to prevent catastrophic leaks and unexpected downtime. Restek’s [Routine LC Maintenance guide](https://www.restek.com/row/technical-literature-library/articles/routine-LC-maintenance/) is a helpful starting place when developing or refining a maintenance plan. 
+Although less common, it is also possible to encounter pressures that are too low. In this scenario, leaks are a usually the culprit, so check your fittings and pump carefully for signs of moisture or precipitates. If tightening or replacing the fittings does not solve the problem, it may be time to replace the pump seals. Trapped air bubbles or a stuck check valve can also cause pressure drops, but both issues can generally be fixed by flushing the system with degassed mobile phase or an appropriate solvent, such as isopropyl alcohol. If this does not resolve this problem, it may be time to replace the check valves. Some leaks could be due to scratches in the rotor seal in six-port valves. The leak may not be visible, but it will cause a drop in the pressure and flow. When looking for leaks or measuring flow rate accuracy, be sure to utilize an old column or a flow restrictor. In addition to pressure drops, leaks can cause other chromatographic problems, such as increased retention, decreased signal, or even automatic instrument shut down. To prevent this, make it a daily practice to inspect fittings for residue, and wipe tubing with a lab tissue to detect moisture. Gently retightening fittings and regularly replacing tubing, fittings, and seals as part of your routine maintenance plan is a good way to prevent catastrophic leaks and unexpected downtime. Restek’s <a href = "https://www.restek.com/row/technical-literature-library/articles/routine-LC-maintenance/" target="_blank" rel="noopener noreferrer">Routine LC Maintenance guide</a> is a helpful starting place when developing or refining a maintenance plan. 
 
 
 ## Reference
-[Effective LC Troubleshooting: Symptom-Based Strategies and Solutions](https://www.restek.com/globalassets/pdfs/literature/gnar3485-unv.pdf)
+
+<a href = "https://www.restek.com/globalassets/pdfs/literature/gnar3485-unv.pdf" target="_blank" rel="noopener noreferrer">Restek: Effective LC Troubleshooting: Symptom-Based Strategies and Solutions</a>
+
 
 ##  Summary
 
 LC troubleshooting is an essential part of generating accurate and reliable data. While there are many potential causes of poor performance, careful observation of the chromatographic symptoms, testing of one possible cause at a time, and comparison to an established “normal” state will help you quickly and effectively identify the root cause. Finally, working any lessons learned into a routine maintenance plan will help prevent future problems and keep your instrument running more efficiently.  
 
 
-<style type = "text/css">
-.row {
-  margin-left:-5px;
-  margin-right:-5px;
-}
 
-.row::after {
-  content: "";
-  clear: both;
-  display: table;
-}
-
-figure {
-  text-align: left;
-  font-style: italic;
-  font-size: smaller;
-  text-indent: 0;
-  margin: 0.5em;
-  padding: 0.5em;
-}
-
-</style>

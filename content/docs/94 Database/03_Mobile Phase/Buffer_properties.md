@@ -7,7 +7,7 @@ draft: false
 lastmod: "2022-01-16"
 series: 
 tags: [Trifluoroacetic Acid, Buffer, Ion Pairs]
-title: Chapter 02 Buffer Properties
+title:  Buffer Properties
 toc: true
 ---
 

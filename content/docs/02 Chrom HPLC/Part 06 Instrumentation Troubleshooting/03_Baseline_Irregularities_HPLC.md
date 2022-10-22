@@ -1,4 +1,6 @@
 ---
+weight: 3
+title: LC Baseline Irregularities
 authors: edited by Lenny Lin
 categories: 
 date: "2022-01-03"
@@ -7,7 +9,7 @@ draft: false
 lastmod: "2022-07-16"
 series: 
 tags: [Sensitivity]
-title: Chapter 03 LC Baseline Irregularities
+
 toc: true
 ---
 

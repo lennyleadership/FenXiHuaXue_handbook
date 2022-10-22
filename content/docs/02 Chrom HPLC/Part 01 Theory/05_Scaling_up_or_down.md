@@ -7,7 +7,7 @@ draft: false
 lastmod: "2022-01-16"
 series: 
 tags: []
-title: Chapter 05 Scaling Up or Scaling Down
+title: Scaling Up or Scaling Down
 toc: true
 ---
 

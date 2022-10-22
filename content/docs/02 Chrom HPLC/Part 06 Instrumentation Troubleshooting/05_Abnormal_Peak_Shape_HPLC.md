@@ -7,7 +7,7 @@ draft: false
 lastmod: "2022-01-28"
 series: 
 tags: [Diagram Demo]
-title: Chapter 05 LC Abnormal Peak Shape
+title: LC Abnormal Peak Shape
 toc: true
 ---
 

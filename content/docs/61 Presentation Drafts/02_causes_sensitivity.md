@@ -1,19 +1,21 @@
 ---
+weight: 1
+title: How to improve the sensitivity
 authors: Lenny Lin
 categories: null
-date: "2022-03-17"
+tags: [Sensitivity]
 description:  
 draft: false
+date: "2022-03-17"
 lastmod: "2022-07-13"
 series: null
-tags: [Sensitivity]
-title: How to improve the sensitivity
 toc: true
 ---
 
 
 
 <!--more-->
+---
 
 Sensitivity of MS
 
@@ -34,7 +36,7 @@ How do the MS components work? and how do the MS components impact the sensitivi
 3a) Electrospray. 
 Electrospray makes droplets, ions are in the droplets. We put high voltage on it. It undergoes the ion evaporation model.
 
-the liquids coming through at 200 microliters per minute. If the electrosprayer was blocked, you would have unstable ion current noise that ion current will be noisy.  We need to have asymmetrical spray. 
+The liquids coming through at 200 microliters per minute. If the electrosprayer was blocked, you would have unstable ion current noise that ion current will be noisy.  We need to have asymmetrical spray. 
 
 The spray first takes place, the ion evaporation takes place to produce gas-phase ions.  
 
@@ -63,7 +65,7 @@ clean the source.
 From the perspective of sample introducting to MS:
 1) less carry-over
 2) less sample volume [50ng is plenty for MS]
-3) solution:pH, low boiling point, low dielectric constant, low surface tension.
+3) solution: pH, low boiling point, low dielectric constant, low surface tension.
 
 
 How to increase the sensitivity at low mass-to-charge end?
@@ -73,10 +75,9 @@ compartment temperature does not help resolution, but repeatability.  temperatur
 
 baseline resolution.
 
-How do obtain sensitivity?
+How to obtain sensitivity?
 1) select an ionization method between ESI and APCI (according to the residue of compounds).  
 2) select positive ion mode or negative ion mode.
-
 
 
 How to increase resolution of MS?
@@ -101,8 +102,6 @@ systematic approach to expectation:
 A loss in sensitivity can indicate problems with either the sample preparation or the analytical system.  First, confirm that the sample preparation procedure was followed correctly, including storage temperature and time, and verify that system parameters are set correctly and functioning properly. Always check for obvious problems (e.g., calculation/dilution error, autosampler needle not reaching sample, incorrect injection volume, wrong detector settings, no mobile phase flow, detector or lamp turned off, integrity of the reference standard, etc.) before looking for more complex issues. Having a coworker double check your work can be invaluable because it is often easier for an independent person to spot problems than it is for someone who is already familiar with the work.
 
 
-
-
 ## Summary of sensitivity reduction
 1. Simple potential causes:  
   1.1) sample preparation,   
@@ -110,7 +109,7 @@ A loss in sensitivity can indicate problems with either the sample preparation o
   &nbsp;&nbsp;storage time,  
   &nbsp;&nbsp;abnormal extraction,  
   &nbsp;&nbsp;abnormal clean-up,  
-  &nbsp;&nbsp;Was matrix be cleaned-up in sample preparation?
+  &nbsp;&nbsp;Was matrix be cleaned-up in sample preparation?  
   1.2) LC system,  
   &nbsp;&nbsp;Dilution error,  
   &nbsp;&nbsp;autosampler needle not reaching sample,  

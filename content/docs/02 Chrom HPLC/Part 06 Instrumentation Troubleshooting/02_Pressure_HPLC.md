@@ -7,7 +7,7 @@ draft: false
 lastmod: "2022-01-12"
 series: 
 tags: []
-title: Chapter 02 LC Pressure Issue
+title:  LC Pressure Issue
 toc: true
 ---
 

@@ -155,10 +155,10 @@ What tools could we use?
     <br>2) The use of volatile buffers, acid modifier, or basic modifier.  They can control over the ionization state of the target analytes
     <br>3) Think about the balance between LC separation and ion suppression when considering modifier addition
     <br>4) The role of pH of mobile phase. 1) enhance the ionization of the analytes; 2) stabilize the analytes
-    <br>5) 
+    <br>5) The use of ion pair reagents (e.g., heptafluorobutyric acid and tetrabutyl ammonium)
     </p></td>
     <td><p>1-2)<a href = "https://www.chromatographyonline.com/view/lc-ms-sensitivity-practical-strategies-boost-your-signal-and-lower-your-noise" target="_blank" rel="noopener noreferrer">LC-GC: LC–MS Sensitivity: Practical Strategies to Boost Your Signal and Lower Your Noise</a>
-    <br>3-4) p79, Analysis of Pesticides in Food and Environmental Samples, CRC Press, 2008, edited by José L. Tadeo
+    <br>3-5) p79, Analysis of Pesticides in Food and Environmental Samples, CRC Press, 2008, edited by José L. Tadeo
     </p></td>
   </tr>
   <tr class="odd">

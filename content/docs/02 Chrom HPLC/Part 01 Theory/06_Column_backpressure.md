@@ -7,7 +7,7 @@ draft: false
 lastmod: "2022-01-03"
 series: 
 tags: []
-title: Chapter 06 Column Backpressure
+title: Column Backpressure
 toc: true
 ---
 

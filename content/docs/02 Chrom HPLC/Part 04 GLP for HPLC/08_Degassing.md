@@ -7,7 +7,7 @@ draft: false
 lastmod: "2022-01-03"
 series: 
 tags: []
-title: Chapter 08 Degassing
+title: Degassing
 toc: true
 ---
 

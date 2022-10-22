@@ -7,7 +7,7 @@ draft: false
 lastmod: "2022-01-03"
 series: 
 tags: [mobile phase]
-title: Chapter 04 Peak Shape Measurement
+title: Peak Shape Measurement
 toc: true
 ---
 

@@ -7,7 +7,7 @@ draft: false
 lastmod: "2022-02-01"
 series: 
 tags: []
-title: Chapter 01 Solvent Properties
+title:  Solvent Properties
 toc: true
 ---
 

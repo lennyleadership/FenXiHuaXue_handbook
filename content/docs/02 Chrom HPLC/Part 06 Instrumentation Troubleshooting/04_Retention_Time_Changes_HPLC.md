@@ -7,7 +7,7 @@ draft: false
 lastmod: "2022-01-12"
 series: 
 tags: []
-title: Chapter 04 HPLC Retention Time Changes
+title: HPLC Retention Time Changes
 toc: true
 ---
 

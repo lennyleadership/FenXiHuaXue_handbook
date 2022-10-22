@@ -7,7 +7,7 @@ draft: false
 lastmod: "2022-01-03"
 series: 
 tags: [RPC, Reversed-phase Chromatography]
-title: Chapter 03 Reversed-phase Chromatography
+title: Reversed-phase Chromatography
 toc: true
 ---
 

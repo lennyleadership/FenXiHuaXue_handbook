@@ -7,7 +7,7 @@ draft: false
 lastmod: "2022-01-17"
 series:
 tags: []
-title: Chapter 02 Column Chemistry
+title:  Column Chemistry
 toc: true
 ---
 

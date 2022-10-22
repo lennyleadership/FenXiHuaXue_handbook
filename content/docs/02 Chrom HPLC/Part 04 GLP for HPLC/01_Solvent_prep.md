@@ -7,7 +7,7 @@ draft: false
 lastmod: "2022-01-13"
 series: 
 tags: []
-title: Chapter 01 Solvent
+title:  Solvent
 toc: true
 editor_options: 
   markdown: 

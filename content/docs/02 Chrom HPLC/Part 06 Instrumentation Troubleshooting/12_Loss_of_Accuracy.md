@@ -7,7 +7,7 @@ draft: false
 lastmod: "2022-01-12"
 series: 
 tags: []
-title: Chapter  Loss of Accuracy
+title: Loss of Accuracy
 toc: true
 ---
 
