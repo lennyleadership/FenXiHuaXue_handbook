@@ -32,7 +32,7 @@ In mass spectrometry (MS), the term <u>sensitivity</u> can have several meanings
 Fundamentally, the ability of a detector to provide quantitative data is a function of the signal-to-noise ratio (S/N) for an analyte. The limit of detection (LOD) is determined from the analyte S/N and is the lowest concentration of a substance where its signal can be distinguished from system noise <a href="#ref">(2)</a>. As shown in <b>Figure 1</b>, <u>the higher the <u>sensitivity</u> of the MS, the greater the value of S/N for a given method LOD if background noise remains constant</u>. Therefore, improvements in <u>sensitivity</u> can occur through <u>manipulation of S/N</u>. <u>MS optimization</u>, <u>sample pretreatment strategies</u>, <u>mobile-phase composition</u>, and <u>LC column characteristics</u> are all integral to ionization efficiency and will improve analyte signal when optimized. Likewise, <u>limiting contaminants</u> that contribute to signal suppression or adduct formation may also enhance response.
 
 <figure>
-  <img width = "360" src = "/docs/images/LCGC1_i1.jpg"/>
+  <img width = "360" src = "/docs/images/LCGC1_i1-1.webp"/>
   <figcaption><b>Figure 1</b>: A hypothetical demonstration of the effect of increased sensitivity on limits of detection (LOD) assuming linear calibration and fixed background noise</figcaption>
 </figure>
 

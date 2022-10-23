@@ -1,20 +1,19 @@
 ---
 weight: 2
+title: 02 Introduction
 authors: edited by Lenny Lin
 categories: 
-date: "2022-01-03"
+tags: []
 description: null
 draft: false
+date: "2022-01-03"
 lastmod: "2022-07-08"
 series: 
-tags: []
-title: 02 Introduction
 toc: true
 ---
 
-
-
 <!--more-->
+---
 
 The statistical design of experiments refers to the process of planning the experiment. So the appropriate data will be collected and analyzed by statistical methods, resulting in invalid and objective conclusions. When the problem involves data that are subject to experimental errors, statistical methods are the only objective approach to the analysis. The design of experiments is based on three basic principles. Randomization, replication, and blocking.  
 
