@@ -12,10 +12,6 @@ toc: true
 ---
 
 
-<img width="320" height="200" src = "/docs/images/"/>
-
-
-
 <!--more-->
 
 ## Sigma-Aldrich Guide

@@ -7,7 +7,7 @@ description: Van Deemter Equation
 draft: false
 lastmod: "2021-12-27"
 series:
-tags: [particle size, columns, Band broadening, Van Deemter equation, resolution]
+tags: [particle size, Column, Band broadening, Van Deemter equation, resolution]
 title: Van Deemter Equation - Small Particle Size Column 
 toc: true
 ---

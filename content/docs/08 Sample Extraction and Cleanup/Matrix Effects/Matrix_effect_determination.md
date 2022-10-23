@@ -20,8 +20,11 @@ The solvent and the soil matrix blank were extracted by QuEChERS. Then, calibrat
 
 From the results (Table below), all the pesticides had ANOVA P-values < 0.05, except for simazine; point out the influence of the matrix soil in 87.5% of the analyzed pesticides. The extent of the matrix effect was also calculated. From all of the pesticides with matrix effect, 75% presented negative matrix effect influence.
 
-<figcaption><b>Table </b>: Principal fragments and soil matrix effect determination for each pesticide</figcaption>
-<img width ="540" height= "300" src = "/docs/images/Screenshot 2022-06-30 214933.png"/>
+<figure>
+<figcaption_top><b>Table </b>: Principal fragments and soil matrix effect determination for each pesticide</figcaption_top>
+<img width ="540" src = "/docs/images/Screenshot 2022-06-30 214933.png"/>  
+</figure>
+
 Average slopes of solvent and matrix were calculated from three independent curves, respectively.  
 
 

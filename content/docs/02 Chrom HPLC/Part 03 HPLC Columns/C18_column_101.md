@@ -46,16 +46,7 @@ So, is a C18 a C18? As you can see, there are many differences between C18 colum
 HPLC column dimensions are an important selection during method development as they impact the efficiency, sensitivity, and speed of your analysis. efficiency (refer to the following equation) is directly proportional to column length. This approach has its limitations as doubling column length increases resolution, but only by a factor of 1.4 while also significantly increasing back pressure.   
 
 $$
-\begin{equation}
-efficiency &Proportional;  \frac{length}}{particle  size}}
-\end{equation}
-$$
-
-
-$$
-\begin{equation}
-\textrm{efficiency &Proportional;  \frac{\textrm{length}}{\textrm{particle &nbsp; size}}
-\end{equation}
+\textrm{efficiency} &Proportional;  \frac{\textrm{length}}{\textrm{particle &nbsp; size}}
 $$
 
 Short column lengths, such as 50 mm, will give short run times and are ideal for gradient analysis. Long column lengths, such as 250 mm, have more resolving power, but come with the cost of longer analysis time and increased back pressure. When considering your column’s inner diameter, it is important to keep your mode of detection in mind. RI, fluorescence, or UV detectors can handle much higher flow rates than LC-MS. <mark>Conventional LC-MS flow rates are in the range of 0.3-0.6 mL/min</mark>. These flow rates pair well with 2.1 mm and 3.0 mm ID columns. Additionally, <mark>as column diameter is reduced, sensitivity can be improved several fold</mark>, assuming mass on column is kept constant and your instrument is optimized for low-volume columns.  
@@ -79,11 +70,11 @@ Before choosing the particle for your next analytical column, consider the size 
 <img width ="360" height= "200" src = "/docs/images/Screenshot 2022-02-04 095136.png"/>
 
 
-**<font style="text-transform:uppercase;">Particle size</font>** is the average particle size of the packing in the HPLC column.   
+**<font class = "font_upper">Particle size</font>** is the average particle size of the packing in the HPLC column.   
 
 The standard particle size for HPLC columns was 5 µm for a long time, until the mid-1990s, when 3.5 µm became popular for method development. More recently, packings with sub 2.3 µm , including 1.8 µm were developed.
 
-**<font style="text-transform:uppercase;">Pore size</font>** is the average size of a pore in a porous packing.  The pore size of the packing material in your HPLC column is important, since the molecules must 'fit' into the porous structure in order to interact with the stationary phase.  
+**<font class = "font_upper">Pore size</font>** is the average size of a pore in a porous packing.  The pore size of the packing material in your HPLC column is important, since the molecules must 'fit' into the porous structure in order to interact with the stationary phase.  
 
 
 ## How superficially porous particles are synthesized? <a href="#section3">[3]</a>
@@ -134,3 +125,11 @@ For further reading on layer-by-layer process, here is a paper published in 2014
 ___
 
 
+<script src="https://polyfill.io/v3/polyfill.min.js?features=es6"></script>
+<script id="MathJax-script" async src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js"></script>
+
+<script>
+    MathJax = {
+        chtml: { displayAlign: 'left' }
+    };
+</script>
