@@ -111,6 +111,7 @@ figcaption {
 }
 /* the end */
 
+/*color style of hyperlink*/
 a:link {
   color: darkred;
   background-color: transparent;
@@ -131,6 +132,8 @@ a:active {
   background-color: transparent;
   text-decoration: underline;
 }
+/* the end*/
+
 
 /* quoting with background */
 .quote {
@@ -144,3 +147,7 @@ a:active {
   margin: 1em;
 }
 /* the end */
+
+.font_upper {
+  text-transform: uppercase;
+}
