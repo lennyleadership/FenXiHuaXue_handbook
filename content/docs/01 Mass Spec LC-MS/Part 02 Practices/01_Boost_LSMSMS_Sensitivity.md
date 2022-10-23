@@ -33,7 +33,7 @@ Fundamentally, the ability of a detector to provide quantitative data is a funct
 
 <figure>
   <img width = "360" src = "/docs/images/LCGC1_i1-1.webp"/>
-  <figcaption><b>Figure 1</b>: A hypothetical demonstration of the effect of increased sensitivity on limits of detection (LOD) assuming linear calibration and fixed background noise</figcaption>
+  <figcaption_bottom><b>Figure 1</b>: A hypothetical demonstration of the effect of increased sensitivity on limits of detection (LOD) assuming linear calibration and fixed background noise</figcaption_bottom>
 </figure>
 
 
@@ -58,8 +58,8 @@ Optimization of the ionization source parameters described above could potential
 
 <figure>
   <img width = "540" src = "/docs/images/LCGC1_i2-1.webp"/>
-  <figcaption><b>Figure 2</b>: LC–MS/MS optimization of desolvation temperature for (a) methamidophos and (b) emamectin B1a benzoate over four successive injections. Column: 100 mm × 2.1 mm, 3-µm fully porous C18; mobile-phase A: water + 2 mM ammonium acetate + 0.1% formic acid; mobile-phase B: methanol + 2 mM ammonium acetate + 0.1% formic acid; gradient %B (time): 5% (0 min), 5% (1.5 min), 70% (6 min), 70% (9 min), 100% (10 min), 100% (12 min), equilibrate; flow rate: 0.5 mL/min; polarity: ESI+; curtain gas: 30 psi; nebulizer gas: 45 psi; drying gas: 55 psi; <u>capillary voltage</u>: 5.5 kV; collision gas: 10 psi.
-  <br>temperatures on the plots might be wrong.</figcaption>
+  <figcaption_bottom><b>Figure 2</b>: LC–MS/MS optimization of desolvation temperature for (a) methamidophos and (b) emamectin B1a benzoate over four successive injections. Column: 100 mm × 2.1 mm, 3-µm fully porous C18; mobile-phase A: water + 2 mM ammonium acetate + 0.1% formic acid; mobile-phase B: methanol + 2 mM ammonium acetate + 0.1% formic acid; gradient %B (time): 5% (0 min), 5% (1.5 min), 70% (6 min), 70% (9 min), 100% (10 min), 100% (12 min), equilibrate; flow rate: 0.5 mL/min; polarity: ESI+; curtain gas: 30 psi; nebulizer gas: 45 psi; drying gas: 55 psi; <u>capillary voltage</u>: 5.5 kV; collision gas: 10 psi.
+  <br>temperatures on the plots might be wrong.</figcaption_bottom>
 </figure>
 
 
@@ -73,7 +73,7 @@ Regardless of the sample preparation technique chosen, it is important to consid
 
 <figure>
   <img width = "540" src = "/docs/images/LCGC1_i3-1.webp"/>
-  <figcaption><b>Figure 3</b>: Contaminants extracted with acetonitrile from polymeric solid-phase extraction reversed-phase 96-well plates and analyzed by LC–MS/MS: (a) Overlay of background subtracted TIC from seven manufacturers. (b) Averaged spectra collected from peak C located at 6.5–8 min. Column: 100 mm × 2.1 mm, 2.7-µm superficially porous C18; mobile-phase A: water + 1 mM ammonium acetate + 1% acetic acid; mobile-phase B: methanol; gradient %B (time): 5% (0 min), 100% (8 min), 100% (9 min), equilibrate; flow rate: 0.5 mL/min. (Methodology developed by Hua and Jenke, reference 10.).</figcaption>
+  <figcaption_bottom><b>Figure 3</b>: Contaminants extracted with acetonitrile from polymeric solid-phase extraction reversed-phase 96-well plates and analyzed by LC–MS/MS: (a) Overlay of background subtracted TIC from seven manufacturers. (b) Averaged spectra collected from peak C located at 6.5–8 min. Column: 100 mm × 2.1 mm, 2.7-µm superficially porous C18; mobile-phase A: water + 1 mM ammonium acetate + 1% acetic acid; mobile-phase B: methanol; gradient %B (time): 5% (0 min), 100% (8 min), 100% (9 min), equilibrate; flow rate: 0.5 mL/min. (Methodology developed by Hua and Jenke, reference 10.).</figcaption_bottom>
 </figure>
 
 
@@ -85,7 +85,7 @@ The mobile phase plays a key role in LC–MS <u>sensitivity</u> by influencing t
 
 <figure>
   <img width = "540" src = "/docs/images/LCGC1_i4-1.webp"/>
-  <figcaption><b>Figure 4</b>: Comparison of averaged spectra for HPLC-grade methanol and LC–MS-grade methanol. Mobile phase: unmodified methanol as indicated; flow rate: 0.5 mL/min; system: LC–MS with ESI+ ionization; scan range: 100–2000 m/z.</figcaption>
+  <figcaption_bottom><b>Figure 4</b>: Comparison of averaged spectra for HPLC-grade methanol and LC–MS-grade methanol. Mobile phase: unmodified methanol as indicated; flow rate: 0.5 mL/min; system: LC–MS with ESI+ ionization; scan range: 100–2000 m/z.</figcaption_bottom>
 </figure>
 
 
@@ -113,7 +113,7 @@ Changing the particle morphology is yet another way to improve column efficiency
 
 <figure>
   <img width = "540" src = "/docs/images/LCGC1_i6-1.webp"/>
-  <figcaption><b>Figure 5</b>: Van Deemter plot comparing efficiency between a 3-µm fully porous C18 column and a 2.7-µm superficially porous C18 column. Mobile-phase A: 45% water; mobile-phase B: 55% acetonitrile; detection: photodiode array, 254 nm; injection volume: 1 µL; sample: 0.03 mg/mL biphenyl prepared in 25:75 acetonitrile–water.</figcaption>
+  <figcaption_bottom><b>Figure 5</b>: Van Deemter plot comparing efficiency between a 3-µm fully porous C18 column and a 2.7-µm superficially porous C18 column. Mobile-phase A: 45% water; mobile-phase B: 55% acetonitrile; detection: photodiode array, 254 nm; injection volume: 1 µL; sample: 0.03 mg/mL biphenyl prepared in 25:75 acetonitrile–water.</figcaption_bottom>
 </figure>
 
 
@@ -125,7 +125,7 @@ Smaller peak volumes also imply that a fast acquisition rate is required to coll
 
 <figure>
   <img width = "720" src = "/docs/images/LCGC1_i7-1.webp"/>
-  <figcaption><b>Figure 6</b>: Comparison of data collected with dwell times of (a) 300 ms, (b) 50 ms, and (c) 5 ms, and their contribution to time-related band broadening. System: LC–MS/MS; polarity: ESI+. Peaks: 1 = morphine, 2 = hydromorphone.</figcaption>
+  <figcaption_bottom><b>Figure 6</b>: Comparison of data collected with dwell times of (a) 300 ms, (b) 50 ms, and (c) 5 ms, and their contribution to time-related band broadening. System: LC–MS/MS; polarity: ESI+. Peaks: 1 = morphine, 2 = hydromorphone.</figcaption_bottom>
 </figure>
 
 
