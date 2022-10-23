@@ -37,7 +37,7 @@ Fundamentally, the ability of a detector to provide quantitative data is a funct
 </figure>
 
 
-### MS Optimization
+## MS Optimization
 
 In liquid chromatography–mass spectrometry (LC–MS), <u>sensitivity</u> directly relates to the effectiveness of producing gas-phase ions from analytes in solution (ionization efficiency) and the ability to transfer them from atmospheric pressure to the low pressure zone of the MS system (transmission efficiency) <a href="#ref">(3)</a>. The optimization of ionization and transmission efficiency is dependent on the LC method parameters and the target analyte or analytes. To make the appropriate adjustments, it is necessary to have a basic understanding of the mechanisms taking place within the MS source.
 
@@ -63,7 +63,7 @@ Optimization of the ionization source parameters described above could potential
 </figure>
 
 
-### Sample Pretreatment
+## Sample Pretreatment
 
 Sample pretreatment is an essential part of the LC–MS analytical workflow, particularly when analyzing complex samples containing target analytes at low concentrations. Removal of non-target sample components can minimize matrix interferences and improve the S/N ratio for the analytes of interest. Matrix compounds coeluted with a target analyte may cause suppression or enhancement of the analyte signal; these interferences are known as *matrix effects*. Matrix effects often manifest as a loss in MS <u>sensitivity</u> or specificity, and are prevalent in ESI because of the potential for charge competition on the droplet surface prior to emitting gas-phase ions. As an alternative, atmospheric pressure chemical ionization (APCI) may be employed if the analytes of interest are thermally stable and of moderate polarity (1). In APCI, the LC eluent is completely evaporated into a gas before ionization by the applied voltage of the corona needle. The ionized mobile-phase vapor then reacts with the analyte molecules to produce charged ions. Matrix effects tend to be less extensive in APCI, since ions are produced through gas-phase reactions instead of liquid-phase reactions (9).
 
@@ -79,7 +79,7 @@ Regardless of the sample preparation technique chosen, it is important to consid
 
 Other sources of exogenous chemicals include glassware (especially when cleaned with detergents), the use of non-MS-grade solvents and additives, or careless work practices that can introduce chemicals from the skin or surrounding environment. Without appropriate laboratory procedures and careful screening of sample pretreatment products, it is possible to inadvertently introduce contaminants into a sample. If samples are subjected to a concentration step, a decrease in S/N ratio may be observed, because both analytes and contaminants will be concentrated (9).
 
-### Mobile-Phase Composition
+## Mobile-Phase Composition
 
 The mobile phase plays a key role in LC–MS <u>sensitivity</u> by influencing the retention and ionization of target analytes. The use of high-purity solvents and additives is of utmost importance to prevent unwanted adduct formation and increased MS background. Similarly, only ultrapure water from a water purification system or bottled water suitable for LC–MS should be used for mobile-phase preparation. LC–MS spectra collected for MS-grade and HPLC-grade methanol showed significantly increased impurities in the HPLC-grade methanol, particularly in the low-molecular-weight ranges common for small-molecule analysis (<b>Figure 4</b>). It is apparent from this data how the use of lower grade solvents could contribute to reduced <u>sensitivity</u> and convoluted spectra, making accurate quantitation or spectra interpretation difficult. Mobile phases should be stored in borosilicate glass containers and "topping off" solvents should be avoided to prevent the accumulation of contaminants.
 
@@ -95,7 +95,7 @@ Mobile-phase buffers and acids also affect <u>ionization efficiency</u>. This st
 
 Enhancements in ionization efficiency have been observed by donating protons in the case of an acid modifier in positive-ion mode or by accepting protons in the case of a basic modifier in negative-ion mode. The latter was demonstrated for the negative ionization of two neutral estrogens, estrone and estriol, where their response triples when they are prepared in diluent containing 0.2% ammonium hydroxide compared to one that contains 0.2% acetic acid (14). Buffer salts containing ammonia (for example, ammonium formate or ammonium acetate) can increase the ionization efficiency of polar neutral compounds that cannot be ionized on their own by forming ammonium adducts. Ammonium salts can be used to prevent the formation of unwanted adducts by providing a constant supply of ammonium. For example, the LC–MS analysis of two cardiac glycosides, digoxin and digitoxin, is performed almost exclusively with ammonium formate modified mobile phases. Without ammonium formate, these compounds tend to form sodium adducts, which are difficult to fragment when analyzed by tandem MS (15).
 
-### LC Column Characteristics
+## LC Column Characteristics
 
 The desire for increased LC–MS <u>sensitivity</u> has trended towards the implementation of highly efficient LC columns using smaller particles (sub-2 µm) in combination with reduced column diameters (≤ 2.1 mm). The introduction of superficially porous particles (SPPs) has allowed for increased efficiency while reducing system pressure when compared to fully porous particles (FPPs). High efficiency columns theoretically translate to improved <u>sensitivity</u>; however, LC–MS system extracolumn volume, ionization efficiency, and data sampling rates must be considered to fully realize the benefits.
 
@@ -129,11 +129,11 @@ Smaller peak volumes also imply that a fast acquisition rate is required to coll
 </figure>
 
 
-### Conclusions
+## Conclusions
 
 Developing a sensitive and robust LC–MS method is a difficult task. Equipped with an understanding of the physicochemical properties of their target analytes, as well as the mechanisms and limitations of MS ionization and transmission efficiency, analysts can begin to make educated decisions to optimize overall response. The easiest and most effective way to improve <u>sensitivity</u> is through optimization of the ionization source conditions to ensure maximum production and transfer of gas-phase ions into the MS system. Careful selection of sample pretreatment procedures can reduce limits of detection by improving response and reducing interferences that could contribute to matrix effects and baseline noise. The use of efficient, narrow-bore LC columns, slower LC flow rates, and logical mobile phases can facilitate gains in signal intensity assuming extracolumn volumes are minimized and the data acquisition rates are appropriately set.
 
-### References
+## References
 
 <p id="ref">(1) R.K. Boyd, C. Basic, and R.A. Bethem, <em>Trace Quantitative Analysis by Mass Spectrometry, 1st Edition</em> (John Wiley & Sons Ltd, West Sussex, England, 2008), pp. 242, 249.</p>
 
