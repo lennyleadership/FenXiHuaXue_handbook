@@ -38,10 +38,11 @@ In many cases, the type of solvent and additives used and their purity in the el
 
 **<font class = "font_upper">Peak tailing</font>**. Select best column and chromatographic conditions to obtain symmetrical peaks. Optimization of method conditions must be performed to select the most suited buffer, pH, and if necessary, additives. For example, optimal pH value should be +/- 2 pH units of the analytes pKa value, in order to work with the nonionized form. Use of a steep gradient can often yield a sharper peak than isocratic mode alone. 
 
-**<font class = "font_upper">Conclusions</font>**: 
+
+## Conclusions
 
 In order to increase your chromatographic method sensitivity, chose one or few options to reduce baseline noise and/or make suggested improvements to increase signal intensity.  
 
 
-**<font class = "font_upper">Reference</font>**:  
+## Reference
 <a href = "https://www.sigmaaldrich.com/deepweb/assets/sigmaaldrich/marketing/global/documents/802/240/analytix-reporter-v9-nl7012en-ms.pdf#page=30" target="_blank" rel="noopener noreferrer">Dr. Egidijus Machtejevas, Analytix Reporter | Sigma Aldrich vol 9, 2021</a>

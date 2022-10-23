@@ -1,14 +1,14 @@
 ---
 weight: 14
+title: TEA Tri-ethyl-amine
 authors: Edited by Lenny Lin
 categories: 
-date: "2022-01-03"
+tags: [TEA]
 description: TEA Tri-ethyl-amine
 draft: false
+date: "2022-01-03"
 lastmod: "2022-01-03"
 series: 
-tags: []
-title: TEA Tri-ethyl-amine
 toc: true
 ---
 
