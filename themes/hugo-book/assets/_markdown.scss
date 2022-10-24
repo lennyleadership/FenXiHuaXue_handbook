@@ -14,7 +14,9 @@
   h4,
   h5,
   h6 {
+    text-transform: uppercase;
     font-weight: bolder;/*normal*/
+    font-size: 1rem;
     line-height: 1;
     margin-top: 1.5em;
     margin-bottom: $padding-16;
@@ -193,4 +195,156 @@
   > :last-child {
     margin-bottom: 0;
   }
+}
+
+
+/* image and text side-by-side */
+* {
+  box-sizing: border-box;
+}
+
+.row {
+  margin-left:-5px;
+  margin-right:-5px;
+  
+}
+  
+.column_left {
+  float: left;
+  padding: 20px; /* space between two tables*/
+  
+}
+
+.column_right {
+  float: right;
+  padding: 20px; /* space between two tables*/
+  
+}
+
+figure {
+  /*text-align: left;*/
+  font-style: italic;
+  font-size: smaller;
+  text-indent: 0;
+  margin: 0.5em;
+  padding: 0.5em;
+  display: table;
+}
+
+figcaption_top {
+  display: table-caption;
+  caption-side: top;
+}
+
+figcaption_bottom {
+  display: table-caption;
+  caption-side: bottom;
+}
+
+/* Clearfix (clear floats) */
+.row::after {
+  content: "";
+  clear: both;
+  display: table;
+}
+
+
+/* end of side-by-side*/
+
+
+/* section: Tooltip */
+.hovertip {
+  position: relative;
+  border-bottom: 1px dotted black;
+}
+
+.hovertip:before {
+  content: attr(tooltip_text);
+  visibility: hidden;
+  
+  overflow-y: inherit; /*new*/
+
+  width: 250px;
+  background-color: #add8e6;
+  color: black;
+  text-align: left;
+  border-radius: 5px;
+  padding: 5px 0;
+  /* fade-in*/
+  opacity: 0;  
+  transition: opacity 1s ease-in-out;
+
+  /* top tooltip*/
+  position: absolute; /*let tooltip wrap instead of overflow*/
+  z-index: 1;
+  left: 50%; /*auto;*/
+  bottom: 110%; /*auto;*/
+  margin-left: -60px;
+}
+
+.hovertip.hovertiptext::before {
+  content: " ";
+  position: absolute;
+  top: 100%; /* At the bottom of the tooltip */
+  left: 50%;
+  margin-left: -5px;
+  border-width: 5px;
+  border-style: solid;
+  border-color: black transparent transparent transparent;
+}
+
+.hovertip:hover:before {
+  opacity: 1;
+  visibility: visible;
+}
+
+/* Section end*/
+
+
+/* set the figure caption with the same wide of figure*/
+.caption_display {
+   display: inline-block;
+}
+/* the end */
+
+/*color style of hyperlink*/
+a:link {
+  color: darkred;
+  background-color: transparent;
+  text-decoration: none;
+}
+a:visited {
+  color: blue;
+  background-color: transparent;
+  text-decoration: none;
+}
+a:hover {
+  color: red;
+  background-color: transparent;
+  text-decoration: underline;
+}
+a:active {
+  color: yellow;
+  background-color: transparent;
+  text-decoration: underline;
+}
+/* the end*/
+
+
+/* quoting with background */
+.quote {
+  margin: 0;
+  background: #eee;
+  padding: 0.5em;
+  border-radius: 1em;
+}
+.quote figcaption,
+.quote blockquote {
+  margin: 1em;
+}
+/* the end */
+
+.font_upper {
+  text-transform: uppercase;
+  font-size: 1rem;
 }
