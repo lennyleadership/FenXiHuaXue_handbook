@@ -1,6 +1,6 @@
 ---
-weight: 
-title: 
+weight: 63
+title: 63 One-Quarter Fraction Design
 authors: edited by Lenny Lin
 categories: 
 tags: []

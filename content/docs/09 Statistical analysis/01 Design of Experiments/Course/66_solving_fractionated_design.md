@@ -1,6 +1,6 @@
 ---
-weight: 
-title: 
+weight: 66
+title: 66 Solving a Highly Fractionaged Design
 authors: edited by Lenny Lin
 categories: 
 tags: []

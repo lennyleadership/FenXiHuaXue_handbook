@@ -1,6 +1,6 @@
 ---
-weight: 
-title: 
+weight: 68
+title: 68 Choosing the Newxt Design
 authors: edited by Lenny Lin
 categories: 
 tags: []

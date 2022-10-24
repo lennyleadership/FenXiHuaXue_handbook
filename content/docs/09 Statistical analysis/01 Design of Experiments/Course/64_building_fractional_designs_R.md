@@ -1,6 +1,6 @@
 ---
-weight: 
-title: 
+weight: 64
+title: 64 Building Fractional Designs in R
 authors: edited by Lenny Lin
 categories: 
 tags: []

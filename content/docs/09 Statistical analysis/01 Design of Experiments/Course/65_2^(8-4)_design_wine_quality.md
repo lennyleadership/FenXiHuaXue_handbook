@@ -1,6 +1,6 @@
 ---
-weight: 
-title: 
+weight: 65
+title: 65 2^(8-4) Design for Wine Quality
 authors: edited by Lenny Lin
 categories: 
 tags: []
