@@ -1,14 +1,14 @@
 ---
 weight: 19
+title: 19 Why Using Factorial Design?
 authors: edited by Lenny Lin
 categories: 
-date: "2022-01-03"
+tags: []
 description: null
 draft: false
+date: "2022-01-03"
 lastmod: "2022-07-14"
 series: 
-tags: []
-title: 19 Why Using Factorial Design?
 toc: true
 ---
 

@@ -1,21 +1,20 @@
 ---
 weight: 17
+title: 17 Introduction to Factorial Design
 authors: edited by Lenny Lin
 categories: 
-date: "2022-01-03"
+tags: []
 description: null
 draft: false
+date: "2022-01-03"
 lastmod: "2022-07-14"
 series: 
-tags: []
-title: 17 Introduction to Factorial Design
 toc: true
 ---
-
-
-
+Section 3: Factorial Designs
 
 <!--more-->
+---
 
 Analyzing several factors simultaneously: factorial designs.  
 

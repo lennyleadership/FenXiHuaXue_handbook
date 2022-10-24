@@ -1,21 +1,20 @@
 ---
 weight: 23
+title: 23 Means Comparison by Tukey's Test and Final Conclusion
 authors: edited by Lenny Lin
 categories: 
-date: "2022-01-03"
+tags: []
 description: null
 draft: false
+date: "2022-01-03"
 lastmod: "2022-07-09"
 series: 
-tags: []
-title: 23 Means Comparison by Tukey's Test and Final Conclusion
 toc: true
 ---
-
-
-
+Section 3: Factorial Designs
 
 <!--more-->
+---
 
 After that analysis of variance, the next step is to compare the treatment means using Tukey's test. The table already shows final result as mean and standard deviation of the battery life for each treatment. Tukey's test compares the difference between two means to a limit value T-alpha to state if they are significantly different or not. The limit value T depends on the significance level, the number of treatments, the degrees of freedom of the error, the mean squares of the error and the number of replicates. The q-value can be read in a specific table, as we have already seen. This way, our calculated T-value is 61.9. 
 <br>

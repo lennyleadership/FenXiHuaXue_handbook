@@ -1,21 +1,21 @@
 ---
 weight: 18
+title: 18 Main Effects and Interactions Between Factors
 authors: edited by Lenny Lin
 categories: 
-date: "2022-01-03"
+tags: []
 description: null
 draft: false
+date: "2022-01-03"
 lastmod: "2022-07-14"
 series: 
-tags: []
-title: 18 Main Effects and Interactions Between Factors
 toc: true
 ---
 
-
-
+Section 3: Factorial Designs
 
 <!--more-->
+---
 
 Let's take a look in this example of a two-factor factorial experiment with both factors, A and B, being tested at two levels each. We call these levels low and high, and we use the minus and plus signs to identify them. To make it easier, let's take the example of the effect of the route and the hour of the day on the total time to commute from home to work. In this case, Factor A is the time we leave home, can be seven or eight a.m.. Factor B is the route we take, R1 or R2, and our response is the commute time in minutes.  
 

@@ -1,14 +1,14 @@
 ---
 weight: 12
+title: 12 Interpretation of the ANOVA Results
 authors: edited by Lenny Lin
 categories: 
-date: "2022-01-03"
+tags: []
 description: null
 draft: false
+date: "2022-01-03"
 lastmod: "2022-07-09"
 series: 
-tags: []
-title: 12 Interpretation of the ANOVA Results
 toc: true
 ---
 

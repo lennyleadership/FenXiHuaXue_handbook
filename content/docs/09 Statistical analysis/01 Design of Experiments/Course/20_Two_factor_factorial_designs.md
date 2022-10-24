@@ -11,11 +11,10 @@ tags: []
 title: 20 Two-Factor Factorial Designs
 toc: true
 ---
-
-
-
+Section 3: Factorial Designs
 
 <!--more-->
+---
 
 Let's take a look in this example of a Two-Factor factorial design. A researcher needs to design a battery to be use in extreme temperature variations. There are three choices of materials to be tested. Once the batteries in use, there is no control over the temperature that the device will encounter. And it is well known that the temperature affects effective battery life. The battery should be robust to temperature variation. The following questions must be answered. What effect the material type and temperature have on the life of the battery? And is there a choice of material that would give uniformly long life despite the temperature? The table shows the factorial design performed. This is the simplest type of `crossed factorial design` since it involves only two factors. Factor A tested at a levels. Factor B test at b levels. Each replicate of the experiments contains all ab treatment combinations, and `there are n replicates`. 
 <img width ="360" height= "200" src = "/docs/images/Screenshot 2022-07-14 213803.png" style ="float: left" HSPACE="10" VSPACE="10"/>

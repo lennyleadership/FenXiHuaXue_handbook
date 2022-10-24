@@ -1,21 +1,21 @@
 ---
 weight: 7
+title: 07 Introduction to Single-Factor Experiments
 authors: edited by Lenny Lin
 categories: 
-date: "2022-01-03"
+tags: []
 description: null
 draft: false
+date: "2022-01-03"
 lastmod: "2022-07-08"
 series: 
-tags: []
-title: 07 Introduction to Single-Factor Experiments
 toc: true
 ---
 
-
-
+Section 2: Experiments with a single factor
 
 <!--more-->
+---
 
 In the previous section, we have discussed methods for comparing two conditions or treatments. The example analyzed two cement formulations, with or without polymer. Another way to describe this experiment is as a single factor experiment with two levels of the factor. However, many single factor experiments involve more than two levels of the factor. This section focuses on methods for the design and the analysis of single factor experiments with an arbitrary number of the levels of the factor.   
 

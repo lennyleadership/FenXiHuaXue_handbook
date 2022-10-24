@@ -1,21 +1,20 @@
 ---
 weight: 22
+title: 22 Interpretation of the Results of a two-factor design
 authors: edited by Lenny Lin
 categories: 
-date: "2022-01-03"
+tags: []
 description: null
 draft: false
+date: "2022-01-03"
 lastmod: "2022-07-09"
 series: 
-tags: []
-title: 
 toc: true
 ---
-
-
-
+Section 3: Factorial Designs
 
 <!--more-->
+---
 
 Here we have the resulting analysis of variance table for the effects of the temperature and material on the battery life. We have the sources of variations, sum of squares, the degrees of freedom, the mean squares, the F-zero, the critical F and the p-value for the material, the temperature and the interaction between them. To remember, a factor or interaction is significant F-zero is higher than the critical F, meaning that the p-value is lower than the significance level alpha, usually 0.05. Before going further, it is important to point out that the critical F is not the same for all the tests. This is because of the different degrees of freedom of each term. The analysis of variance will help us to answer the following questions:  
 <div class ="row">
