@@ -1,6 +1,6 @@
 ---
-weight: 
-title: 
+weight: 59
+title: t('59 2<sup>4</sup>').html_safe
 authors: edited by Lenny Lin
 categories: 
 tags: []
