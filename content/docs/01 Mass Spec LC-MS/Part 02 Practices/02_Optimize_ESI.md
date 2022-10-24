@@ -69,14 +69,14 @@ A four-factor, two-level screening FFD was generated using JMP 8.0 statistical s
 
 In this type of design, the most important factors found from screening are tested in more detail, at higher resolution. Those significant variables were tested using CCD (for positive ionization) and BBD (for negative ionization) design with narrower ranges for each parameter. The choice of the two different types of design were based on the number of significant factors, with the aim of the minimization of amount of experimental runs. An experimental matrix for both designs with narrower limits for significant parameters is presented in <b>Table IV</b>.
 
-<center><img width ="540" height= auto src = "/docs/images/" /></center>
+<center><img width ="540" height= auto src = "/docs/images/Table4_web.webp" /></center>
 
 <br>
-<center><img width ="540" height= auto src = "/docs/images/" /></center>
+<center><img width ="540" height= auto src = "/docs/images/Table5_web.webp" /></center>
 
 ## Results and Discussion
 
-Screening of Significant Variables Using Fractional Factorial Design
+### Screening of Significant Variables Using Fractional Factorial Design
 
 In our study, two levels were chosen for each of the tested parameters, maximum (+1) and minimum (-1), which covered the operational and practical range. The center points at level 0 were also added to assess the linearity of the responses within the examined range and to evaluate system error. After incorporation of all information (factors, levels, and responses) into the statistical program, the design resolution was chosen: resolution IV. In practice, resolution denotes the degree of alias, which would be allowed in the study. Resolution IV means that main effects are not confounded with other main effects or two-factor interactions. However, two-factor interactions are confounded with other two-factor interactions. Afterwards, the DoE plan was generated with a list of experiments to be performed. Based on these experiments, each parameter’s effect was calculated and extrapolated to the entire response system. In our study, the generated design covered only 11 experimental runs with inclusion of three center points. Performance order was randomized. The drying gas flow, temperature, capillary voltage, and nebulizer pressure parameters were examined in ranges, which reflected the operational settings used in our laboratory. The change of the response, peak areas of both analytes, reflects the difference in the electrospray ionization, which results from various ion source factor settings.
 
@@ -84,41 +84,68 @@ The coefficients of the response function, their statistical significance and an
 
 The brief summary of screening statistics is presented in Figures 1–4. The half normal probability plot (Figure 1) shows the absolute value of the contrast (estimated factor effect) against the normal quantiles for the absolute value of normal distribution. Significant effects, which contribute the most of the variance to the response, are separated from the line toward the upper right and are marked in red. Figure 2 presents the list of main factors and interactions with their corresponding contrasts, *t*-ratios and *p*-values (significant factors are highlighted in black). A factor at *p* < 0.1 (90% confidence level) was considered statistically significant. Factors at *p* < 0.05 (95% confidence level) were marked with an asterisk. The contrasts present the degree of the impact onto response. Those that are large in magnitude value induced the greatest effect on the response. The sign for contrast (+ or -) indicates whether the settings of parameters should be maximized (+1) or minimized (-1) to achieve the best response. For the positive ionization mode, two of the four main parameters were considered important, namely temperature and flow rate of the drying gas. For the ionization in the negative mode, the most critical variables were gas temperature, gas flow rate, and nebulizer pressure.
 
-Figure 1: A half-normal quantile plot that describes the factors and interactions which were assessed as significant (marked as red circle). (a) Positive ionization, (b) negative ionization.
+<figure>
+  <img width = "540" src = "/docs/images/Siluk_fig1_web.webp"/>
+  <figcaption_bottom><b>Figure 1</b>: A half-normal quantile plot that describes the factors and interactions which were assessed as significant (marked as red circle). (a) Positive ionization, (b) negative ionization.</figcaption_bottom>
+</figure>
 
-Figure 2: List of factors and interactions that were examined to provide contrasts. Those highlighted in black are significant within 90% confidence level and those additionally marked with an asterisk within 95% confidence. (a) Positive ionization, (b) negative ionization.
+<br>
+<figure>
+  <img width = "540" src = "/docs/images/Siluk_fig2_web.webp"/>
+  <figcaption_bottom><b>Figure 2</b>: List of factors and interactions that were examined to provide contrasts. Those highlighted in black are significant within 90% confidence level and those additionally marked with an asterisk within 95% confidence. (a) Positive ionization, (b) negative ionization.</figcaption_bottom>
+</figure>
+
 
 The identification of the most critical main factors for the ESI positive and negative ionization modes seem to be predictable. The ions are formed in the solution phase and afterwards are changed into gas phase before entering into mass spectrometer. Because of that, the parameters such as drying gas temperature and drying gas flow rate are crucial for the desolvation process of the electrosprayed droplets, the formation, and control of the size of these droplets. The nebulizer pressure determines nebulization process efficiency, which altogether with drying gas temperature and flow rate, play the leading role in the quality and quantity of the ions produced in the source. For the other variable, capillary voltage, which was applied to the heated capillary, only the partial effect was observed and the factor was not considered as significant for both ionization modes.
 
 The gas flow rate was found to be the most significant main factor in terms of induced change to both studied responses. In addition, a few two-factor interactions were found significant, which would not be investigated in the OVAT procedure. For positive ionization, interaction between drying gas flow rate and its temperature was found important. For negative mode, two-factor interaction between gas temperature and nebulizer pressure was statistically significant.
 
-Figure 3 presents a prediction profiler plot that visualizes how the levels of each factor affects the other, using standard least-squares analysis. Application of this plot allows the global response modeling, maximization and calculation of each factor coefficients that cause rise to the maximum response. The values marked in red, above the factor names, characterize the globally predicted optimal settings.
+<b>Figure 3</b> presents a prediction profiler plot that visualizes how the levels of each factor affects the other, using standard least-squares analysis. Application of this plot allows the global response modeling, maximization and calculation of each factor coefficients that cause rise to the maximum response. The values marked in red, above the factor names, characterize the globally predicted optimal settings.
+<br>
+<figure>
+  <img width = "540" src = "/docs/images/Siluk_fig3_web.webp"/>
+  <figcaption_bottom>Figure 3: Screening design–prediction profiler that models the system and predicts the optimal combination of settings (shown in red above each factor). (a) Positive ionization, (b) negative ionization.</figcaption_bottom>
+</figure>
 
-Figure 3: Screening design–prediction profiler that models the system and predicts the optimal combination of settings (shown in red above each factor). (a) Positive ionization, (b) negative ionization.
 
-Optimization of Significant Variables Using Response Surface Methodology
+### Optimization of Significant Variables Using Response Surface Methodology
 
 The parameters, which were assessed as insignificant within the tested ranges, were kept constant at settings that were predicted in FFD to achieve the most optimal response (as seen in Figure 4). Thus, nebulizer pressure was set at 35 psi in the positive ionization mode while in both ionization modes the capillary voltage was set at 3000 V. Next, narrower ranges for statistically significant factors were set by limiting the values that were within 95.0% confidence interval-where the red horizontal dashed line is crossed by blue dashed line (see Figure 4). The typed parameters with shorter ranges and design matrix were already presented in Table IV. All experiments were carried out in randomized order with a standard solution of 0.05 µg/mL and 1 µg/mL for 7-methylguanine and glucuronic acid, respectively.
 
-Figure 4: Response surface design–prediction profiler that models the system and predicts the optimal combination of settings (shown in red above each factor). (a) Positive ionization, (b) negative ionization.
+<br>
+<figure>
+  <img width = "540" src = "/docs/images/Siluk_fig4_web.webp"/>
+  <figcaption_bottom><b>Figure 4</b>: Response surface design–prediction profiler that models the system and predicts the optimal combination of settings (shown in red above each factor). (a) Positive ionization, (b) negative ionization.</figcaption_bottom>
+</figure>
+
 
 Summarizing the statistics, an actual by predicted plot was generated to visualize the fitting of empirically obtained data to the data predicted by regression analysis. For both models the data are fitted very well, with *R*2 of 0.988 for CCD and 0.984 for BBD. In results of ANOVA, both models were considered significant (Prob > F 0.0006 for both) and the lack-of-fit test revealed that the obtained data were appropriate to the generated models (Prob > F 0.5789 for BBD and Prob > F 0.8309 for CCD). ANOVA results for CCD showed that of the two examined factors, drying gas flow rate and temperature, both appeared to be significant and the drying gas flow rate had the highest influence on the response. Moreover, the second order interaction of drying gas flow was also statistically important. For BBD, three of the tested factors (drying gas flow rate, gas temperature, and nebulizer pressure) were found significant as well as two-factor interaction between gas flow and gas temperature, which had the highest influence on the response, and quadratic interaction of nebulizer pressure and gas temperature. The prediction profiler was applied to achieve the combination of parameter settings to gain the best response (Figure 4). The most optimal combination is shown in red above each parameter.
 
-Additionally, to visualize the level of each variable for maximum response, three-dimensional response surface plots were generated by plotting the response on the *Z*-axis against two parameters. The response surface plots for both responses with the most influential main variable, gas flow rate, are presented in Figure 5. For CCD, it could be seen that peak area of 7-methylguanine increases together with an increase of gas flow and simultaneous increase of gas temperature, which results from ESI operational principles. For BBD, it was found that the response obtained for glucuronic acid (peak area in negative ionization) increases with an increase of gas flow rate and decrease of gas temperature. In the function of gas flow rate and nebulizer pressure, the increase of response is observed when the gas flow rate is increased and the nebulizer pressure is decreased. The observations given above together with the most significant factors (gas flow and gas temperature) found to influence glucuronic acid peak area, are probably due to the fragility of the compound in the tested conditions. It should be noted that the optimal conditions predicted by the model in the screening design, match quite well with the results gained in response surface designs.
+Additionally, to visualize the level of each variable for maximum response, three-dimensional response surface plots were generated by plotting the response on the *Z*-axis against two parameters. The response surface plots for both responses with the most influential main variable, gas flow rate, are presented in <b>Figure 5</b>. For CCD, it could be seen that peak area of 7-methylguanine increases together with an increase of gas flow and simultaneous increase of gas temperature, which results from ESI operational principles. For BBD, it was found that the response obtained for glucuronic acid (peak area in negative ionization) increases with an increase of gas flow rate and decrease of gas temperature. In the function of gas flow rate and nebulizer pressure, the increase of response is observed when the gas flow rate is increased and the nebulizer pressure is decreased. The observations given above together with the most significant factors (gas flow and gas temperature) found to influence glucuronic acid peak area, are probably due to the fragility of the compound in the tested conditions. It should be noted that the optimal conditions predicted by the model in the screening design, match quite well with the results gained in response surface designs.
 
-Figure 5: Response surface plots in function of main significant variable, drying gas flow rate. (a) Positive ionization, (b) negative ionization-in function with drying gas temperature, and (c) negative ionization-in function with nebulizer pressure.
+<br>
+<figure>
+  <img width = "540" src = "/docs/images/Siluk_fig5_web.webp"/>
+  <figcaption_bottom><b>Figure 5</b>: Response surface plots in function of main significant variable, drying gas flow rate. (a) Positive ionization, (b) negative ionization-in function with drying gas temperature, and (c) negative ionization-in function with nebulizer pressure.</figcaption_bottom>
+</figure>
 
-Final optimal conditions for the maximum response of 7-methylguanine were as follows: drying gas temperature, 320 °C; drying gas flow rate, 10 L/min; capillary voltage, 3000 V; and nebulizer pressure, 30 psi. Final optimal conditions for glucuronic acid were as follows: drying gas temperature, 270 °C; drying gas flow rate, 10 L/min; capillary voltage, 3000 V; and nebulizer pressure, 35 psi. Those settings were applied in further metabolomics studies on selected metabolites in human urine samples. Exemplary MRM chromatograms for 18 standards of metabolites and a urine sample, obtained under the final defined conditions are presented in Figure 6.
 
-Figure 6: Exemplary MRM chromatograms for (a) standards solution and (b) urine sample obtained in positive and negative (main and inset figures, respectively) mode. Peaks: 1 = 1,7-dimethylxanthine, 2 = trimethyllysine, 3 = acetyllysine, 4 = citrulline, 5 = taurine, 6 = pseudouridine, 7 = *N*-acetylneuraminic acid, 8 = 7-methylguanine, 9 = xanthine, 10 = uridine, 11 = 2-furoylglycine, 12 = tryptophan, 13 = hippuric acid, 14 = gluconic acid, 15 = glucuronic acid, 16 = aconitic acid, 17 = 1-methyluric acid, 18 = 3,7 dimethyluric acid.
+Final optimal conditions for the maximum response of 7-methylguanine were as follows: drying gas temperature, 320 °C; drying gas flow rate, 10 L/min; capillary voltage, 3000 V; and nebulizer pressure, 30 psi. Final optimal conditions for glucuronic acid were as follows: drying gas temperature, 270 °C; drying gas flow rate, 10 L/min; capillary voltage, 3000 V; and nebulizer pressure, 35 psi. Those settings were applied in further metabolomics studies on selected metabolites in human urine samples. Exemplary MRM chromatograms for 18 standards of metabolites and a urine sample, obtained under the final defined conditions are presented in <b>Figure 6</b>.
 
-Conclusions
+<br>
+<figure>
+  <img width = "540" src = "/docs/images/Siluk_fig6_web.webp"/>
+  <figcaption_bottom></figcaption_bottom>
+</figure>
+<b>Figure 6</b>: Exemplary MRM chromatograms for (a) standards solution and (b) urine sample obtained in positive and negative (main and inset figures, respectively) mode. Peaks: 1 = 1,7-dimethylxanthine, 2 = trimethyllysine, 3 = acetyllysine, 4 = citrulline, 5 = taurine, 6 = pseudouridine, 7 = *N*-acetylneuraminic acid, 8 = 7-methylguanine, 9 = xanthine, 10 = uridine, 11 = 2-furoylglycine, 12 = tryptophan, 13 = hippuric acid, 14 = gluconic acid, 15 = glucuronic acid, 16 = aconitic acid, 17 = 1-methyluric acid, 18 = 3,7 dimethyluric acid.
+
+## Conclusions
 
 The DoE approach is favored for global optimization of complex systems characterized by multiple variables and settings. Optimization of such complex experimental domains using the OVAT approach might be ineffective and economically unjustified due to neglecting interactions between studied factors and the large number of experiments to be conducted.
 
 A step-by-step optimization procedure utilized in the present article describes the systematic approach in method development with the aim to increase the potential of the ESI source. Comprehensive and planned experimental assessment allowed us to select the most significant variables and establish source settings to obtain maximized response, peak areas of two metabolites (7-methylguanine and glucuronic acid), and allowed further metabolomic studies of human urine. Afterward, the most optimal ESI source conditions were applied in a metabolomics study to quantify concentrations of 18 metabolites in human urine samples.
 
-References
+## References
 
 - M. Wilm, *Mol. Cell Proteomics10(7), 1–8 (2011).
 - R. Aebersold and M. Mann, *Nature422(6928), 198–207 (2003).
