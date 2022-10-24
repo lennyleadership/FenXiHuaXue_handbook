@@ -1,21 +1,20 @@
 ---
 weight: 5
+title: 05 Hypothesis Testing (t-Test & F-Test)
 authors: edited by Lenny Lin
 categories: 
-date: "2022-01-03"
+tags: []
 description: null
 draft: false
+date: "2022-01-03"
 lastmod: "2022-07-08"
 series: 
-tags: []
-title: 05 Hypothesis Testing (t-Test & F-Test)
 toc: true
 ---
-
-
-
+series: "Section 1: Introduction - do the Design of Experiments"
 
 <!--more-->
+--- 
 
 Now, going back to our initial problem: the results from an experiment are considered as <mark>a sample of the population</mark>. From the data we know that the sample mean of the unmodified formulation is slightly higher than the sample mean from modified one. However, <mark>the observed difference in the average results is due to the polymer addition or is due to the noise the system</mark>? In other words, <mark>is the difference significant</mark>? To answer this question, we are going to use <mark>a statistical technique called hypothesis testing</mark>. We are going to test two hypothesis: The null hypothesis, H<sub>0</sub>, that states that the means are equal, in our case, that the polymer addition does not affect the strength. And the alternative hypothesis, H<sub>1</sub>, that states that the means are different, in our case, the polymer addition does affect the strength.   
 

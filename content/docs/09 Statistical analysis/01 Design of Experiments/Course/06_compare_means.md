@@ -1,21 +1,21 @@
 ---
 weight: 6
+title: 06 Comparing Treatment Means
 authors: edited by Lenny Lin
 categories: 
-date: "2022-01-03"
+tags: []
 description: null
 draft: false
+date: "2022-01-03"
 lastmod: "2022-07-09"
 series: 
-tags: []
-title: 08 Comparing Treatment Means
 toc: true
 ---
 
-
-
+series: "Section 1: Introduction - do the Design of Experiments"
 
 <!--more-->
+---
 
 After performing the analysis of variance, we know that the cotton percentage affects the tensile strength at a p-value of 9×10<sup>-6</sup>. However, we can see that the results at 15 and 35 percent are quite similar. 
 <img width ="360" height= "200" src = "/docs/images/Screenshot 2022-07-09 110942.png" style ="float: left" HSPACE="10" VSPACE="10"/>

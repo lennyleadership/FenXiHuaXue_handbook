@@ -11,7 +11,7 @@ lastmod: "2022-07-08"
 series: 
 toc: true
 ---
-
+series: "Section 1: Introduction - do the Design of Experiments"
 <!--more-->
 ---
 

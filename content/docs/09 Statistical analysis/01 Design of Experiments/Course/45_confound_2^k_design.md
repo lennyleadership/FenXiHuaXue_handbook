@@ -11,11 +11,10 @@ lastmod: "2022-08-02"
 series: 
 toc: true
 ---
-
-
-
+Section 7: Blocking a Factorial Design
 
 <!--more-->
+---
 
 We have just seen that when it is not possible to **run a factorial design in homogeneous conditions, we can run `each replicate` in a block**. However, sometimes even a complete replicate doesn't fit in one block.  
 <div class = "row">

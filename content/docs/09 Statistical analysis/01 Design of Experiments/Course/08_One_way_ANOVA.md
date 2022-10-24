@@ -8,7 +8,7 @@ draft: false
 lastmod: "2022-07-09"
 series: 
 tags: []
-title: One-Way ANOVA
+title: 08 One-Way ANOVA
 toc: true
 ---
 

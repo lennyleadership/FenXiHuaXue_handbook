@@ -11,12 +11,10 @@ lastmod: "2022-08-02"
 series: 
 toc: true
 ---
-
-
-
+Section 7: Blocking a Factorial Design
 
 <!--more-->
-
+---
 Let's start our analysis by opening the csv file. Let's start our analysis by opening the csv file. In this data file, we have the columns for the coded variables xT, xP, xC and xW. We have also `the natural variable`s temperature, pressure, concentration and stirring rate. We have a column for the blocks and then we have two columns for responses, filtration rate one and filtration rate two. The results in this example are the filtration rate one, FR1, that is the one that we are going to use in our analysis.   
 
 Now, let's check the file structure: We can see here that we have 16 observations of 11 variables and all variables are numerical. To run `the analysis of variance`, we need variables as factors. So let's create factor T for temperature, factor P for pressure factor C for the concentration, factor &#969; for the stirring rate; and for the block we are not going to create a new variable, but we are going to transform the existing one, block, as as numerical to factor. 

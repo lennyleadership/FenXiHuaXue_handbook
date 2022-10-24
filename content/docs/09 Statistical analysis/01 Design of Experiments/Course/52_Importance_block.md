@@ -11,11 +11,10 @@ lastmod: "2022-08-02"
 series: 
 toc: true
 ---
-
-
-
+Section 7: Blocking a Factorial Design
 
 <!--more-->
+---
 <img width ="360" height= "200" src = "/docs/images/Screenshot 2022-08-04 223823.png" style ="float: left" HSPACE="10" VSPACE="10"/>
 But why blocking is important? Let's go back to the beginning of our problem. We have two batches of raw material to run this 2ˆ4 factorial design. However, let's suppose we have skipped that class about blocks and then we decided to distribute the raw material randomly among the runs. And this is not the bad decision at the first glance. Here we have the raw material randomly distributed. However, Batch A is still of low quality, and the results are 20 units lower. So let's reduced by 20 units all the results from batch A, and now we have our final results to analyze. As an exercise, you can use R to analyze this example. The response is the FR2 column in the data file. I will skip directly to the results.  
 

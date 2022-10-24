@@ -11,11 +11,11 @@ lastmod: "2022-08-02"
 series: 
 toc: true
 ---
-
-
-
+Section 7: Blocking a Factorial Design
 
 <!--more-->
+---
+
 <img width ="360" height= "200" src = "/docs/images/Screenshot 2022-08-04 210054.png" style ="float: left" HSPACE="10" VSPACE="10"/>
 To illustrate the use of blocks in a 2<sup>k</sup> design Let's use the example of the single replicate of a 2<sup>4</sup> design that we have already analyzed, and split it in two blocks. The drawing shows a chemical reactor followed by a filtration system. The experimenter wants to evaluate how the variables, temperature, pressure, concentration of reactant, and stirring rate affect the filtration rate. Each factor is being tested at two levels each: a low level and the high level. 
 <img width ="360" height= "200" src = "/docs/images/Screenshot 2022-08-04 210225.png" style ="float: left" HSPACE="10" VSPACE="10"/>

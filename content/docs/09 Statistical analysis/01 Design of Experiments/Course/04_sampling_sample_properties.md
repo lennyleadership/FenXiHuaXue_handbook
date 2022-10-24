@@ -1,21 +1,22 @@
 ---
 weight: 4
+title: 04 Sampling and Sample Properties
 authors: edited by Lenny Lin
 categories: 
-date: "2022-01-03"
+tags: []
 description: null
 draft: false
+date: "2022-01-03"
 lastmod: "2022-07-08"
 series: 
-tags: []
-title: 04 Sampling and Sample Properties
 toc: true
 ---
 
-
+series: "Section 1: Introduction - do the Design of Experiments"
 
 
 <!--more-->
+---
 
 Before going further in this example, let's talk a little bit about sampling and sample properties. Consider the following: For a science fair, a student, determined the average height of his or her classmates. The response variable, The thing that this tool than this measuring is the height. As the classmates have different heights, We can characterize the data by the average or mean: the sum of all observations divided by the total number of observations, and by the variance: the difference between each individual observation and the mean, to the square. The variance measures the spread of the population around the mean. In this case, this student used the whole population of the classroom to determine the mean height and the height variability.   
 

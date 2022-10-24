@@ -221,6 +221,15 @@
   
 }
 
+/* Clearfix (clear floats) */
+.row::after {
+  content: "";
+  clear: both;
+  display: table;
+}
+/* end of side-by-side*/
+
+
 figure {
   /*text-align: left;*/
   font-style: italic;
@@ -240,17 +249,6 @@ figcaption_bottom {
   display: table-caption;
   caption-side: bottom;
 }
-
-/* Clearfix (clear floats) */
-.row::after {
-  content: "";
-  clear: both;
-  display: table;
-}
-
-
-/* end of side-by-side*/
-
 
 /* section: Tooltip */
 .hovertip {
@@ -297,7 +295,6 @@ figcaption_bottom {
   opacity: 1;
   visibility: visible;
 }
-
 /* Section end*/
 
 
@@ -306,6 +303,7 @@ figcaption_bottom {
    display: inline-block;
 }
 /* the end */
+
 
 /*color style of hyperlink*/
 a:link {
@@ -343,6 +341,7 @@ a:active {
   margin: 1em;
 }
 /* the end */
+
 
 .font_upper {
   text-transform: uppercase;

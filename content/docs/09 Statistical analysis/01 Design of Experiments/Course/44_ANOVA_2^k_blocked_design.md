@@ -11,11 +11,10 @@ lastmod: "2022-08-02"
 series: 
 toc: true
 ---
-
-
-
+Section 7: Blocking a Factorial Design
 
 <!--more-->
+---
 
 Let's start the analysis of the 2<sup>^</sup>2 design, with replicates and blocks by loading the experimental data from the csv file the experimental data from the csv file.  
 

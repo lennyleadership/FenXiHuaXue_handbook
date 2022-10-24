@@ -11,11 +11,11 @@ lastmod: "2022-08-02"
 series: 
 toc: true
 ---
-
-
-
+Section 7: Blocking a Factorial Design
 
 <!--more-->
+---
+
 <img width ="720" height= "400" src = "/docs/images/Screenshot 2022-08-04 221740.png" style ="float: left" HSPACE="10" VSPACE="10"/>
 Let's start running the regression model with the coded variables. We are taking into account all factors and interactions that were significant in the analysis of variance. 
 <img width ="360" height= "200" src = "/docs/images/Screenshot 2022-08-04 221950.png" style ="float: left" HSPACE="10" VSPACE="10"/>
