@@ -1,6 +1,6 @@
 ---
 weight: 59
-title: t('59 2<sup>4</sup>').html_safe
+title: 59 2<sup>4</sup>
 authors: edited by Lenny Lin
 categories: 
 tags: []
@@ -10,6 +10,7 @@ date: "2022-10-24"
 lastmod: "2022-10-24"
 series: 
 toc: true
+require_mathjax: true
 ---
 Section 8: Fractional Designs 
 
