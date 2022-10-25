@@ -49,7 +49,7 @@ pie(
 ```
 
 
-```{r, echo=F}
+```{r, echo=T}
 ggplot(cars, aes(x = speed, y = dist))+
   geom_point()
 
