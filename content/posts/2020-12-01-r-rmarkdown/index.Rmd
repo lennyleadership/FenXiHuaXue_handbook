@@ -50,7 +50,9 @@ pie(
 
 
 ```{r, echo=T}
-ggplot(cars, aes(x = speed, y = dist))+
+p <- ggplot(cars, aes(x = speed, y = dist))+
   geom_point()
+
+p
 
 ```
