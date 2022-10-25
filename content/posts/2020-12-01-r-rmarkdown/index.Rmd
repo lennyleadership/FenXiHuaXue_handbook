@@ -52,5 +52,5 @@ pie(
 ```{r, echo=F}
 ggplot(cars, aes(x = speed, y = dist))+
   geom_point()
-class(cars$dist)
+
 ```
