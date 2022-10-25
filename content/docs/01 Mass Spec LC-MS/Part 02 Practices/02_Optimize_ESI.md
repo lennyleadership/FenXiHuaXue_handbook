@@ -148,7 +148,7 @@ A step-by-step optimization procedure utilized in the present article describes 
 ## References
 
 - M. Wilm, <i>Mol. Cell Proteomics</i> <b>10</b>(7), 1–8 (2011).
-- R. Aebersold and M. Mann, <i>Nature</i> <b>422<b>(6928), 198–207 (2003).
+- R. Aebersold and M. Mann, <i>Nature</i> <b>422</b>(6928), 198–207 (2003).
 - W. Struck, D. Siluk, A. Yumba-Mpanga, M. Markuszewski, R. Kaliszan, and M.J. Markuszewski, <i>J. Chromatogr.</i> <b>A1283</b>, 122–131 (2013).
 - K. Macur, C. Temporini, G. Massolini, J. Grzenkowicz-Wydra, M. Obuchowski, and T. Baczek, <i>Proteome Sci.</i> <b>8</b>(60), 1–8 (2010).
 - R. Bujak, R. GadzaÅa-Kopciuch, A. Nowaczyk, J. Raczak-Gutknecht, M. Kordalewska, W. Struck-Lewicka, M.J. Markuszewski, and B. Buszewski, <i>Talanta</i> <b>146</b>, 401–409 (2016).
