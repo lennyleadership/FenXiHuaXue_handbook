@@ -58,4 +58,4 @@ ggsave(plot = p, filename = "index_files/figure-html/p.png", width = 4, height =
 ```
 
 
-<img src="{{< blogdown/postref >}}index_files/figure-html/p.png" />
+<img src="/index_files/figure-html/p.png" />

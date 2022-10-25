@@ -53,17 +53,6 @@ Figure 1: A fancy pie chart.
 <pre class="r"><code>p &lt;- ggplot(cars, aes(x = speed, y = dist))+
   geom_point()
 
-p</code></pre>
-<p><img src="{{< blogdown/postref >}}index_files/figure-html/unnamed-chunk-2-1.png" width="672" /></p>
-<script>
-$(document).ready(function() {
-  hljs.configure({ classPrefix: '', useBR: false, languages: ['r', 'bash', 'python', 'c++'] });
-  $('pre.code-highlight > code, pre > code').each(function(i, block) {
-    if (!$(this).hasClass('codeblock')) {
-      $(this).addClass('codeblock');
-    }
-    hljs.highlightBlock(block);
-  });
-});
-</script>
+ggsave(plot = p, filename = &quot;index_files/figure-html/p.png&quot;, width = 4, height = 4)</code></pre>
+<p><img src="/index_files/figure-html/p.png" /></p>
 </div>
