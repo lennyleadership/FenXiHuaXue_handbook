@@ -1,7 +1,7 @@
 ---
 weight: 2
 authors: Rosane Rech, edited by Lenny Lin
-title: DoE for Optimization
+title: "Course: DoE for Optimization"
 categories: 
 description:
 draft: false

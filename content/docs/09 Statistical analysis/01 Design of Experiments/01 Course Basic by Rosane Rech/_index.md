@@ -1,7 +1,7 @@
 ---
 weight: 1
 authors: Rosane Rech, edited by Lenny Lin
-title: "Case : ESI optimization"
+title: "Course: Basic DoE"
 categories: 
 description:
 draft: false

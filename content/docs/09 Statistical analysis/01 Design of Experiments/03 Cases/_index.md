@@ -1,7 +1,7 @@
 ---
-weight: 1
+weight: 3
 authors: Lenny Lin
-title: Design of Experiments
+title: Cases
 categories: 
 description:
 draft: false
