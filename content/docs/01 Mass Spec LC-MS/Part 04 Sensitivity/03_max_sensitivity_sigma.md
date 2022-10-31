@@ -43,7 +43,7 @@ Impurities in or contaminants of solvents and additives can accumulate on the st
 
 <figure>
   <img width = "360" src = "/docs/images/accumulation-of-contaminants.webp"/>
-  <figcaption><b>Figure 1</b>.Accumulation of contaminants on an HPLC column</figcaption>
+  <figcaption_bottom><b>Figure 1</b>.Accumulation of contaminants on an HPLC column</figcaption_bottom>
 </figure>
 
 
@@ -75,8 +75,8 @@ Bottles have to be sealed and connected to the HPLC system using professional ca
 Avoid plastic devices such as bottles, funnels, beakers, or gloves which can leach additives like plasticizers, anti-static agents, stabilizers or anti-slipping agents (**Figure 2**). The only exceptions are devices that have been tested for leachables and extractables by the manufacturer, e.g., pipette tips or syringes.
 
 <figure>
-  <img width = "360" src = "/docs/images/mass-spectra-of-two-milli-q.jpg"/>
-  <figcaption><b>Figure 2</b>.Mass spectra of two Milli-Q<sup>&reg;</sup> water samples stored in polypropylene (A) and clean amber glass bottles (B), respectively (bottom), and TICs of the same samples (top). The analyses were performed via direct injection of the solvents into the MS operated in positive ESI mode.</figcaption>
+  <img width = "540" src = "/docs/images/mass-spectra-of-two-milli-q.jpg"/>
+  <figcaption_bottom><b>Figure 2</b>.Mass spectra of two Milli-Q<sup>&reg;</sup> water samples stored in polypropylene (A) and clean amber glass bottles (B), respectively (bottom), and TICs of the same samples (top). The analyses were performed via direct injection of the solvents into the MS operated in positive ESI mode.</figcaption_bottom>
 </figure>
 
 
@@ -139,3 +139,7 @@ Alternatively, regular flushing of the HPLC system with organic solvent, prefera
 Mass spectrometry is a powerful technique for identification and quantification of molecules within complex mixtures. The success of mass spectrometry strongly depends on reducing contamination throughout the entire LC-MS workflow: from sample preparation to equipment cleaning. An important first step in this process is the exclusive use of highest quality materials for LC-MS, including solvents, buffers, reagents and columns. The combination of ultra-pure solvents and reagents with contamination-free handling ensures maximized LC-MS sensitivity and low LODs.
 
 *First published in Chromatography Today*, volume 10, issue 4, *Buyers Guide* November/December 2017.
+
+## Source
+
+<a href = "https://www.sigmaaldrich.com/CA/en/technical-documents/technical-article/analytical-chemistry/small-molecule-hplc/tips-and-tricks-sensitivity-gains-in-lcms" target="_blank" rel="noopener noreferrer">Millipore Sigma: Analytix Reporter - Issue 2: How to Maximize Sensitivity in LC-MS</a>
