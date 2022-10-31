@@ -29,13 +29,13 @@ Typical solvents utilized in LC-MS include water, acetonitrile, methanol, isopro
 
 The quality of the above-mentioned solvents and additives strongly influences the sensitivity of MS detection; therefore, utilization of MS grade solvents and ultrapure additives is mandatory. Make sure that these reagents are labeled as LC-MS grade by the manufacturer.
 
-Generally, organic solvents for HPLC, such as acetonitrile and methanol, are available in three qualities: Isocratic grade, gradient grade and hypergrade for LC-MS LiChrosolv <sup>&reg;</sup>. For MS analysis, hypergrade quality solvents should be used to ensure best performance and reliable results.
+Generally, organic solvents for HPLC, such as acetonitrile and methanol, are available in three qualities: Isocratic grade, gradient grade and hypergrade for LC-MS LiChrosolv<sup>&reg;</sup>. For MS analysis, hypergrade quality solvents should be used to ensure best performance and reliable results.
 
-With regard to water, bottled or Milli-Q <sup>&reg;</sup> ultrapure water from water purification systems are suitable for use with MS instrumentation. In case of low water consumption, bottled water is preferable, whereas Milli-Q <sup>&reg;</sup> water is suggested in an environment with higher consumption. Milli-Q <sup>&reg;</sup> systems deliver type I water and are a perfect match with LC-MS analysis. They should be used/flushed regularly in order to maintain or even further improve water quality.
+With regard to water, bottled or Milli-Q<sup>&reg;</sup> ultrapure water from water purification systems are suitable for use with MS instrumentation. In case of low water consumption, bottled water is preferable, whereas Milli-Q<sup>&reg;</sup> water is suggested in an environment with higher consumption. Milli-Q<sup>&reg;</sup> systems deliver type I water and are a perfect match with LC-MS analysis. They should be used/flushed regularly in order to maintain or even further improve water quality.
 
 Buffers are utilized to set and control the pH of a specific chromatographic separation and to protonate or deprotonate analytes in solution, which can support the electrospray ionization process. For LC-MS, only volatile buffers and additives such as ammonium formate or acetate or triethylamine should be utilized. The use of nonvolatile buffers (e.g., sulfates, phosphates, borates) will cause precipitation in the MS source and ultimately result in tedious cleaning procedures. High buffer concentrations might lead to signal suppression.
 
-Buffers ionize an analyte molecule M, but the formation of adducts [M+buffer] with, e.g., ammonium, formate or acetate is possible. This causes additional signals with specific *m/z* values in a spectrum which may compromise quantitative analyses. Consequently, for samples with high salt load such as food, body fluids or tissue, a desalting step using solid phase extraction (SPE) (e.g., Supel™-Select HLB, or LiChrolut <sup>&reg;</sup> and Supelclean <sup>&reg;</sup> cartridges) is recommended.
+Buffers ionize an analyte molecule M, but the formation of adducts [M+buffer] with, e.g., ammonium, formate or acetate is possible. This causes additional signals with specific *m/z* values in a spectrum which may compromise quantitative analyses. Consequently, for samples with high salt load such as food, body fluids or tissue, a desalting step using solid phase extraction (SPE) (e.g., Supel<sup>&trade;</sup>-Select HLB, or LiChrolut<sup>&reg;</sup> and Supelclean<sup>&reg;</sup> cartridges) is recommended.
 
 Buffers should be prepared by titration of the respective acid and base, as their purity is normally higher than the related salts. If the use of salts is necessary, an MS analysis of those used should be performed prior to use application to determine if and what type of contaminant is present in the salts.
 
@@ -45,8 +45,6 @@ Impurities in or contaminants of solvents and additives can accumulate on the st
   <img width = "360" src = "/docs/images/accumulation-of-contaminants.webp"/>
   <figcaption><b>Figure 1</b>.Accumulation of contaminants on an HPLC column</figcaption>
 </figure>
-
-
 
 
 Figure 1.Accumulation of contaminants on an HPLC column during equilibration and elution via a gradient profile; peaks attributed to plasticizers are marked with an asterisk (*).
@@ -76,9 +74,11 @@ Bottles have to be sealed and connected to the HPLC system using professional ca
 
 Avoid plastic devices such as bottles, funnels, beakers, or gloves which can leach additives like plasticizers, anti-static agents, stabilizers or anti-slipping agents (**Figure 2**). The only exceptions are devices that have been tested for leachables and extractables by the manufacturer, e.g., pipette tips or syringes.
 
-![https://s3-us-west-2.amazonaws.com/secure.notion-static.com/adc8f174-e4f0-4fd1-a104-22d618a2691f/mass-spectra-of-two-milli-q.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/adc8f174-e4f0-4fd1-a104-22d618a2691f/mass-spectra-of-two-milli-q.png)
+<figure>
+  <img width = "540" src = "/docs/images/mass-spectra-of-two-milli-q.jpg"/>
+  <figcaption><b>Figure 2</b>.Mass spectra of two Milli-Q<sup>&reg;</sup> water samples stored in polypropylene (A) and clean amber glass bottles (B), respectively (bottom), and TICs of the same samples (top). The analyses were performed via direct injection of the solvents into the MS operated in positive ESI mode.</figcaption>
+</figure>
 
-Figure 2.Mass spectra of two Milli-Q <sup>&reg;</sup> water samples stored in polypropylene (A) and clean amber glass bottles (B), respectively (bottom), and TICs of the same samples (top). The analyses were performed via direct injection of the solvents into the MS operated in positive ESI mode.
 
 ## Laboratory Equipment
 
