@@ -23,20 +23,26 @@ A mass spectrometrist performs numerous experiments to find solutions to many as
 ## The techniques of design of experiments
 
 The mass spectrometrist could encounter the following questions:   
-1) Select the best solid phase sorbent among some potential candidates.  Careful experiment plan with one-way ANOVA would be a solution.  When different washing solvents or eluting solvents are involved, two-way ANOVA will alter one-way ANOVA.
-2) Fine-tune the multiple ESI parameters of the mass spectrometer.  The fractional factorial design would be a solution.  The mass spectrometrist starts off with an initial set of parameters, pick a new interested change (level) of each parameter.  Instead of performing experiments of the combination of all levels of parameters, they will do experiments of a portion of the combination. 
+1) Select the best solid phase sorbent among some potential candidates.  The objective of such study would be better recovery of analyte(s) of interest, or less retain of interference.  A Careful experiment plan with one-way ANOVA would be a solution.  When different washing solvents or eluting solvents are involved, two-way ANOVA will alter one-way ANOVA.  
+2) Fine-tune the multiple ESI parameters of the mass spectrometer.  The objective of such study would be better sensitivity, better resolution, and so on. The fractional factorial design would be a solution.  The mass spectrometrist starts off with an initial set of parameters, pick a new interested change (level) of each parameter.  Instead of performing experiments of the combination of all levels of parameters, they will do experiments of a portion of the combination. 
 
 
 
 ## The commercially available software
 Some software for design of experiments were mentioned in research papers, such as:
+<a href = "https://www.jmp.com/en_ca/software/data-analysis-software.html" target="_blank" rel="noopener noreferrer">JMP</a> (SAS)
 
 <a href = "https://www.statgraphics.com/centurion-overview" target="_blank" rel="noopener noreferrer">Statgraphics Centurion XVI</a> (Statgraphics Technologies, Inc.)
+
+<a href = "https://www.sartorius.com/en/products/process-analytical-technology/data-analytics-software/doe-software/modde" target="_blank" rel="noopener noreferrer">Modde 9.0.0.0 by Umetrics</a> (Statorius)
+
 
 
 ## Application to LC-MS/MS
 
-A LC-MS/MS instrument composes of two components: a UPLC chromatography with a sample introduction system, and a triple quadruple mass spectrometer. A mass spectrometrist takes sensitivity, resolution, interference, and so on into consideration. They start with default instrumental parameters of each component, then fine-tune them to reach the best output they could get in a requested time frame.  These parameters could be: flow (*F*), gradient (*G*), and injection volume (*V*<sub>inj</sub>) of the UPLC chromatography; cone voltage (*E*<sub>com</sub>), collision energy (*E*<sub>col</sub>)
+A LC-MS/MS instrument composes of two components: a UPLC chromatography with a sample introduction system, and a triple quadruple mass spectrometer. A mass spectrometrist takes sensitivity, resolution, interference, and so on into consideration. They start with default instrumental parameters of each component, then fine-tune them to reach the best output they could get in a requested time frame.  These parameters could be: flow (*F*), gradient (*G*), and injection volume (*V*<sub>inj</sub>) of the UPLC chromatography; cone voltage (*E*<sub>com</sub>), collision energy (*E*<sub>col</sub>) of the mass spectrometer.
+
+
 
 ## The workflow
 

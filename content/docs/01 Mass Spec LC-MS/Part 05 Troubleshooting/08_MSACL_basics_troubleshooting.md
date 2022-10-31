@@ -2,7 +2,7 @@
 weight: 8
 title: "Basics of LC-MS/MS Troubleshooting"
 authors: Judy Stone
-categories: null
+categories: ["MSACL Video Library", "LC-MS Troubleshooting Guide"]
 tags: null
 description:  
 draft: false

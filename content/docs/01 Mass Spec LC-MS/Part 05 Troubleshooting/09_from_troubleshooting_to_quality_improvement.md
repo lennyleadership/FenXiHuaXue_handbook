@@ -2,7 +2,7 @@
 weight: 9
 title: "Translating From Troubleshooting to Quality Improvement: LC-MS/MS Case Histories"
 authors: William Clarke, edited by Lenny Lin
-categories: null
+categories: ["MSACL Video Library", "LC-MS Troubleshooting Guide"]
 tags: null
 description:  
 draft: false

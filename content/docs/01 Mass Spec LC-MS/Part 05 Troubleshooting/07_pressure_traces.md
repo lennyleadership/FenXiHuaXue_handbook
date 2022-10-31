@@ -2,7 +2,7 @@
 weight: 7
 title: Pressure Trace as Diagnostic Tools
 authors: B.A. Bidlingmeyer
-categories: null
+categories: ["LC-MS Troubleshooting Guide"]
 tags: null
 date: "2022-08-16"
 description:  

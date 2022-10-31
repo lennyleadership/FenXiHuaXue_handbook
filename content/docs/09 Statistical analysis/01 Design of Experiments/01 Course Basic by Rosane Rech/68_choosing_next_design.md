@@ -1,6 +1,6 @@
 ---
 weight: 68
-title: 68 Choosing the Newxt Design
+title: 68 Choosing the Next Design
 authors: edited by Lenny Lin
 categories: 
 tags: []

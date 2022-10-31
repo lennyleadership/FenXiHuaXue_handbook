@@ -2,7 +2,7 @@
 weight: 2
 title: Troubleshooting LC-MS/MS in the Clinical Laboratory
 authors: Judy Stone, edited by Lenny Lin
-categories:
+categories: ["LC-MS Troubleshooting Guide"]
 tags: [Troubleshooting Strategy, Sensitivity, Clinical]
 date: "2022-08-09"
 description: null

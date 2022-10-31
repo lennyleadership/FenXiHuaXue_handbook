@@ -2,7 +2,7 @@
 weight: 5
 title: Agilent HPLC & LC-MS Troubleshooting Guide
 authors: edited by Lenny Lin
-categories:
+categories: ["LC-MS Troubleshooting Guide"]
 tags: []
 date: "2022-07-07"
 description: null

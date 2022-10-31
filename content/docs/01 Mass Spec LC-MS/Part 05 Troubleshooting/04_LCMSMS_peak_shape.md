@@ -2,7 +2,7 @@
 weight: 4
 title: Troubleshooting Peak Shapes
 authors: Judy Stone, edited by Lenny Lin
-categories: MSACL Video Library
+categories: ["MSACL Video Library", "LC-MS Troubleshooting Guide"]
 tags: [Peak Shapes]
 date: "2022-03-17"
 description:  

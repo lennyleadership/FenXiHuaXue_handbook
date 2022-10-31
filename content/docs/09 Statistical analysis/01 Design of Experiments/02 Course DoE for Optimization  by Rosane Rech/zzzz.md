@@ -1,17 +1,17 @@
 ---
 weight: 
 title: 
-authors: edited by Lenny Lin
+authors: Rosane Rech, edited by Lenny Lin
 categories: 
 tags: []
 description: null
 draft: false
-date: "2022-10-24"
-lastmod: "2022-10-24"
+date: "2022-10-27"
+lastmod: "2022-10-27"
 series: 
 toc: true
 ---
-Section 9: Highly Fractionated Designs 
+Section 1: 
 
 <!--more-->
 ---

@@ -2,7 +2,7 @@
 weight: 6
 title: LC-MS/MS Troubleshooting Series
 authors: edited by Lenny Lin
-categories:
+categories: ["MSACL Video Library", "LC-MS Troubleshooting Guide"]
 tags: []
 date: "2022-07-07"
 description: null
