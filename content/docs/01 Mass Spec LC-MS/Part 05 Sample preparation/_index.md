@@ -1,14 +1,14 @@
 ---
-weight: 99
-title: null
+weight: 5
+title: Sample Preparation
 authors: null
 categories: null
-date: "2022-08-09"
+tags: null
 description: 
 draft: false
+date: "2022-08-09"
 lastmod: "2022-08-09"
 series: null
-tags: null
 toc: true
 bookCollapseSection: true
 ---
@@ -16,4 +16,4 @@ bookCollapseSection: true
 
 
 <!--more-->
-
+---

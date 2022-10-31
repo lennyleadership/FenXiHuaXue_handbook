@@ -1,6 +1,6 @@
 ---
-weight: 3
-title: Training Series
+weight: 2
+title: Webinars
 authors: null
 categories: null
 tags: null

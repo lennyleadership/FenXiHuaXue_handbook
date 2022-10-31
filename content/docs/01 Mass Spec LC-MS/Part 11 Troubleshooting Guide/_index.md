@@ -1,6 +1,6 @@
 ---
-weight: 5
-title: LC-MS Related Troubleshooting
+weight: 11
+title: LC-MS Troubleshooting Guide
 authors: null
 categories: null
 tags: null
