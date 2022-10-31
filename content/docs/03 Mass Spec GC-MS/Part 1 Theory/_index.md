@@ -1,6 +1,6 @@
 ---
 weight: 1
-title: Part I Theory
+title: Theory
 authors: Lenny Lin
 categories: ["GC-MS/MS"]
 tags:

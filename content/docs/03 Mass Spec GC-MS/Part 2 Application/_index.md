@@ -1,6 +1,6 @@
 ---
 weight: 2
-title: Part II Application
+title: Application
 authors: Lenny Lin
 categories: ["GC-MS/MS"]
 tags: null
