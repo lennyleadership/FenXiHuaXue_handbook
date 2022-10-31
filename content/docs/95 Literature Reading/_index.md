@@ -13,7 +13,6 @@ toc: true
 bookCollapseSection: true
 ---
 
-.
 
 <!--more-->
 

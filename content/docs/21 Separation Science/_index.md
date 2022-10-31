@@ -14,4 +14,3 @@ bookCollapseSection: true
 ---
 
 
-My interests in separation science theory.
