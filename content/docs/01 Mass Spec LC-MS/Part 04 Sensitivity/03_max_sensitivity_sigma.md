@@ -75,7 +75,7 @@ Bottles have to be sealed and connected to the HPLC system using professional ca
 Avoid plastic devices such as bottles, funnels, beakers, or gloves which can leach additives like plasticizers, anti-static agents, stabilizers or anti-slipping agents (**Figure 2**). The only exceptions are devices that have been tested for leachables and extractables by the manufacturer, e.g., pipette tips or syringes.
 
 <figure>
-  <img width = "540" src = "/docs/images/mass-spectra-of-two-milli-q.jpg"/>
+  <img width = "360" src = "/docs/images/mass-spectra-of-two-milli-q.jpg"/>
   <figcaption><b>Figure 2</b>.Mass spectra of two Milli-Q<sup>&reg;</sup> water samples stored in polypropylene (A) and clean amber glass bottles (B), respectively (bottom), and TICs of the same samples (top). The analyses were performed via direct injection of the solvents into the MS operated in positive ESI mode.</figcaption>
 </figure>
 
