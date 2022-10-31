@@ -6,7 +6,7 @@ description: Buffer Properties
 draft: false
 lastmod: "2022-01-16"
 series: 
-tags: [Trifluoroacetic Acid, Buffer, Ion Pairs]
+tags: [Trifluoroacetic Acid, TFA, Buffer, Ion Pairs]
 title:  Buffer Properties
 toc: true
 ---

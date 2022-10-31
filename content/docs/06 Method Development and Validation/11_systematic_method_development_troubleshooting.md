@@ -3,7 +3,7 @@ weight: 11
 title: Systematic Method Development and Troubleshooting 
 authors: Naidong Weng and Timothy D.J. Halls, edited by Lenny Lin
 categories: null
-tags: [Method Development, Sensitivity, Matrix Effects Determination, Trifluoroacetic Acid, Buffer, Ion Pairs]
+tags: [Method Development, Sensitivity, Matrix Effects Determination, Trifluoroacetic Acid, TFA, Buffer, Ion Pairs]
 description:  
 draft: false
 date: "2022-10-15"

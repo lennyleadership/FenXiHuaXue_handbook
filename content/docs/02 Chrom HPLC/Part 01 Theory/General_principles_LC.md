@@ -7,7 +7,7 @@ draft: false
 date: "2022-01-03"
 lastmod: "2022-10-17"
 series: 
-tags: [Sensitivity, Trifluoroacetic Acid, Buffer, Ion Pairs]
+tags: [Sensitivity, Trifluoroacetic Acid, TFA, Buffer, Ion Pairs]
 toc: true
 ---
 

@@ -3,7 +3,7 @@ weight: 2
 title: Adduct Ions
 authors: Helen Yates, edited by Lenny Lin
 categories: null
-tags: [Waters, Trifluoroacetic Acid, Buffer, Ion Pairs]
+tags: [Waters, Trifluoroacetic Acid, TFA, Buffer, Ion Pairs]
 description: 
 draft: false
 date: "2022-06-20"

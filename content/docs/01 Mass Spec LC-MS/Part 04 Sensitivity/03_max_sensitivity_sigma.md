@@ -3,7 +3,7 @@ weight: 3
 title: Maximize Sensitivity
 authors: null
 categories: null
-tags: null
+tags: ["Trifluoroacetic Acid", TFA, "Difluoroacetic Acid", DFA]
 description:  
 draft: false
 date: "2022-10-31"
@@ -29,11 +29,11 @@ Typical solvents utilized in LC-MS include water, acetonitrile, methanol, isopro
 
 The quality of the above-mentioned solvents and additives strongly influences the sensitivity of MS detection; therefore, utilization of MS grade solvents and ultrapure additives is mandatory. Make sure that these reagents are labeled as LC-MS grade by the manufacturer.
 
-Generally, organic solvents for HPLC, such as acetonitrile and methanol, are available in three qualities: Isocratic grade, gradient grade and hypergrade for LC-MS LiChrosolv<sup>&reg;</sup>. For MS analysis, hypergrade quality solvents should be used to ensure best performance and reliable results.
+Generally, **<font class = "font_upper">organic solvents</font>** for HPLC, such as acetonitrile and methanol, are available in three qualities: Isocratic grade, gradient grade and hypergrade for LC-MS LiChrosolv<sup>&reg;</sup>. For MS analysis, hypergrade quality solvents should be used to ensure best performance and reliable results.
 
-With regard to water, bottled or Milli-Q<sup>&reg;</sup> ultrapure water from water purification systems are suitable for use with MS instrumentation. In case of low water consumption, bottled water is preferable, whereas Milli-Q<sup>&reg;</sup> water is suggested in an environment with higher consumption. Milli-Q<sup>&reg;</sup> systems deliver type I water and are a perfect match with LC-MS analysis. They should be used/flushed regularly in order to maintain or even further improve water quality.
+With regard to **<font class = "font_upper">water</font>**, bottled or Milli-Q<sup>&reg;</sup> ultrapure water from water purification systems are suitable for use with MS instrumentation. In case of low water consumption, bottled water is preferable, whereas Milli-Q<sup>&reg;</sup> water is suggested in an environment with higher consumption. Milli-Q<sup>&reg;</sup> systems deliver type I water and are a perfect match with LC-MS analysis. They should be used/flushed regularly in order to maintain or even further improve water quality.
 
-Buffers are utilized to set and control the pH of a specific chromatographic separation and to protonate or deprotonate analytes in solution, which can support the electrospray ionization process. For LC-MS, only volatile buffers and additives such as ammonium formate or acetate or triethylamine should be utilized. The use of nonvolatile buffers (e.g., sulfates, phosphates, borates) will cause precipitation in the MS source and ultimately result in tedious cleaning procedures. High buffer concentrations might lead to signal suppression.
+**<font class = "font_upper">Buffers</font>** are utilized to set and control the pH of a specific chromatographic separation and to protonate or deprotonate analytes in solution, which can support the electrospray ionization process. For LC-MS, only volatile buffers and additives such as ammonium formate or acetate or triethylamine should be utilized. The use of nonvolatile buffers (e.g., sulfates, phosphates, borates) will cause precipitation in the MS source and ultimately result in tedious cleaning procedures. High buffer concentrations might lead to signal suppression.
 
 Buffers ionize an analyte molecule M, but the formation of adducts [M+buffer] with, e.g., ammonium, formate or acetate is possible. This causes additional signals with specific *m/z* values in a spectrum which may compromise quantitative analyses. Consequently, for samples with high salt load such as food, body fluids or tissue, a desalting step using solid phase extraction (SPE) (e.g., Supel<sup>&trade;</sup>-Select HLB, or LiChrolut<sup>&reg;</sup> and Supelclean<sup>&reg;</sup> cartridges) is recommended.
 
@@ -43,11 +43,11 @@ Impurities in or contaminants of solvents and additives can accumulate on the st
 
 <figure>
   <img width = "360" src = "/docs/images/accumulation-of-contaminants.webp"/>
-  <figcaption_bottom><b>Figure 1</b>.Accumulation of contaminants on an HPLC column</figcaption_bottom>
+  <figcaption_bottom><b>Figure 1</b>. Accumulation of contaminants on an HPLC column during equilibration and elution via a gradient profile; peaks attributed to plasticizers are marked with an asterisk (*)</figcaption_bottom>
 </figure>
 
 
-Figure 1.Accumulation of contaminants on an HPLC column during equilibration and elution via a gradient profile; peaks attributed to plasticizers are marked with an asterisk (*).
+
 
 | Conditions: |  |
 | --- | --- |

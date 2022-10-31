@@ -6,7 +6,7 @@ description: Column Caring and Protection
 draft: false
 lastmod: "2022-02-01"
 series: 
-tags: [Good Practice, Column, Trifluoroacetic Acid, Buffer, Ion Pairs]
+tags: [Good Practice, Column, Trifluoroacetic Acid, TFA, Buffer, Ion Pairs]
 title: Column Caring and Protection
 toc: true
 ---

@@ -3,7 +3,7 @@ weight: 1
 title: Increase HPLC/UHPLC Method Sensitivity
 authors: null
 categories: null
-tags: [Sensitivity, TEA, TFA]
+tags: [Sensitivity, TEA, "Trifluoroacetic Acid", TFA]
 description: 
 draft: false
 date: "2020-10-16"

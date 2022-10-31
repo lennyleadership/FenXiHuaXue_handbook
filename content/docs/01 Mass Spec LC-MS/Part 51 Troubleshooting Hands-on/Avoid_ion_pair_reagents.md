@@ -6,7 +6,7 @@ description:
 draft: false
 lastmod: "2022-07-16"
 series: null
-tags: [Ion Pair, Trifluoroacetic Acid, Buffer, Ion Pairs]
+tags: [Ion Pair, Trifluoroacetic Acid, TFA, Buffer, Ion Pairs]
 title: Avoid Ion Pair Reagents in LC-MS
 toc: true
 ---

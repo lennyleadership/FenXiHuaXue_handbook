@@ -3,7 +3,7 @@ weight: 7
 title: Choosing Columns and Conditions for the Best Peak Shape
 authors: Agilent Webinar, Edited by Lenny Lin
 categories: 
-tags: [Peak Shape, Sensitivity, Resolution, Retention, Peak Shape, Trifluoroacetic Acid, Buffer, Ion Pairs]
+tags: [Peak Shape, Sensitivity, Resolution, Retention, Peak Shape, Trifluoroacetic Acid, TFA, Buffer, Ion Pairs]
 description: Factors Affecting Peak Shape
 draft: false
 date: "2022-01-03"
