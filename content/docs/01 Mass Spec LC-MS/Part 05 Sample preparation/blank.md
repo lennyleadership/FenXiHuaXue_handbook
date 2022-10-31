@@ -1,20 +1,18 @@
 ---
-weight: 3
-title: Career Development
+weight: 1
+title: null
 authors: null
 categories: null
 tags: null
+date: "2022-03-17"
 description:  
 draft: false
-date: "2022-10-21"
-lastmod: "2022-10-21"
+lastmod: "2022-03-17"
 series: null
 toc: true
-bookCollapseSection: true
 ---
 
 
 
 <!--more-->
----
 

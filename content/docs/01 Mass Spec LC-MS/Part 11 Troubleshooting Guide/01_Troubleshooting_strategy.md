@@ -2,7 +2,7 @@
 weight: 1
 title: Troubleshooting strategy
 authors: Lenny Lin
-categories:
+categories: ["LC-MS Troubleshooting Guide"]
 tags: [Troubleshooting Strategy, Diagram demo]
 date: "2022-07-07"
 description: null
@@ -15,7 +15,6 @@ toc: true
 > &ensp;- Charles Franklin Kettering
 
 <!--more-->
-
 ---
 The first step is to list the potential root causes to the problem.  Build a Fishbone (Cause and Effect) diagram if you wish. Below is an example
 
