@@ -1,13 +1,14 @@
 ---
+weight: 2
+title: LCGC Strategies for Detecting and Eliminating Matrix Effects
 authors: null
 categories: null
-date: "2022-03-17"
+tags: null
 description:  
 draft: false
-lastmod: "2022-07-19"
+date: "2022-03-17"
+lastmod: "2022-11-01"
 series: null
-tags: null
-title: LCGC Strategies for Detecting and Eliminating Matrix Effects
 toc: true
 ---
 

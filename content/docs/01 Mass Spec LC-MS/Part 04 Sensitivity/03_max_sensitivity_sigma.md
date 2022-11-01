@@ -19,9 +19,9 @@ toc: true
 
 ## Introduction
 
-The prerequisite of any highly sensitive analysis via HPLC-MS (high performance liquid chromatography coupled to mass spectrometry) is the use of ultrapure solvents and reagents and careful handling of all associated materials, consumables, and systems. This prevents any contamination throughout the entire sample handling process from preparation to MS detection, and improves sensitivity.
+The prerequisite of any highly sensitive analysis via HPLC-MS (high performance liquid chromatography coupled to mass spectrometry) is the use of ultra pure solvents and reagents and careful handling of all associated materials, consumables, and systems. This prevents any contamination throughout the entire sample handling process from preparation to MS detection, and improves sensitivity.
 
-In the following sections, various measures and options for maximized LC-MS sensitivity and low limit of detection (LOD) are shown. Each and every tip avoids contaminations causing signal suppression, adduct formation, elevated background noise and increased spectrum complexity.
+In the following sections, various measures and options for maximized LC-MS sensitivity and low limit of detection (LOD) are shown. Each and every tip avoids contamination causing signal suppression, adduct formation, elevated background noise and increased spectrum complexity.
 
 ## Solvents & Additives - General
 
@@ -42,7 +42,7 @@ Buffers should be prepared by titration of the respective acid and base, as thei
 Impurities in or contaminants of solvents and additives can accumulate on the stationary phase and elute as ghost peaks in gradient runs (**Figure 1**). This scenario may occur when the column is equilibrated under highly aqueous conditions prior to a gradient run. Ghost peaks can even appear without equilibration if the concentration and/or retentivity of contaminants is high and/or the starting conditions of a gradient are highly aqueous. To avoid ghost peaks in gradient runs, column equilibration time should be kept as short as possible and the flushing volume should not exceed ten column volumes.
 
 <figure>
-  <img width = "360" src = "/docs/images/accumulation-of-contaminants.webp"/>
+  <img width = "540" src = "/docs/images/accumulation-of-contaminants.webp"/>
   <figcaption_bottom><b>Figure 1</b>. Accumulation of contaminants on an HPLC column during equilibration and elution via a gradient profile; peaks attributed to plasticizers are marked with an asterisk (*)</figcaption_bottom>
 </figure>
 
@@ -92,6 +92,21 @@ The choice of an HPLC column dimension is guided not only by factors such as sam
 
 A possible and frequent but often overlooked source of contamination in an LC-MS run is the chromatographic column itself. Many of the silica-based bonded phases are inherently prone towards bond/phase cleavage by hydrolysis, mainly at acidic pH (e.g., below pH 2), a phenomenon referred to as column bleeding (**Figure 3**).
 
+<figure>
+  <img width = "540" src = "/docs/images/quantification-of-hilic-column.jpg"/>
+  <figcaption_bottom><b>Figure 3</b>. Quantification of HILIC column bleeding of various columns in comparison with alternative products measured by mass spectrometry.</figcaption_bottom>
+</figure>
+
+
+| Conditions: |  |
+| --- | --- |
+| Column: | As indicated |
+| Mobile phase: | acetonitrile/25 mM ammonium acetate pH 6.8 80/20 (v/v), 6 min. |
+| Flow: | 0.8 mL/min |
+| Temperature: | 50 °C |
+| Detector: | Ion-trap MS (m/z 50-2000) |
+
+
 The use of a washing protocol can help to decrease the negative effect of column bleed. Alternatively, a column should undergo up to ten gradient runs from strongly aqueous to strongly organic before use with MS.
 
 ## HPLC System
@@ -104,19 +119,6 @@ Eluent filter frits (from solvent inlet filters) should be made out of stainless
 
 Cleaning of the latter is tedious, as buffer residue is hard to remove, and silica and alkali might be leached out of the glass filter and form adducts.
 
-![https://s3-us-west-2.amazonaws.com/secure.notion-static.com/664922d0-7199-4115-b115-4291efd51aa0/quantification-of-hilic-column.jpg](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/664922d0-7199-4115-b115-4291efd51aa0/quantification-of-hilic-column.jpg)
-
-Figure 3.Quantification of HILIC column bleeding of various columns
-
-Figure 3.Quantification of HILIC column bleeding of various columns in comparison with alternative products measured by mass spectrometry.
-
-| Conditions: |  |
-| --- | --- |
-| Column: | As indicated |
-| Mobile phase: | acetonitrile/25 mM ammonium acetate pH 6.8 80/20 (v/v), 6 min. |
-| Flow: | 0.8 mL/min |
-| Temperature: | 50 °C |
-| Detector: | Ion-trap MS (m/z 50-2000) |
 
 ## General Recommendations
 

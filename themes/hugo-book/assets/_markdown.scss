@@ -8,6 +8,7 @@
     margin-top: 0;
   }
 
+
   h1,
   h2,
   h3,
@@ -36,21 +37,24 @@
 
   h3{
     font-style: italic;
-    font-size: .8rem;
+    font-size: .9rem;
+    
   }
   
-  h4,
-  h5,
-  h6 {
-    font-weight: bolder;
+  h4 {
+    font-style: italic;
+    font-size: 0.8em;
+    margin-left: 20px;
   }
 
   h5 {
-    font-size: 0.875em;
+    font-style: italic;
+    font-size: 0.7em;
   }
 
   h6 {
-    font-size: 0.75em;
+    font-style: italic;
+    font-size: 0.6em;
   }
 
   b,
@@ -352,3 +356,25 @@ a:active {
   text-transform: uppercase;
   font-size: 1rem;
 }
+
+@page{
+  size: letter portrait;
+  /* top | right | bottom | left */
+  margin: 0.5in 1in 0.5in 1in;
+
+}
+
+@media print {
+    div.pagebreak {
+        display: block !important; 
+        page-break-after: always; 
+    }
+    .dontprint{ 
+        display : none
+    }
+    body{
+        display: block;
+    }
+
+}
+
