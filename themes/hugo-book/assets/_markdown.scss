@@ -249,12 +249,12 @@ figure {
   display: table;
 }
 
-figcaption_top {
+figcaption.top {
   display: table-caption;
   caption-side: top;
 }
 
-figcaption_bottom {
+figcaption.bottom {
   display: table-caption;
   caption-side: bottom;
 }
