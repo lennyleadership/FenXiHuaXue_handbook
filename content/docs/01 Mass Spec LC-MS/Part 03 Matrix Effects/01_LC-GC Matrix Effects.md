@@ -73,31 +73,31 @@ toc: true
 
 ## References
 
-1. S. Souverain, S. Rudaz, and J.L. Veuthey, <i>J. Chromatogr. A</i> <b>1058,<b> 61–66 (2004).
-2. H. Trufelli, P. Palma, G. Famiglini, and A. Cappiello, <i>Mass Spectrum. Rev.</i> <b>30,<b> 491–509 (2011).
-3. M. Stüber and T. Reeemtsma, <i>Anal. Bioanal. Chem.</i> <b>378,<b> 910–916 (2004).
-4. C.R. Mallet, Z. Lum, and J.R. Mazzeo, <i>Rapid Commun. Mass Spectrum.</i> <b>18,<b> 49–58 (2004).
-5. C. Ferrer, A. Lozano, A. Agüera, and A.J. Girón, <i>J. Chromatogr. A</i> <b>1218,<b> 7634–7639 (2011).
-6. J. Schuhmacher, D. Zimmer, F. Tesche, and V. Picard, <i>Rapid Commun. Mass Spectrom.</i> <b>17,<b> 1950–1957 (2003).
-7. S. Wang, M. Cyronak, and E. Yang, <i>J. Pharm. Biomed. Anal.</i> <b>43,<b> 701–707 (2007).
+1. S. Souverain, S. Rudaz, and J.L. Veuthey, <i>J. Chromatogr. A</i> <b>1058</b>, 61–66 (2004).
+2. H. Trufelli, P. Palma, G. Famiglini, and A. Cappiello, <i>Mass Spectrum. Rev.</i> <b>30</b>, 491–509 (2011).
+3. M. Stüber and T. Reeemtsma, <i>Anal. Bioanal. Chem.</i> <b>378</b>, 910–916 (2004).
+4. C.R. Mallet, Z. Lum, and J.R. Mazzeo, <i>Rapid Commun. Mass Spectrum.</i> <b>18</b>, 49–58 (2004).
+5. C. Ferrer, A. Lozano, A. Agüera, and A.J. Girón, <i>J. Chromatogr. A</i> <b>1218</b>, 7634–7639 (2011).
+6. J. Schuhmacher, D. Zimmer, F. Tesche, and V. Picard, <i>Rapid Commun. Mass Spectrom.</i> <b>17</b>, 1950–1957 (2003).
+7. S. Wang, M. Cyronak, and E. Yang, <i>J. Pharm. Biomed. Anal.</i> <b>43</b>, 701–707 (2007).
 8. L. Jessome and D.A. Volmer, <i>LCGC North Am.</i> <b>24<b>(5), 498–510 (2006).
-9. P. Yang, J.S. Chang, J.W. Wong, K. Zhang, A.J. Krynitsky, M. Bromirska, and J. Wang, <i>J. Agric. Food Chem.</i> <b>63,<b> 5169–5177 (2015).
-10. J.W. Wong, M.K. Hennessy, D.G. Hayward, A.J. Krynitsky, I. Cassias, and F.J. Schenck, <i>J. Agric. Food Chem.</i> <b>55,<b> 1117–1128 (2007).
-11. K. Mastovska, S.J. Lehotay, and M. Anastassiades, <i>Anal. Chem.</i> <b>77,<b> 8129–8137 (2005).
-12. D.R. Erney, A.M. Gillespie, D.M. Gilvydis, and C.F. Poole, <i>J. Chromatogr.</i> <b>638,<b> 57–63 (1993).
-13. F.J. Schenck and S.J. Lehotay, <i>J. Chromatogr. A</i> <b>868,<b> 51–61 (2000).
+9. P. Yang, J.S. Chang, J.W. Wong, K. Zhang, A.J. Krynitsky, M. Bromirska, and J. Wang, <i>J. Agric. Food Chem.</i> <b>63</b>, 5169–5177 (2015).
+10. J.W. Wong, M.K. Hennessy, D.G. Hayward, A.J. Krynitsky, I. Cassias, and F.J. Schenck, <i>J. Agric. Food Chem.</i> <b>55</b>, 1117–1128 (2007).
+11. K. Mastovska, S.J. Lehotay, and M. Anastassiades, <i>Anal. Chem.</i> <b>77</b>, 8129–8137 (2005).
+12. D.R. Erney, A.M. Gillespie, D.M. Gilvydis, and C.F. Poole, <i>J. Chromatogr.</i> <b>638</b>, 57–63 (1993).
+13. F.J. Schenck and S.J. Lehotay, <i>J. Chromatogr. A</i> <b>868</b>, 51–61 (2000).
 14. US Food and Drug Administration, <i>Guidelines for the Validation of Chemical Methods for the FDA FVM Program,</i> 2nd Edition (FDA, Rockville, Maryland, 2015, [https://www.fda.gov/downloads/ScienceResearch/FieldScience/UCM273418.pdf](https://www.fda.gov/downloads/ScienceResearch/FieldScience/UCM273418.pdf)).
 15. K. Zhang, M.R. Schaab, G. Southwood, E.R. Tor, L.S. Aston, W. Song, B. Eitzer, S. Majumdar, T. Lapainus, H. Mai, K. Tran, A. El-Demerdash, V. Vega, Yanxuan Cai, J.W. Wong, A.J. Krynitsky, and T.H. Begley, <i>J. Agric. Food Chem</i>. DOI: 10.1021/acs.jafc.6b04872 (2016).
-16. N. Chamkasem and T. Harmon, <i>Anal. Bioanal. Chem.</i> <b>408,<b> 4995–5004 (2016).
+16. N. Chamkasem and T. Harmon, <i>Anal. Bioanal. Chem.</i> <b>408</b>, 4995–5004 (2016).
 17. M. Smoker and A.J. Krynitsky, U.S. FDA Laboratory Information Bulletin No. 4422, October, 2008.
-18. A.J. Krynitsky, R.A. Niemann, and D.A. Nortrup, <i>Anal. Chem.</i> <b>76,<b> 5518–5522 (2004).
-19. A.J. Krynitsky, R.A. Niemann, A.D. Williams, and M.L. Hopper, <i>Anal. Chim. Acta</i> <b>567,<b> 94–99 (2006).
-20. K. Zhang, J.W. Wong, P. Yang, K. Tech, A.L. DiBenedetto, N. S. Lee, D.G. Hayward, C.M. Makovi, A.J. Krynitsky, K. Banerjee, L. Jao, S. Dasgupta, M.S. Smoker, R. Simonds, and A. Schreiber, <i>J. Agric. Food Chem.</i> <b>59,<b> 7936–7946 (2011).
-21. M. Anastassiades, S.J. Lehotay, D. Stajnbaher, and F.J. Schenck, <i>J. AOAC Int.</i> <b>86,<b> 412–431 (2003).
-22. L. Vaclavik, A.J. Krynitsky, and J.I. Rader, <i>Anal. Chim. Acta</i> <b>810,<b> 45–60 (2014).
-23. W. Zhou, P.G. Wang, A.J. Krynitsky, and J.I. Rader, <i>J. Chromatogr A</i> <b>1218,<b> 7956–7963 (2011).
+18. A.J. Krynitsky, R.A. Niemann, and D.A. Nortrup, <i>Anal. Chem.</i> <b>76</b>, 5518–5522 (2004).
+19. A.J. Krynitsky, R.A. Niemann, A.D. Williams, and M.L. Hopper, <i>Anal. Chim. Acta</i> <b>567</b>, 94–99 (2006).
+20. K. Zhang, J.W. Wong, P. Yang, K. Tech, A.L. DiBenedetto, N. S. Lee, D.G. Hayward, C.M. Makovi, A.J. Krynitsky, K. Banerjee, L. Jao, S. Dasgupta, M.S. Smoker, R. Simonds, and A. Schreiber, <i>J. Agric. Food Chem.</i> <b>59</b>, 7936–7946 (2011).
+21. M. Anastassiades, S.J. Lehotay, D. Stajnbaher, and F.J. Schenck, <i>J. AOAC Int.</i> <b>86</b>, 412–431 (2003).
+22. L. Vaclavik, A.J. Krynitsky, and J.I. Rader, <i>Anal. Chim. Acta</i> <b>810</b>, 45–60 (2014).
+23. W. Zhou, P.G. Wang, A.J. Krynitsky, and J.I. Rader, <i>J. Chromatogr A</i> <b>1218</b>, 7956–7963 (2011).
 24. L. Jessome and D.A. Volmer, <i>LCGC North Am.</i> <b>24<b>(5), 498–510 (2006).
-25. M. Anastassiades, K. Maštovská, and S.J. Lehotay, <i>J. Chromatogr. A</i> <b>1015,<b> 163–184 (2003).
+25. M. Anastassiades, K. Maštovská, and S.J. Lehotay, <i>J. Chromatogr. A</i> <b>1015</b>, 163–184 (2003).
 
 <b>Alexander J. Krynitsky<b> is the Director of the Chemical Residues-Food Safety Laboratory at Symbiotic Research, LLC in Mount Olive, New Jersey. He is also an FDA Science Adviser to FDA/ORA/ORS/ORCE. Direct correspondence about this article to: [Alex.Krynitsky@SymbioticResearch.net](https://www.chromatographyonline.com/Alex.Krynitsky@SymbioticResearch.net).
 
