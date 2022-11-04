@@ -117,75 +117,75 @@ Creatinine, creatinine-d3, and cimetidine were detected in a positive multiple r
     </p></td>
   </tr>
   <tr class="even">
-    <td><p>
+    <td><p>ion spray voltage (IS)
     </p></td>
-    <td><p> sentence right.
+    <td><p>5000 V
     </p></td>
   </tr>
   <tr class="odd">
-    <td><p>sentence left
+    <td><p>entrance potential (EP)
     </p></td>
-    <td><p>sentence right.
+    <td><p>10V
     </p></td>
   </tr>
   <tr class="even">
-    <td><p>sentence left
+    <td><p>orifice/declustering potentials (DP)
     </p></td>
-    <td><p> sentence right.
+    <td><p>26 V (creatinine), <br>36 V (creatinine-d3), and <br>36 V (cimetidine)
     </p></td>
   </tr>
   <tr class="odd">
-    <td><p>sentence left
+    <td><p>ring/focusing potentials (FP)
     </p></td>
-    <td><p>sentence right.
+    <td><p>140 V (creatinine), <br>250 V (creatinine-d3), and <br>140 V (cimetidine)
     </p></td>
   </tr>
   <tr class="even">
-    <td><p>sentence left
+    <td><p>collision energy (CE)
     </p></td>
-    <td><p> sentence right.
+    <td><p>29 V
     </p></td>
   </tr>
   <tr class="odd">
-    <td><p>sentence left
+    <td><p>collision exit potential (CXP)
     </p></td>
-    <td><p>sentence right.
+    <td><p>8V
     </p></td>
   </tr>
   <tr class="even">
-    <td><p>sentence left
+    <td><p>Curtain gas (CUR) flow
     </p></td>
-    <td><p> sentence right.
+    <td><p>12 (in arbitrary units used in the instrument)
     </p></td>
   </tr>
   <tr class="odd">
-    <td><p>sentence left
+    <td><p>Nebulizer gas (NEB) flow
     </p></td>
-    <td><p>sentence right.
+    <td><p>8 (in arbitrary units used in the instrument)
     </p></td>
   </tr>
   <tr class="even">
-    <td><p>sentence left
+    <td><p>Collision gas (CAD) flow
     </p></td>
-    <td><p> sentence right.
+    <td><p>4 (in arbitrary units used in the instrument)
     </p></td>
   </tr>
   <tr class="odd">
-    <td><p>sentence left
+    <td><p>temperature of the ion spray
     </p></td>
-    <td><p>sentence right.
+    <td><p>300 °C
     </p></td>
   </tr>
   <tr class="even">
-    <td><p>sentence left
+    <td><p>Dwell Time
     </p></td>
-    <td><p> sentence right.
+    <td><p>150 ms
     </p></td>
   </tr>
   <tr class="odd">
-    <td><p>sentence left
+    <td><p>Resolution of both Q1 and Q3
     </p></td>
-    <td><p>sentence right.
+    <td><p>1 amu
     </p></td>
   </tr>
   <tr class="even">
@@ -198,7 +198,7 @@ Creatinine, creatinine-d3, and cimetidine were detected in a positive multiple r
 </table>
 
 
-Creatinine, creatinine-*d*3, and cimetidine were detected in a positive multiple reaction monitoring (MRM) mode in which the transitions of *m/z* 113.9 to 44.0, *m/z* 117.0 to 47.0, and *m/z* 252.8 to 95.1 were monitored, respectively. The MS and electrospray ionization parameters were optimized and the analyzer settings were as follows:
+
 ion spray voltage (IS) 5000 V; 
 entrance potential (EP) 10 V; 
 orifice/declustering potentials (DP) 26 V (creatinine), 36 V (creatinine-*d*3), and 36 V (cimetidine); 
