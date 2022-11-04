@@ -3,11 +3,11 @@ weight: 2
 title: Strategies for Detecting and Eliminating Matrix Effects
 authors: null
 categories: null
-tags: null
+tags: [MS Conditions]
 description:  
 draft: false
 date: "2022-03-17"
-lastmod: "2022-11-01"
+lastmod: "2022-11-04"
 series: null
 toc: true
 ---
@@ -62,22 +62,22 @@ An isocratic elution method was used for elution. The mobile-phase composition w
 
 Creatinine, creatinine-d3, and cimetidine were detected in a positive multiple reaction monitoring (MRM) mode in which the transitions of m/z 113.9 to 44.0, m/z 117.0 to 47.0, and m/z 252.8 to 95.1 were monitored, respectively. The MS and electrospray ionization parameters were optimized and the analyzer settings were as follows: ion spray voltage (IS) 5000 V; entrance potential (EP) 10 V; orifice/declustering potentials (DP) 26 V (creatinine), 36 V (creatinine-d3), and 36 V (cimetidine); ring/focusing potentials (FP) 140 V (creatinine), 250 V (creatinine-d3), and 140 V (cimetidine); collision energy (CE) 29 V (creatinine, creatinine-d3 and cimetidine); collision exit potential (CXP) 8 V (creatinine, creatinine-d3, and cimetidine). Curtain gas (CUR), nebulizer gas (NEB), and the collision gas (CAD) flows were kept at 12, 8, and 4, respectively (in arbitrary units used in the instrument). The temperature of the ion spray was 300 °C. A dwell time of 150 ms was used for all transitions. Resolution of both Q1 and Q3 were 1 amu. 
 
-<table style="width:100%; font-size: 60%">
-<caption style="text-align:left", align = "top"><b>Problem: Leakage</b></caption>
+<table style="width:100%; font-size: 80%">
+<caption style="text-align:left", align = "top"><b></b></caption>
 <colgroup><col style="width: 40%" /><col style="width: 60%" />
 </colgroup>
 <thead>
   <tr VALIGN=TOP style="text-align:left"  class="header">
-    <th><p>Title Left</p></th>
-    <th><p>Title Right</p></th>
+    <th><p>Conditions</p></th>
+    <th><p>Settings</p></th>
   </tr>
 </thead>
 <tbody VALIGN=TOP>
   <tr class="odd">
     <td><p>Multiple Reaction Monitoring Transitions
     </p></td>
-    <td><p>Ion Mode positive
-      <table style="width:100%; font-size: 60%">
+    <td><p>
+      <table style="width:100%; font-size: 100%">
         <colgroup><col style="width: 30%" /><col style="width: 30%" /><col style="width: 30%" />
         </colgroup>
         <thead>
