@@ -118,16 +118,16 @@ toc: true
 21. M. Anastassiades, S.J. Lehotay, D. Stajnbaher, and F.J. Schenck, <i>J. AOAC Int.</i> <b>86</b>, 412–431 (2003).
 22. L. Vaclavik, A.J. Krynitsky, and J.I. Rader, <i>Anal. Chim. Acta</i> <b>810</b>, 45–60 (2014).
 23. W. Zhou, P.G. Wang, A.J. Krynitsky, and J.I. Rader, <i>J. Chromatogr A</i> <b>1218</b>, 7956–7963 (2011).
-24. L. Jessome and D.A. Volmer, <i>LCGC North Am.</i> <b>24<b>(5), 498–510 (2006).
+24. L. Jessome and D.A. Volmer, <i>LCGC North Am.</i> <b>24</b>(5), 498–510 (2006).
 25. M. Anastassiades, K. Maštovská, and S.J. Lehotay, <i>J. Chromatogr. A</i> <b>1015</b>, 163–184 (2003).
 
-<b>Alexander J. Krynitsky<b> is the Director of the Chemical Residues-Food Safety Laboratory at Symbiotic Research, LLC in Mount Olive, New Jersey. He is also an FDA Science Adviser to FDA/ORA/ORS/ORCE. Direct correspondence about this article to: [Alex.Krynitsky@SymbioticResearch.net](https://www.chromatographyonline.com/Alex.Krynitsky@SymbioticResearch.net).
+<b>Alexander J. Krynitsky</b> is the Director of the Chemical Residues-Food Safety Laboratory at Symbiotic Research, LLC in Mount Olive, New Jersey. He is also an FDA Science Adviser to FDA/ORA/ORS/ORCE. Direct correspondence about this article to: [Alex.Krynitsky@SymbioticResearch.net](https://www.chromatographyonline.com/Alex.Krynitsky@SymbioticResearch.net).
 
-<b>Jon W. Wong<b> is a research chemist with the U.S. FDA/CFSAN/ORS, HFS-717 in College Park, Maryland.
+<b>Jon W. Wong</b> is a research chemist with the U.S. FDA/CFSAN/ORS, HFS-717 in College Park, Maryland.
 
-<b>Kai Zhang<b> is a research chemist with the U.S. FDA/CFSAN/ORS, HFS-717.
+<b>Kai Zhang</b> is a research chemist with the U.S. FDA/CFSAN/ORS, HFS-717.
 
-<b>Hudan Safarpour<b> is the CEO/RSO of Symbiotic Research, LLC.
+<b>Hudan Safarpour</b> is the CEO/RSO of Symbiotic Research, LLC.
 
 ## Source
  <a href = "https://www.chromatographyonline.com/view/important-considerations-regarding-matrix-effects-when-developing-reliable-analytical-residue-method" target="_blank" rel="noopener noreferrer">LC/GC: Important Considerations Regarding Matrix Effects When Developing Reliable Analytical Residue Methods Using Mass Spectrometry</a>
