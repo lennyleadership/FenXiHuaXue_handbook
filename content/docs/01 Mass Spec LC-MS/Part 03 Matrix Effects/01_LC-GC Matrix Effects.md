@@ -80,7 +80,7 @@ toc: true
 5. C. Ferrer, A. Lozano, A. Agüera, and A.J. Girón, <i>J. Chromatogr. A</i> <b>1218</b>, 7634–7639 (2011).
 6. J. Schuhmacher, D. Zimmer, F. Tesche, and V. Picard, <i>Rapid Commun. Mass Spectrom.</i> <b>17</b>, 1950–1957 (2003).
 7. S. Wang, M. Cyronak, and E. Yang, <i>J. Pharm. Biomed. Anal.</i> <b>43</b>, 701–707 (2007).
-8. L. Jessome and D.A. Volmer, <i>LCGC North Am.</i> <b>24<b>(5), 498–510 (2006).
+8. L. Jessome and D.A. Volmer, <i>LCGC North Am.</i> <b>24</b>(5), 498–510 (2006).
 9. P. Yang, J.S. Chang, J.W. Wong, K. Zhang, A.J. Krynitsky, M. Bromirska, and J. Wang, <i>J. Agric. Food Chem.</i> <b>63</b>, 5169–5177 (2015).
 10. J.W. Wong, M.K. Hennessy, D.G. Hayward, A.J. Krynitsky, I. Cassias, and F.J. Schenck, <i>J. Agric. Food Chem.</i> <b>55</b>, 1117–1128 (2007).
 11. K. Mastovska, S.J. Lehotay, and M. Anastassiades, <i>Anal. Chem.</i> <b>77</b>, 8129–8137 (2005).
