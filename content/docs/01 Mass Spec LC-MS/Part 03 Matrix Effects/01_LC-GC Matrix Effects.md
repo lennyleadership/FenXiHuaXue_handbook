@@ -36,6 +36,9 @@ toc: true
 <figure>
   <img width = "540" src = "/docs/images/Figure-1a-web.webp"/>
   <img width = "540" src = "/docs/images/Figure-1b-web.webp"/>
+  <figcaption class = "bottom"></figcaption>
+</figure>
+<figure>
   <img width = "540" src = "/docs/images/Figure-1c-web.webp"/>
   <figcaption class = "bottom"><b>Figure 1</b>: (a) Native and 18O-labeled perchlorate; (b) LC–MS/MS chromatograms of native and 18O-labeled perchlorate in lettuce; (c) calibration curve of perchlorate using response ratio of (native–isotope labeled internal standard) versus native perchlorate concentration (ng/mL).</figcaption>
 </figure>
