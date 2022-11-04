@@ -11,6 +11,13 @@ lastmod: "2022-11-03"
 series: null
 toc: true
 ---
+
+Important Considerations Regarding Matrix Effects When Developing Reliable Analytical Residue Methods Using Mass Spectrometry  
+June 30, 2017  
+Kai Zhang, Jon W. Wong, Hudan Safarpour, Alexander J. Krynitsky  
+LCGC North America-07-01-2017, Volume 35, Issue 7  
+Pages: 444–451  
+
 &emsp;Practical examples of how to <u>correct for matrix effects</u> in food testing to obtain reliable quantitative data using LC–MS and GC–MS
 
 &emsp;Liquid chromatography–mass spectrometry (LC–MS) using electrospray ionization (ESI) is subject to matrix effects when analyzing complex matrices, such as food samples, for trace organic residues and contaminants. Even though a sample extract has gone through extensive cleanup, there are still enough coeluted compounds to possibly cause signal suppression or signal enhancement when analyzing a complex matrix, thus adversely affecting quantitation. Likewise, <mark class ="lemon">gas chromatography–mass spectrometry (GC–MS) is also subject to matrix effects</mark> that can hinder accurate MS quantification. This installment of “Focus on Food Analysis” shows some practical examples of how to correct for matrix effects to obtain reliable quantitative data using LC–MS and GC–MS.
