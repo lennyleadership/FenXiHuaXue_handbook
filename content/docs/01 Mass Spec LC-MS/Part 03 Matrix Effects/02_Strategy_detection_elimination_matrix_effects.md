@@ -317,13 +317,13 @@ In this study, we used Cimetidine as an internal standard (Figure 3) because it 
 
 Figure 5: Comparison of approaches using negative control (external standard calibration), positive control (SIL-IS), and coeluting internal standard. The coeluting internal standard is Cimetidine. Detailed explanation in text.
 
-**Conclusions**
+## Conclusions
 
 Matrix effects represent a major problem affecting the accuracy of LC–MS analysis. In this study, a simple method has been introduced for the qualitative and quantitative detection of matrix effects. This method is based on recovery calculations; if the responses are within a previously established linear range the same data can be used to quantify the analyte using the standard addition method. This means that the detection and correction of the matrix effects may be both achieved in a simple single-step process.
 
 Two alternatives to the SIL-IS method, the standard addition method and the coeluting internal standard method, were evaluated for their capacity to correct for matrix effects. The standard addition method proved to be a viable alternative and is likely to be a better alternative in terms of accuracy and versatility. It could also be a superior method in terms of time and labor for multicomponent analysis using LC–MS such as pesticide analysis. However, the coeluting internal standard method as applied using Cimetidine for the Creatinine assay was found to be less effective in correcting for the matrix effect. A better structural analogue with similar chemical structure, physicochemical properties, and ionization properties may have produced better results. Because this approach was significantly better than the negative control, it could well be a good alternative for alleviating matrix effects if the appropriate compound is used as the coeluting internal standard.
 
-**References**
+## References
 
 (1) E. Chambers, D.M. Wagrowski-Diehl, Z. Lu, and J.R. Mazzeo, *J. Chromatogr. B* **852,** 22 (2007).
 
