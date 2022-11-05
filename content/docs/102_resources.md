@@ -16,3 +16,5 @@ series:
 ---
 
 <a href = "http://www.lcresources.com/training/LCR-resources.html" target="_blank" rel="noopener noreferrer">Resources for Chromatographers</a>
+
+<a href = "https://www.chromatographyonline.com/journals" target="_blank" rel="noopener noreferrer">LC|GC journals and eBooks</a>
