@@ -69,10 +69,9 @@ Identify the retention time region(s) where matrix effects were observed firstly
 4) Change MS conditions to reduce the occurrence of matrix effects in the ion source <a href="#ref">[3]</a>.
 
 5) The rectification of data  
-
-&emsp;(i) the external-matched standards method <a href="#ref">[1]</a>  
+(i) the external-matched standards method <a href="#ref">[1]</a>  
 Analytical standards are fortified in a sample extract that has been treated exactly the same as the regular sample and is free of the residues of interest <a href="#ref">[1]</a>.   
-&emsp;<b><font class = "font_upper">Drawback</font></b>. The matrix-matching technique requires many blank matrices and appropriate blank matrices are not always available for the preparation of external standards (9,11,18,23) <a href="#ref">[6,9,10,14]</a>.  It is also impossible to match the matrix of the calibration standards with each of the samples exactly, as each sample has coeluting, interfering compounds that are thereby exposed to a different extent of ionization suppression (18) <a href="#ref">[10]</a>.
+<b><font class = "font_upper">Drawback</font></b>. The matrix-matching technique requires many blank matrices and appropriate blank matrices are not always available for the preparation of external standards (9,11,18,23) <a href="#ref">[6,9,10,14]</a>.  It is also impossible to match the matrix of the calibration standards with each of the samples exactly, as each sample has coeluting, interfering compounds that are thereby exposed to a different extent of ionization suppression (18) <a href="#ref">[10]</a>.
 
 &emsp;(ii) the echo-peak technique   
 &emsp;<b><font class = "font_upper">Drawback</font></b>. Echo-peak does not compensate for matrix effects completely because both standard and analyte peaks are not eluted at the exact same retention time (11) <a href="#ref">[9]</a>.  
@@ -81,7 +80,7 @@ Analytical standards are fortified in a sample extract that has been treated exa
 &emsp;<b><font class = "font_upper">Drawback</font></b>. The stable isotope–labeled internal standards (SIL-IS) approach is the best available option but it is expensive and standards are not always commercially available for the analyte of interest (4,9,23) <a href="#ref">[11,6,14]</a>.
 
 6) Standard addition method <a href="#ref">[1,3]</a>  
-&emsp;<b><font class = "font_upper">Drawback</font></b>. Firstly, the approximate concentration of the analyte must be known to construct a proper calibration curve. Secondly, it requires at least three more additional sample runs per sample in order to have sufficient data points for the calibration curve <a href="#ref">[1]</a>.
+<b><font class = "font_upper">Drawback</font></b>. Firstly, the approximate concentration of the analyte must be known to construct a proper calibration curve. Secondly, it requires at least three more additional sample runs per sample in order to have sufficient data points for the calibration curve <a href="#ref">[1]</a>.
 
 7) Change from ESI to APCI <a href="#ref">[1]</a>
 
