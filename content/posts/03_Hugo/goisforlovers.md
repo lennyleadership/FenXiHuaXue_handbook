@@ -10,8 +10,6 @@ tags = [
 ]
 date = "2014-04-02"
 categories = [
-    "z_Development",
-    "z_golang",
 ]
 menu = "main"
 +++
