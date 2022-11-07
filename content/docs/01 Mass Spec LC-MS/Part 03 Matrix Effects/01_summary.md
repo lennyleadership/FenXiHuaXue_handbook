@@ -33,7 +33,7 @@ Unwanted compounds compete with analytes for ionization <a href="#ref">[2]</a>.
 
 <figure>
   <img width = "360" src = "/docs/images/Screenshot 2022-10-15 214516.png"/>
-  <figcaption><b>Figure 1</b>. General set-up for identifying matrix effect: postcolumn infusion of compound while injecting extracted blank</figcaption>
+  <figcaption class = "bottom"><b>Figure 1</b>. General set-up for identifying matrix effect: postcolumn infusion of compound while injecting extracted blank</figcaption>
 </figure>
 </div>
 
