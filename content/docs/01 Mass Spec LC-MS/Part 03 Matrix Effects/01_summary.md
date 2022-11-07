@@ -66,6 +66,18 @@ Identify the retention time region(s) where matrix effects were observed firstly
 
 4) Change MS conditions to reduce the occurrence of matrix effects in the ion source <a href="#ref">[3]</a>.
 
+5) The rectification of data
+&emsp;(i) the external-matched standards method   
+&emsp;<b><font class = "font_upper">Drawback</font></b>. The matrix-matching technique requires many blank matrices and appropriate blank matrices are not always available for the preparation of external standards (9,11,18,23) <a href="#ref">[6,9,10,14]</a>.  It is also impossible to match the matrix of the calibration standards with each of the samples exactly, as each sample has coeluting, interfering compounds that are thereby exposed to a different extent of ionization suppression (18) <a href="#ref">[10]</a>.
+
+&emsp;(ii) the echo-peak technique   
+&emsp;<b><font class = "font_upper">Drawback</font></b>. Echo-peak does not compensate for matrix effects completely because both standard and analyte peaks are not eluted at the exact same retention time (11) <a href="#ref">[9]</a>.  
+
+&emsp;(ii) the internal standard method.  
+&emsp;<b><font class = "font_upper">Drawback</font></b>. The stable isotope–labeled internal standards (SIL-IS) approach is the best available option but it is expensive and standards are not always commercially available for the analyte of interest (4,9,23) <a href="#ref">[11,6,14]</a>.
+
+6) Standard addition method
+
 ## reference  
 <p id="ref">[1] <a href = "https://www.chromatographyonline.com/view/important-considerations-regarding-matrix-effects-when-developing-reliable-analytical-residue-method" target="_blank" rel="noopener noreferrer">LC/GC: Important Considerations Regarding Matrix Effects When Developing Reliable Analytical Residue Methods Using Mass Spectrometry</p>  
 
@@ -93,7 +105,7 @@ Identify the retention time region(s) where matrix effects were observed firstly
 
 <p id="ref">[13] (15) F. Gosetti, E. Mazzucco, D. Zampieri, and M.C. Gennaro, *J. Chromatogr. A* **1217,** 3929 (2010).</p>
 
-<p id="ref">[14] </p>
+<p id="ref">[14] (23) M. Stüber and T. Reemtsma, *Anal. Bioanal. Chem.*  **378,** 910 (2004).</p>
 
 <p id="ref">[15] </p>
 
