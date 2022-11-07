@@ -18,9 +18,9 @@ Swee K. Tan, P. Nicholas Shaw, Amitha K. Hewavitharana
 LCGC North America, LCGC North America-01-01-2014, Volume 32, Issue 1  
 Pages: 54–64  
 
-*We assessed a simple method based on recovery for the detection of matrix effects and two alternative methods for the rectification of matrix effects in LC–MS: standard addition and the coeluting internal standard method.*
+&emsp;*We assessed a simple method based on recovery for the detection of matrix effects and two alternative methods for the rectification of matrix effects in LC–MS: standard addition and the coeluting internal standard method.*
 
-**Currently available methods for the detection of matrix effects in liquid chromatography–mass spectrometry (LC–MS) are tedious and complex; therefore, a simpler method is required. Although there are no methods to completely eliminate matrix effects, the most well-recognized technique available to correct for matrix effects is that of internal standardization using stable isotope–labeled versions of the analytes. As this method can prove expensive, an alternative method of correction is likely to be useful. In this study, a simple method based on recovery is assessed for the detection of matrix effects. Two alternative methods for the rectification of matrix effects in LC–MS are also assessed: standard addition and the coeluting internal standard method.**
+&emsp;**Currently available methods for the detection of matrix effects in liquid chromatography–mass spectrometry (LC–MS) are tedious and complex; therefore, a simpler method is required. Although there are no methods to completely eliminate matrix effects, the most well-recognized technique available to correct for matrix effects is that of internal standardization using stable isotope–labeled versions of the analytes. As this method can prove expensive, an alternative method of correction is likely to be useful. In this study, a simple method based on recovery is assessed for the detection of matrix effects. Two alternative methods for the rectification of matrix effects in LC–MS are also assessed: standard addition and the coeluting internal standard method.**
 
 <!--more-->
 ---
