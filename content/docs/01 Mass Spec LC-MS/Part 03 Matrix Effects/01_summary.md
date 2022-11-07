@@ -18,11 +18,23 @@ toc: true
 ---
 
 ## What is matrix effects?
-Matrix effects are either observed as suppression or enhancement of analyte signal in the electrospray ionization (ESI) source <a href="#ref">[1]</a>.  GC-MS is also subject to matrix effects <a href="#ref">[1]</a>.
+&emsp;Matrix effects occur when compounds that are coeluted with the analyte interfere with the ionization process in the MS detector, thereby causing ionization suppression or enhancement in the electrospray ionization (ESI) source <a href="#ref">[3]</a>.  
+
+&emsp;GC-MS is also subject to matrix effects <a href="#ref">[1]</a>.
 
 
 ## What cause matrix effects?
-Unwanted compounds compete with analytes for ionization <a href="#ref">[2]</a>.
+&emsp;Compounds with high mass, polarity, and basicity are possible candidates to cause matrix effects <a href="#ref">[3]</a>.  
+
+&emsp;The mechanisms involved in matrix effects have not been fully explored. One of the proposed theories to explain matrix effects is that the coelution of interfering compounds, especially basic compounds, may deprotonate and neutralize the analyte ions and, thus, reduce the formation of protonated analyte ions <a href="#ref">[3]</a>.   
+
+&emsp;Another theory postulates that less-volatile compounds may affect the efficiency of droplet formation and reduce the ability of charged droplets to convert into gas-phase ions <a href="#ref">[3]</a>.  
+
+&emsp;In addition, matrix effects may also be caused by high viscosity interfering compounds that could possibly increase the surface tension of the charged droplets and reduce the efficiency of droplet evaporation <a href="#ref">[3]</a>.  
+
+&emsp;Moreover, unwanted compounds compete with analytes for ionization <a href="#ref">[2]</a>.  
+
+
 
 
 ## How to assess it?
