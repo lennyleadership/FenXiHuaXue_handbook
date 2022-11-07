@@ -3,7 +3,7 @@ weight: 11
 title: Systematic Method Development and Troubleshooting 
 authors: Naidong Weng and Timothy D.J. Halls, edited by Lenny Lin
 categories: null
-tags: [Method Development, Sensitivity, Matrix Effects Determination, Trifluoroacetic Acid, TFA, Buffer, Ion Pairs]
+tags: [Method Development, Sensitivity, Assessment of Matrix Effects, Trifluoroacetic Acid, TFA, Buffer, Ion Pairs]
 description:  
 draft: false
 date: "2022-10-15"
@@ -115,7 +115,7 @@ For an LC/MS/MS method, it is important to identify whether the loss of sensitiv
 
 Recovery is determined by comparing the peak areas of extracted samples with those of neat solutions spiked (postextraction) into a blank matrix. Because both samples have the matrix ingredients present, the matrix effects can be considered the same for extracted samples and postextraction spiked samples. Any differences in response can now be considered to be due to extraction recovery.   
 
-The matrix effect[^1] is determined by comparing peak areas of neat solutions spiked (postextraction) into `blank matrix` with those of other neat solutions. Because the analytes are not extracted, the analyte should have the same response in postextraction spiked samples and in neat solutions. The matrix ingredients, therefore, cause whatever differences are noted in the responses.  
+<mark class = "lemon">The matrix effect[^1] is determined by comparing peak areas of neat solutions spiked (postextraction) into `blank matrix` with those of other neat solutions</mark>. Because the analytes are not extracted, the analyte should have the same response in postextraction spiked samples and in neat solutions. The matrix ingredients, therefore, cause whatever differences are noted in the responses.  
 
 A useful method to assess matrix suppression is postcolumn infusion of an analyte into the MS detector. The extracted blank matrix is injected by an autosampler onto the analytical column. The setup is shown in Figure 3. The purpose of postcolumn infusion with analyte is to raise the background level so that the suppression matrix will show as negative peaks. This setup has been successfully used to identify and troubleshoot matrix suppression peaks.  
 
