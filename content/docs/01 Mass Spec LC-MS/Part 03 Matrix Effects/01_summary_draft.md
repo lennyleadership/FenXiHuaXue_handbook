@@ -5,13 +5,14 @@ authors: null
 categories: ["Matrix Effects in LC-MS/MS"]
 tags: null
 description:  
-draft: false
+draft: true
 date: "2022-11-07"
 lastmod: "2022-11-07"
 series: null
 toc: true
 ---
 
+remain original reference numbers.
 
 
 <!--more-->
@@ -64,20 +65,20 @@ Identify the retention time region(s) where matrix effects were observed firstly
 <b><font class = "font_upper">Drawback</font></b>. Most of the sample cleanup methods fail to remove impurities that are similar to the analyte and, hence, likely to be coeluted with the analyte <a href="#ref">[9, 10]</a>.
 
 3) Change chromatographic parameters to avoid coelution of analytes and interfering compounds <a href="#ref">[11]</a>.  
-<b><font class = "font_upper">Drawback</font></b>. Modifying chromatographic conditions can be time-consuming, and some of the additives used in the mobile phase to improve separation have been found to suppress the electrospray signal of the analytes <a href="#ref">[12,11,6,13]</a>. Furthermore, even when the sample is devoid of coeluted substances, trace impurities present in the mobile phase can significantly suppress the analyte peak <a href="#ref">[15]</a>.
+<b><font class = "font_upper">Drawback</font></b>. Modifying chromatographic conditions can be time-consuming, and some of the additives used in the mobile phase to improve separation have been found to suppress the electrospray signal of the analytes (3,4,9,15) <a href="#ref">[12,11,6,13]</a>. Furthermore, even when the sample is devoid of coeluted substances, trace impurities present in the mobile phase can significantly suppress the analyte peak (19) <a href="#ref">[15]</a>.
 
 4) Change MS conditions to reduce the occurrence of matrix effects in the ion source <a href="#ref">[3]</a>.
 
 5) The rectification of data  
 (i) the external-matched standards method <a href="#ref">[1]</a>  
 Analytical standards are fortified in a sample extract that has been treated exactly the same as the regular sample and is free of the residues of interest <a href="#ref">[1]</a>.   
-<b><font class = "font_upper">Drawback</font></b>. The matrix-matching technique requires many blank matrices and appropriate blank matrices are not always available for the preparation of external standards <a href="#ref">[6,9,10,14]</a>.  It is also impossible to match the matrix of the calibration standards with each of the samples exactly, as each sample has coeluting, interfering compounds that are thereby exposed to a different extent of ionization suppression <a href="#ref">[10]</a>.
+<b><font class = "font_upper">Drawback</font></b>. The matrix-matching technique requires many blank matrices and appropriate blank matrices are not always available for the preparation of external standards (9,11,18,23) <a href="#ref">[6,9,10,14]</a>.  It is also impossible to match the matrix of the calibration standards with each of the samples exactly, as each sample has coeluting, interfering compounds that are thereby exposed to a different extent of ionization suppression (18) <a href="#ref">[10]</a>.
 
 &emsp;&emsp;(ii) the echo-peak technique   
 &emsp;&emsp;<b><font class = "font_upper">Drawback</font></b>. Echo-peak does not compensate for matrix effects completely because both standard and analyte peaks are not eluted at the exact same retention time (11) <a href="#ref">[9]</a>.  
 
 &emsp;&emsp;(iii) the internal standard method <a href="#ref">[1,3]</a>  
-&emsp;&emsp;<b><font class = "font_upper">Drawback</font></b>. The stable isotope–labeled internal standards (SIL-IS) approach is the best available option but it is expensive and standards are not always commercially available for the analyte of interest <a href="#ref">[11,6,14]</a>.
+&emsp;&emsp;<b><font class = "font_upper">Drawback</font></b>. The stable isotope–labeled internal standards (SIL-IS) approach is the best available option but it is expensive and standards are not always commercially available for the analyte of interest (4,9,23) <a href="#ref">[11,6,14]</a>.
 
 6) Standard addition method <a href="#ref">[1,3]</a>  
 <b><font class = "font_upper">Drawback</font></b>. Firstly, the approximate concentration of the analyte must be known to construct a proper calibration curve. Secondly, it requires at least three more additional sample runs per sample in order to have sufficient data points for the calibration curve <a href="#ref">[1]</a>.
