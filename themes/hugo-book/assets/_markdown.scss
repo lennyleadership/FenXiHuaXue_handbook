@@ -240,7 +240,7 @@
 
 
 figure {
-  text-align: center;
+  text-align: left;
   font-style: italic;
   font-size: smaller;
   text-indent: 0;
@@ -392,3 +392,8 @@ mark.lemon {
   background-color: #fffacd;
 }
 /* the end */
+
+
+.aligncenter {
+    text-align: center;
+}

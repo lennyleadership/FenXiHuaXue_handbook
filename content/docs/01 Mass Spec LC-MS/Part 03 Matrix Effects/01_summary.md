@@ -31,10 +31,13 @@ Unwanted compounds compete with analytes for ionization <a href="#ref">[2]</a>.
 <div class = "quote">
 &emsp;A useful method to assess matrix suppression is `postcolumn infusion` of an analyte into the MS detector. The extracted blank matrix is injected by an autosampler onto the analytical column. The setup is shown in <b>Figure 1</b>. The purpose of postcolumn infusion with analyte is to raise the background level so that the suppression matrix will show as negative peaks. This setup has been successfully used to identify and troubleshoot matrix suppression peaks <a href="#ref">[2]</a>.  
 
+<p class = "aligncenter">
 <figure>
-  <center><img width = "360" src = "/docs/images/Screenshot 2022-10-15 214516.png"/></center>
-  <figcaption class = "bottom"><center><b>Figure 1</b>. General set-up for identifying matrix effect: postcolumn infusion of compound while injecting extracted blank</center></figcaption>
+  <img width = "360" src = "/docs/images/Screenshot 2022-10-15 214516.png"/>
+  <figcaption class = "bottom"><b>Figure 1</b>. General set-up for identifying matrix effect: postcolumn infusion of compound while injecting extracted blank</figcaption>
 </figure>
+</p>
+
 </div>
 
 <br>
