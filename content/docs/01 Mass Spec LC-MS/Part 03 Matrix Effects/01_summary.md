@@ -18,19 +18,19 @@ toc: true
 ---
 
 ## What is matrix effects?
-&emsp;Matrix effects occur when compounds that are coeluted with the analyte interfere with the ionization process in the MS detector, thereby causing ionization suppression or enhancement in the electrospray ionization (ESI) source <a href="#ref">[3]</a>.  
+&emsp;Matrix effects occur when compounds that are coeluted with the analyte interfere with the ionization process in the MS detector, thereby causing ionization suppression or enhancement in the electrospray ionization (ESI) source <a href="#ref">[1]</a>.  
 
-&emsp;GC-MS is also subject to matrix effects <a href="#ref">[1]</a>.
+&emsp;GC-MS is also subject to matrix effects <a href="#ref">[3]</a>.
 
 
 ## What cause matrix effects?
-&emsp;Compounds with high mass, polarity, and basicity are possible candidates to cause matrix effects <a href="#ref">[3]</a>.  
+&emsp;Compounds with high mass, polarity, and basicity are possible candidates to cause matrix effects <a href="#ref">[1]</a>.  
 
-&emsp;The mechanisms involved in matrix effects have not been fully explored. One of the proposed theories to explain matrix effects is that the coelution of interfering compounds, especially basic compounds, may deprotonate and neutralize the analyte ions and, thus, reduce the formation of protonated analyte ions <a href="#ref">[3]</a>.   
+&emsp;The mechanisms involved in matrix effects have not been fully explored. One of the proposed theories to explain matrix effects is that the coelution of interfering compounds, especially basic compounds, may deprotonate and neutralize the analyte ions and, thus, reduce the formation of protonated analyte ions <a href="#ref">[1]</a>.   
 
-&emsp;Another theory postulates that less-volatile compounds may affect the efficiency of droplet formation and reduce the ability of charged droplets to convert into gas-phase ions <a href="#ref">[3]</a>.  
+&emsp;Another theory postulates that less-volatile compounds may affect the efficiency of droplet formation and reduce the ability of charged droplets to convert into gas-phase ions <a href="#ref">[1]</a>.  
 
-&emsp;In addition, matrix effects may also be caused by high viscosity interfering compounds that could possibly increase the surface tension of the charged droplets and reduce the efficiency of droplet evaporation <a href="#ref">[3]</a>.  
+&emsp;In addition, matrix effects may also be caused by high viscosity interfering compounds that could possibly increase the surface tension of the charged droplets and reduce the efficiency of droplet evaporation <a href="#ref">[1]</a>.  
 
 &emsp;Moreover, unwanted compounds compete with analytes for ionization <a href="#ref">[2]</a>.  
 
@@ -53,24 +53,24 @@ toc: true
 
 <br>
 <div class = "quote">
-&emsp;The postcolumn infusion method assesses matrix effects <u>qualitatively</u>. A constant flow of analyte is infused into the HPLC eluent, followed by injection of the blank sample extract. A variation in signal response of the infused analyte caused by coeluted interfering compounds indicates ionization suppression or enhancement <a href="#ref">[3]</a>.  
+&emsp;The postcolumn infusion method assesses matrix effects <u>qualitatively</u>. A constant flow of analyte is infused into the HPLC eluent, followed by injection of the blank sample extract. A variation in signal response of the infused analyte caused by coeluted interfering compounds indicates ionization suppression or enhancement <a href="#ref">[1]</a>.  
 
 Identify the retention time region(s) where matrix effects were observed firstly, then adjust the chromatography condition to prevent analyte elution from from these regions.  
 
-<b><font class = "font_upper">Drawback</font></b>. The process of postcolumn infusion is time consuming and requires additional hardware, and it is not appropriate for multianalyte samples <a href="#ref">[3]</a>. 
+<b><font class = "font_upper">Drawback</font></b>. The process of postcolumn infusion is time consuming and requires additional hardware, and it is not appropriate for multianalyte samples <a href="#ref">[1]</a>. 
 </div>
 
 ### Postextraction spike
 <div class = "quote">
-&emsp;The postextraction spike method evaluates matrix effects by comparing the signal response of an analyte in neat mobile phase with the signal response of an equivalent amount of the analyte in the blank matrix sample spiked post-extraction <a href="#ref">[3]</a>.  
+&emsp;The postextraction spike method evaluates matrix effects by comparing the signal response of an analyte in neat mobile phase with the signal response of an equivalent amount of the analyte in the blank matrix sample spiked post-extraction <a href="#ref">[1]</a>.  
 
-<b><font class = "font_upper">Drawback</font></b>. For endogenous analytes such as metabolites (for example, Creatinine) blank matrix (urine or plasma) is not available <a href="#ref">[3]</a>.
+<b><font class = "font_upper">Drawback</font></b>. For endogenous analytes such as metabolites (for example, Creatinine) blank matrix (urine or plasma) is not available <a href="#ref">[1]</a>.
 </div>
 
 ## How to correct it?
 
 1) Dilute and shot  
-<b><font class = "font_upper">Drawback</font></b>. This approach can only be feasible when the sensitivity of the assay is very high <a href="#ref">[4]</a>. It will raise the limit of quantitation, which could affect the required sensitivity <a href="#ref">[1]</a>.  
+<b><font class = "font_upper">Drawback</font></b>. This approach can only be feasible when the sensitivity of the assay is very high <a href="#ref">[4]</a>. It will raise the limit of quantitation, which could affect the required sensitivity <a href="#ref">[3]</a>.  
 
 2) Remove interfering compounds from samples <a href="#ref">[1,5,6,7,8]</a>.   
 <b><font class = "font_upper">Drawback</font></b>. Most of the sample cleanup methods fail to remove impurities that are similar to the analyte and, hence, likely to be coeluted with the analyte <a href="#ref">[9, 10]</a>.
@@ -78,11 +78,11 @@ Identify the retention time region(s) where matrix effects were observed firstly
 3) Change chromatographic parameters to avoid coelution of analytes and interfering compounds <a href="#ref">[11]</a>.  
 <b><font class = "font_upper">Drawback</font></b>. Modifying chromatographic conditions can be time-consuming, and some of the additives used in the mobile phase to improve separation have been found to suppress the electrospray signal of the analytes <a href="#ref">[12,11,6,13]</a>. Furthermore, even when the sample is devoid of coeluted substances, trace impurities present in the mobile phase can significantly suppress the analyte peak <a href="#ref">[15]</a>.
 
-4) Change MS conditions to reduce the occurrence of matrix effects in the ion source <a href="#ref">[3]</a>.
+4) Change MS conditions to reduce the occurrence of matrix effects in the ion source <a href="#ref">[1]</a>.
 
 5) The rectification of data  
-(i) the external-matched standards method <a href="#ref">[1]</a>  
-Analytical standards are fortified in a sample extract that has been treated exactly the same as the regular sample and is free of the residues of interest <a href="#ref">[1]</a>.   
+(i) the external-matched standards method <a href="#ref">[3]</a>  
+Analytical standards are fortified in a sample extract that has been treated exactly the same as the regular sample and is free of the residues of interest <a href="#ref">[3]</a>.   
 <b><font class = "font_upper">Drawback</font></b>. The matrix-matching technique requires many blank matrices and appropriate blank matrices are not always available for the preparation of external standards <a href="#ref">[6,9,10,14]</a>.  It is also impossible to match the matrix of the calibration standards with each of the samples exactly, as each sample has coeluting, interfering compounds that are thereby exposed to a different extent of ionization suppression <a href="#ref">[10]</a>.
 
 &emsp;&emsp;(ii) the echo-peak technique   
@@ -92,17 +92,17 @@ Analytical standards are fortified in a sample extract that has been treated exa
 &emsp;&emsp;<b><font class = "font_upper">Drawback</font></b>. The stable isotope–labeled internal standards (SIL-IS) approach is the best available option but it is expensive and standards are not always commercially available for the analyte of interest <a href="#ref">[11,6,14]</a>.
 
 6) Standard addition method <a href="#ref">[1,3]</a>  
-<b><font class = "font_upper">Drawback</font></b>. Firstly, the approximate concentration of the analyte must be known to construct a proper calibration curve. Secondly, it requires at least three more additional sample runs per sample in order to have sufficient data points for the calibration curve <a href="#ref">[1]</a>.
+<b><font class = "font_upper">Drawback</font></b>. Firstly, the approximate concentration of the analyte must be known to construct a proper calibration curve. Secondly, it requires at least three more additional sample runs per sample in order to have sufficient data points for the calibration curve <a href="#ref">[3]</a>.
 
-7) Change from ESI to APCI <a href="#ref">[1]</a>
+7) Change from ESI to APCI <a href="#ref">[3]</a>
 
 
 ## Reference  
-<p id="ref">[1] <a href = "https://www.chromatographyonline.com/view/important-considerations-regarding-matrix-effects-when-developing-reliable-analytical-residue-method" target="_blank" rel="noopener noreferrer">LC/GC: Important Considerations Regarding Matrix Effects When Developing Reliable Analytical Residue Methods Using Mass Spectrometry</p>  
+<p id="ref">[1] <a href = "https://www.chromatographyonline.com/view/strategies-detection-and-elimination-matrix-effects-quantitative-lc-ms-analysis" target="_blank" rel="noopener noreferrer">LC/GC: Strategies for the detection and elimination of matrix effects in Quantitative LC-MS Analysis</a></p>
 
 <p id="ref">[2] <a href = "https://cdn.sanity.io/files/0vv8moc6/biopharn/1a7e564988c4ca05949add7061339d9dadbe47ec.pdf/article-7275.pdf" target="_blank" rel="noopener noreferrer">Systematic Troubleshooting for LC/MS/MS - Part 2: Large-Scale LC/MS/MS and Automation</a></p>
 
-<p id="ref">[3] <a href = "https://www.chromatographyonline.com/view/strategies-detection-and-elimination-matrix-effects-quantitative-lc-ms-analysis" target="_blank" rel="noopener noreferrer">LC/GC: Strategies for the detection and elimination of matrix effects in Quantitative LC-MS Analysis</a></p>
+<p id="ref">[3] <a href = "https://www.chromatographyonline.com/view/important-considerations-regarding-matrix-effects-when-developing-reliable-analytical-residue-method" target="_blank" rel="noopener noreferrer">LC/GC: Important Considerations Regarding Matrix Effects When Developing Reliable Analytical Residue Methods Using Mass Spectrometry</p>
 
 <p id="ref">[4] C. Ferrer, A. Lozano, A. Agüera, A.J. Girón, and A.R. Fernández-Alba, <i>J. Chromatogr.</i> <b>A 1218</b>, 7634 (2011).</p>
 
