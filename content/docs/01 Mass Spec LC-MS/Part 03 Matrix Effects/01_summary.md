@@ -69,6 +69,7 @@ Identify the retention time region(s) where matrix effects were observed firstly
 4) Change MS conditions to reduce the occurrence of matrix effects in the ion source <a href="#ref">[3]</a>.
 
 5) The rectification of data  
+
 &emsp;(i) the external-matched standards method <a href="#ref">[1]</a>  
 Analytical standards are fortified in a sample extract that has been treated exactly the same as the regular sample and is free of the residues of interest <a href="#ref">[1]</a>.   
 &emsp;<b><font class = "font_upper">Drawback</font></b>. The matrix-matching technique requires many blank matrices and appropriate blank matrices are not always available for the preparation of external standards (9,11,18,23) <a href="#ref">[6,9,10,14]</a>.  It is also impossible to match the matrix of the calibration standards with each of the samples exactly, as each sample has coeluting, interfering compounds that are thereby exposed to a different extent of ionization suppression (18) <a href="#ref">[10]</a>.
