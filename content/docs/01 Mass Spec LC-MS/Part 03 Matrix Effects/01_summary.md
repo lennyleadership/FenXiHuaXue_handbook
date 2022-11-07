@@ -32,7 +32,7 @@ Unwanted compounds compete with analytes for ionization <a href="#ref">[2]</a>.
 &emsp;A useful method to assess matrix suppression is `postcolumn infusion` of an analyte into the MS detector. The extracted blank matrix is injected by an autosampler onto the analytical column. The setup is shown in <b>Figure 1</b>. The purpose of postcolumn infusion with analyte is to raise the background level so that the suppression matrix will show as negative peaks. This setup has been successfully used to identify and troubleshoot matrix suppression peaks <a href="#ref">[2]</a>.  
 
 <figure>
-  <img width = "540" src = "/docs/images/Screenshot 2022-10-15 214516.png"/>
+  <img width = "360" src = "/docs/images/Screenshot 2022-10-15 214516.png"/>
   <figcaption><b>Figure 1</b>. General set-up for identifying matrix effect: postcolumn infusion of compound while injecting extracted blank</figcaption>
 </figure>
 </div>
@@ -56,7 +56,7 @@ Identify the retention time region(s) where matrix effects were observed firstly
 ## How to correct it?
 
 1) Dilute and shot  
-<b><font class = "font_upper">Drawback</font></b>. this approach can only be feasible when the sensitivity of the assay is very high <a href="#ref">[4]</a>.  
+<b><font class = "font_upper">Drawback</font></b>. This approach can only be feasible when the sensitivity of the assay is very high <a href="#ref">[4]</a>.  
 
 2) Remove interfering compounds from samples <a href="#ref">[5,6,7,8]</a>.   
 <b><font class = "font_upper">Drawback</font></b>. Most of the sample cleanup methods fail to remove impurities that are similar to the analyte and, hence, likely to be coeluted with the analyte <a href="#ref">[9, 10]</a>.
@@ -66,7 +66,7 @@ Identify the retention time region(s) where matrix effects were observed firstly
 
 4) Change MS conditions to reduce the occurrence of matrix effects in the ion source <a href="#ref">[3]</a>.
 
-5) The rectification of data
+5) The rectification of data  
 &emsp;(i) the external-matched standards method   
 &emsp;<b><font class = "font_upper">Drawback</font></b>. The matrix-matching technique requires many blank matrices and appropriate blank matrices are not always available for the preparation of external standards (9,11,18,23) <a href="#ref">[6,9,10,14]</a>.  It is also impossible to match the matrix of the calibration standards with each of the samples exactly, as each sample has coeluting, interfering compounds that are thereby exposed to a different extent of ionization suppression (18) <a href="#ref">[10]</a>.
 
@@ -76,7 +76,7 @@ Identify the retention time region(s) where matrix effects were observed firstly
 &emsp;(ii) the internal standard method.  
 &emsp;<b><font class = "font_upper">Drawback</font></b>. The stable isotope–labeled internal standards (SIL-IS) approach is the best available option but it is expensive and standards are not always commercially available for the analyte of interest (4,9,23) <a href="#ref">[11,6,14]</a>.
 
-6) Standard addition method
+6) Standard addition method <a href="#ref">[3]</a>
 
 ## reference  
 <p id="ref">[1] <a href = "https://www.chromatographyonline.com/view/important-considerations-regarding-matrix-effects-when-developing-reliable-analytical-residue-method" target="_blank" rel="noopener noreferrer">LC/GC: Important Considerations Regarding Matrix Effects When Developing Reliable Analytical Residue Methods Using Mass Spectrometry</p>  
@@ -95,24 +95,15 @@ Identify the retention time region(s) where matrix effects were observed firstly
 
 <p id="ref">[8] (13) C.R. Mallet, Z. Lu, and J.R. Mazzeo, <i>Rapid Commun. Mass Spectrom.</i> <b>18</b>, 49 (2004).</p>
 
-<p id="ref">[9] (11) H. Stahnke, S. Kittlaus, G. Kempe, and L. Alder, *Anal. Chem.* **84,** 1474 (2011).</p>
+<p id="ref">[9] (11) H. Stahnke, S. Kittlaus, G. Kempe, and L. Alder, <i>Anal. Chem</i>. <b>84</b>, 1474 (2011).</p>
 
-<p id="ref">[10] (18) A.K. Hewavitharana, *J. Chromatogr. A* **1218,** 359 (2011).</p>
+<p id="ref">[10] (18) A.K. Hewavitharana, <i>J. Chromatogr</i>. <b>1218</b>, 359 (2011).</p>
 
-<p id="ref">[11] (4) D.A. Volmer, *LCGC North Am.* **24,** 498 (2006).</p>
+<p id="ref">[11] (4) D.A. Volmer, <i>LCGC North Am</i>. <b>24</b>, 498 (2006).</p>
 
-<p id="ref">[12] (3) P.J. Taylor, *Clin. Biochem.* **38,** 328 (2005).</p>
+<p id="ref">[12] (3) P.J. Taylor, <i>Clin. Biochem</i>. <b>38</b>, 328 (2005).</p>
 
-<p id="ref">[13] (15) F. Gosetti, E. Mazzucco, D. Zampieri, and M.C. Gennaro, *J. Chromatogr. A* **1217,** 3929 (2010).</p>
+<p id="ref">[13] (15) F. Gosetti, E. Mazzucco, D. Zampieri, and M.C. Gennaro, <i>J. Chromatogr</i>. <b>A1217</b>, 3929 (2010).</p>
 
-<p id="ref">[14] (23) M. Stüber and T. Reemtsma, *Anal. Bioanal. Chem.*  **378,** 910 (2004).</p>
+<p id="ref">[14] (23) M. Stüber and T. Reemtsma, <i>Anal. Bioanal. Chem</i>.  <b>378</b>, 910 (2004).</p>
 
-<p id="ref">[15] </p>
-
-<p id="ref">[16] </p>
-
-<p id="ref">[17] </p>
-
-<p id="ref">[18] </p>
-
-<p id="ref">[19] </p>
