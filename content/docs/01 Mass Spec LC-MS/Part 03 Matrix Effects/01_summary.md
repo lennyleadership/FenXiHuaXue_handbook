@@ -18,7 +18,11 @@ toc: true
 ---
 
 ## What is matrix effects?
-Matrix effects are either observed as suppression or enhancement of analyte signal in the electrospray ionization (ESI) source <a id="Reference 1">[1]</a>.  GC-MS is also subject to matrix effects <a id="Reference 1">[1]</a>.
+Matrix effects are either observed as suppression or enhancement of analyte signal in the electrospray ionization (ESI) source <a id="#Reference 1">[1]</a>.  GC-MS is also subject to matrix effects <a id="#Reference 1">[1]</a>.
+
+Unwanted compounds compete with analytes for ionization .
+
+## What cause matrix effects?
 
 ## How to assess it?
 
@@ -27,5 +31,5 @@ Matrix effects are either observed as suppression or enhancement of analyte sign
 
 
 <b><font class = "font_upper">reference</font></b>: 
-<p><a id="Reference 1">[1]</a>
-<a href = "https://www.chromatographyonline.com/view/important-considerations-regarding-matrix-effects-when-developing-reliable-analytical-residue-method" target="_blank" rel="noopener noreferrer">LC/GC: Important Considerations Regarding Matrix Effects When Developing Reliable Analytical Residue Methods Using Mass Spectrometry</a></p>
+<p id="Reference 1">[1] 
+<a href = "https://www.chromatographyonline.com/view/important-considerations-regarding-matrix-effects-when-developing-reliable-analytical-residue-method" target="_blank" rel="noopener noreferrer">LC/GC: Important Considerations Regarding Matrix Effects When Developing Reliable Analytical Residue Methods Using Mass Spectrometry</p>
