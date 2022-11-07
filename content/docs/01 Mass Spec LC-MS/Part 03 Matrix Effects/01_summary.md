@@ -74,7 +74,7 @@ Analytical standards are fortified in a sample extract that has been treated exa
 <b><font class = "font_upper">Drawback</font></b>. The matrix-matching technique requires many blank matrices and appropriate blank matrices are not always available for the preparation of external standards <a href="#ref">[6,9,10,14]</a>.  It is also impossible to match the matrix of the calibration standards with each of the samples exactly, as each sample has coeluting, interfering compounds that are thereby exposed to a different extent of ionization suppression <a href="#ref">[10]</a>.
 
 &emsp;&emsp;(ii) the echo-peak technique   
-&emsp;&emsp;<b><font class = "font_upper">Drawback</font></b>. Echo-peak does not compensate for matrix effects completely because both standard and analyte peaks are not eluted at the exact same retention time (11) <a href="#ref">[9]</a>.  
+&emsp;&emsp;<b><font class = "font_upper">Drawback</font></b>. Echo-peak does not compensate for matrix effects completely because both standard and analyte peaks are not eluted at the exact same retention time <a href="#ref">[9]</a>.  
 
 &emsp;&emsp;(iii) the internal standard method <a href="#ref">[1,3]</a>  
 &emsp;&emsp;<b><font class = "font_upper">Drawback</font></b>. The stable isotope–labeled internal standards (SIL-IS) approach is the best available option but it is expensive and standards are not always commercially available for the analyte of interest <a href="#ref">[11,6,14]</a>.
