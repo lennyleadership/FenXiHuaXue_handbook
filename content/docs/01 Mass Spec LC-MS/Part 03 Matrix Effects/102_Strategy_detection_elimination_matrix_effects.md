@@ -1,8 +1,8 @@
 ---
-weight: 2
+weight: 102
 title: Strategies for Detecting and Eliminating Matrix Effects
 authors: null
-categories: null
+categories: ["Matrix Effects in LC-MS/MS"]
 tags: [MS Conditions, Assessment of Matrix Effects]
 description:  
 draft: false

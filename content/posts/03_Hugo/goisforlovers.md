@@ -2,16 +2,16 @@
 title = "(Hu)go Template Primer"
 description = ""
 tags = [
-    "go",
-    "golang",
-    "templates",
-    "themes",
-    "development",
+    "z_go",
+    "z_golang",
+    "z_templates",
+    "z_themes",
+    "z_development",
 ]
 date = "2014-04-02"
 categories = [
-    "Development",
-    "golang",
+    "z_Development",
+    "z_golang",
 ]
 menu = "main"
 +++

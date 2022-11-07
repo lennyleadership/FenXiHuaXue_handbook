@@ -1,8 +1,8 @@
 ---
-weight: 1
+weight: 101
 title: "Correct Matrix Effects in Food Testing"
 authors: null
-categories: null
+categories: ["Matrix Effects in LC-MS/MS"]
 tags: ["LC-GC", "Matrix Effects"]
 description:  
 draft: false

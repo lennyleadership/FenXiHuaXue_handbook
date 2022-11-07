@@ -2,7 +2,7 @@
 weight: 11
 title: Systematic Method Development and Troubleshooting 
 authors: Naidong Weng and Timothy D.J. Halls, edited by Lenny Lin
-categories: null
+categories: ["Matrix Effects in LC-MS/MS"]
 tags: [Method Development, Sensitivity, Assessment of Matrix Effects, Trifluoroacetic Acid, TFA, Buffer, Ion Pairs]
 description:  
 draft: false

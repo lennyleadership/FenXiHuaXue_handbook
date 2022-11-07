@@ -2,15 +2,15 @@
 title = "Getting Started with Hugo"
 description = ""
 tags = [
-    "go",
-    "golang",
-    "hugo",
-    "development",
+    "z_go",
+    "z_golang",
+    "z_hugo",
+    "z_development",
 ]
 date = "2014-04-02"
 categories = [
-    "Development",
-    "golang",
+    "z_Development",
+    "z_golang",
 ]
 menu = "main"
 +++
