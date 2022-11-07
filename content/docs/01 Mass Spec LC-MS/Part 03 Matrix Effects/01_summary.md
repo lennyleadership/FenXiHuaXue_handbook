@@ -58,17 +58,49 @@ Identify the retention time region(s) where matrix effects were observed firstly
 1) Dilute and shot  
 <b><font class = "font_upper">Drawback</font></b>. this approach can only be feasible when the sensitivity of the assay is very high <a href="#ref">[4]</a>.  
 
-2) Remove interfering compounds from samples <a href="#ref">[5,6,7,8]</a>.
+2) Remove interfering compounds from samples <a href="#ref">[5,6,7,8]</a>.   
+<b><font class = "font_upper">Drawback</font></b>. Most of the sample cleanup methods fail to remove impurities that are similar to the analyte and, hence, likely to be coeluted with the analyte <a href="#ref">[9, 10]</a>.
 
-3) Change chromatographic parameters to avoid coelution of analytes and interfering compounds.
+3) Change chromatographic parameters to avoid coelution of analytes and interfering compounds <a href="#ref">[11]</a>.  
+<b><font class = "font_upper">Drawback</font></b>. Modifying chromatographic conditions can be time-consuming, and some of the additives used in the mobile phase to improve separation have been found to suppress the electrospray signal of the analytes (3,4,9,15) <a href="#ref">[12,11,6,13]</a>. Furthermore, even when the sample is devoid of coeluted substances, trace impurities present in the mobile phase can significantly suppress the analyte peak (19).
 
-<b><font class = "font_upper">reference</font></b>: 
+4) Change MS conditions to reduce the occurrence of matrix effects in the ion source <a href="#ref">[3]</a>.
+
+## reference  
 <p id="ref">[1] <a href = "https://www.chromatographyonline.com/view/important-considerations-regarding-matrix-effects-when-developing-reliable-analytical-residue-method" target="_blank" rel="noopener noreferrer">LC/GC: Important Considerations Regarding Matrix Effects When Developing Reliable Analytical Residue Methods Using Mass Spectrometry</p>  
 
 <p id="ref">[2] <a href = "https://cdn.sanity.io/files/0vv8moc6/biopharn/1a7e564988c4ca05949add7061339d9dadbe47ec.pdf/article-7275.pdf" target="_blank" rel="noopener noreferrer">Systematic Troubleshooting for LC/MS/MS - Part 2: Large-Scale LC/MS/MS and Automation</a></p>
 
 <p id="ref">[3] <a href = "https://www.chromatographyonline.com/view/strategies-detection-and-elimination-matrix-effects-quantitative-lc-ms-analysis" target="_blank" rel="noopener noreferrer">LC/GC: Strategies for the detection and elimination of matrix effects in Quantitative LC-MS Analysis</a></p>
 
-<p id="ref">[4] C. Ferrer, A. Lozano, A. Agüera, A.J. Girón, and A.R. Fernández-Alba, *J. Chromatogr.* **A 1218**, 7634 (2011).</p>
+<p id="ref">[4] C. Ferrer, A. Lozano, A. Agüera, A.J. Girón, and A.R. Fernández-Alba, <i>J. Chromatogr.</i> <b>A 1218</b>, 7634 (2011).</p>
 
+<p id="ref">[5] (1) E. Chambers, D.M. Wagrowski-Diehl, Z. Lu, and J.R. Mazzeo, <i>J. Chromatogr. B</i> <b>852</b>, 22 (2007).</p>
 
+<p id="ref">[6] (9) H. Trufelli, P. Palma, G. Famiglini, and A. Cappiello, <i>Mass Spectrom. Rev.</i> <b>30</b>, 491 (2011).</p>
+
+<p id="ref">[7] (10) R. Bonfiglio, R.C. King, T.V. Olah, and K. Merkle, <i>Rapid Commun. Mass Spectrom.</i> <b>13</b>, 1175 (1999).</p>
+
+<p id="ref">[8] (13) C.R. Mallet, Z. Lu, and J.R. Mazzeo, <i>Rapid Commun. Mass Spectrom.</i> <b>18</b>, 49 (2004).</p>
+
+<p id="ref">[9] (11) H. Stahnke, S. Kittlaus, G. Kempe, and L. Alder, *Anal. Chem.* **84,** 1474 (2011).</p>
+
+<p id="ref">[10] (18) A.K. Hewavitharana, *J. Chromatogr. A* **1218,** 359 (2011).</p>
+
+<p id="ref">[11] (4) D.A. Volmer, *LCGC North Am.* **24,** 498 (2006).</p>
+
+<p id="ref">[12] (3) P.J. Taylor, *Clin. Biochem.* **38,** 328 (2005).</p>
+
+<p id="ref">[13] (15) F. Gosetti, E. Mazzucco, D. Zampieri, and M.C. Gennaro, *J. Chromatogr. A* **1217,** 3929 (2010).</p>
+
+<p id="ref">[14] </p>
+
+<p id="ref">[15] </p>
+
+<p id="ref">[16] </p>
+
+<p id="ref">[17] </p>
+
+<p id="ref">[18] </p>
+
+<p id="ref">[19] </p>
