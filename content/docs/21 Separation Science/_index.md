@@ -1,7 +1,7 @@
 ---
 weight: 21
 authors: Lenny Lin
-categories: Separation
+categories: 
 date: "2021-12-29"
 description: Separation Science
 draft: false

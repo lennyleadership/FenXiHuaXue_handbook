@@ -1,6 +1,6 @@
 ---
 authors: Lenny Lin
-categories: Chromatography
+categories: 
 date: "2021-12-27"
 description: Talks about application in Chromatography
 draft: false

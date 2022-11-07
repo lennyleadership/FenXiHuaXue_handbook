@@ -2,7 +2,7 @@
 weight: 94
 title: DataBase
 authors: Lenny Lin
-categories: DataBase
+categories: 
 tags: null
 date: "2021-12-25"
 description: This notebooks takes information of database
