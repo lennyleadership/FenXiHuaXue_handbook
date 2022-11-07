@@ -29,9 +29,9 @@ Unwanted compounds compete with analytes for ionization <a href="#section 2">[1]
 
 <div class = "quote">
 
-&emsp;The matrix effect is determined by comparing peak areas of neat solutions spiked (postextraction) into blank matrix with those of other neat solutions. Because the analytes are not extracted, the analyte should have the same response in postextraction spiked samples and in neat solutions. The matrix ingredients, therefore, cause whatever differences are noted in the responses.
+&emsp;The matrix effect is determined by comparing peak areas of neat solutions spiked (postextraction) into blank matrix with those of other neat solutions. Because the analytes are not extracted, the analyte should have the same response in postextraction spiked samples and in neat solutions. The matrix ingredients, therefore, cause whatever differences are noted in the responses <a href="#section 2">[1]</a>.
 
-&emsp;A useful method to assess matrix suppression is `postcolumn infusion` of an analyte into the MS detector. The extracted blank matrix is injected by an autosampler onto the analytical column. The setup is shown in <b>Figure 1</b>. The purpose of postcolumn infusion with analyte is to raise the background level so that the suppression matrix will show as negative peaks. This setup has been successfully used to identify and troubleshoot matrix suppression peaks.  
+&emsp;A useful method to assess matrix suppression is `postcolumn infusion` of an analyte into the MS detector. The extracted blank matrix is injected by an autosampler onto the analytical column. The setup is shown in <b>Figure 1</b>. The purpose of postcolumn infusion with analyte is to raise the background level so that the suppression matrix will show as negative peaks. This setup has been successfully used to identify and troubleshoot matrix suppression peaks <a href="#section 2">[1]</a>.  
 
 <figure>
   <img width = "540" src = "/docs/images/Screenshot 2022-10-15 214516.png"/>
