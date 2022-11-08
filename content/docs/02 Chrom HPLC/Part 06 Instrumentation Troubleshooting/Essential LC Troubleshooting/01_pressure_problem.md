@@ -27,11 +27,11 @@ Writing this “LC Troubleshooting” column and thinking about topics each mont
 
 ## Everything is Possible
 
-In the area of pressure problems, everything is possible. Sometimes pressure is unexpectedly low, but stable. Other times the pressure is too low, and appears to steadily decrease. The same is true for pressures that are higher than expected. In other cases, the observed pressure may seem to be about right, but it is fluctuating more than usual. Figure 1 illustrates the idea that pressure problems appear in all kinds of different ways, and lists the specific situations that are discussed in this article. The list of pressure-related problems shown in Figure 1 is not exhaustive; in this installment, I focus on those problems that I see most frequently in practice.
+In the area of pressure problems, everything is possible. Sometimes pressure is unexpectedly low, but stable. Other times the pressure is too low, and appears to steadily decrease. The same is true for pressures that are higher than expected. In other cases, the observed pressure may seem to be about right, but it is fluctuating more than usual. <b>Figure 1</b> illustrates the idea that pressure problems appear in all kinds of different ways, and lists the specific situations that are discussed in this article. The list of pressure-related problems shown in <b>Figure 1</b> is not exhaustive; in this installment, I focus on those problems that I see most frequently in practice.
 
 <figure>
   <img width = "540" src = "/docs/images/Figure 1 LC Troubleshooting.webp"/>
-  <figcaption class = "bottom">FIGURE 1: Illustration of the different ways pressure problems can appear, and the specific situations that are discussed in this article.</figcaption>
+  <figcaption class = "bottom"><b>Figure 1</b>: Illustration of the different ways pressure problems can appear, and the specific situations that are discussed in this article.</figcaption>
 </figure>
 
 
@@ -69,13 +69,13 @@ As with equation 1, calculating the pressure drop across the column is straightf
 
 ### Other Elements of the Flowpath
 
-The other elements of an LC flow path that can contribute substantially to the pressure drop measured at the pump are inline filters (and guard columns, though these can be treated like columns as above). Most inline filters sold for use in analytical LC systems are designed in a way that they will not contribute more than a few bar to the total pressure drop under typical conditions (that is, less than 5 mL/min). When debris begins to accumulate on the filter, the pressure drop across the filter will increase, and become highly, and sometimes non-linearly, dependent on operating conditions (for example, flow rate and mobile-phase composition). Because it is difficult to cope with this hard-to-predict behavior, in my laboratory we simply change the filter if the pressure drop across it exceeds about 10 bar.
+The other elements of an LC flow path that can contribute substantially to the pressure drop measured at the pump are inline filters (and guard columns, though these can be treated like columns as above). <u>Most inline filters sold for use in analytical LC systems are designed in a way that they will not contribute more than a few bar to the total pressure drop under typical conditions</u> (that is, less than 5 mL/min). When debris begins to accumulate on the filter, the pressure drop across the filter will increase, and become highly, and sometimes non-linearly, dependent on operating conditions (for example, flow rate and mobile-phase composition). Because it is difficult to cope with this hard-to-predict behavior, in my laboratory we simply change the filter if the pressure drop across it <u>exceeds about 10 bar</u>.
 
 ### Using These Numbers in Troubleshooting Practice
 
 Throughout the hundreds of “LC Troubleshooting” articles John Dolan wrote, he emphasized the value of “rules of thumb” in effective troubleshooting (7). I completely agree, and think the value of these ideas—which are informed both by theory and experience—cannot be overstated. As an example of a rule of thumb that is useful in the context of troubleshooting pressure problems, the one that we use in my group is that the pressure drop across all of the tubing (no column) in a “typical” LC system is about 30 bar under the following conditions (if the observed pressure is much lower or higher than that, this should trigger a thought that something is not right):
 
-- All tubing from injector to detector is 0.005” i.d. (120 μm); total length is about 60 cm. The capillary from pump to injector is usually larger in diameter, and does not contribute much to the total pressure drop.
+- All tubing from injector to detector is 0.005” i.d. (120 μm); total length is about 60 cm. The capillary from pump to injector is usually larger in diameter, and does not contribute much to the total pressure drop.  
 - Flow rate, 1 mL/min.; Temperature, ambient; mobile phase, 100% aqueous.
 
 ## Situations Involving Pressure That Is Lower Than Expected
