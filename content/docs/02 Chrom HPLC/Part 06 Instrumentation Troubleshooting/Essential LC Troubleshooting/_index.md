@@ -1,10 +1,10 @@
 ---
 weight: 101
-title: Essential LC Troubleshooting Series
+title: "Essential LC Troubleshooting by Dwight R. Stoll"
 authors: Lenny Lin
 categories: null
 tags: null
-description: 
+description: "LC|GC: Essential LC Troubleshooting by Dwight R. Stoll"
 draft: false
 date: "2022-11-08"
 lastmod: "2022-11-08"

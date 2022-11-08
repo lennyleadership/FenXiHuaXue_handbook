@@ -1,0 +1,122 @@
+---
+weight: 
+title: 
+authors: Rosane Rech, edited by Lenny Lin
+categories: 
+tags: []
+description: null
+draft: false
+date: "2022-10-27"
+lastmod: "2022-10-27"
+series: 
+toc: true
+---
+Section 1: 
+
+<!--more-->
+---
+
+
+
+
+<br>
+<div class = "row">
+  <div class= "column_right" style="width:540px;">
+  <img src = "/docs/images/" HSPACE="10" VSPACE="10"/> 
+</div>
+
+</div> 
+
+<br>
+<div class = "row">
+  <div class= "column_right" style="width:540px;">
+  <img src = "/docs/images/" HSPACE="10" VSPACE="10"/> 
+</div>
+
+</div> 
+
+
+<br>
+<div class = "row">
+  <div class= "column_right" style="width:540px;">
+  <img src = "/docs/images/" HSPACE="10" VSPACE="10"/> 
+</div>
+
+</div> 
+
+<br>
+<div class = "row">
+  <div class= "column_right" style="width:540px;">
+  <img src = "/docs/images/" HSPACE="10" VSPACE="10"/> 
+</div>
+
+</div> 
+
+
+<br>
+<div class = "row">
+  <div class= "column_right" style="width:540px;">
+  <img src = "/docs/images/" HSPACE="10" VSPACE="10"/> 
+</div>
+
+</div> 
+
+<br>
+<div class = "row">
+  <div class= "column_right" style="width:540px;">
+  <img src = "/docs/images/" HSPACE="10" VSPACE="10"/> 
+</div>
+
+</div> 
+
+
+
+<br>
+<div class = "row">
+  <div class= "column_right" style="width:540px;">
+  <img src = "/docs/images/" HSPACE="10" VSPACE="10"/> 
+</div>
+
+</div> 
+
+<br>
+<div class = "row">
+  <div class= "column_right" style="width:540px;">
+  <img src = "/docs/images/" HSPACE="10" VSPACE="10"/> 
+</div>
+
+</div> 
+
+
+<br>
+<div class = "row">
+  <div class= "column_right" style="width:540px;">
+  <img src = "/docs/images/" HSPACE="10" VSPACE="10"/> 
+</div>
+
+</div> 
+
+<br>
+<div class = "row">
+  <div class= "column_right" style="width:540px;">
+  <img src = "/docs/images/" HSPACE="10" VSPACE="10"/> 
+</div>
+
+</div> 
+
+
+<br>
+<div class = "row">
+  <div class= "column_right" style="width:540px;">
+  <img src = "/docs/images/" HSPACE="10" VSPACE="10"/> 
+</div>
+
+</div> 
+
+<br>
+<div class = "row">
+  <div class= "column_right" style="width:540px;">
+  <img src = "/docs/images/" HSPACE="10" VSPACE="10"/> 
+</div>
+
+</div> 
