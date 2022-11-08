@@ -1,5 +1,5 @@
 ---
-weight: 1
+weight: 101
 title: Some Essential Principles of Effective Troubleshooting
 authors: null
 categories: null
