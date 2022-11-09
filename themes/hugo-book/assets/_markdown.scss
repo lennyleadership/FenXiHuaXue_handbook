@@ -194,6 +194,49 @@
       margin-top: 0;
     }
   }
+  
+.sidenote,
+.marginnote {
+    float: right;
+    clear: right;
+    margin-right: -55%; /* adjust where the sidenote starts*/
+    width: 50%;
+    margin-top: 0;
+    margin-bottom: 0;
+    font-size: 0.9rem;
+    line-height: 1.3;
+    vertical-align: baseline;
+    position: relative;
+}
+
+.sidenote-number {
+    counter-increment: sidenote-counter;
+}
+
+.sidenote-number:after,
+.sidenote:before {
+    content: counter(sidenote-counter) " ";
+    font-family: et-book-roman-old-style;
+    position: relative;
+    vertical-align: baseline;
+}
+
+.sidenote-number:after {
+    content: counter(sidenote-counter);
+    font-size: 1rem;
+    top: -0.5rem;
+    left: 0.1rem;
+}
+
+.sidenote:before {
+    content: counter(sidenote-counter) " ";
+    top: -0.5rem;
+}
+
+body{
+  background-color: #ffff0d;
+  counter-reset: sidenote-counter;
+}
 }
 
 .markdown-inner {
