@@ -1,5 +1,5 @@
 ---
-weight: 3
+weight: 1
 title: LC Baseline Irregularities
 authors: edited by Lenny Lin
 categories: 
