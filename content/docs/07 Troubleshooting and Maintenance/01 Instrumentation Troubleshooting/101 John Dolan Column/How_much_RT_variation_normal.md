@@ -26,7 +26,7 @@ Most LC methods run on modern instrumentation with a good quality column will ha
 
 **Mobile-Phase Organic Concentration**
 
-One of the most common causes of shifts in retention time in reversed-phase LC separations is a minor change in the concentration of the organic solvent, usually methanol or acetonitrile. This can happen from a minor error in formulation or a change in the mobile-phase composition if one solvent evapo rates over time.
+One of the most common causes of shifts in retention time in reversed-phase LC separations is a minor change in the concentration of the organic solvent, usually methanol or acetonitrile. This can happen from a minor error in formulation or a change in the mobile-phase composition if one solvent evaporates over time.
 
 Figure 1: Plots of log k versus %B for compounds of 500 Da (red), 5000 Da (blue), and 50 kDa (green). See text for details.
 

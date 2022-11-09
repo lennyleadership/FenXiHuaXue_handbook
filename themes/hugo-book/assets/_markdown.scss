@@ -2,6 +2,11 @@
 
 .markdown {
   line-height: 1.6;
+  
+  body{
+  background-color: #ffff0d;
+  counter-reset: sidenote-counter;
+}
 
   // remove padding at the beginning of page
   > :first-child {
@@ -368,35 +373,15 @@ u.red{
   border-bottom:1px solid red;
 }
 
+
+
+
+
+
+
+
+
 /*below is the tufte style */
-body{
-  background-color: #ffff0d;
-  counter-reset: sidenote-counter;
-}
-
-.sidenote-number {
-    counter-increment: sidenote-counter;
-}
-
-.sidenote-number:after,
-.sidenote:before {
-    content: counter(sidenote-counter) " ";
-    font-family: et-book-roman-old-style;
-    position: relative;
-    vertical-align: baseline;
-}
-
-.sidenote-number:after {
-    content: counter(sidenote-counter);
-    font-size: 1rem;
-    top: -0.5rem;
-    left: 0.1rem;
-}
-
-.sidenote:before {
-    content: counter(sidenote-counter) " ";
-    top: -0.5rem;
-}
 
 .sidenote,
 .marginnote {
@@ -412,9 +397,36 @@ body{
     position: relative;
 }
 
+.sidenote-number {
+    counter-increment: sidenote-counter;
+}
+
+
+.sidenote-number:after,
+.sidenote:before {
+    /*content: counter(sidenote-counter) " ";*/
+    font-family: et-book-roman-old-style;
+    position: relative;
+    vertical-align: baseline;
+}
+
+
+.sidenote-number:after {
+    content: counter(sidenote-counter);
+    font-size: 1rem;
+    top: -0.5rem;
+    left: 0.1rem;
+}
+
+
+.sidenote:before {
+    content: counter(sidenote-counter) " ";
+    top: -0.5rem;
+}
+
 
 label.sidenote-number {
-    display: inline;
+    display: inline-block; /*inline*/
 }
 
 label.margin-toggle:not(.sidenote-number) {
@@ -422,6 +434,12 @@ label.margin-toggle:not(.sidenote-number) {
 }
 
 @media (max-width: 760px) {
+    body {
+        width: 84%;
+        padding-left: 8%;
+        padding-right: 8%;
+    }
+  
     label.margin-toggle:not(.sidenote-number) {
         display: inline;
     }
