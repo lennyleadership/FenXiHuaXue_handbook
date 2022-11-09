@@ -3,7 +3,7 @@ weight: 1
 title: How Much Retention Time Variation Is Normal?
 authors: edited by Lenny Lin
 categories: 
-tags: []
+tags: ["Rule of Three"]
 description: 
 draft: false
 date: "2022-11-08"
@@ -40,7 +40,7 @@ For small molecules (arbitrarily <1000 Da), we can use the "`Rule of Three`" to 
 $$
 \begin{equation}
 \tag{1}
-log k = logk_w - S \Phi
+log k = log k_w - S \Phi
 \end{equation}
 $$
 
@@ -69,11 +69,32 @@ where Δ*k* is the change in *k* value for a Φ change in organic. If *S* = 5, a
 
 As an example, our 500 Da analyte in Figure 1 has *k* = 5 at 50% B. We can convert this to retention time, *t*R, by rearranging the equation for *k*,
 
-where *t*0 is the column dead time (also abbreviated *t*M). If we assume a 150 mm × 4.6 mm column operated at 1 mL/min, *t*0 ≈ 1.5 min, so *t*R = 1.5(1 + 5) = 9.0 min. The `Rule of Three` would suggest that *k* ≈ 3 × 5 = 15 for a change to 40% B, which would correspond to *t*R ≈ 24 min. In fact, *S* = 5.16 for our analyte, so *k* = 18.1 and *t*R = 28.7 min — close enough for `a rule of thumb`.
+$$
+\begin{equation}
+\tag{4}
+k = \frac{t_R - t_0}{t_0}
+\end{equation}
+$$
+
+<br>
+or
+
+$$
+\begin{equation}
+\tag{5}
+t_R = t_0 \cdot (1+k)
+\end{equation}
+$$
+
+where *t*<sub>0</sub> is the column dead time (also abbreviated *t*<sub>M</sub>). If we assume a 150 mm × 4.6 mm column operated at 1 mL/min, *t*<sub>0</sub> ≈ 1.5 min, so *t*<sub>R</sub> = 1.5(1 + 5) = 9.0 min. The `Rule of Three` would suggest that *k* ≈ 3 × 5 = 15 for a change to 40% B, which would correspond to *t*R ≈ 24 min. In fact, *S* = 5.16 for our analyte, so *k* = 18.1 and *t*R = 28.7 min — close enough for a rule of thumb.
 
 Mobile-phase formulation errors should not be in the 10% region if you are at all careful, so what happens for smaller changes? We can use equations 3 and 5 to determine the effect of a 0.1%, 0.5%, and 1% error in formulating our 50% B mobile phase for our "average" *S* = 5 small molecule. I'll leave the calculations to you, but the results summarized in Table I show that these correspond to retention shifts of approximately 0.1, 0.4, and 0.9 min, respectively (I have rounded values for display, so if you try to repeat my calculations, your results may vary somewhat). So, you can see that it takes only a minor error in mobile-phase formulation to shift retention times enough to notice the change.
 
-Table I: Effect of small errors in mobile-phase composition on the retention for analytes of different S values
+<figure>
+  <img width = "540" src = "/docs/images/Screenshot 2022-11-09 174438.png"/>
+  <figcaption class = "bottom">Table I: Effect of small errors in mobile-phase composition on the retention for analytes of different S values</figcaption>
+</figure>
+
 
 With larger molecules, the problem is magnified, because *S* increases markedly with an increase in molecular weight. This makes the log *k* versus %B plots steeper, as is seen for 5000 Da (blue) and 50,000 Da (green) compounds, such as peptides or proteins, respectively. Steeper plots mean that these compounds are much more sensitive to minor changes in the mobile-phase composition. Our `Rule of Three` for <1000 Da samples becomes the Rule of 60 at 5000 Da, and the Rule of 400 at 50,000 Da. This extreme sensitivity of the retention of large molecules to small changes in %B means that isocratic separation is not practical for most separations of these analytes.
 
@@ -81,7 +102,12 @@ With larger molecules, the problem is magnified, because *S* increases markedly 
 
 Linear plots, as in Figure 1, are also observed if you plot log *k* versus reciprocal temperature (in kelvins [K], where K = °C + 273). This means that small changes in column temperature can also affect retention times. `A rule of thumb` for small molecules is that retention changes by ~2% for each 1 °C change in temperature. In Figure 2, you can see that a 10 °C change in temperature changes the retention of the last peak from approximately 12 min to 10 min, as expected. Most workers know that retention can shift with a change in temperature, but many overlook the fact that relative retention also can change. In the (specially selected) sample of weak acids and bases of Figure 2, there are three reversals in retention for a 10 °C change in temperature. Smaller changes in temperature will have smaller, but noticeable effects on the appearance of the chromatogram. Such problems can be exacerbated by two common factors. Operation with the column at ambient temperature can result in several degrees change in column temperature during a single day, with subsequent retention shifts. In my observation, the temperature of the mobile phase within the column can vary several degrees from the column oven setting and if the oven is not properly calibrated, or of different design, switching from one column oven to another can give similar temperature differences. Usually, temperature differences cause shifts in retention times of all peaks to earlier or later times, and small adjustments in the temperature setting can correct for instrument-to-instrument differences. Because of the wide variation in ambient temperatures that are possible, I strongly recommend that you always use a column oven.
 
-Figure 2: Effect of a change in column temperature of 10 Â°C or 0.2 pH units for a sample of weak acids and bases. Data from reference 1; see text for details.
+
+<figure>
+  <img width = "540" src = "/docs/images/Screenshot 2022-11-09 174707.png"/>
+  <figcaption class = "bottom">Figure 2: Effect of a change in column temperature of 10 Â°C or 0.2 pH units for a sample of weak acids and bases. Data from reference 1; see text for details.</figcaption>
+</figure>
+
 
 **Mobile-Phase pH**
 
@@ -97,7 +123,11 @@ Any pump malfunction, such as problems with check valves, pump seals, leaks, or 
 
 Sometimes the instrument can be working within its specifications and you have taken care to control the column temperature and carefully formulate the mobile phase, but retention time variations still are not acceptable. An example was given in an earlier "LC Troubleshooting" column (2) where a freshly serviced instrument (new check valves and pump seals) still resulted in retention times that differed by up to 1 min between runs, as can be seen at the top of Figure 3. The sample was a peptide sample run with a very shallow gradient (0.17%/min). The instrument was specified to generate mobile phase mixtures within ±0.1%, but it can be seen that this variation was more than half of the gradient change per minute. Although the system was working as specified, the demands of the method were too great. In this case, instead of using 100% buffer as solvent A and 100% acetonitrile as the solvent B, the solvents were blended so A comprised 10:90 buffer–acetonitrile and B comprised 30:70 buffer–acetonitrile. The gradient programmed into the instrument was modified to give the same actual gradient as the original, and consecutive injections varied by <0.1 min in retention. By premixing the mobile phase, the effective precision of the instrument was increased from ±0.1% to ±0.02%, which allowed the method to be run acceptably. This problem was partly related to demanding more of the LC system than it was capable of and the extreme sensitivity of the peptide sample to small changes in the mobile phase, as discussed at the beginning of this article.
 
-Figure 3: Run-to-run retention variation for three consecutive injections of a peptide sample separated with a 0.17%/min gradient. Mobile phases: A = buffer and B = acetonitrile (top); A = 10:90 bufferâacetonitrile and B = 30:70 bufferâacetonitrile (bottom). Data from reference 2, see text for details.
+<figure>
+  <img width = "540" src = "/docs/images/Screenshot 2022-11-09 174839.png"/>
+  <figcaption class = "bottom">Figure 3: Run-to-run retention variation for three consecutive injections of a peptide sample separated with a 0.17%/min gradient. Mobile phases: A = buffer and B = acetonitrile (top); A = 10:90 bufferâacetonitrile and B = 30:70 bufferâacetonitrile (bottom). Data from reference 2, see text for details.</figcaption>
+</figure>
+
 
 **Quality by Design to the Rescue**
 
