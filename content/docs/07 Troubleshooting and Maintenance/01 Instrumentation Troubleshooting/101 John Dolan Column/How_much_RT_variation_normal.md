@@ -28,15 +28,44 @@ Most LC methods run on modern instrumentation with a good quality column will ha
 
 One of the most common causes of shifts in retention time in reversed-phase LC separations is a minor change in the concentration of the organic solvent, usually methanol or acetonitrile. This can happen from a minor error in formulation or a change in the mobile-phase composition if one solvent evaporates over time.
 
-Figure 1: Plots of log k versus %B for compounds of 500 Da (red), 5000 Da (blue), and 50 kDa (green). See text for details.
+<figure>
+  <img width = "540" src = "/docs/images/Screenshot 2022-11-09 162505.png"/>
+  <figcaption class = "bottom">Figure 1: Plots of log k versus %B for compounds of 500 Da (red), 5000 Da (blue), and 50 kDa (green). See text for details.</figcaption>
+</figure>
 
+
+<div class = "quote">
 For small molecules (arbitrarily <1000 Da), we can use the "`Rule of Three`" to estimate the effect of a change in organic solvent, or %B. This rule states that the retention factor, *k*, changes approximately threefold for a 10% change in %B. This rule derives from plots, such as that in Figure 1, where *k* is plotted versus %B on a semi-log plot. The red line in Figure 1 represents the retention behavior for a 500 Da analyte. Retention changes from ~29 min at 40% B to ~4 min at 60%. For practical purposes, this relationship can be considered linear and represented in the standard *y* = *mx* + *b* format as
+
+$$
+\begin{equation}
+\tag{1}
+log k = logk_w - S \Phi
+\end{equation}
+$$
+
 
 where *k*w is the (theoretical) retention in 100% water, *S* is the slope of the plot, and Φ is the %B as a decimal (0.5 = 50%). Values of *S* can be determined from two experimental runs using equation 1. Empirical observations indicate that *S* can be estimated as
 
+$$
+\begin{equation}
+\tag{2}
+S \approx 0.25 MW^(0.5)
+\end{equation}
+$$
+
 where MW is the molecular weight (Da). Thus for a 500 Da analyte, *S* ≈ 5.6. If we consider *S* ≈ 5 as an average for sub-1000 Da molecules, we can then estimate how *k* changes with %B with
 
+$$
+\begin{equation}
+\tag{3}
+\Delta k \approx 10^{S \Phi}
+\end{equation}
+$$
+
+
 where Δ*k* is the change in *k* value for a Φ change in organic. If *S* = 5, a 10% change in organic gives Δ*k* ≈ 105×0.1 = 3.16 ≈ 3. This is the basis of the `Rule of Three`.
+</div>
 
 As an example, our 500 Da analyte in Figure 1 has *k* = 5 at 50% B. We can convert this to retention time, *t*R, by rearranging the equation for *k*,
 
@@ -96,3 +125,13 @@ John W. Dolan
 <a href = "https://www.chromatographyonline.com/view/how-much-retention-time-variation-normal-0" target="_blank" rel="noopener noreferrer"></a>
 
 J. Dolan, LCGC North Am. 32(8), 546–551 (2014) pdf is available
+
+---
+<script src="https://polyfill.io/v3/polyfill.min.js?features=es6"></script>
+<script id="MathJax-script" async src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js"></script>
+
+<script>
+    MathJax = {
+        chtml: { displayAlign: 'left' }
+    };
+</script>

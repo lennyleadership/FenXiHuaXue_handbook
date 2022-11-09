@@ -13,5 +13,28 @@
   main {
     // Fix for https://bugzilla.mozilla.org/show_bug.cgi?id=939897
     display: block !important;
+    
+    /* new 2022-11-09*/
+    div.pagebreak {
+        display: block !important; 
+        page-break-after: always; 
+    }
+    .dontprint{ 
+        display : none
+    }
+    body{
+        display: block;
+    }    
   }
 }
+
+
+/* for print*/
+
+@page{
+  size: letter portrait;
+  /* top | right | bottom | left */
+  margin: 0.5in 1in 0.5in 1in;
+
+}
+

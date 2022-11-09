@@ -820,25 +820,4 @@ label.margin-toggle:not(.sidenote-number) {
  }
  
  
-/* for print*/
 
-@page{
-  size: letter portrait;
-  /* top | right | bottom | left */
-  margin: 0.5in 1in 0.5in 1in;
-
-}
-
-@media print {
-    div.pagebreak {
-        display: block !important; 
-        page-break-after: always; 
-    }
-    .dontprint{ 
-        display : none
-    }
-    body{
-        display: block;
-    }
-
-}
