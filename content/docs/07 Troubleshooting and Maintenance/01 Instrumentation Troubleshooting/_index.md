@@ -1,6 +1,6 @@
 ---
 weight: 6
-title: Part VI Instrumentation Troubleshooting Guide in General
+title: Instrumentation Troubleshooting
 authors: Lenny Lin
 categories: 
 date: "2022-01-03"
