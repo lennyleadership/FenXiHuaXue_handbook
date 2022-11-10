@@ -1,6 +1,5 @@
 @media print {
   .book-menu,
-  .book-footer,
   .book-toc {
     display: none;
   }
@@ -8,6 +7,10 @@
   .book-header,
   .book-header aside {
     display: block;
+  }
+
+  .book-footer {
+  display: block;
   }
 
   main {
@@ -24,6 +27,7 @@
     }
     body{
         display: block;
+        width: 100%;
     }    
   }
 }

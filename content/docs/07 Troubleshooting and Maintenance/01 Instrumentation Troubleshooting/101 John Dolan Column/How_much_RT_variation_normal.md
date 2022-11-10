@@ -18,7 +18,7 @@ LCGC North America, LCGC North America-08-01-2014, Volume 32, Issue 8
 Pages: 546–551  
 
 ## Thoughts
-Small change to mobile phase B concentration, column temperature differences, a change in mobile phase pH, flow rate accuracy and precision, and pump malfunction can cause shifts in retention time.  
+Small change to mobile phase B concentration, column temperature differences, a change in mobile phase A pH, flow rate accuracy and precision, and pump malfunction can cause shifts in retention time.  
 John Dolan 
 
 
