@@ -125,7 +125,7 @@ Sometimes the instrument can be working within its specifications and you have t
 
 <figure>
   <img width = "540" src = "/docs/images/Screenshot 2022-11-09 174839.png"/>
-  <figcaption class = "bottom">Figure 3: Run-to-run retention variation for three consecutive injections of a peptide sample separated with a 0.17%/min gradient. Mobile phases: A = buffer and B = acetonitrile (top); A = 10:90 bufferâacetonitrile and B = 30:70 bufferâacetonitrile (bottom). Data from reference 2, see text for details.</figcaption>
+  <figcaption class = "bottom">Figure 3: Run-to-run retention variation for three consecutive injections of a peptide sample separated with a 0.17%/min gradient. Mobile phases: A = buffer and B = acetonitrile (top); A = 10:90 buffer-acetonitrile and B = 30:70 buffer-acetonitrile (bottom). Data from reference 2, see text for details.</figcaption>
 </figure>
 
 
