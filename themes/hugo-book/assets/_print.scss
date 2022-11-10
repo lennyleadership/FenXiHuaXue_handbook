@@ -30,12 +30,8 @@
         width: 100%;
     }    
   }
-}
-
-
-/* for print*/
-
-@page{
+  
+  @page{
   size: letter portrait;
   /* top | right | bottom | left */
   margin: 0.5in 1in 0.5in 1in;
@@ -48,4 +44,10 @@
   /* the end */
 }
 }
+}
+
+
+/* for print*/
+
+
 

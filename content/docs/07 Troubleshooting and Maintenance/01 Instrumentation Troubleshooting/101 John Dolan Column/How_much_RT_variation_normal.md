@@ -45,7 +45,7 @@ One of the most common causes of shifts in retention time in reversed-phase LC s
 
 <div class = "quote">
 
-For small molecules (arbitrarily <1000 Da), we can use the "Rule of Three" to estimate the effect of a change in organic solvent, or %B. This rule states that the retention factor, *k*, changes approximately threefold for a 10% change in %B. This rule derives from plots, such as that in <b>Figure 1</b>, where *k* is plotted versus %B on a semi-log plot. The red line in <b>Figure 1</b> represents the retention behavior for a 500 Da analyte. Retention changes from ~29 min at 40% B to ~4 min at 60%. For practical purposes, this relationship can be considered linear and represented in the standard *y* = *mx* + *b* format as
+For small molecules (arbitrarily <1000 Da), we can use the "Rule of Three" to estimate the effect of a change in organic solvent, or %B. This rule states that <u class = "red">the retention factor, *k*</u>, changes approximately threefold for a 10% change in %B. This rule derives from plots, such as that in <b>Figure 1</b>, where *k* is plotted versus %B on a semi-log plot. The red line in <b>Figure 1</b> represents the retention behavior for a 500 Da analyte. Retention changes from ~29 min at 40% B to ~4 min at 60%. For practical purposes, this relationship can be considered linear and represented in the standard *y* = *mx* + *b* format as
 
 $$
 \begin{equation}
@@ -56,9 +56,9 @@ $$
 
 
 where:
-- *k*<sub>w</sub> is the (theoretical) retention in 100% water   
-- *S* is the slope of the plot and 
-- &Phi; is the %B as a decimal (0.5 = 50%)  
+- *k*<sub>w</sub> is the (theoretical) retention factor in 100% water   
+- <u class = "red">*S* is the slope of the plot</u> and 
+- <u class = "red">&Phi; is the %B as a decimal (0.5 = 50%)</u>    
 
 Values of *S* can be determined from two experimental runs using equation 1. Empirical observations indicate that *S* can be estimated as
 
