@@ -19,7 +19,7 @@ Pages: 546–551
 
 ## Thoughts
 Small change to mobile phase B concentration, column temperature differences, a change in mobile phase A pH, flow rate accuracy and precision, and pump malfunction can cause shifts in retention time.  
-John Dolan 
+One of the application of the `Rule of Thumb`, specifically the `Rule of Three` is that we can setup an expected/acceptable retention time variation range.
 
 
 <!--more-->
@@ -27,7 +27,7 @@ John Dolan
 
 ## Introduction
 
-Small changes in retention time of a liquid chromatography (LC) method are normal. At what point is a problem suggested? Retention time shifts can be frustrating when you can't figure out if a shift is something you caused or if there is another reason for it. <a class = "marginnote">test</a>
+Small changes in retention time of a liquid chromatography (LC) method are normal. At what point is a problem suggested? Retention time shifts can be frustrating when you can't figure out if a shift is something you caused or if there is another reason for it. 
 
 It is interesting how problems tend to cluster — in the last few weeks I've received several questions related to retention time shifts with liquid chromatography (LC) methods. Some of these correspond to the preparation of new batches of mobile phase, some are from one day to another, some are from within a batch of samples, and some result from a change in instruments. In this month's "LC Troubleshooting," I will discuss some of the factors that influence small changes in retention.
 
@@ -126,7 +126,7 @@ Linear plots, as in <b>Figure 1</b>, are also observed if you plot log *k* versu
 
 ## Mobile-Phase pH
 
-A change in the mobile-phase pH can have a dramatic effect on the appearance of the chromatogram when ionizable compounds are present, but it makes no difference for neutral samples. The behavior of retention with a change in pH will vary depending on how close the mobile-phase pH is to the p*K*<sub>a</sub> of the analyte, and in any case, is not a linear relationship, so <u class = "red">a general rule of thumb for the effect of pH on retention is not possible</u>. The lower chromatogram of <b>Figure 2</b> illustrates how sensitive retention can be to changes in pH. A change in pH of 0.2 units gives similar retention changes as a 10 °C change in temperature for this sample of weak acids and bases. Typical laboratory practice of adjusting the mobile-phase pH with the help of a pH meter can result in errors of ±0.1 pH units, so special care needs to be taken if the separation is particularly pH sensitive, as is that of <b>Figure 2</b>. To minimize pH-related problems, use buffers within ±1 unit of their p*K*<sub>a</sub>, make buffers by blending equimolar portions of acid and base, ensure that the buffer is sufficiently concentrated (usually 20–25 mM is adequate), and make sure to use a column oven.
+A change in the mobile-phase pH can have a dramatic effect on the appearance of the chromatogram when ionizable compounds are present, but it makes no difference for neutral samples. The behavior of retention with a change in pH will vary depending on how close the mobile-phase pH is to the p*K*<sub>a</sub> of the analyte, and in any case, is not a linear relationship, so <u class = "red">a general rule of thumb for the effect of pH on retention is not possible</u>. The lower chromatogram of <b>Figure 2</b> illustrates how sensitive retention can be to changes in pH. A change in pH of 0.2 units gives similar retention changes as a 10 °C change in temperature for this sample of weak acids and bases. Typical laboratory practice of adjusting the mobile-phase pH with the help of a pH meter can result in errors of ±0.1 pH units, so special care needs to be taken if the separation is particularly pH sensitive, as is that of <b>Figure 2</b>. <u class = "red">To minimize pH-related problems, use buffers within ±1 unit of their p*K*<sub>a</sub>, make buffers by blending equimolar portions of acid and base, ensure that the buffer is sufficiently concentrated (usually 20–25 mM is adequate)</u> <a class = "marginnote">Good Lab Practice</a>, and make sure to use a column oven.
 
 
 ## Flow Rate
