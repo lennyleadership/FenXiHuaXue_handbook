@@ -18,9 +18,9 @@ toc: true
 
 ## Mass
 
-**Nominal mass**: It is the mass of an ion or molecule calculated using <mark>the mass of the most abundant isotope of each element rounded to the nearest integer value</mark> and equivalent to the sum of the mass numbers of all constituent atoms.  
+**Nominal mass**: It is the mass of an ion or molecule calculated using <mark class = "lemon">the mass of the most abundant isotope of each element rounded to the nearest integer value</mark> and equivalent to the sum of the mass numbers of all constituent atoms.  
 
-**Accurate mass**: It is <mark>The experimentally determined mass of an ion</mark> measured to an appropriate degree of accuracy and precision used to determine, or limit the possibilities for, the elemental formula of the ion. &nbsp;&nbsp;<sup>(</sup>[^1]<sup>)</sup>  
+**Accurate mass**: It is <mark class = "lemon">The experimentally determined mass of an ion</mark> measured to an appropriate degree of accuracy and precision used to determine, or limit the possibilities for, the elemental formula of the ion. &nbsp;&nbsp;<sup>(</sup>[^1]<sup>)</sup>  
 
 **Exact mass**: It is the calculated mass of an ion whose elemental formula, isotopic composition and charge state are known, i.e., it is the theoretical mass. The IUPAC definition constricts the definition to using one isotope of each atom involved, usually the lightest isotope, but generalizes the definition to cover an ion or neutral molecule &nbsp;&nbsp;<sup>(</sup>[^2]<sup>)</sup>. The charge state is relevant as the mass of the electron (0.00055 Da), or multiple charges, may not be negligible in the context of mass measurement. 
 
@@ -34,26 +34,40 @@ A mass spectrometer measures mass-to-charge, and m/z should normally be used whe
 Normally, mass measurement error would be used to describe the accuracy of a single reading.   
 **Precision**: The **repeatability** of the measurement reflecting random errors. Random errors cause measurements to fall on either side of the average experimental measurement and affect the precision of the set of measurements. When a set of mass measurements of one ion species lie close together we say the measurements are precise, and when not we say the measurements are imprecise.  
 Two other items of terminology which must be clarified are:  
-**Repeatability**: This is <mark>the short-term precision</mark> of multiple replicate experimental measurements made under similar conditions, i.e., the same instrument, operator and over a limited time, normally the same day. **Reproducibility**: It refers to differences among experimental measurements made under different circumstances i.e., a measurement of the same quantity made by different operators, even different instruments and often with a significant time difference between groups of measurements.  
+**Repeatability**: This is <mark class="lemon">the short-term precision</mark> of multiple replicate experimental measurements made under similar conditions, i.e., the same instrument, operator and over a limited time, normally the same day. **Reproducibility**: It refers to differences among experimental measurements made under different circumstances i.e., a measurement of the same quantity made by different operators, even different instruments and often with a significant time difference between groups of measurements.  
 
 
 ## Estimation of Mass Measurement Statistics
 The mass measurement error (or accuracy) of a single reading will be:  
-$&Delta;m_i = (m_i - m_a)$ in Da   
-<br>
-$&nbsp;&nbsp;= (m_i - m_a) \times 10^3$ in mDa   
-<br>  
-$ &nbsp;&nbsp; = \frac{(m_i - m_a)}{m_a} \times 10^6$ in ppm  
+
+$$
+\begin{equation}
+&Delta;m_i = (m_i - m_a) &emsp;\textrm{in Da}  
+\end{equation}
+$$
+
+$$
+\begin{equation}
+&emsp; = (m_i - m_a) \times 10^3 &emsp;\textrm{in mDa}
+\end{equation}
+$$
+
+$$
+\begin{equation}
+&emsp; = \frac{(m_i - m_a)}{m_a} \times 10^6 &emsp;\textrm{in ppm}
+\end{equation}
+$$
+ 
 
 The symbol m<sub>a</sub> has been used here to represent exact mass as the symbol m<sub>e</sub> represents the electron mass and the symbol m<sub>ex</sub> could be interpreted as experimental mass and not exact mass.  
 
-The term “error” is defined as the difference between an <mark>individual</mark> measurement and the true value, where  $\Delta$m<sub>i</sub> can be positive or negative.  
+The term “error” is defined as the difference between an <mark class = "lemon">individual</mark> measurement and the true value, where  $\Delta$m<sub>i</sub> can be positive or negative.  
 
-It is important to remember that the term “error” should only be used in connection with the result of a <mark>single</mark> measurement and not used to represent an averaged measurement (see later discussion).  
+It is important to remember that the term “error” should only be used in connection with the result of a <mark class = "lemon">single</mark> measurement and not used to represent an averaged measurement (see later discussion).  
 
 Errors in relation to the exact mass measurement are only apparent when the compound’s composition is known.   
 
-The term “<mark>mass deviation</mark>” has been proposed to the <mark>proteomics</mark> community for reporting a single mass measurement error. These authors define mass deviation as “the measured mass minus the calculated mass,” and recommend this instead of using “mass accuracy”. Whilst it is correct to point out that the term accuracy should not be used for a single measurement, there is no necessity to redefine this as deviation. In fact, IUPAC defines deviation as “the difference between an observed value and the arithmetic mean of the set to which it belongs.” This is not the same definition as that for the error of a measurement, which IUPAC defines as “the result of a measurement minus the true value.” Thus, the term mass deviation is not appropriate to describe a mass measurement error. They further define the term maximum mass deviation (MMD), “this is the cutoff value used in database search. Only peptide sequences with a calculated mass within this tolerance are reported as hits.” 
+The term “<mark class = "lemon">mass deviation</mark>” has been proposed to the <mark class = "lemon">proteomics</mark> community for reporting a single mass measurement error. These authors define mass deviation as “the measured mass minus the calculated mass,” and recommend this instead of using “mass accuracy”. Whilst it is correct to point out that the term accuracy should not be used for a single measurement, there is no necessity to redefine this as deviation. In fact, IUPAC defines deviation as “the difference between an observed value and the arithmetic mean of the set to which it belongs.” This is not the same definition as that for the error of a measurement, which IUPAC defines as “the result of a measurement minus the true value.” Thus, the term mass deviation is not appropriate to describe a mass measurement error. They further define the term maximum mass deviation (MMD), “this is the cutoff value used in database search. Only peptide sequences with a calculated mass within this tolerance are reported as hits.” 
  
 ppm error is a quantity frequently used to report mass errors and varies along the mass scale.
 
@@ -66,3 +80,6 @@ A simple way to indicate the accuracy of measurement is the use of the significa
 
 [^1]: Accurate Masses for Structure Confirmation, M.L. Gross, J. Am. Soc. Mass Spectrom., 5 (1994), p. 57   
 [^2]: Murray, K. K.; Boyd, R. K.; Eberlin, M. N.; Langley, G. J.; Li, L.; Naito, Y. Standard Definitions of Terms Relating to Mass Spectrometry; International Union of Pure and Applied Chemistry (IUPAC), 2006; 3rd draft document. Online http://www.msterms.com/.
+
+
+

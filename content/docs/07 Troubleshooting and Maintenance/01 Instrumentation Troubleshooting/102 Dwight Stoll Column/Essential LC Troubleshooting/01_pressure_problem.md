@@ -37,7 +37,7 @@ In the area of pressure problems, everything is possible. Sometimes pressure is 
 
 ## What Is To Be Expected?
 
-A critical step in any troubleshooting exercise —but one that I think is underappreciated— is recognizing that there is a problem to be solved. Recognizing that there is a problem usually amounts to recognizing that what is happening with the instrument is different from what is expected to happen, and our expectations are formed from theories, empirical knowledge, and experience (4).
+A critical step in any troubleshooting exercise — but one that I think is underappreciated — is recognizing that there is a problem to be solved. Recognizing that there is a problem usually amounts to recognizing that what is happening with the instrument is different from what is expected to happen, and our expectations are formed from theories, empirical knowledge, and experience (4).
 
 Before getting into details about what we can expect about pressure, a few words to clarify what it is and how it is measured in LC instruments are warranted. In LC, when we say “pressure,” we are really talking about a “pressure drop” or a “pressure difference.”
 
@@ -132,12 +132,3 @@ In this first installment on essential topics in LC troubleshooting, I have disc
 
 
 
-js part ***
-<script src="https://polyfill.io/v3/polyfill.min.js?features=es6"></script>
-<script id="MathJax-script" async src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js"></script>
-
-<script>
-    MathJax = {
-        chtml: { displayAlign: 'left' }
-    };
-</script>

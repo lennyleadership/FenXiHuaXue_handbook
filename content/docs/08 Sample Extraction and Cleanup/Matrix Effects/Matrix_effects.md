@@ -68,7 +68,7 @@ Reducing the injection volume is a simple way to reduce the number of species co
 
 ### Sample Preparation
 
-<mark>More extensive sample clean-up and better extraction methods</mark> results in fewer co-eluting components and thus less matrix effects. In all papers comparing sample preparation, sample dilution and/or protein precipitation showed the greatest amount of matrix effects, while SPE and LLE resulted in cleaner extracts. Especially mixed-mode SPE, i.e. SPE that combines two retention mechanisms, was very useful to avoid matrix effects. When using SPE, the protocol should be carefully evaluated, since not only the analytes of interest but also interfering substances can be concentrated, magnifying matrix effects. To optimize the SPE procedure, extra wash steps can be added or the elution solvent can be optimized.
+<mark class = "lemon">More extensive sample clean-up and better extraction methods</mark> results in fewer co-eluting components and thus less matrix effects. In all papers comparing sample preparation, sample dilution and/or protein precipitation showed the greatest amount of matrix effects, while SPE and LLE resulted in cleaner extracts. Especially mixed-mode SPE, i.e. SPE that combines two retention mechanisms, was very useful to avoid matrix effects. When using SPE, the protocol should be carefully evaluated, since not only the analytes of interest but also interfering substances can be concentrated, magnifying matrix effects. To optimize the SPE procedure, extra wash steps can be added or the elution solvent can be optimized.
 
 
 ### Chromatography

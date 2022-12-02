@@ -49,7 +49,7 @@ $$
 \textrm{efficiency} &Proportional;  \frac{\textrm{length}}{\textrm{particle &nbsp; size}}
 $$
 
-Short column lengths, such as 50 mm, will give short run times and are ideal for gradient analysis. Long column lengths, such as 250 mm, have more resolving power, but come with the cost of longer analysis time and increased back pressure. When considering your column’s inner diameter, it is important to keep your mode of detection in mind. RI, fluorescence, or UV detectors can handle much higher flow rates than LC-MS. <mark>Conventional LC-MS flow rates are in the range of 0.3-0.6 mL/min</mark>. These flow rates pair well with 2.1 mm and 3.0 mm ID columns. Additionally, <mark>as column diameter is reduced, sensitivity can be improved several fold</mark>, assuming mass on column is kept constant and your instrument is optimized for low-volume columns.  
+Short column lengths, such as 50 mm, will give short run times and are ideal for gradient analysis. Long column lengths, such as 250 mm, have more resolving power, but come with the cost of longer analysis time and increased back pressure. When considering your column’s inner diameter, it is important to keep your mode of detection in mind. RI, fluorescence, or UV detectors can handle much higher flow rates than LC-MS. <mark class = "lemon">Conventional LC-MS flow rates are in the range of 0.3-0.6 mL/min</mark>. These flow rates pair well with 2.1 mm and 3.0 mm ID columns. Additionally, <mark class = "lemon">as column diameter is reduced, sensitivity can be improved several fold</mark>, assuming mass on column is kept constant and your instrument is optimized for low-volume columns.  
 
 
 ## Particles of stationary phase <a href="#section2">[2]</a>

@@ -21,7 +21,7 @@ Tuning is a procedure that optimizes or re-optimizes the detection of specific c
 
 Please be sure to view quadrupole theory and use and quadrupole resolution and mass calibration prior to watching this video. Quadrupole theory and use covers the basic principles of a quadrupole and the various modes of using a tandem quadrupole instrument. This background information will be helpful in understanding why when tuning manually, we will progress through the various MS and MSMS modes of operation.  
 
-In our quadrupole resolution and mass calibration video, I discussed the importance of having a good mass calibration and resolution setup on the mass spectrometer before tuning, so that the instrument has a good reference point on which we can tune. <mark>It is also worth noting</mark> that if you prefer to tune using `IntelliStart`, which I'll also cover in this video, a valid calibration and resolution are required.  
+In our quadrupole resolution and mass calibration video, I discussed the importance of having a good mass calibration and resolution setup on the mass spectrometer before tuning, so that the instrument has a good reference point on which we can tune. <mark class = "lemon">It is also worth noting</mark> that if you prefer to tune using `IntelliStart`, which I'll also cover in this video, a valid calibration and resolution are required.  
 
 Because when we tune, we will be infusing our analyte of interest combined with mobile phase. Make sure that your assays mobile phases are on the liquid chromatograph and they have been primed. Also ensure that there is a column in the column manager so that when mobile phase is flowing, there won't be a leak in your column manager.  
 

@@ -31,7 +31,7 @@ In centroid mode, the signals are displayed as discrete m/z with zero line width
 </figure>
 
 ## What are Profile and Centroid MS data? (2)
-1) Profile means the continuous wave form in a <mark>mass spectrum</mark>.   
+1) Profile means the continuous wave form in a <mark class = "lemon">mass spectrum</mark>.   
 • Data is a continuous wave form.  
 2) Centroid means the peaks in a profile data is changed to bars.  
 • m/z values are discrete.  

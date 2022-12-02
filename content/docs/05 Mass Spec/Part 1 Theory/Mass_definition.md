@@ -16,11 +16,11 @@ toc: true
 
 <!--more-->
 
-• **Atomic mass**: The number that represents the element’s mass based on the <mark>weighted average</mark> of the masses of its naturally occurring stable isotopes. For example, the integer atomic mass of bromine is 80 Da. This is because there are only two naturally occurring stable isotopes of bromine, <sup>79</sup>Br and <sup>81</sup>Br, which exist in nature in about equal amounts. When the relative mass (Mr) of an ion, molecule, or radical is reported, it is based on the atomic masses of its elements.   
+• **Atomic mass**: The number that represents the element’s mass based on the <mark class = "lemon">weighted average</mark> of the masses of its naturally occurring stable isotopes. For example, the integer atomic mass of bromine is 80 Da. This is because there are only two naturally occurring stable isotopes of bromine, <sup>79</sup>Br and <sup>81</sup>Br, which exist in nature in about equal amounts. When the relative mass (Mr) of an ion, molecule, or radical is reported, it is based on the atomic masses of its elements.   
 
 • **Nominal mass**: Mass of a molecular ion or molecule calculated using the isotope mass of the most abundant constituent element isotope of each element rounded to the nearest integer value and multiplied by the number of atoms of each element. Example: nominal mass of H<sub>2</sub>O = (2 $\times$ 1 + 1 $\times$ 16) u = 18 u.   
 
-• **Monoisotopic mass**: Exact mass of an ion or molecule calculated using the mass of <mark>the most abundant isotope</mark> of each element. Example: monoisotopic mass of H<sub>2</sub>O = (2 $\times$ 1.007825 + 1 $\times$ 15.994915) u = 18.010565 u. The exact mass of the common elements and their isotopes are provided in Table 1.1.   
+• **Monoisotopic mass**: Exact mass of an ion or molecule calculated using the mass of <mark class = "lemon">the most abundant isotope</mark> of each element. Example: monoisotopic mass of H<sub>2</sub>O = (2 $\times$ 1.007825 + 1 $\times$ 15.994915) u = 18.010565 u. The exact mass of the common elements and their isotopes are provided in Table 1.1.   
 
 • **Exact mass**: Calculated mass of an ion or molecule with specified isotopic composition.   
 

@@ -26,7 +26,7 @@ Ionization takes place as a result of imparting the strong electrical field and 
 > Understanding how ions are liberated from the liquid mobile phase in the gas-phase transition helps us understand and diagnose issues such as lack of expected sensitivity and ion suppression.  
 > By Balogh
 
-<mark>Two separate theories have been proposed, 1) `the charge residue mechanism` and 2) `the ion evaporation mechanism` models, but Cole argues that both mechanisms might be working concurrently: the charge residue mechanism dominating at high mass and ion evaporation dominating for lower masses</mark>.     
+<mark class = "lemon">Two separate theories have been proposed, 1) `the charge residue mechanism` and 2) `the ion evaporation mechanism` models, but Cole argues that both mechanisms might be working concurrently: the charge residue mechanism dominating at high mass and ion evaporation dominating for lower masses</mark>.     
 
 <img width ="360" height= "200" src = "/docs/images/Screenshot 2022-06-28 131221.png" style ="float: left" HSPACE="10" VSPACE="10"/>
 <img width ="360" height= "200" src = "/docs/images/Screenshot 2022-06-28 131304.png" style ="float: left" HSPACE="10" VSPACE="10"/>
@@ -44,7 +44,7 @@ Due to the solvent evaporation, the size of the droplet reduces, and, consequent
 
 These coulombic fissions continue until droplets containing a single analyte ion remain. `The charge residue model` suggests that a gas-phase ion forms only when solvent from the last droplet evaporates. In the ion evaporation model, the electric field strength at the surface of the droplet is thought to be high enough for `solvated ions` to attain sufficient charge density to be ejected from the surface of the droplet and transfer directly into the gas phase without evaporation of all the solvent.   
 
-Ensuring that the compound of interest is ionized in solution critical for ES ionization, so <mark>mobile phases should have a pH such that the analytes will be ionized. Charging is usually accomplished by adding or removing protons</mark> but cation or anion attachment generating adduct ions is also common. 
+Ensuring that the compound of interest is ionized in solution critical for ES ionization, so <mark class = "lemon">mobile phases should have a pH such that the analytes will be ionized. Charging is usually accomplished by adding or removing protons</mark> but cation or anion attachment generating adduct ions is also common. 
 
 
 p79, Analysis of Pesticides in Food and Environmental Samples, CRC Press, 2008, edited by Jos&eacute; L. Tadeo

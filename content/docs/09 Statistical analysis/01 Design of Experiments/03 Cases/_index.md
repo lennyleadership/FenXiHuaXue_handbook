@@ -25,7 +25,7 @@ When the problem involves data that are subject to experimental errors, statisti
 <img width ="360" height= "200" src = "/docs/images/Screenshot 2022-07-08 185857.png" style ="float: left" HSPACE="10" VSPACE="10"/>
 
 **Randomization**:  It means that both the allocation of experimental material and the order in which the individual runs will be performed are randomly determined.  
-Randomization is the cornerstone underlying the use of statistical methods in the experimental design.  <mark>It assures that errors are independently distributed among the runs</mark>.  
+Randomization is the cornerstone underlying the use of statistical methods in the experimental design.  <mark class = "lemon">It assures that errors are independently distributed among the runs</mark>.  
 
 **Replication**:  It means an `independent repeat run` of each factor combination.  It does not refer to `repeated runs`.  Replications reflect the sources of variability of the system.  
 

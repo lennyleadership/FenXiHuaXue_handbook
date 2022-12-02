@@ -19,22 +19,22 @@ toc: true
 
 ## Explanation
 
-The presence of target compounds at trace levels (mg/kg or mg/L) in an extract containing different chemical groups such as proteins, carbohydrates, lipids, and other miscellaneous compounds may reveal the dimension of food sample complexity (Kaufmann, 2014). <mark>The presence of coextractives</mark> influences the analyte signals, which can be either suppressed or enhanced when compared to the response in pure solvent (Trufelli, Palma, Famiglini, & Cappiello, 2011). 
+The presence of target compounds at trace levels (mg/kg or mg/L) in an extract containing different chemical groups such as proteins, carbohydrates, lipids, and other miscellaneous compounds may reveal the dimension of food sample complexity (Kaufmann, 2014). <mark class = "lemon">The presence of coextractives</mark> influences the analyte signals, which can be either suppressed or enhanced when compared to the response in pure solvent (Trufelli, Palma, Famiglini, & Cappiello, 2011). 
 
 
 ### Matrix Effects in LC-based Methods
 
-Ion suppression is the most common matrix effect in LC-based methods, especially when MS operated with <mark>electrospray (ESI) positive polarity mode</mark>, which is the most used for pesticide analysis (Kittlaus, Schimanke, Kempe, & Speer, 2011). As described by G&oacute;mez-Ramos, Rajski, Lozano, and Fern&aacute;ndez-Alba (2016) various causes are related with the ion suppression effect in ESI such as:  
-(1) competition between matrix components and analytes <mark>for available charges</mark> and <mark>access to the droplet surface</mark> and   
+Ion suppression is the most common matrix effect in LC-based methods, especially when MS operated with <mark class = "lemon">electrospray (ESI) positive polarity mode</mark>, which is the most used for pesticide analysis (Kittlaus, Schimanke, Kempe, & Speer, 2011). As described by G&oacute;mez-Ramos, Rajski, Lozano, and Fern&aacute;ndez-Alba (2016) various causes are related with the ion suppression effect in ESI such as:  
+(1) competition between matrix components and analytes <mark class = "lemon">for available charges</mark> and <mark class = "lemon">access to the droplet surface</mark> and   
 (2) change in the viscosity and surface tension of the LC effluent that, consequently, influences the droplet formation and the evaporation process, affecting the number of charged ions.   
 Furthermore, nonvolatile components can form solid analyte inclusion particles, and matrix components may act as ion-pairing reagents with already ionized analytes (Trufelli et al., 2011).   
-However, the most discussed explanation is related to <mark>the competition for access to the droplet surface</mark> along with <mark>the competition for the surface excess charges</mark> (G&oacute;mez-Ramos et al., 2016). 
+However, the most discussed explanation is related to <mark class = "lemon">the competition for access to the droplet surface</mark> along with <mark class = "lemon">the competition for the surface excess charges</mark> (G&oacute;mez-Ramos et al., 2016). 
 
 
 ### Matrix Effects in GC-based Methods
 
 As explained by Erney, Gillespie, Gilvydis, and Poole (1993) and Gillespie,
-Daly, Gilvydis, Schneider, and Walters (1995), for GC methods, the matrix induced response enhancement can be explained based on the competition between coextractives and the pesticides <mark>to access the active sites present in the inlet and chromatographic column</mark>.  The coextractives protect the target analytes from decomposition in the hot injector.
+Daly, Gilvydis, Schneider, and Walters (1995), for GC methods, the matrix induced response enhancement can be explained based on the competition between coextractives and the pesticides <mark class = "lemon">to access the active sites present in the inlet and chromatographic column</mark>.  The coextractives protect the target analytes from decomposition in the hot injector.
 
 Otherwise, nonvolatile coextractives accumulated into the GC system promote the response diminishment because of the generation of new active sites (G&oacute;mez-Ramos et al., 2016).
 

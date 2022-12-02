@@ -27,7 +27,7 @@ Highly aqueous mobile phases are ideal breeding grounds for microbes. Ensure tha
 
 ## Sigma-Aldrich Guide
 
-<mark>Low sensitivity and rising baselines, noise, or spikes on the chromatogram can often be attributed to the mobile phase</mark>. Contaminants in the mobile phase are especially troublesome in gradient elution. The baseline may rise, and spurious peaks can appear as the level of the contaminated component increases.
+<mark class = "lemon">Low sensitivity and rising baselines, noise, or spikes on the chromatogram can often be attributed to the mobile phase</mark>. Contaminants in the mobile phase are especially troublesome in gradient elution. The baseline may rise, and spurious peaks can appear as the level of the contaminated component increases.
 
 Water is the most common source of contamination in reversed phase analyses. You should use only high purity distilled or deionized water when formulating mobile phases. However, several common deionizers introduce organic contaminants into the water. To remove these contaminants, pass the deionized water through activated charcoal or a preparative C18 column.
 
