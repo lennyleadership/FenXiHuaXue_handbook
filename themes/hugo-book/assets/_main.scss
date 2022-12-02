@@ -757,7 +757,7 @@ u.red{
 
 .sidenote-number:after,
 .sidenote:before {
-    /*content: counter(sidenote-counter) " ";*/
+    content: counter(sidenote-counter) " ";
     font-family: et-book-roman-old-style;
     position: relative;
     vertical-align: baseline;

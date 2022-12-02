@@ -21,9 +21,11 @@ bookCollapseSection: true
 
 <!--more-->
 ---
+{{<section>}}
 
+
+## References
 1: <a href = "https://www.chromatographyonline.com/view/essentials-of-lc-troubleshooting-part-i-pressure-problems" target="_blank" rel="noopener noreferrer">Essentials of LC Troubleshooting, Part I: Pressure Problems</a>   
-
 2: <a href = "https://www.chromatographyonline.com/view/essentials-of-lc-troubleshooting-part-ii-misbehaving-retention-times" target="_blank" rel="noopener noreferrer">
 Essentials of LC Troubleshooting, Part II: Misbehaving Retention Times</a>  
 3: <a href = "https://www.chromatographyonline.com/view/essentials-of-lc-troubleshooting-part-3-those-peaks-don-t-look-right" target="_blank" rel="noopener noreferrer">Essentials of LC Troubleshooting, Part III: Those Peaks Don’t Look Right</a>  
