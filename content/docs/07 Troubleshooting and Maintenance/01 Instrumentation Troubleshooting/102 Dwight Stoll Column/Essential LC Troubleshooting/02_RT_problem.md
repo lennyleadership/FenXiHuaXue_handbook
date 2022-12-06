@@ -45,7 +45,7 @@ Although accurate determination of *k* is challenging because of the difficulty 
 
 1. *k* is nominally independent of parameters including flow rate, column length, column diameter, and particle size, which makes comparing retention under conditions where these parameters are varied more straightforward than directly comparing retention times.
 
-2. Small changes in flow rate because of changes in pump performance— which do directly affect *t<sub>r</sub>*—have little effect on *k* because the effect of a small change in the flow rate on retention will be similar to the effect on the dead time, and thus, the differences cancel out. Finally, a third measure of retention that is common in practice is relative retention time (*RRT*):  
+2. Small changes in flow rate because of changes in pump performance — which do directly affect *t<sub>r</sub>* — have little effect on *k* because the effect of a small change in the flow rate on retention will be similar to the effect on the dead time, and thus, the differences cancel out. Finally, a third measure of retention that is common in practice is relative retention time (*RRT*):  
 
 $$
 \begin{equation}
@@ -54,7 +54,7 @@ RRT = \frac{t_{r,A}}{t_{r,ref}}
 \end{equation}
 $$
 
-The *RRT* carries many of the advantages of *k* over *t<sub>r</sub>*, without the difficulty associated with accurate determination of column dead time. Figure 1 shows retention data from some recent isocratic measurements under reversed-phase conditions in my laboratory. Panels A and B show retention times obtained for anisole (A) and butylphenyl ether (B) from 75 replicate injections over a period of approximately 48 h. The relative standard deviations (RSD) of the retention times are 0.11% and 0.13%, respectively. Although these RSDs are reflective of the excellent retention stability we can expect from ultrahigh performance LC (UHPLC), panel C shows that the *RRT* can be even more stable. In this case, we see that the RSD drops by nearly one-half to 0.06%. Panel D shows that the *t<sub>r</sub>* for the two compounds are highly correlated (the two compounds were injected as a mixture for each replicate injection), which is why the RRT is more repeatable than the *t<sub>r</sub>* in this instance.
+The *RRT* carries many of the advantages of *k* over *t<sub>r</sub>*, without the difficulty associated with accurate determination of column dead time. <b>Figure 1</b>shows retention data from some recent isocratic measurements under reversed-phase conditions in my laboratory. Panels A and B show retention times obtained for anisole (A) and butylphenyl ether (B) from 75 replicate injections over a period of approximately 48 h. The relative standard deviations (RSD) of the retention times are 0.11% and 0.13%, respectively. Although these RSDs are reflective of the excellent retention stability we can expect from ultrahigh performance LC (UHPLC), panel C shows that the *RRT* can be even more stable. In this case, we see that the RSD drops by nearly one-half to 0.06%. Panel D shows that the *t<sub>r</sub>* for the two compounds are highly correlated (the two compounds were injected as a mixture for each replicate injection), which is why the RRT is more repeatable than the *t<sub>r</sub>* in this instance.
 
 <figure>
   <img width = "540" src = "/docs/images/Screen Shot 2022-04-01 at 3.13.16 PM.webp"/>
@@ -62,8 +62,7 @@ The *RRT* carries many of the advantages of *k* over *t<sub>r</sub>*, without th
 </figure>
 
 
-
-Bearing in mind these details about the different ways of measuring retention, it is important to understand that there is no single standard we can use to judge whether the retention we see in a routine assay today is reasonable relative to prior work. Different applications with different conditions run on different instruments and in different laboratories will be characterized by different levels of variability in retention. Although the repeatability of retention shown in Figure 1 is excellent, it will not always be this good, even when using the finest equipment. The user must be aware of what constitutes “typical” performance. In the best-case scenario, a control chart or some other indicator of retention over time (days, weeks, or months) is used. It is only against this background that one can assess whether a retention observation today seems too low or high, or is varying too much.
+Bearing in mind these details about the different ways of measuring retention, it is important to understand that there is no single standard we can use to judge whether the retention we see in a routine assay today is reasonable relative to prior work. Different applications with different conditions run on different instruments and in different laboratories will be characterized by different levels of variability in retention. Although the repeatability of retention shown in <b>Figure 1</b> is excellent, it will not always be this good, even when using the finest equipment. The user must be aware of what constitutes “typical” performance. In the best-case scenario, a control chart or some other indicator of retention over time (days, weeks, or months) is used. It is only against this background that one can assess whether a retention observation today seems too low or high, or is varying too much.
 
 ## Situations Involving Retention That Is Decreasing or Lower Than Expected
 
@@ -75,23 +74,23 @@ Harsh mobile phase conditions can lead to loss of the component of the stationar
 
 ### Mass Overload
 
-If gradually decreasing retention is observed as the mass of analyte injected is increased (but the injection volume is constant), this could be a sign of mass overload (8). Mass overload can be a complex phenomenon, but one mechanism that seems to occur for charged analytes involves mutual repulsion of injected analytes by charged compounds already adsorbed to the stationary phase surface. One potential solution to this problem is to increase the ionic strength of the mobile phase; ionized mobile phase components (for example, sodium or ammonium ions) can interrupt the charge-repulsion mechanism and minimize the effect of the injected mass of analyte on retention time.
+If gradually decreasing retention is observed as the mass of analyte injected is increased (but the injection volume is constant), this could be a sign of mass overload (8). Mass overload can be a complex phenomenon, but one mechanism that seems to occur for charged analytes involves mutual repulsion of injected analytes by charged compounds already adsorbed to the stationary phase surface. One potential solution to this problem is to increase the ionic strength of the mobile phase; ionized mobile phase components (for example, sodium or ammonium ions) can interrupt the charge-repulsion mechanism and minimize the effect of the injected mass of analyte on retention time.  
 
 ### Volume Overload
 
-The composition of the matrix of the injected sample can also have a dramatic effect on apparent tr. For example, in RPLC, if the sample contains more organic solvent than the mobile phase, this can lead to a decrease in retention (9). In hydrophilic interaction chromatography (HILIC) separations, the same effect can be observed, but in this case, samples that contain more water than the mobile phase lead to a decrease in retention (10). Whereas the effect of mass overload on retention tends to be gradual, with volume overload the change in retention can be sudden and dramatic because of a “breakthrough” of the analyte band as some of it travels with the band of sample solvent through the column (11). This effect is relatively easy to study by varying the volume and composition of the injected sample over ranges of interest to the application at hand and looking for a correlation with the observed *t<sub>r</sub>*. If volume overload appears to be a problem, a variety of approaches can be used to mitigate this effect, including decreasing the injection volume, preparing the sample with less “strong solvent” (10), or installing a mixer between the injector and the column (12).
+The composition of the matrix of the injected sample can also have a dramatic effect on apparent *t<sub>r</sub>*. For example, in RPLC, if the sample contains more organic solvent than the mobile phase, this can lead to a decrease in retention (9). In hydrophilic interaction chromatography (HILIC) separations, the same effect can be observed, but in this case, samples that contain more water than the mobile phase lead to a decrease in retention (10). Whereas the effect of mass overload on retention tends to be gradual, with volume overload the change in retention can be sudden and dramatic because of a “breakthrough” of the analyte band as some of it travels with the band of sample solvent through the column (11). This effect is relatively easy to study by varying the volume and composition of the injected sample over ranges of interest to the application at hand and looking for a correlation with the observed *t<sub>r</sub>*. If volume overload appears to be a problem, a variety of approaches can be used to mitigate this effect, including decreasing the injection volume, preparing the sample with less “strong solvent” (10), or installing a mixer between the injector and the column (12).  
 
 ### Stationary Phase Dewetting
 
-Most stationary phases designed for RPLC are, by design, quite hydrophobic. When highly aqueous mobile phases (<2% organic solvent) are used with the phases, the mobile phase can actually be physically expelled from the narrow pores of the particles because of the low thermodynamic favorability of the highly aqueous phase interacting with the highly hydrophobic stationary phase (13,14). This process leads to an apparent loss of retention because analytes simply cannot diffuse into pores that have no solvent in them. This type of retention loss is usually sudden. The good news is that it is reversible by simply flushing the column with a few column volumes of mobile phase rich in organic solvent, and that is usually sufficient in restoring retention (13). This problem can be avoided by not using purely aqueous mobile phases with highly hydrophobic RP phases (for example, C8, C18, or phenyl). If highly aqueous mobile phases must be used, then more hydrophilic RP phases should be considered (for example, C1 or CN).
+Most stationary phases designed for RPLC are, by design, quite hydrophobic. When highly aqueous mobile phases (<2% organic solvent) are used with the phases, the mobile phase can actually be physically expelled from the narrow pores of the particles because of the low thermodynamic favorability of the highly aqueous phase interacting with the highly hydrophobic stationary phase (13,14). This process leads to an apparent loss of retention because analytes simply cannot diffuse into pores that have no solvent in them. This type of retention loss is usually sudden. The good news is that it is reversible by simply flushing the column with a few column volumes of mobile phase rich in organic solvent, and that is usually sufficient in restoring retention (13). This problem can be avoided by not using purely aqueous mobile phases with highly hydrophobic RP phases (for example, C8, C18, or phenyl). If highly aqueous mobile phases must be used, then more hydrophilic RP phases should be considered (for example, C1 or CN). <a class = "marginnote">C18 is highly hydrophobic (tending to repel or fail to mix with water), C1 is highly hydrophilic (having a tendency to mix with, dissolve in, or be wetted by water)</a>  
 
 ## Situations Involving Retention That Is Increasing or Higher Than Expected
 
-There are a few common potential causes of retention that either appears to be too high or increases over time.
+There are a few common potential causes of retention that either appears to be too high or increases over time.  
 
 ### Decreasing Flow Rate
 
-If the flow rate through the LC column has decreased, or is slowly decreasing over time, the *t<sub>r</sub>* of an analyte will be higher than expected or slowly increase. Such a decrease in flow rate could be because of leaks outside of the pump (for example, connection to the column, sampler needle seat, sampler valve rotor seal), in which case the pump is working properly but not all of the mobile phase actually goes through the column. Also, the pump itself may not be producing the flow rate indicated by the software because of a leaky check valve or piston seal (3). These decreases in flow rate could be sudden or gradual depending on the root cause of the change. If decreasing flow rate is the suspected cause of increasing retention, it is helpful to compare both *t<sub>r</sub>* and retention factor (or *RRT*) to historical values. Whereas *t<sub>r</sub>* is dependent on flow rate, retention factor and *RRT* should be independent of flow rate. If a difference in the dependence of *t<sub>r</sub>* and *k* on flow rate is observed here, this difference is an important clue. Resolving the problem may or may not be tricky depending on the exact cause. Leaky check valves do not produce leaks that we can see with our eyes in a way that a leaky needle seat or column connection would (see [3] for suggestions about troubleshooting leaky check valves). If the nominal flow rate is 2 mL/min, then a leak of 5% (100 μL/min.) because of a poor connection should be easy to spot. However, if the flow rate is 50 μL/min, then a leak rate of 5% only corresponds to 2.5 μL/min, which is harder to spot.
+If the flow rate through the LC column has decreased, or is slowly decreasing over time, the *t<sub>r</sub>* of an analyte will be higher than expected or slowly increase. Such a decrease in flow rate could be because of leaks outside of the pump (for example, connection to the column, sampler needle seat, sampler valve rotor seal), in which case the pump is working properly but not all of the mobile phase actually goes through the column. Also, the pump itself may not be producing the flow rate indicated by the software because of a leaky check valve or piston seal (3). These decreases in flow rate could be sudden or gradual depending on the root cause of the change. If decreasing flow rate is the suspected cause of increasing retention, it is helpful to compare both *t<sub>r</sub>* and retention factor (or *RRT*) to historical values. Whereas *t<sub>r</sub>* is dependent on flow rate, retention factor and *RRT* should be independent of flow rate. If a difference in the dependence of *t<sub>r</sub>* and *k* on flow rate is observed here, this difference is an important clue. Resolving the problem may or may not be tricky depending on the exact cause. Leaky check valves do not produce leaks that we can see with our eyes in a way that a leaky needle seat or column connection would (see [3] for suggestions about troubleshooting leaky check valves). If the nominal flow rate is 2 mL/min, then a leak of 5% (100 μL/min.) because of a poor connection should be easy to spot. However, if the flow rate is 50 μL/min, then a leak rate of 5% only corresponds to 2.5 μL/min, which is harder to spot.  
 
 ### Changing Mobile Phase Composition
 
@@ -115,7 +114,7 @@ In this second installment on essential topics in LC troubleshooting, I discusse
 
 ## Acknowledgments
 
-I would like to thank Tina Dahlseid and Carter Henning for their effort in collecting the data shown in Figure 1.
+I would like to thank Tina Dahlseid and Carter Henning for their effort in collecting the data shown in <b>Figure 1</b>.
 
 ## References
 
@@ -125,7 +124,7 @@ I would like to thank Tina Dahlseid and Carter Henning for their effort in colle
 
 (3) D.R. Stoll, *LCGC N. Am*. **39**, 572–574 (2021).
 
-(4) LCGC Troubleshooting Wallchart. https://www.chromatographyonline. com/view/troubleshooting-wallchart.
+(4) LCGC Troubleshooting Wallchart. https://www.chromatographyonline.com/view/troubleshooting-wallchart.
 
 (5) D.R. Stoll, *LCGC N. Am*. **38**, 505–509 (2020).
 
@@ -154,3 +153,6 @@ I would like to thank Tina Dahlseid and Carter Henning for their effort in colle
 (17) D.R. Stoll, *LCGC N. Am*. **38**, 261–268 (2020).
 
 (18) P. Petersson, *LCGC N. Am.* **37**, 740–746 (2019).
+
+## Source
+<a href = "" target="_blank" rel="noopener noreferrer"></a>
