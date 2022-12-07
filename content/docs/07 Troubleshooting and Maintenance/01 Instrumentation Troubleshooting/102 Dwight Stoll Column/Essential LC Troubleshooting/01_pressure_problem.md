@@ -25,7 +25,7 @@ Pages: 572–574
 
 ## Everything is Possible
 
-In the area of pressure problems, everything is possible. Sometimes pressure is unexpectedly low, but stable. Other times the pressure is too low, and appears to steadily decrease. The same is true for pressures that are higher than expected. In other cases, the observed pressure may seem to be about right, but it is fluctuating more than usual. <b>Figure 1</b> illustrates the idea that pressure problems appear in all kinds of different ways, and lists the specific situations that are discussed in this article. The list of pressure-related problems shown in <b>Figure 1</b> is not exhaustive; in this installment, I focus on those problems that I see most frequently in practice.  
+In the area of pressure problems, everything is possible. Sometimes pressure is unexpectedly low, but stable. Other times the pressure is too low, and appears to steadily decrease. The same is true for pressures that are higher than expected. In other cases, the observed pressure may seem to be about right, but it is fluctuating more than usual. <b>Figure 1</b> illustrates the idea that pressure problems appear in all kinds of different ways, and lists the specific situations that are discussed in this article. The list of pressure-related problems shown in <b>Figure 1</b> is not exhaustive; in this installment, I focus on those problems that I see most frequently in practice.<a class = "sidenote">test</a>  
 
 <figure>
   <img width = "540" src = "/docs/images/Figure 1 LC Troubleshooting.webp"/>
