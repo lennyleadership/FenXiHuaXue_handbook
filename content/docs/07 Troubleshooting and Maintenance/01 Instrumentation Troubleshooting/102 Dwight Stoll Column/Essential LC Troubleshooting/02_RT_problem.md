@@ -3,7 +3,7 @@ weight: 2
 title: Misbehaving Retention Times
 authors: null
 categories: null
-tags: null
+tags: [RT Problem]
 description:  
 draft: false
 date: "2022-11-08"
@@ -103,11 +103,11 @@ The “LC Troubleshooting” wallchart lists 11 different potential causes for f
 
 ### Inadequate Buffering of the Mobile Phase pH
 
-Retention of ionogenic compounds that have a p*K*<sub>a</sub> in the range of pH values normally used in RPLC (that is, from 2–10) can be sensitive to small changes in mobile phase pH. When working with these compounds, it is important to use a buffer with a good buffer capacity (typically more than 10 mM of the buffering agent, such as phosphate or formate), and under conditions where the target pH is within 1 pH unit of the p*K*<sub>a</sub> of the buffering agent. For example, the p*K*<sub>a</sub> of formic acid is approximately 3.8 in water, so formate buffers should only be used in the range between 2.8–4.8. Working outside of this range, or with a too low concentration of the buffering agent, would hinder the ability of the buffer to do its job. In other words, it would not be a buffer at all, and it would not be able to stabilize the mobile phase pH.<a class = "marginnote">small changes in mobile phase pH. It would happen during routine analysis</a>
+Retention of ionogenic compounds that have a p*K*<sub>a</sub> in the range of pH values normally used in RPLC (that is, from 2–10) can be sensitive to small changes in mobile phase pH. When working with these compounds, it is important to use a buffer with a good buffer capacity (typically more than 10 mM of the buffering agent, such as phosphate or formate), and under conditions where the target pH is within 1 pH unit of the p*K*<sub>a</sub> of the buffering agent. For example, the p*K*<sub>a</sub> of formic acid is approximately 3.8 in water, so formate buffers should only be used in the range between 2.8–4.8. Working outside of this range, or with a too low concentration of the buffering agent, would hinder the ability of the buffer to do its job. In other words, it would not be a buffer at all, and it would not be able to stabilize the mobile phase pH.<a class = "marginnote">case #6: small changes in mobile phase pH. It would happen during routine analysis</a>
 
 ### Uncontrolled Column Temperature
 
-The retention of most compounds analyzed by RPLC decreases with increasing column temperature, thus the stability of retention over time is dependent on the stability of the column temperature over time. Most modern LC instruments have the capacity both to preheat the mobile phase before it enters the column and to control the temperature of the column environment (17). However, some instruments are used without these features, and this can be a source of variability in retention. For some highly sensitive compounds, retention can vary because of temperature fluctuations even with state-of-the-art LC equipment. In these cases, controlling the room temperature as tightly as practically possible is helpful (18).
+The retention of most compounds analyzed by RPLC decreases with increasing column temperature, thus the stability of retention over time is dependent on the stability of the column temperature over time. Most modern LC instruments have the capacity both to preheat the mobile phase before it enters the column and to control the temperature of the column environment (17). However, some instruments are used without these features, and this can be a source of variability in retention. For some highly sensitive compounds, retention can vary because of temperature fluctuations even with state-of-the-art LC equipment. In these cases, controlling the room temperature as tightly as practically possible is helpful (18). <a class = "marginnote">case #7: column compartment temperature fluctuation.</a>
 
 ## Summary
 
