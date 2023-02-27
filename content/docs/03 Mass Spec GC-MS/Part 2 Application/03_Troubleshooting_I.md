@@ -6,7 +6,7 @@ categories: null
 description: Troubleshooting
 draft: false
 date: "2022-01-03"
-lastmod: "2022-07-16"
+lastmod: "2023-02-27"
 series: 
 tags: null
 toc: true
@@ -35,8 +35,8 @@ Problems I have encountered:
 &emsp;* Impurity of carrier gas. (high argon or nitrogen in Helium)  
 &emsp;* Leak at interfaces along the column connections.  
 &emsp;* O-ring  
-4) Purchase of customized standards.  
-5) Instrument performance: such as ghost peaks, tailing peaks,  
+3) Purchase of customized standards.  
+4) Instrument performance: such as ghost peaks, tailing peaks,  
 
 ---
 
@@ -57,7 +57,7 @@ resource: https://analyteguru.com/gc-gc-ms-troubleshooting-part-i-top-6-tips-for
 Ghost Peaks  
 |Possible Cause | Solution 
 |:-------------:|:---------
-|Contammination of the injector or column | Clean the injector and liner.  Solvent rinse the column
+|Contamination of the injector or column | Clean the injector and liner.  Solvent rinse the column
 
 
 
