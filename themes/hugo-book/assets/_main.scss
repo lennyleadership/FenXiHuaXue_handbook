@@ -23,18 +23,79 @@ body {
   counter-reset: sidenote-counter; /*for tufte sidenote*/
 }
 
-h1,
-h2,
-h3,
-h4,
-h5 {
-  font-weight: $body-font-weight;
-}
 
-a {
-  text-decoration: none;
-  color: var(--color-link);
-}
+  h1,
+  h2,
+  h3,
+  h4,
+  h5,
+  h6 {
+    text-transform: uppercase;
+    font-weight: $body-font-weight;
+    font-size: 1rem;
+    line-height: 1;
+    margin-top: 1.5em;
+    margin-bottom: $padding-16;
+
+    a.anchor {
+      opacity: 0;
+      font-size: 0.75em;
+      vertical-align: middle;
+      text-decoration: none;
+    }
+
+    &:hover a.anchor,
+    a.anchor:focus {
+      opacity: initial;
+    }
+  }
+
+  h3{
+    font-style: italic;
+    font-size: .9rem;
+    
+  }
+  
+  h4 {
+    font-style: italic;
+    font-size: 0.8em;
+    margin-left: 20px;
+  }
+
+  h5 {
+    font-style: italic;
+    font-size: 0.7em;
+  }
+
+  h6 {
+    font-style: italic;
+    font-size: 0.6em;
+  }
+
+
+  b,
+  optgroup,
+  strong {
+    font-weight: bolder;
+  }
+
+  a {
+    text-decoration: none;
+    color: var(--color-link);
+    &:hover {
+      text-decoration: underline;
+    }
+    &:visited {
+      color: var(--color-visited-link);
+    }
+  }
+
+  img {
+    max-width: 100%;
+    height: auto;
+  }
+
+
 
 img {
   vertical-align: baseline;
@@ -289,156 +350,7 @@ body[dir="rtl"] .book-menu {
   will-change: transform, margin, opacity;
 }
 
-@media screen and (max-width: $mobile-breakpoint) {
-  #menu-control,
-  #toc-control {
-    display: inline;
-  }
 
-  .book-menu {
-    visibility: hidden;
-    margin-inline-start: -$menu-width;
-    font-size: $font-size-base;
-    z-index: 1;
-  }
-
-  .book-toc {
-    display: none;
-  }
-
-  .book-header {
-    display: block;
-  }
-
-  #menu-control:focus ~ main label[for="menu-control"] {
-    @include outline;
-  }
-
-  #menu-control:checked ~ main {
-    .book-menu {
-      visibility: initial;
-    }
-
-    .book-menu .book-menu-content {
-      transform: translateX($menu-width);
-      box-shadow: 0 0 $padding-8 rgba(0, 0, 0, 0.1);
-    }
-
-    .book-page {
-      opacity: 0.25;
-    }
-
-    .book-menu-overlay {
-      display: block;
-      position: absolute;
-      top: 0;
-      bottom: 0;
-      left: 0;
-      right: 0;
-    }
-  }
-
-  #toc-control:focus ~ main label[for="toc-control"] {
-    @include outline;
-  }
-
-  #toc-control:checked ~ main {
-    .book-header aside {
-      display: block;
-    }
-  }
-
-  // for RTL support
-  body[dir="rtl"] #menu-control:checked ~ main {
-    .book-menu .book-menu-content {
-      transform: translateX(-$menu-width);
-    }
-  }
-}
-
-// Extra space for big screens
-@media screen and (min-width: $container-max-width) {
-  .book-page,
-  .book-menu .book-menu-content,
-  .book-toc .book-toc-content {
-    padding: $padding-16 * 2 $padding-16;
-  }
-}
-
-
-
-
-
-
-  h1,
-  h2,
-  h3,
-  h4,
-  h5,
-  h6 {
-    text-transform: uppercase;
-    font-weight: bolder;/*normal*/
-    font-size: 1rem;
-    line-height: 1;
-    margin-top: 1.5em;
-    margin-bottom: $padding-16;
-
-    a.anchor {
-      opacity: 0;
-      font-size: 0.75em;
-      vertical-align: middle;
-      text-decoration: none;
-    }
-
-    &:hover a.anchor,
-    a.anchor:focus {
-      opacity: initial;
-    }
-  }
-
-  h3{
-    font-style: italic;
-    font-size: .9rem;
-    
-  }
-  
-  h4 {
-    font-style: italic;
-    font-size: 0.8em;
-    margin-left: 20px;
-  }
-
-  h5 {
-    font-style: italic;
-    font-size: 0.7em;
-  }
-
-  h6 {
-    font-style: italic;
-    font-size: 0.6em;
-  }
-
-  b,
-  optgroup,
-  strong {
-    font-weight: bolder;
-  }
-
-  a {
-    text-decoration: none;
-
-    &:hover {
-      text-decoration: underline;
-    }
-    &:visited {
-      color: var(--color-visited-link);
-    }
-  }
-
-  img {
-    max-width: 100%;
-    height: auto;
-  }
 
   code {
     padding: 0 $padding-4;
@@ -787,6 +699,7 @@ label.margin-toggle:not(.sidenote-number) {
     display: none;
 }
 
+
 @media (max-width: 760px) {
     body {
         width: 100%; /*84*/
@@ -821,4 +734,78 @@ label.margin-toggle:not(.sidenote-number) {
  }
  
  
+@media screen and (max-width: $mobile-breakpoint) {
+  #menu-control,
+  #toc-control {
+    display: inline;
+  }
 
+  .book-menu {
+    visibility: hidden;
+    margin-inline-start: -$menu-width;
+    font-size: $font-size-base;
+    z-index: 1;
+  }
+
+  .book-toc {
+    display: none;
+  }
+
+  .book-header {
+    display: block;
+  }
+
+  #menu-control:focus ~ main label[for="menu-control"] {
+    @include outline;
+  }
+
+  #menu-control:checked ~ main {
+    .book-menu {
+      visibility: initial;
+    }
+
+    .book-menu .book-menu-content {
+      transform: translateX($menu-width);
+      box-shadow: 0 0 $padding-8 rgba(0, 0, 0, 0.1);
+    }
+
+    .book-page {
+      opacity: 0.25;
+    }
+
+    .book-menu-overlay {
+      display: block;
+      position: absolute;
+      top: 0;
+      bottom: 0;
+      left: 0;
+      right: 0;
+    }
+  }
+
+  #toc-control:focus ~ main label[for="toc-control"] {
+    @include outline;
+  }
+
+  #toc-control:checked ~ main {
+    .book-header aside {
+      display: block;
+    }
+  }
+
+  // for RTL support
+  body[dir="rtl"] #menu-control:checked ~ main {
+    .book-menu .book-menu-content {
+      transform: translateX(-$menu-width);
+    }
+  }
+}
+
+// Extra space for big screens
+@media screen and (min-width: $container-max-width) {
+  .book-page,
+  .book-menu .book-menu-content,
+  .book-toc .book-toc-content {
+    padding: $padding-16 * 2 $padding-16;
+  }
+}

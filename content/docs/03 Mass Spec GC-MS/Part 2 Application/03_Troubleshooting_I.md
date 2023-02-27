@@ -1,13 +1,14 @@
 ---
+weight: 03
+title: Troubleshooting I
 authors: Lenny Lin
 categories: null
-date: "2022-01-03"
 description: Troubleshooting
 draft: false
+date: "2022-01-03"
 lastmod: "2022-07-16"
 series: 
 tags: null
-title: Troubleshooting I
 toc: true
 ---
 
@@ -31,9 +32,9 @@ Baseline drift
 Problems I have encountered:  
 1) We failed PT for a couple of compounds out of 32 compounds.  
 2) Source contamination:  
-$~$ * Impurity of carrier gas. (high argon or nitrogen in Helium)  
-$~$ * Leak at interfaces along the column connections.  
-$~$ * O-ring  
+&emsp;* Impurity of carrier gas. (high argon or nitrogen in Helium)  
+&emsp;* Leak at interfaces along the column connections.  
+&emsp;* O-ring  
 4) Purchase of customized standards.  
 5) Instrument performance: such as ghost peaks, tailing peaks,  
 

@@ -1,13 +1,14 @@
 ---
+weight: 1
+title: Agilent GC and GC-MS Scientists Answer Your Most FAQ
 authors: edited by Lenny Lin
-categories: null
-date: "2022-01-03"
+categories: 
+tags: [Sensitivity]
 description: null
 draft: false
+date: "2022-01-03"
 lastmod: "2022-07-16"
 series: 
-tags: [Sensitivity]
-title: Agilent GC and GC-MS Scientists Answer Your Most FAQ
 toc: true
 ---
 
