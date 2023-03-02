@@ -26,13 +26,13 @@ toc: true
 ## What cause matrix effects?
 &emsp;Compounds with high mass, polarity, and basicity are possible candidates to cause matrix effects <a href="#ref">[1]</a>.  
 
-&emsp;The mechanisms involved in matrix effects have not been fully explored. One of the proposed theories to explain matrix effects is that the coelution of interfering compounds, especially basic compounds, may deprotonate and neutralize the analyte ions and, thus, reduce the formation of protonated analyte ions <a href="#ref">[1]</a>.   
+&emsp;The mechanisms involved in matrix effects have not been fully explored. One of the proposed theories to explain matrix effects is that the coelution of interfering compounds<a class = "marginnote">cause #1: coelution</a>, especially basic compounds, may deprotonate and neutralize the analyte ions and, thus, reduce the formation of protonated analyte ions <a href="#ref">[1]</a>.   
 
-&emsp;Another theory postulates that less-volatile compounds may affect the efficiency of droplet formation and reduce the ability of charged droplets to convert into gas-phase ions <a href="#ref">[1]</a>.  
+&emsp;Another theory postulates that less-volatile compounds may affect the efficiency of droplet formation and reduce the ability of charged droplets to convert into gas-phase ions <a href="#ref">[1]</a><a class = "marginnote">cause #2: droplet formation due to less-volatile</a>.  
 
-&emsp;In addition, matrix effects may also be caused by high viscosity interfering compounds that could possibly increase the surface tension of the charged droplets and reduce the efficiency of droplet evaporation <a href="#ref">[1]</a>.  
+&emsp;In addition, matrix effects may also be caused by high viscosity interfering compounds that could possibly increase the surface tension of the charged droplets and reduce the efficiency of droplet evaporation <a href="#ref">[1]</a><a class = "marginnote">cause #3: droplet evaporation due to high viscosity</a>.  
 
-&emsp;Moreover, unwanted compounds compete with analytes for ionization <a href="#ref">[2]</a>.  
+&emsp;Moreover, unwanted compounds compete with analytes for ionization <a href="#ref">[2]</a><a class = "marginnote">cause #4: adduct ions formation</a>.  
 
 
 
