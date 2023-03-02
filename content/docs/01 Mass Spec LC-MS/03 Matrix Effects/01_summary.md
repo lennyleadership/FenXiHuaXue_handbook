@@ -69,16 +69,20 @@ toc: true
 
 ## How to correct it?
 
-1) Dilute and shot  
+1) Remove interfering compounds from samples <a href="#ref">[1,5,6,7,8]</a>.   
+<b><font class = "font_upper">Drawback</font></b>. Most of the sample cleanup methods fail to remove impurities that are similar to the analyte and, hence, likely to be coeluted with the analyte <a href="#ref">[9, 10]</a>.  
+
+
+2) Dilute and shot  
 <b><font class = "font_upper">Drawback</font></b>. This approach can only be feasible when the sensitivity of the assay is very high <a href="#ref">[4]</a>. It will raise the limit of quantitation, which could affect the required sensitivity <a href="#ref">[3]</a>.  
 
-2) Remove interfering compounds from samples <a href="#ref">[1,5,6,7,8]</a>.   
-<b><font class = "font_upper">Drawback</font></b>. Most of the sample cleanup methods fail to remove impurities that are similar to the analyte and, hence, likely to be coeluted with the analyte <a href="#ref">[9, 10]</a>.
 
 3) Change chromatographic parameters to avoid coelution of analytes and interfering compounds <a href="#ref">[11]</a>.  
 <b><font class = "font_upper">Drawback</font></b>. Modifying chromatographic conditions can be time-consuming, and some of the additives used in the mobile phase to improve separation have been found to suppress the electrospray signal of the analytes <a href="#ref">[12,11,6,13]</a>. Furthermore, even when the sample is devoid of coeluted substances, trace impurities present in the mobile phase can significantly suppress the analyte peak <a href="#ref">[15]</a>.
 
+
 4) Change MS conditions to reduce the occurrence of matrix effects in the ion source <a href="#ref">[1]</a>.
+
 
 5) The rectification of data  
 (i) the external-matched standards method <a href="#ref">[3]</a>  
