@@ -58,6 +58,8 @@ between-run imprecision
 </li>
 <li>&nbsp;determined by signal-to-noise ratio: >20:1 at LLOQ is recommended; 10:1 minimum
 </li>
-<li>&nbsp;
-</li>ion ratios still have to pass
+<li>&nbsp;ion ratios still have to pass
+</li>
 </ol>
+
+
