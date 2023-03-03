@@ -17,4 +17,23 @@ toc: true
 <!--more-->
 ---
 
-<iframe width="360" height = "200" src="https://www.youtube.com/embed/8H4kUsueonA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="50%" src="https://www.youtube.com/embed/8H4kUsueonA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+
+## Method Validation Workflow
+
+1. pre-validation testing  
+It could also be called method development
+
+2. Validation  
+determine accuracy, imprecision, sensitivity, linearity, interferences (specificity), matrix effects, and carryover
+
+## Order of Experiments
+<ul>
+<li>linearity, within-run imprecision, blank matrix, LLOQ</li>
+<li>matrix effect, recovery, interferences</li>
+<li>accuracy: dertified reference materials, human samples, proficiency testing samples</li>
+<li>stability studies</li>
+<li>every run should include between-run imprecision samples</li>
+<li>carryover, dilutions</li>
+</ul>

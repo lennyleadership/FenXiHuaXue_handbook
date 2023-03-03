@@ -415,10 +415,46 @@ body[dir="rtl"] .book-menu {
     background: var(--gray-200);
   }
 
-  ul,
-  ol {
-    padding-inline-start: $padding-16 * 2;
+
+
+// list --------------------------------------------------------------------------------------------
+ol,li {
+    margin: 0;
+    padding: 0;
+}
+
+ol {
+    counter-reset: foo;
+    display: table;
+}
+
+ol > li {
+    counter-increment: foo;
+    display: table-row;
+}
+
+ol > li::before {
+    content: counter(foo) ")";
+    display: table-cell; /* aha! */
+    text-align: right;
+}
+
+  
+ul {
+  list-style-position: outside;
+}  
+
+ul,li {
+    margin: 0;
+    padding: 0;
+}
+
+ul,
+ol {
+    //padding-inline-start: $padding-16 * 2;
   }
+  
+
 
   dl {
     dt {
@@ -431,6 +467,8 @@ body[dir="rtl"] .book-menu {
       margin-bottom: $padding-16;
     }
   }
+  
+// the end -----------------------------------------------------------------------------------------  
 
   // Special case for highlighted code with line numbers
   .highlight table tr {
@@ -618,17 +656,17 @@ a:active {
   font-size: 1rem;
 }
 
-/* highlight options */
-mark.black {
+/* color options */
+.black {
   background-color: black;
   color: white;
 }
 
-mark.grey {
+.grey {
   background-color: #dcdcdc;
 }
 
-mark.lemon {
+.lemon {
   background-color: #fffacd;
 }
 /* the end */
