@@ -29,11 +29,11 @@ It could also be called method development
 determine accuracy, imprecision, sensitivity, linearity, interferences (specificity), matrix effects, and carryover
 
 ## Order of Experiments
-<ul>
-<li>linearity, within-run imprecision, blank matrix, LLOQ</li>
-<li>matrix effect, recovery, interferences</li>
-<li>accuracy: dertified reference materials, human samples, proficiency testing samples</li>
-<li>stability studies</li>
-<li>every run should include between-run imprecision samples</li>
-<li>carryover, dilutions</li>
-</ul>
+<ol>
+<li>&nbsp;linearity, within-run imprecision, blank matrix, LLOQ</li>
+<li>&nbsp;matrix effect, recovery, interferences</li>
+<li>&nbsp;accuracy: dertified reference materials, human samples, proficiency testing samples</li>
+<li>&nbsp;stability studies</li>
+<li>&nbsp;every run should include between-run imprecision samples</li>
+<li>&nbsp;carryover, dilutions</li>
+</ol>
