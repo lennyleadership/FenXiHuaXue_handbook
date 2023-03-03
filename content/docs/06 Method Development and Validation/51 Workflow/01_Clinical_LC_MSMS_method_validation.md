@@ -7,7 +7,7 @@ tags: []
 description: 
 draft: false
 date: "2022-04-05"
-lastmod: "2022-04-05"
+lastmod: "2023-03-02"
 series: 
 toc: true
 ---
@@ -32,8 +32,32 @@ determine accuracy, imprecision, sensitivity, linearity, interferences (specific
 <ol>
 <li>&nbsp;linearity, within-run imprecision, blank matrix, LLOQ</li>
 <li>&nbsp;matrix effect, recovery, interferences</li>
-<li>&nbsp;accuracy: dertified reference materials, human samples, proficiency testing samples</li>
+<li>&nbsp;accuracy: certified reference materials, human samples, proficiency testing samples</li>
 <li>&nbsp;stability studies</li>
 <li>&nbsp;every run should include between-run imprecision samples</li>
 <li>&nbsp;carryover, dilutions</li>
+</ol>
+
+## Accuracy
+evaluation of agreement between LC-MS/MS test results and true value.  
+
+<b>Guidelines</b>: FDA guidelines, CLSI EP9, CLSI EP15, CLSI C62  
+
+## Imprecision
+evaluation of agreement between repeated analysis of same sample.  
+within-run imprecision  
+between-run imprecision  
+
+## Sensitivity
+<ol>
+<li>&nbsp;depicted by lower limit of quantitation (LLOQ) of a method
+</li>
+<li>&nbsp;lowest concentration that can be reproducibly measured
+</li>
+<li>&nbsp;determined by the imprecision: < 20% between-run imprecision at LLOQ (at minimum use 20 matrix-based replicates over 20 days)
+</li>
+<li>&nbsp;determined by signal-to-noise ratio: >20:1 at LLOQ is recommended; 10:1 minimum
+</li>
+<li>&nbsp;
+</li>ion ratios still have to pass
 </ol>
