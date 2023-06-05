@@ -1,15 +1,16 @@
 ---
-weight: 31
+weight: 22
 authors: Lenny Lin
 categories: null
-date: "2022-06-24"
-description: 
+date: "2021-12-28"
+description: Physiochemistry Theory
 draft: false
-lastmod: "2022-06-24"
+lastmod: "201-12-28"
 series: null
 tags: null
-title: Pesticides Analysis
+title: Physiochemistry Theory
 toc: true
 bookCollapseSection: true
 ---
+
 

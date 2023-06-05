@@ -1,5 +1,5 @@
 ---
-weight: 51
+weight: 31
 title: Mass Spectrometry Based Metabolomics
 authors: Lenny Lin
 categories: 

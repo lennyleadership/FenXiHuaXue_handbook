@@ -62,4 +62,11 @@ between-run imprecision
 </li>
 </ol>
 
+## Linearity
+ability of LC-MS/MS method to provide counts per second values that are directly proportional to concentration of analyte
+
+should carry out linearity experiment for every matrix that will be acceptable for a given method
+
+do not use serial dilutions to create material for linearity experiments  
+
 
