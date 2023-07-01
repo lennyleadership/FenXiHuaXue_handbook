@@ -1,19 +1,19 @@
 ---
-weight: 2
-title: Statistical Analysis
+weight: 1
+title: Theory
 authors: Lenny Lin
 categories: 
 tags: null
-description:
+description: 
 draft: false
-date: "2022-10-03"
-lastmod: "2023-07-01"
+date: "2023-06-05"
+lastmod: "2023-06-05"
 series: null
 toc: true
 bookCollapseSection: true
 ---
 
-
+It is about template.
 
 <!--more-->
----
+

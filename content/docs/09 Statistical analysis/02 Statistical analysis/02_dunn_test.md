@@ -1,19 +1,19 @@
 ---
 weight: 2
-title: Statistical Analysis
+title: Dunn's Test
 authors: Lenny Lin
 categories: 
 tags: null
 description:
 draft: false
-date: "2022-10-03"
+date: "2023-07-01"
 lastmod: "2023-07-01"
 series: null
 toc: true
-bookCollapseSection: true
 ---
 
 
 
 <!--more-->
 ---
+
