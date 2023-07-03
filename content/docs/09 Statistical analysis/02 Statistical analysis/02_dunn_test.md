@@ -1,6 +1,6 @@
 ---
 weight: 2
-title: Dunn's Test
+title: Dunn's Test (1)
 authors: Lenny Lin
 categories: 
 tags: [Comparison, Post Hoc Test]
